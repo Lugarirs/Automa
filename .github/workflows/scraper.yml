@@ -28,6 +28,13 @@ jobs:
       - name: Run scraper
         run: python scraper.py
 
+      - name: Push changes
+        run: |
+            git pull --rebase origin main
+            git push origin main
+
+        
+
       # Step 5: Commit and push the updated JSON back to the repo
       - name: Commit updated headlines
         run: |
