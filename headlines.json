@@ -1,151 +1,157 @@
 {
-  "scraped_at": "2026-03-15 08:23:28 UTC",
+  "scraped_at": "2026-03-16 08:42:42 UTC",
   "source": "BBC News RSS",
-  "total": 33,
+  "total": 34,
   "headlines": [
     {
-      "title": "Three more Iran football team members change minds over asylum",
+      "title": "In pictures: Stars and fashion from the red carpet",
+      "link": "https://www.bbc.com/news/articles/cd9g331v315o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Mar 2026 03:46:35 GMT",
+      "description": "Hollywood's biggest stars turn on the style as they walk the red carpet for the glittering ceremony."
+    },
+    {
+      "title": "How US groups are driving a new generation of anti-abortion activism in the UK",
+      "link": "https://www.bbc.com/news/articles/cx2dl5j0w23o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Mar 2026 00:31:48 GMT",
+      "description": "The killing of Charlie Kirk galvanised a transatlantic campaign against abortion. But will it succeed in shifting Britain's pro-choice consensus?"
+    },
+    {
+      "title": "Starmer to set out support plan for heating oil costs",
+      "link": "https://www.bbc.com/news/articles/cp9mgpzn901o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Mar 2026 08:21:04 GMT",
+      "description": "Households have faced a sharp rise in the cost of heating oil since the outbreak of the US-Israeli war with Iran."
+    },
+    {
+      "title": "Two people die, including university student, in Kent meningitis outbreak",
+      "link": "https://www.bbc.com/news/articles/cdxg35dv7npo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Mar 2026 21:50:56 GMT",
+      "description": "Eleven people in the Canterbury area are also seriously ill in hospital, the BBC understands."
+    },
+    {
+      "title": "TikTok and Meta risked safety to win algorithm arms race, whistleblowers say",
+      "link": "https://www.bbc.com/news/articles/cqj9kgxqjwjo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Mar 2026 06:10:55 GMT",
+      "description": "Companies allowed more harmful content on user’s feeds, knowing their algorithms ran on outrage, BBC hears."
+    },
+    {
+      "title": "Historic firsts, emotional speeches, and a tie: Watch the top Oscars moments",
+      "link": "https://www.bbc.com/news/videos/cedzq0q6x5lo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Mar 2026 03:15:43 GMT",
+      "description": "One Battle After Another dominated the night with six awards, while Sinners and Frankenstein weren't far behind."
+    },
+    {
+      "title": "Winners list in full",
+      "link": "https://www.bbc.com/news/articles/c33jkvmzl4ko?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Mar 2026 03:43:48 GMT",
+      "description": "Find out which films and stars have won the famous golden statuettes at the ceremony in Los Angeles."
+    },
+    {
+      "title": "Here are all the moments you didn't see on TV",
+      "link": "https://www.bbc.com/news/articles/cp9mg90k78eo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Mar 2026 05:04:06 GMT",
+      "description": "Inside the winners room and other insights from behind the scenes."
+    },
+    {
+      "title": "Best animated film winner Kpop Demon Hunters captures hearts world over",
+      "link": "https://www.bbc.com/news/articles/c4g4n1dyepdo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Mar 2026 02:39:01 GMT",
+      "description": "We find out how the award-winning, demon-busting crooners have cast a spell world over."
+    },
+    {
+      "title": "Six talking points from final round of Six Nations",
+      "link": "https://www.bbc.com/sport/rugby-union/articles/cqj9nke90djo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Mar 2026 06:17:52 GMT",
+      "description": "England's indiscipline, \"cheat code\" Louis Bielle-Biarrey, Irish and Scottish positives, and Welsh confidence returns - talking points from the final round."
+    },
+    {
+      "title": "We didn't view Dad's body after being told it had changed so much",
+      "link": "https://www.bbc.com/news/articles/cwyxl65yz9yo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Mar 2026 01:33:15 GMT",
+      "description": "Ronald Parkin's case prompts calls from his family for the government to regulate the funeral sector."
+    },
+    {
+      "title": "Race on to establish globally recognised 'AI-free' logo",
+      "link": "https://www.bbc.com/news/articles/cj0d6el50ppo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Mar 2026 00:32:50 GMT",
+      "description": "The backlash to the growing use of the tech has led to an explosion in attempts to come up with 'AI-Free' logo that could be used globally."
+    },
+    {
+      "title": "How passenger planes keep flying during a war",
+      "link": "https://www.bbc.com/news/articles/cn4gne35kvno?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Mar 2026 00:05:11 GMT",
+      "description": "Airspace over Iran and the Gulf remains severely restricted following missile strikes, putting additional pressure on airlines."
+    },
+    {
+      "title": "The Papers: 'Help' for energy bills and PM 'resists' Trump warships call",
+      "link": "https://www.bbc.com/news/articles/c62dy26gg0qo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Mar 2026 05:29:40 GMT",
+      "description": "The impact in the UK of the ongoing conflict in the Middle East features on Monday's front pages."
+    },
+    {
+      "title": "Iran taking steps to prevent anti-establishment protests, Tehran residents tell BBC",
+      "link": "https://www.bbc.com/news/articles/clygdwqw5dvo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Mar 2026 04:43:43 GMT",
+      "description": "Residents describe new security checkpoints around the capital, where they say people are stopped and searched."
+    },
+    {
+      "title": "What Iranians are being told about the war",
+      "link": "https://www.bbc.com/news/articles/cgl5w09ey30o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Mar 2026 00:05:01 GMT",
+      "description": "Iranian state media's coverage of the war includes inflations of enemy casualties and digital manipulation intended to glorify Iran."
+    },
+    {
+      "title": "'A new norm': BBC visits Doha market starting to fill up again two weeks into Iran war",
+      "link": "https://www.bbc.com/news/videos/cp32gez414yo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Mar 2026 05:14:45 GMT",
+      "description": "The BBC's International News correspondent, Barbara Plett Usher, visits Doha's Souq Waqif market as strikes in the region continue."
+    },
+    {
+      "title": "Iran captain latest footballer to drop asylum bid, Iranian state media says",
       "link": "https://www.bbc.com/news/articles/c98gz372683o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Mar 2026 20:48:55 GMT",
-      "description": "Four of seven members of the women's football delegation who originally sought to stay in Australia have now chosen to return home."
+      "published": "Sun, 15 Mar 2026 22:02:21 GMT",
+      "description": "Five of the seven members of the women's football delegation who originally sought to stay in Australia have now chosen to return home."
     },
     {
-      "title": "A finale worthy of the greatest Six Nations in history",
-      "link": "https://www.bbc.com/sport/rugby-union/articles/cjd9m3p55y7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Mar 2026 00:40:19 GMT",
-      "description": "History, records, upsets, high-scoring classics - and a thrilling finale. The 2026 Six Nations is likely to go down as the best edition in the tournament's history."
+      "title": "Firms to be paid to hire unemployed young people",
+      "link": "https://www.bbc.com/news/articles/cz9qdpzqnl2o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Mar 2026 04:31:50 GMT",
+      "description": "Payments of £3,000 for each 18-24 year old given a job are among proposals to tackle youth unemployment being announced later."
     },
     {
-      "title": "We expect government help in a crisis. Will Reeves intervene on energy bills this time?",
-      "link": "https://www.bbc.com/news/articles/cvgky84z6lro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Mar 2026 14:28:58 GMT",
-      "description": "After Covid furlough and Truss’s bailout, can the UK expect another government crisis rescue, asks Laura Kuenssberg."
+      "title": "Starmer warned over assisted dying bill by more than 100 Labour MPs",
+      "link": "https://www.bbc.com/news/articles/cy8lzn05w46o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Mar 2026 06:03:59 GMT",
+      "description": "More than 100 Labour MPs warn that failing to pass the legislation would undermine trust in politics."
     },
     {
-      "title": "UK must build own nuclear missiles to end reliance on US, say Lib Dems",
-      "link": "https://www.bbc.com/news/articles/cy0dz1k0rr4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Mar 2026 05:59:31 GMT",
-      "description": "Sir Ed Davey is calling on the government to start work on a \"fully independent British nuclear deterrent\"."
+      "title": "People turn to private health care to beat NHS waits, says watchdog",
+      "link": "https://www.bbc.com/news/articles/cn4892wnv2zo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Mar 2026 00:35:08 GMT",
+      "description": "The patient watchdog warns of two-tier service as polling shows numbers paying for care is on the rise."
     },
     {
-      "title": "London's Burning actor John Alford dies in prison",
-      "link": "https://www.bbc.com/news/articles/cd6zdg737gpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Mar 2026 22:44:26 GMT",
-      "description": "The 54-year-old former star of Grange Hill and London's Burning was found dead at HMP Bure in Norfolk."
+      "title": "Travelodge changes policy after attacker given room key",
+      "link": "https://www.bbc.com/news/articles/c4g01m82vn2o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Mar 2026 08:27:29 GMT",
+      "description": "The woman was attacked by Kyran Smith, who was given a key to her hotel room by staff."
     },
     {
-      "title": "Oscars 2026: What to expect, how to watch and who will win",
-      "link": "https://www.bbc.com/news/articles/clyv4e2ldpjo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Mar 2026 00:01:28 GMT",
-      "description": "Sinners, One Battle After Another and Hamnet will all be vying for Hollywood's highest honour on Sunday."
+      "title": "One-off £2,000 grant gives care leavers head start, study finds",
+      "link": "https://www.bbc.com/news/articles/cx24z8rvw1go?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Mar 2026 01:13:30 GMT",
+      "description": "Participants were less likely to become homeless or spend time in hospital or prison, researchers say."
     },
     {
-      "title": "BBC visits aftermath of Israeli strike on Lebanon that killed family as IDF targets Hezbollah",
-      "link": "https://www.bbc.com/news/articles/c20lvn0ex6yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Mar 2026 22:55:40 GMT",
-      "description": "A relative tells BBC those killed were civilians and not Hezbollah operatives, but the Israel Defense Forces says it was targeting \"terrorist infrastructure\"."
+      "title": "Police investigate 'death to the IDF' chants led by Bobby Vylan at rally",
+      "link": "https://www.bbc.com/news/articles/c93jz4gykwko?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Mar 2026 18:51:41 GMT",
+      "description": "Around 1,000 officers managed protesters and counter-protesters on opposite sides of the River Thames."
     },
     {
-      "title": "'Gruesome' war bets fuel calls for crackdown on prediction markets",
-      "link": "https://www.bbc.com/news/articles/cjwz8051y0lo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Mar 2026 00:01:31 GMT",
-      "description": "Predictions markets have hosted millions of dollars of bets related to the war in Iran."
-    },
-    {
-      "title": "F1 cancels Bahrain & Saudi Arabia Grands Prix",
-      "link": "https://www.bbc.com/sport/formula1/articles/c5ykne3g305o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Mar 2026 22:17:26 GMT",
-      "description": "The Bahrain and Saudi Arabian Grand Prix weekends are cancelled because of the ongoing conflict in the Middle East."
-    },
-    {
-      "title": "An eccentric new friend entered her life. Then things took a strange, expensive turn",
-      "link": "https://www.bbc.com/news/articles/c5yvpl9jlpeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Mar 2026 00:42:18 GMT",
-      "description": "What began as a dog-sitting favour ended with boutique owner Bridget Hutchcroft being owed more than £1.6m."
-    },
-    {
-      "title": "My letter to my dead daughter - after forgiving the man who killed her",
-      "link": "https://www.bbc.com/news/articles/cnv6ne1zqyro?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Mar 2026 00:48:44 GMT",
-      "description": "The mother of Ann Grosmaire, 19, who was shot dead by her boyfriend, explains why she chose restorative justice."
-    },
-    {
-      "title": "Sculpting jaws, giving scores: Inside the world of looksmaxxing",
-      "link": "https://www.bbc.com/news/articles/cx28z4zypkno?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Mar 2026 00:01:21 GMT",
-      "description": "Growing numbers of young men are going to great lengths to achieve what they see as the perfect face."
-    },
-    {
-      "title": "The women bringing chess into the 21st Century - with 'bullet' matches and viral videos",
-      "link": "https://www.bbc.com/news/articles/ce3g0kel3jyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Mar 2026 00:40:18 GMT",
-      "description": "Women content creators are helping chess shake its image as an \"old man's game\" and bring it into the digital age."
-    },
-    {
-      "title": "Banknotes, beavers and a very British backlash",
-      "link": "https://www.bbc.com/news/articles/cy03zy1lr8go?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Mar 2026 00:51:10 GMT",
-      "description": "Politicians are furious Churchill will be replaced on banknotes. The RSPCA wants rats and pigeons to feature."
-    },
-    {
-      "title": "Police-style powers to tackle fly-tippers being considered",
-      "link": "https://www.bbc.com/news/articles/c8d5z7rd5mpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Mar 2026 03:09:22 GMT",
-      "description": "The move would allow officers to search premises without a warrant, seize assets and arrest those suspected of criminality."
-    },
-    {
-      "title": "BBC comedy spotlights a romantic dilemma some disabled people face",
-      "link": "https://www.bbc.com/news/articles/c04361dnq33o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Mar 2026 00:09:39 GMT",
-      "description": "Co-creator and star of We Might Regret This, Kyla Harris on delving into issues rarely seen on screen."
-    },
-    {
-      "title": "The Papers: 'Starmer may send drones to the Gulf' and 'Panic hits the pumps'",
-      "link": "https://www.bbc.com/news/articles/c2k8ezdyx0jo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Mar 2026 05:32:36 GMT",
-      "description": "A mix of stories on Sunday's papers, with the war in the Middle East remaining prominent."
-    },
-    {
-      "title": "Will Trump help or hinder Zimbabwe's white farmers in their compensation battle?",
-      "link": "https://www.bbc.com/news/articles/c8jxd91y2ylo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Mar 2026 00:01:25 GMT",
-      "description": "They have engaged a lobbying firm with close ties to the US president to argue their case."
-    },
-    {
-      "title": "Murder investigation launched after baby's death",
-      "link": "https://www.bbc.com/news/articles/c70npeg4lj9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Mar 2026 18:57:21 GMT",
-      "description": "A 43-year-old woman was arrested at the scene on suspicion of murder and remains in police custody."
-    },
-    {
-      "title": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
-      "link": "https://www.bbc.com/news/articles/cg4g7kn99q3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Mar 2026 22:27:41 GMT",
-      "description": "Tommy Thompson spent more than a decade in prison after refusing to disclose the whereabouts of 500 missing gold coins."
-    },
-    {
-      "title": "I died and came back to life. Now I just want to feel joy every day",
-      "link": "https://www.bbc.com/news/articles/c78xxj1qewpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 08 Mar 2026 01:58:10 GMT",
-      "description": "Grace Victory says she is more content than ever after spending three months in a coma."
-    },
-    {
-      "title": "Woman reunited with stolen dog after eight years",
-      "link": "https://www.bbc.com/news/articles/c0rjyq5vd10o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Mar 2026 05:28:27 GMT",
-      "description": "Rebecca Harvey says it was an emotional moment when she was reunited with Flora."
-    },
-    {
-      "title": "Man sails around world in boat he built in his shed",
-      "link": "https://www.bbc.com/news/articles/cdr244zx10yo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Mar 2026 15:44:08 GMT",
-      "description": "Adam Waugh, from Northumberland, says he feels \"on top of the world\" after his mammoth journey."
-    },
-    {
-      "title": "'Extinct' butterfly found across southern England",
-      "link": "https://www.bbc.com/news/articles/cdxz78q7894o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 10 Mar 2026 15:27:56 GMT",
-      "description": "There has been a flurry of early sightings of the large tortoiseshell butterfly, a charity says."
+      "title": "Mother charged with murder of 18-day-old baby",
+      "link": "https://www.bbc.com/news/articles/cge8l8z4qj2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Mar 2026 20:41:58 GMT",
+      "description": "Zahira Byjaouane, 43, has been charged after her baby died falling from a height in central London."
     },
     {
       "title": "BBC News app",
@@ -154,10 +160,10 @@
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests"
     },
     {
-      "title": "Will Putin Benefit From The Iran War?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0n6pzl3?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Mar 2026 18:45:00 GMT",
-      "description": "After two weeks of war in Iran, will Russia gain from looser sanctions and expensive oil?"
+      "title": "Will Starmer Help Trump In The War?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0n6stp0?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Mar 2026 12:45:00 GMT",
+      "description": "Trump wants help to secure the Strait of Hormuz but will the UK join him?"
     },
     {
       "title": "Is Cuba Trump’s next target after Iran?",
@@ -166,40 +172,40 @@
       "description": "The US president threatens Cuba with a “friendly takeover”"
     },
     {
-      "title": "A finale worthy of the greatest Six Nations in history",
-      "link": "https://www.bbc.com/sport/rugby-union/articles/cjd9m3p55y7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Mar 2026 00:40:19 GMT",
-      "description": "History, records, upsets, high-scoring classics - and a thrilling finale. The 2026 Six Nations is likely to go down as the best edition in the tournament's history."
+      "title": "We have to wake up - Szoboszlai warning sums up Liverpool plight",
+      "link": "https://www.bbc.com/sport/football/articles/cd70qqg1jwro?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Mar 2026 20:34:11 GMT",
+      "description": "Liverpool have been here far too often this season. Another late, late goal costing them points as they drew 1-1 with struggling Tottenham."
     },
     {
-      "title": "Gordon hits back at 'complete nonsense' from Rooney and Shearer",
-      "link": "https://www.bbc.com/sport/football/articles/cq8gn555lnzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Mar 2026 22:28:25 GMT",
-      "description": "Newcastle United's match-winner against Chelsea, Anthony Gordon, responds to \"complete nonsense\" from pundits Wayne Rooney and Alan Shearer."
+      "title": "Six talking points from final round of Six Nations",
+      "link": "https://www.bbc.com/sport/rugby-union/articles/cqj9nke90djo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 16 Mar 2026 06:17:52 GMT",
+      "description": "England's indiscipline, \"cheat code\" Louis Bielle-Biarrey, Irish and Scottish positives, and Welsh confidence returns - talking points from the final round."
     },
     {
-      "title": "How Sancho's dream Man Utd move became a nightmare",
-      "link": "https://www.bbc.com/sport/football/articles/c6204jpy7v6o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Mar 2026 06:31:48 GMT",
-      "description": "Jadon Sancho is set to leave Manchester United this summer, almost three years after his last Premier League appearance for the club."
+      "title": "Young snatches Players title from Fitzpatrick",
+      "link": "https://www.bbc.com/sport/golf/articles/c1mj44pxxkjo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Mar 2026 22:37:57 GMT",
+      "description": "American Cameron Young finishes birdie-par to beat England's Matt Fitzpatrick by one shot at TPC Sawgrass in the PGA Tour's flagship tournament."
     },
     {
-      "title": "Stellar showing and ultimate defeat increases intrigue around England",
-      "link": "https://www.bbc.com/sport/rugby-union/articles/cn9er299387o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Mar 2026 00:56:33 GMT",
-      "description": "England put in a superb showing against France, only adding to the intrigue around a dismal Six Nations campaign overall"
+      "title": "Sinner matches Federer & Djokovic with Indian Wells win",
+      "link": "https://www.bbc.com/sport/tennis/articles/cze047z42kgo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Mar 2026 23:51:23 GMT",
+      "description": "Jannik Sinner said it \"means a lot to me\" after he becomes the youngest man to complete the set of hard-court trophies with victory over Daniil Medvedev in the Indian Wells final."
     },
     {
-      "title": "Unbalanced Man City cling to faint title hopes as Haaland struggles",
-      "link": "https://www.bbc.com/sport/football/articles/c62dyng3vrro?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Mar 2026 00:56:07 GMT",
-      "description": "Saturday evening, when Arsenal earned a dramatic late win over Everton before Man City were held at West Ham, felt as if it could be pivotal in the Premier League title race."
+      "title": "'Best racing ever' or 'a joke'? The row over the new F1",
+      "link": "https://www.bbc.com/sport/formula1/articles/c620y1q4djpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Mar 2026 14:07:19 GMT",
+      "description": "Have F1's new rules produced a \"battery world championship\" or \"the best racing ever\"? Lewis Hamilton, Max Verstappen and Fernando Alonso sum up the paradox at the heart of the sport."
     },
     {
-      "title": "After 'tropical' weather, should the Winter Paralympics be moved?",
-      "link": "https://www.bbc.com/sport/articles/cm216n66384o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Mar 2026 06:23:53 GMT",
-      "description": "With more sunshine seen than snow at the Winter Paralympics, calls for the Games to move in the calendar grow stronger."
+      "title": "New puppy, getting engaged and a title - Sabalenka triumphs at Indian Wells",
+      "link": "https://www.bbc.com/sport/tennis/articles/cp8rgg17g15o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Mar 2026 21:48:13 GMT",
+      "description": "Getting a puppy, getting engaged, saving championship point and winning a long-awaited Indian Wells title - for Aryna Sabalenka it has been a week she will remember \"for the rest of my life\"."
     }
   ]
 }
