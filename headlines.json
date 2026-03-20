@@ -1,205 +1,181 @@
 {
-  "scraped_at": "2026-03-19 08:28:47 UTC",
+  "scraped_at": "2026-03-20 08:27:32 UTC",
   "source": "BBC News RSS",
-  "total": 42,
+  "total": 40,
   "headlines": [
     {
-      "title": "How the Iran war has left Europe facing yet another energy crisis",
-      "link": "https://www.bbc.com/news/articles/c24de9e97vno?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 05:59:49 GMT",
-      "description": "It is not the first time that there has been deep energy-linked frustration in the heart of Europe."
+      "title": "Sir John Curtice: Why Labour's Brexit focus has shifted from Leavers to Remainers",
+      "link": "https://www.bbc.com/news/articles/c4gjn1d74jlo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Mar 2026 00:01:51 GMT",
+      "description": "Will the pursuit of a closer relationship with the EU risk courting electoral disaster by alienating Brexit-backing voters?"
     },
     {
-      "title": "All doctors in England warned to watch for meningitis symptoms after Kent outbreak",
-      "link": "https://www.bbc.com/news/articles/c20z08rdd9ro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 04:17:14 GMT",
-      "description": "Health workers across England are urged to look out for signs of infection as thousands have jabs."
+      "title": "UK borrowing higher than expected in February",
+      "link": "https://www.bbc.com/news/articles/cx23yn735jdo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Mar 2026 08:14:17 GMT",
+      "description": "The ONS said an increase in government tax receipts was outweighed by a rise in spending."
     },
     {
-      "title": "Pay grows at slowest rate in more than five years",
-      "link": "https://www.bbc.com/news/articles/cn0z0x82r00o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 08:05:59 GMT",
-      "description": "Annual earnings grew at an annual rate of 3.8% in the November to January period, the Office for National Statistics says."
+      "title": "Labour MPs threaten vote to show opposition to Mahmood's migration plans",
+      "link": "https://www.bbc.com/news/articles/cy514kv2vzro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Mar 2026 00:42:49 GMT",
+      "description": "Opponents are considering using parliamentary procedure to force a vote to highlight their concerns."
     },
     {
-      "title": "World's longest coastal path opens in England",
-      "link": "https://www.bbc.com/news/articles/cy0dxexdd8xo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 02:36:02 GMT",
-      "description": "The King Charles coastal path will allow walkers right of access to the entire coast for the first time."
+      "title": "The Salt Path author wrote secret first book despite claiming she was debut writer",
+      "link": "https://www.bbc.com/news/articles/cj32vx61x6lo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Mar 2026 06:12:02 GMT",
+      "description": "Raynor and Moth Winn published a book they hoped would help get them out of debt, the BBC confirms."
     },
     {
-      "title": "'Designer' dog owners report more problem behaviours, vets warn",
-      "link": "https://www.bbc.com/news/articles/cwyx81517jxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 01:53:52 GMT",
-      "description": "The Royal Veterinary College says popular \"doodle\" dogs do not always behave as expected."
+      "title": "Tailgating at football matches to become criminal offence",
+      "link": "https://www.bbc.com/sport/football/articles/cj0v8z7pm6eo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Mar 2026 00:01:16 GMT",
+      "description": "Entering a football match in England and Wales without a ticket will become a criminal offence under new laws."
     },
     {
-      "title": "Better NHS care might have saved 58 babies, BBC finds",
-      "link": "https://www.bbc.com/news/articles/cz9qq8d7l1ko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 07:47:55 GMT",
-      "description": "There are growing calls for a statutory public inquiry into maternity services in Oxford."
+      "title": "Natural History Museum takes top spot as UK's most popular attraction - beating rivals for first time",
+      "link": "https://www.bbc.com/news/articles/c70n09pz4y1o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Mar 2026 00:05:07 GMT",
+      "description": "The venue broke the record for the most visitors to any museum or gallery in a single year."
     },
     {
-      "title": "Child seen in sex abuse videos identified after researcher spots school badge",
-      "link": "https://www.bbc.com/news/articles/cvgj22e7qwyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 03:21:12 GMT",
-      "description": "An analyst tells the BBC how she tracked down a victim of child sexual abuse after years of searching."
+      "title": "Taxpayers to fund clear-up of huge illegal waste dumps",
+      "link": "https://www.bbc.com/news/articles/cx2expk404vo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Mar 2026 03:34:02 GMT",
+      "description": "The government says it will step in to clean up some of the biggest illegal rubbish tips in England."
     },
     {
-      "title": "Two men charged with allegedly spying on London Jewish community for Iran",
-      "link": "https://www.bbc.com/news/articles/cwygyvrwq89o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Mar 2026 21:58:34 GMT",
-      "description": "Counter Terrorism Policing had been investigating alleged surveillance of locations and individuals linked to London's Jewish community."
+      "title": "Reports of children as young as 11 abused in West Midlands mini-marts, BBC reveals",
+      "link": "https://www.bbc.com/news/articles/clyzy0y20qlo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Mar 2026 17:46:21 GMT",
+      "description": "Child sexual abuse reports go back 10 years and were seen by safeguarding group which included police"
     },
     {
-      "title": "Warm settled weather set to continue into the weekend",
-      "link": "https://www.bbc.com/weather/articles/crm8mexxlm7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 06:33:19 GMT",
-      "description": "The spring-like weather is set to continue for the rest of the week but is unlikely to hit the highs of Wednesday's warmest day of the year so far, as Simon King explains."
+      "title": "Woman who lost five family members in drowning tragedy wants surviving daughter to 'live life'",
+      "link": "https://www.bbc.com/news/articles/cqlgqq6qg26o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Mar 2026 00:00:30 GMT",
+      "description": "Rioghnach McGrotty was four months old when she was rescued from a car that slid off a pier after a day at the seaside."
     },
     {
-      "title": "US aircraft carrier to sail to Crete for repairs after fire on board",
-      "link": "https://www.bbc.com/news/articles/c0rjr28nxrwo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 00:44:57 GMT",
-      "description": "The USS Gerald R Ford has played a significant role in US operations during the war with Iran."
+      "title": "Nasa's Moon rocket Artemis rolls back to pad for possible April launch",
+      "link": "https://www.bbc.com/news/articles/ckgrw045pg7o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Mar 2026 06:01:02 GMT",
+      "description": "Nasa is preparing a mission to send astronauts around the Moon for the first time in more than 50 years."
     },
     {
-      "title": "Interest rates expected to be held due to Iran war",
-      "link": "https://www.bbc.com/news/articles/c8d5dee3ep8o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 00:10:32 GMT",
-      "description": "Before the conflict began, analysts had expected a cut in the Bank rate at this meeting."
+      "title": "Netanyahu says Israel 'acted alone' in attack on Iranian gas field",
+      "link": "https://www.bbc.com/news/articles/c2k3jgy9vq3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Mar 2026 22:41:40 GMT",
+      "description": "Speaking at a news conference, the Israeli leader said Trump had requested that there be no further such attacks."
     },
     {
-      "title": "Why has this meningitis outbreak spread so fast?",
-      "link": "https://www.bbc.com/news/articles/cqlglkprv0qo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Mar 2026 16:34:33 GMT",
-      "description": "There have been 20 cases since the weekend in one small area of Kent - but this isn't the normal pattern, so what could have happened?"
+      "title": "Nearly 100 ships pass the Hormuz Strait - who is getting through?",
+      "link": "https://www.bbc.com/news/articles/c4geg0eeyjeo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Mar 2026 00:04:57 GMT",
+      "description": "Just under 100 ships have passed thorough the Strait of Hormuz since the start of March, according to data analysed by BBC Verify."
     },
     {
-      "title": "This is the first time I've left my room since the outbreak",
-      "link": "https://www.bbc.com/news/articles/ce949xj7d8jo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Mar 2026 16:42:10 GMT",
-      "description": "Twenty people are confirmed or suspected to have fallen ill with meningitis in the Canterbury area."
+      "title": "Iranians mark Persian new year under shadow of war",
+      "link": "https://www.bbc.com/news/articles/cvgkg8p7zlko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Mar 2026 00:04:34 GMT",
+      "description": "Iranians speak to the BBC about preparing for the Nowruz new year festival during the war."
     },
     {
-      "title": "Watch: Why 'unprecedented' outbreak isn't another Covid",
-      "link": "https://www.bbc.com/news/videos/c5yqyq1jgneo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Mar 2026 19:51:43 GMT",
-      "description": "Meningitis infections result from close and prolonged physical contact and spreads more slowly than Covid."
+      "title": "Russia, China and the US – the global winners and losers of the Iran war",
+      "link": "https://www.bbc.com/news/articles/c3wlwnn05zqo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Mar 2026 00:08:53 GMT",
+      "description": "As the conflict triggers economic disruption some risk being hit hard, while others stand to benefit."
     },
     {
-      "title": "Why is MenB vaccine not given to teenagers in UK and should they be offered it?",
-      "link": "https://www.bbc.com/news/articles/c3rzg0vg947o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Mar 2026 12:36:44 GMT",
-      "description": "Students and older teens have not been vaccinated against the meningitis strain behind the Kent outbreak."
+      "title": "Watch: Missile lands next to presenter during live report from Lebanon",
+      "link": "https://www.bbc.com/news/videos/ce9mz0gl8z7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Mar 2026 16:00:36 GMT",
+      "description": "In footage from Russian state broadcaster RT, correspondent Steve Sweeney is seen diving off screen as a missile hits."
     },
     {
-      "title": "Ryan Gosling on bringing humour to sci-fi adventure Project Hail Mary",
-      "link": "https://www.bbc.com/news/articles/cm2xrxp3kz0o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 00:53:59 GMT",
-      "description": "The Canadian actor stars as a science teacher turned astronaut in sci-fi film Project Hail Mary."
+      "title": "Inside the world of preppers getting ready for society's collapse",
+      "link": "https://www.bbc.com/news/articles/c33j0rdnry1o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Mar 2026 06:12:17 GMT",
+      "description": "From floods and fires to national security cyberattacks, how can you prepare for the worst?"
     },
     {
-      "title": "Chris Mason: Is government going wobbly on its migration plans?",
-      "link": "https://www.bbc.com/news/articles/cjenegnl0ngo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 00:53:01 GMT",
-      "description": "Chris Mason asks if the UK government will stick to its big immigration shake-up or water it down."
+      "title": "BTS Arirang review: K-pop idols rekindle their fire",
+      "link": "https://www.bbc.com/news/articles/c070eg32dryo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Mar 2026 04:04:50 GMT",
+      "description": "The band's 10th album sees them return to the rebellious, rap-heavy sound of their early days."
     },
     {
-      "title": "The Papers: Labour migrant plans under scrutiny and Iran gas field targeted",
-      "link": "https://www.bbc.com/news/articles/cq8g8pyq9l3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 05:32:48 GMT",
-      "description": "A number of papers lead on whether the UK government is stalling on its migrant reform plans."
+      "title": "The Papers: Iran unleashes 'world energy shock' and 'King of the coast'",
+      "link": "https://www.bbc.com/news/articles/c80me79xlvjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Mar 2026 05:08:50 GMT",
+      "description": "Fears of a global energy crisis after attacks on major gas sites in the Middle East dominates Friday's papers."
     },
     {
-      "title": "Alberta seeks to set limits on use of medically assisted dying",
-      "link": "https://www.bbc.com/news/articles/c8d5d54glreo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Mar 2026 23:23:49 GMT",
-      "description": "The Canadian province has proposed legislation that will limit its use solely to end-of-life circumstances."
+      "title": "Traitors, Amandaland and Idris Elba -  get set for Comic Relief",
+      "link": "https://www.bbc.com/news/articles/cvg3gnlwn10o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Mar 2026 01:10:02 GMT",
+      "description": "The charity telethon takes place on Friday night and will be hosted by Davina McCall."
     },
     {
-      "title": "South Africans say criminal gangs are exploiting the water crisis",
-      "link": "https://www.bbc.com/news/articles/cvg3gjx22j0o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 06:01:49 GMT",
-      "description": "Residents of some areas have been without mains water for weeks."
+      "title": "Stay at home advice questioned and rules too tough - key findings from Covid report",
+      "link": "https://www.bbc.com/news/articles/c87wg0lvnxjo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Mar 2026 15:00:23 GMT",
+      "description": "An NHS close to collapse, patients failed and NHS staff put at risk - what you need to know."
     },
     {
-      "title": "'One of a kind' Messi hits 900 career goals - numbers behind milestone",
-      "link": "https://www.bbc.com/sport/football/articles/c0rj25g225ro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Mar 2026 23:47:35 GMT",
-      "description": "After Lionel Messi scored his 900th career goal on Wednesday, BBC Sport looks at the numbers behind the \"insane\" achievement."
+      "title": "Weekly quiz: How did this man accidentally turn himself blue?",
+      "link": "https://www.bbc.com/news/articles/cwyd7xjw2r3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Mar 2026 17:34:53 GMT",
+      "description": "How much attention did you pay to what happened in the world over the past seven days?"
     },
     {
-      "title": "Afghan evacuees in limbo in Qatar camp accuse US of betrayal",
-      "link": "https://www.bbc.com/news/articles/c2lrke1wjdyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 00:42:16 GMT",
-      "description": "More than 1,100 Afghans evacuated by the US fear their route to promised resettlement is closed for good."
+      "title": "Faisal Islam: Iran war is having a dramatic effect on the UK economy",
+      "link": "https://www.bbc.com/news/articles/c33lnd1gxxro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Mar 2026 16:21:28 GMT",
+      "description": "The knock-on effects of the war in the Gulf go beyond a hold on interest rates and are set to reverberate for months."
     },
     {
-      "title": "The Iran war is causing a global energy crisis - can China withstand it?",
-      "link": "https://www.bbc.com/news/articles/cyv9lzn0816o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Mar 2026 23:31:03 GMT",
-      "description": "With oil supply disrupted, Beijing's oil reserves and renewable energy push are being put to the test."
+      "title": "UK set for temperature rollercoaster as chilly nights follow warm days",
+      "link": "https://www.bbc.com/weather/articles/c99500mplgeo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Mar 2026 02:30:56 GMT",
+      "description": "March is a fickle time for temperatures in the UK and can see some huge swings from day to night."
     },
     {
-      "title": "Oil crosses $110 a barrel after gas field strike",
-      "link": "https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 01:35:37 GMT",
-      "description": "Iran's military warned it would take \"decisive action\" in response to the strike on its energy infrastructure."
+      "title": "I want to hold balance of power at next general election, says Zack Polanski",
+      "link": "https://www.bbc.com/news/articles/cvg05xrgkg6o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Mar 2026 07:20:38 GMT",
+      "description": "Green Party leader says thought of becoming PM is 'on his mind' and the aim of 30-40 MPs now feels \"under ambitious\"."
     },
     {
-      "title": "Israel destroys river bridges in southern Lebanon",
-      "link": "https://www.bbc.com/news/articles/cvg8g98ezmzo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Mar 2026 19:40:15 GMT",
-      "description": "The health ministry says that 968 people, including more than 100 children, have been killed since 2 March."
+      "title": "Fifa rules women's teams must have female coaches",
+      "link": "https://www.bbc.com/sport/football/articles/cge0djne300o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Mar 2026 17:25:18 GMT",
+      "description": "Every team in Fifa's women's football tournaments must include at least one female head coach or assistant coach as part of new regulations."
     },
     {
-      "title": "'Very difficult to stop': BBC visits scene of Iran cluster bomb strike on Israel",
-      "link": "https://www.bbc.com/news/articles/cwy9yldgn7qo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Mar 2026 16:04:29 GMT",
-      "description": "An elderly couple was killed after a bomb flew into their apartment in central Israel and exploded."
+      "title": "US broadcaster pulls The Bachelorette after domestic abuse allegations",
+      "link": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Mar 2026 01:41:58 GMT",
+      "description": "The decision comes after footage emerged appearing to show the reality star in an altercation with her ex-partner."
     },
     {
-      "title": "Labubu film is official with Paddington director at the helm",
-      "link": "https://www.bbc.com/news/articles/c20j01gqx1eo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 00:01:18 GMT",
-      "description": "The film will combine live action and computer-generated animation and is in \"early development\"."
+      "title": "Trio charged over alleged plot to smuggle Nvidia chips from US to China",
+      "link": "https://www.bbc.com/news/articles/cy41ly2d9wko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Mar 2026 04:26:14 GMT",
+      "description": "They allegedly used fake papers and dummy gear as part of a plan to sell billions in tech to China."
     },
     {
-      "title": "King praises 'living bridge' with Nigeria at glitzy banquet",
-      "link": "https://www.bbc.com/news/articles/cedzqqp9x2do?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 03:16:18 GMT",
-      "description": "At the state banquet in Windsor Castle, King Charles praises the UK's partnership with Nigeria."
+      "title": "Denmark planned to blow up Greenland runways if US invaded, reports say",
+      "link": "https://www.bbc.com/news/articles/c33ln4mp1p2o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Mar 2026 21:52:36 GMT",
+      "description": "Denmark's public broadcaster reports that the US operation to seize Venezuela's leader sparked fears it would act against Greenland."
     },
     {
-      "title": "UK sets target to boost steel making and cut imports",
-      "link": "https://www.bbc.com/news/articles/c98q8q4zl8qo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 00:04:46 GMT",
-      "description": "Up to half of steel used in Britain should be made there, the government says, as it announces its steel strategy."
-    },
-    {
-      "title": "Amazon's Alexa has had an AI upgrade. Now she's got more to say",
-      "link": "https://www.bbc.com/news/articles/c3ewe7v7gpgo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 05:55:42 GMT",
-      "description": "There has been criticism the Echo has stagnated, while other AI chatbots have become much easier to communicate with."
-    },
-    {
-      "title": "Beeps, shouts and abuse - police join female runners to tackle harassment",
-      "link": "https://www.bbc.com/news/articles/cm2xrzm8dpvo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 06:17:08 GMT",
-      "description": "More than half of female runners in the UK have experienced harassment or abuse, research shows."
-    },
-    {
-      "title": "U-turn after job applicant told 'car is too old'",
-      "link": "https://www.bbc.com/news/articles/c0q3q4e8zvpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 05:58:47 GMT",
-      "description": "Alanah Thompson French, 18, was originally told by haart her application could not be progressed."
-    },
-    {
-      "title": "Sadiq Khan says Labour should pledge to rejoin EU",
-      "link": "https://www.bbc.com/news/articles/c62g2e08jpno?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 07:10:33 GMT",
-      "description": "Downing Street has repeatedly said the government will not rejoin the single market or customs union."
+      "title": "Facebook offering TikTok and YouTube creators $3,000 to post content",
+      "link": "https://www.bbc.com/news/articles/c895wwp3kqlo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Mar 2026 15:33:22 GMT",
+      "description": "Meta wants creators to \"rediscover\" Facebook, but a social media expert says viewers will not follow."
     },
     {
       "title": "BBC News app",
@@ -220,40 +196,52 @@
       "description": "And why has top counterterrorism official Joe Kent resigned?"
     },
     {
-      "title": "Four English teams out in 24 hours - what happened and why?",
-      "link": "https://www.bbc.com/sport/football/articles/cqxd55dxrejo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Mar 2026 23:18:20 GMT",
-      "description": "With just two out of six Premier League teams progressing to the Champions League quarter-finals, what went wrong for the English sides?"
+      "title": "Is 'baby brain' real?",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m002r9bx/baby-brain-whats-really-going-on?at_mid=pPUMDQM1L5&at_campaign=Baby_Brain_Whats_Really_Going_On&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002r9bx&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Baby_Brain_Whats_Really_Going_On&at_bbc_team=BBC&at_creation=News",
+      "published": "Wed, 04 Mar 2026 06:00:00 GMT",
+      "description": "Baby brain is a concept many mums can relate to. But what’s really going on?"
     },
     {
-      "title": "'I thought I'd be bleeped by BBC' - but Hunt's words resonate",
-      "link": "https://www.bbc.com/sport/athletics/articles/cqxdxze375po?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 06:16:39 GMT",
-      "description": "British sprinter Amy Hunt on inspiring female athletes to get university degrees as she prepares to compete at the World Athletics Indoor Championships."
+      "title": "Tailgating at matches to become criminal offence",
+      "link": "https://www.bbc.com/sport/football/articles/cj0v8z7pm6eo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Mar 2026 00:01:16 GMT",
+      "description": "Entering a football match in England and Wales without a ticket will become a criminal offence under new laws."
     },
     {
-      "title": "Credit to Tudor - is he turning around Spurs side who looked lost?",
-      "link": "https://www.bbc.com/sport/football/articles/c5y5y8nxl7xo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Mar 2026 23:42:25 GMT",
-      "description": "Tottenham can take encouragement in their battle for Premier League survival despite a Champions League exit, writes Phil McNulty."
+      "title": "My plan to overhaul football's academy system",
+      "link": "https://www.bbc.com/sport/football/articles/c78x2gl3332o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Mar 2026 07:01:19 GMT",
+      "description": "Tony Pulis on why more should be done to help youngsters in the academy system, especially the majority who do not make it as professionals."
     },
     {
-      "title": "Slot needed a performance - and Liverpool delivered one",
-      "link": "https://www.bbc.com/sport/football/articles/c99j92p8n5ro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 00:12:19 GMT",
-      "description": "Despite a difficult domestic campaign, Liverpool produce one of their best displays of the season against Galatasaray in the Champions League."
+      "title": "Has Rosenior made his goalkeeping problem worse?",
+      "link": "https://www.bbc.com/sport/football/articles/cy0dx0x1vkro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Mar 2026 07:39:36 GMT",
+      "description": "There is increased scrutiny of Chelsea head coach Liam Rosenior, with his decision not to name a first-choice goalkeeper chief among the criticism he now faces."
     },
     {
-      "title": "Tudor gets first Tottenham win but Spurs lose tie against Atletico Madrid",
-      "link": "https://www.bbc.com/sport/football/videos/cx2g49094m7o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Mar 2026 22:32:21 GMT",
-      "description": "Tottenham beat Atletico Madrid 3-2 in the second leg of their last 16 tie in the Champions League, securing a first win for manager Igor Tudor but it's not enough to win the tie, as Atletico win 7-5 on aggregate to progress to the quarter finals."
+      "title": "Littler fights back from 5-0 down to stun Price",
+      "link": "https://www.bbc.com/sport/darts/articles/cx26g0jzw2wo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Mar 2026 22:35:20 GMT",
+      "description": "Luke Littler comes from 5-0 down to stun Gerwyn Price 6-5 in the final of Premier League Darts in Dublin where there were two maximum 170 checkouts in one game."
     },
     {
-      "title": "The Man Utd prodigy still too young to play senior football",
-      "link": "https://www.bbc.com/sport/football/articles/ckg8gp88m8xo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 07:49:54 GMT",
-      "description": "At 15, Manchester United's JJ Gabriel is too young to play in the Premier League but he is already showing clear signs he is a huge talent."
+      "title": "Famous night for Forest in season to largely forget",
+      "link": "https://www.bbc.com/sport/football/articles/c747lzj20g8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Mar 2026 23:35:46 GMT",
+      "description": "Nottingham Forest are fighting for Premier League survival but reaching the Europa League quarter-finals could provide hope in an otherwise torrid season."
+    },
+    {
+      "title": "GB's Jones beats childhood hero Williams as Swiatek stunned",
+      "link": "https://www.bbc.com/sport/tennis/articles/cz67xn4ndzqo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Mar 2026 07:54:27 GMT",
+      "description": "Britain's Fran Jones says it \"means everything\" after defeating her childhood hero Venus Williams in the first round of the Miami Open."
+    },
+    {
+      "title": "Sutton's predictions v Crookhaven stars Amari Bacchus & Genesis Lynea",
+      "link": "https://www.bbc.com/sport/football/articles/cj4zr17qn4ko?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 19 Mar 2026 18:20:07 GMT",
+      "description": "Chris Sutton takes on Crookhaven stars Amari Bacchus and Genesis Lynea plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures and the Carabao Cup final."
     }
   ]
 }
