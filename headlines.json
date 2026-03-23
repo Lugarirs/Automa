@@ -1,163 +1,151 @@
 {
-  "scraped_at": "2026-03-22 08:20:02 UTC",
+  "scraped_at": "2026-03-23 08:41:04 UTC",
   "source": "BBC News RSS",
-  "total": 36,
+  "total": 33,
   "headlines": [
     {
-      "title": "Foreign secretary denounces 'reckless Iran threats' after missiles fired at Diego Garcia",
-      "link": "https://www.bbc.com/news/articles/c5yljdgwppzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Mar 2026 02:42:39 GMT",
-      "description": "Iran reportedly fired two ballistic missiles at Indian Ocean base, but neither reached the target."
+      "title": "Earth being 'pushed beyond its limits' as record energy imbalance heats planet, UN warns",
+      "link": "https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Mar 2026 04:06:22 GMT",
+      "description": "The Earth's climate is further out of balance than at any time in recorded history, the UN's weather agency says."
     },
     {
-      "title": "Trump at a crossroads as US weighs tough options in Iran",
-      "link": "https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Mar 2026 00:50:43 GMT",
-      "description": "Statements from President Trump that the war is almost over are not matching up with the reality on the ground."
+      "title": "British couple in Iran prison say situation is 'life-threatening'",
+      "link": "https://www.bbc.com/news/articles/cew72ll8245o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Mar 2026 06:11:00 GMT",
+      "description": "Craig and Lindsay Foreman are being held in Tehran's Evin prison amid ongoing attacks on Iran."
     },
     {
-      "title": "Sombr stopped a show over safety - but are concerts in the UK really that risky?",
-      "link": "https://www.bbc.com/news/articles/cpd8ww2y6wlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Mar 2026 00:02:35 GMT",
-      "description": "Musicians are increasingly interrupting their own shows to help fans - but venues might be safer than you think."
+      "title": "'We can't justify a £52 lunch': Middle-income families cut back on days out",
+      "link": "https://www.bbc.com/news/articles/ckg3g11z6d8o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Mar 2026 06:03:22 GMT",
+      "description": "A household with an average income of £55,000 has cut spending on leisure activities by £40 a week, offical figures suggest."
     },
     {
-      "title": "Food prices likely to rise due to Iran war, farmers' union says",
-      "link": "https://www.bbc.com/news/articles/cy413ke31d8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Mar 2026 18:41:31 GMT",
-      "description": "The National Farmers' Union says the price of cucumbers, tomatoes and peppers could rise over the next six weeks."
+      "title": "Grisly or just country life? The mole photos dividing social media",
+      "link": "https://www.bbc.com/news/articles/cm28jj22kg3o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Mar 2026 00:05:18 GMT",
+      "description": "A hill walker shares a snap of moles hanging on barbed wire and is surprised by the huge response."
     },
     {
-      "title": "Pop megastars BTS electrify historic centre of Seoul with comeback concert",
-      "link": "https://www.bbc.com/news/articles/cj371jr203ko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Mar 2026 22:01:05 GMT",
-      "description": "The world's biggest band returns after more than three years with a huge concert in the South Korean capital."
+      "title": "France's Socialists hold on to power in major cities in election boost for mainstream",
+      "link": "https://www.bbc.com/news/articles/crk14m7mjddo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Mar 2026 23:27:59 GMT",
+      "description": "Paris and Marseille are held by the Socialists in local elections which saw the nationalist right win in Nice and certain towns."
     },
     {
-      "title": "Robert Mueller, ex-FBI chief who led Trump-Russia investigation, dies at 81",
-      "link": "https://www.bbc.com/news/articles/c8dlj6gv0q6o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Mar 2026 01:04:57 GMT",
-      "description": "A former FBI director, Mueller led the high-profile inquiry into alleged Russian interference in the 2016 US election"
+      "title": "Evan Davis: Heat pumps work for me - but they're not yet a money saver",
+      "link": "https://www.bbc.com/news/articles/ce358gkx9vpo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Mar 2026 00:04:45 GMT",
+      "description": "The government wants Britons to embrace heat pumps. But will they ever make financial sense for the average user?"
     },
     {
-      "title": "Iranian missiles injure 160 in towns near Israeli nuclear site",
-      "link": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Mar 2026 07:39:50 GMT",
-      "description": "Israel is investigating how ballistic missiles got through the country's sophisticated air defences."
+      "title": "Potential sites for Labour's 'new towns' cut to seven",
+      "link": "https://www.bbc.com/news/articles/c393l8w7me2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Mar 2026 22:58:06 GMT",
+      "description": "Six sites have been deprioritised from the flagship scheme to build a wave of new settlements."
     },
     {
-      "title": "Watch: Israeli strike next to British journalist is not AI-generated",
-      "link": "https://www.bbc.com/news/videos/c62k8xgjkggo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Mar 2026 18:52:38 GMT",
-      "description": "The video of the strike, hitting just metres from RT's Steve Sweeney and his crew, was recorded on Thursday in southern Lebanon."
+      "title": "Scotland becomes first in UK to test newborns for rare genetic condition",
+      "link": "https://www.bbc.com/news/articles/cx26glrw310o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Mar 2026 02:55:52 GMT",
+      "description": "Spinal Muscular Atrophy (SMA) causes progressive muscle weakness and, without treatment, can limit life expectancy to just two years."
+    },
+    {
+      "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
+      "link": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Mar 2026 22:38:24 GMT",
+      "description": "The violence began after 18-year-old settler Yehuda Sherman was killed after reportedly being hit by a vehicle driven by a Palestinian while on his quad bike."
+    },
+    {
+      "title": "Asia stocks slide as US and Iran threaten to escalate war",
+      "link": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Mar 2026 08:11:01 GMT",
+      "description": "The International Energy Agency chief said the war could lead to the world's worst energy crisis in decades."
     },
     {
       "title": "Why did US and Israel attack Iran and how long could the war last?",
       "link": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Mar 2026 15:14:50 GMT",
+      "published": "Sun, 22 Mar 2026 21:15:58 GMT",
       "description": "Conflict has spread across the Middle East since the US and Israel launched strikes on Iran on 28 February."
     },
     {
-      "title": "'Club vibes without the hangover': The twenty somethings going out - in the gym",
-      "link": "https://www.bbc.com/news/articles/cly0krjy57lo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Mar 2026 00:56:15 GMT",
-      "description": "Young people are driving a gym boom as more fitness spaces are transformed into vibrant hangouts."
+      "title": "Israel to expand ground and air attacks against Hezbollah in Lebanon",
+      "link": "https://www.bbc.com/news/articles/c30rl05evd8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Mar 2026 20:23:07 GMT",
+      "description": "There are fears in Lebanon that Israel is preparing for a large-scale ground invasion."
     },
     {
-      "title": "The Bachelorette's messy break-up with its unlikely star Taylor Frankie Paul",
-      "link": "https://www.bbc.com/news/articles/cd9vd35jgqqo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Mar 2026 23:03:15 GMT",
-      "description": "The TikTok and reality TV star was a risky choice for the squeaky clean franchise -and ended up being a wrong one."
+      "title": "The Magic Faraway Tree's Andrew Garfield: Our attention is abused by tech companies",
+      "link": "https://www.bbc.com/news/articles/c5y9310vyleo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Mar 2026 00:02:44 GMT",
+      "description": "Garfield stars alongside Claire Foy and Nicola Coughlan in an adaptation of Enid Blyton's The Magic Faraway Tree."
     },
     {
-      "title": "AI videos of sexualised black women removed from TikTok after BBC investigation",
-      "link": "https://www.bbc.com/news/articles/c070e283k8vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Mar 2026 00:45:45 GMT",
-      "description": "Dozens of Instagram and TikTok accounts have used AI avatars to promote explicit content, the BBC finds."
+      "title": "How an island became ferret free  - thanks, in part, to Woody the wonderdog",
+      "link": "https://www.bbc.com/news/articles/cre1jly1ny2o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Mar 2026 00:00:16 GMT",
+      "description": "More than 400 traps were laid across the island in a  £4.5m project which featured a specially-trained detection dog called Woody."
     },
     {
-      "title": "Did Australia's under-16s social media ban work?",
-      "link": "https://www.bbc.com/news/videos/cq8g9y5x1llo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Mar 2026 19:06:39 GMT",
-      "description": "Three months since it came into effect, teenagers tell the BBC how the world-first law has impacted their lives so far."
+      "title": "The cutthroat battle for the US weight-loss drug market",
+      "link": "https://www.bbc.com/news/articles/c5yg6kyd9dzo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Mar 2026 06:03:48 GMT",
+      "description": "Weight-loss drug prices are falling in the US - but can the example be repeated?"
     },
     {
-      "title": "As Starmer faces war overseas, his party can't find peace at home",
-      "link": "https://www.bbc.com/news/articles/cwyxy54pv9po?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Mar 2026 11:27:14 GMT",
-      "description": "British politicians tend to stick together during dangerous moments abroad. In 2026? Not so much."
+      "title": "How 'Keely 2.0' dominated 800m field for first world indoors title",
+      "link": "https://www.bbc.com/sport/athletics/articles/cpd5q0580dpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Mar 2026 21:28:21 GMT",
+      "description": "Keely Hodgkinson captures her first world indoor title in commanding fashion as she claims 800m gold with a championship record in Poland."
     },
     {
-      "title": "Italy is voting on whether to change its constitution. What does this mean for Meloni?",
-      "link": "https://www.bbc.com/news/articles/cm29n1lvp64o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Mar 2026 00:10:15 GMT",
-      "description": "The dry subject matter of this weekend's vote seems obscure but for many it is a vote on the PM."
+      "title": "The Papers: 'Trump raises stakes' and 'Tend it like Beckham'",
+      "link": "https://www.bbc.com/news/articles/cn0wd20k0xeo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Mar 2026 01:17:59 GMT",
+      "description": "The 'new escalatory phase' of the war in the Middle East is a focus of several papers today."
     },
     {
-      "title": "'Iran's missiles can now reach London' and 'Tell us what you know, Fergie'",
-      "link": "https://www.bbc.com/news/articles/cvg0lnkkzzxo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Mar 2026 07:42:23 GMT",
-      "description": "Several papers are leading on a claim from Israel that Iran has developed missiles that could be capable of striking London."
+      "title": "Germany has a shortage of workers - so it's turning to India for help",
+      "link": "https://www.bbc.com/news/articles/c3wlww83yv4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Mar 2026 00:03:25 GMT",
+      "description": "The European nation, struggling to find skilled staff, is giving jobs to young people from India."
     },
     {
-      "title": "'Peace is a gradual thing': How land, cattle and identity fuel a deadly Nigerian conflict",
-      "link": "https://www.bbc.com/news/articles/clyv1j8ne7ko?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Mar 2026 00:55:31 GMT",
-      "description": "How a lack of justice and trust in the security forces perpetuates deadly violence in Plateau state."
+      "title": "What did critics think of Saturday Night Live UK's debut?",
+      "link": "https://www.bbc.com/news/articles/c8ejl730wl2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Mar 2026 16:19:28 GMT",
+      "description": "The long-running US sketch show now has a British equivalent, which received a broadly positive reaction on its debut."
     },
     {
-      "title": "Family-friendly TV drama Crookhaven hopes to be latest hit book adaptation",
-      "link": "https://www.bbc.com/news/articles/cedzqdqewn3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Mar 2026 01:14:44 GMT",
-      "description": "The show, based on a book series by JJ Arcanjo, follows a group of students at a school for crooks."
+      "title": "Hospital apology over boy's death after trainee doctor pierced artery",
+      "link": "https://www.bbc.com/news/articles/cddnv945g2po?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Mar 2026 03:01:09 GMT",
+      "description": "Three-year-old Aarav Chopra died during a biopsy when his artery was pierced by a trainee doctor."
     },
     {
-      "title": "Karen Hauer to leave Strictly Come Dancing",
-      "link": "https://www.bbc.com/newsround/articles/cdrmjxxdg36o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Mar 2026 12:37:00 GMT",
-      "description": "Strictly Come Dancing's longest serving female professional dancer, Karen Hauer, has announced she's not returning this year."
+      "title": "Prince William keen to build 'strong and meaningful' bond with Church",
+      "link": "https://www.bbc.com/news/articles/cx230em8jg7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Mar 2026 20:59:37 GMT",
+      "description": "An aide to the prince says his commitment to the Church of England is \"sometimes quieter\" than expected."
     },
     {
-      "title": "Trump threatens to send ICE into airports unless funding deal reached",
-      "link": "https://www.bbc.com/news/articles/c3ex9nq2qywo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Mar 2026 20:22:10 GMT",
-      "description": "The president said ICE would \"do security\" as airport security staff have gone without pay for weeks due to a partial government shutdown."
+      "title": "Plan to scrap most short jail terms comes into effect",
+      "link": "https://www.bbc.com/news/articles/cdxk6dqqp1qo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Mar 2026 06:00:14 GMT",
+      "description": "The government hopes it will ease the population crisis in prisons."
     },
     {
-      "title": "Anyone who goes through IVF 'should be so proud', says Sara Pascoe",
-      "link": "https://www.bbc.com/news/articles/c1j7dn3gkk9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Mar 2026 01:06:17 GMT",
-      "description": "The comedian says she tries to be proud of her own experience of IVF by talking about it on stage."
+      "title": "BTS agency shares drop after comeback show turnout falls short",
+      "link": "https://www.bbc.com/news/articles/c9d4l5pq73yo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Mar 2026 04:39:03 GMT",
+      "description": "The concert was attended by an estimated 104,000 fans, much lower than the expected 260,000."
     },
     {
-      "title": "I used to be a bouncer - now I'm a UFC title contender",
-      "link": "https://www.bbc.com/news/articles/cgl5jlgrdk6o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Mar 2026 18:03:18 GMT",
-      "description": "Ffion Davies, 31, is a leading competitor in Brazilian jiu-jitsu, winning multiple championships."
-    },
-    {
-      "title": "Red kite with sausage roll snapped by photographer",
-      "link": "https://www.bbc.com/news/articles/cx2g290ve2vo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Mar 2026 11:13:32 GMT",
-      "description": "Mark Hopkins managed to get some pictures of the bird from his back garden."
-    },
-    {
-      "title": "Beef dripping from first Everest summit auctioned",
-      "link": "https://www.bbc.com/news/articles/cy030n9z3gjo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Mar 2026 14:16:01 GMT",
-      "description": "The 70-year-old can is on the way to a new owner after previously being taken up Everest."
-    },
-    {
-      "title": "Mum 'so proud' of deafblind son's Eastenders debut",
-      "link": "https://www.bbc.com/news/articles/c1kgk9pmpelo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 08:40:51 GMT",
-      "description": "Five-year-old Harvey Hind, from Clitheroe, Lancashire, appeared on the BBC One soap on Wednesday."
-    },
-    {
-      "title": "Artist uses eyelash to paint Peaky Blinders microsculpture",
-      "link": "https://www.bbc.com/news/articles/cx2g83l3zqpo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Mar 2026 16:36:14 GMT",
-      "description": "Sculptor Dr Willard Wigan made the miniature Tommy Shelby artwork as part of a charity exhibition."
+      "title": "Call to cancel threat of prison for council tax non-payment",
+      "link": "https://www.bbc.com/news/articles/c75kne7qdy6o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Mar 2026 00:02:52 GMT",
+      "description": "Debt charity StepChange says there are clear differences between councils when chasing unpaid tax."
     },
     {
       "title": "BBC News app",
@@ -166,10 +154,10 @@
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests"
     },
     {
-      "title": "The Week: The War In Iran Escalates",
-      "link": "https://www.bbc.co.uk/sounds/play/p0n6h0cj?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Mar 2026 13:00:00 GMT",
-      "description": "Has President Trump lost control of the war in Iran?"
+      "title": "Is Iran Capable of Hitting the UK?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0n6h0r8?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Mar 2026 13:57:00 GMT",
+      "description": "Israel claims Iranian missiles ‘can reach London, Paris or Berlin’."
     },
     {
       "title": "Trump threatens TV networks over unpatriotic Iran coverage",
@@ -178,46 +166,40 @@
       "description": "And why has top counterterrorism official Joe Kent resigned?"
     },
     {
-      "title": "Who needs cup final victory most - Arteta or Guardiola?",
-      "link": "https://www.bbc.com/sport/football/articles/cvg03xv5qq0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Mar 2026 06:09:00 GMT",
-      "description": "Premier League leaders Arsenal face title rivals Manchester City in the EFL Cup final on Sunday, but how important could the result prove in title race?"
+      "title": "Guardiola's dance of joy as Man City pile pressure on desolate Arsenal",
+      "link": "https://www.bbc.com/sport/football/articles/ce35w3ewqxyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Mar 2026 20:41:11 GMT",
+      "description": "Manchester City will hope their dominant Carabao Cup final win piles pressure on Arsenal in the Premier League title race, says chief football writer Phil McNulty."
     },
     {
-      "title": "Outrun and in decline - are Rosenior's Chelsea near crisis point?",
-      "link": "https://www.bbc.com/sport/football/articles/cede0vvzdgjo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Mar 2026 22:30:07 GMT",
-      "description": "Chelsea enter freefall after another defeat - 3-0 away at Everton - and have two weeks over the international break to stew on a damaging 10 days."
+      "title": "'Impossible for him to stay' - what next for Tudor and Tottenham?",
+      "link": "https://www.bbc.com/sport/football/articles/c2k3dwng90go?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Mar 2026 17:45:26 GMT",
+      "description": "How does boss Igor Tudor survive at Tottenham after another damaging defeat? Nick Mashiter analyses the situation."
     },
     {
-      "title": "'Heartbreaking' - fighter pay debate laid bare at UFC London",
-      "link": "https://www.bbc.com/sport/mixed-martial-arts/articles/c995v7yl219o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Mar 2026 06:39:41 GMT",
-      "description": "The debate around fighter pay reemerges at UFC London amid some career-defining performances on the undercard."
+      "title": "How 'Keely 2.0' dominated 800m field for first world indoors title",
+      "link": "https://www.bbc.com/sport/athletics/articles/cpd5q0580dpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Mar 2026 21:28:21 GMT",
+      "description": "Keely Hodgkinson captures her first world indoor title in commanding fashion as she claims 800m gold with a championship record in Poland."
     },
     {
-      "title": "From crutches to world crown - Kerr takes indoor 3,000m gold",
-      "link": "https://www.bbc.com/sport/athletics/articles/cge0yn8gjqlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Mar 2026 19:44:03 GMT",
-      "description": "Josh Kerr completes his post-injury return to the top of a global podium in thrilling fashion as he reclaims his world indoor 3,000m title."
+      "title": "The 'sentimental' goalkeeping call that cost Arsenal",
+      "link": "https://www.bbc.com/sport/football/articles/cg73g9g7j5ko?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Mar 2026 21:12:53 GMT",
+      "description": "There is no hiding place for a manager when your decisions go wrong, and Mikel Arteta's call to stick by cup goalkeeper Kepa Arrizabalaga will haunt him."
     },
     {
-      "title": "The race no-one wants to win - are Everton serious top-five contenders?",
-      "link": "https://www.bbc.com/sport/football/articles/czd7104md18o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Mar 2026 23:49:30 GMT",
-      "description": "The fight for Champions League football appears to be turning into one no-one wants to win, but have Everton snuck into the race?"
+      "title": "'Players are fed up' - are autograph hunters going too far?",
+      "link": "https://www.bbc.com/sport/football/articles/c78x77wz6q7o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Mar 2026 07:27:56 GMT",
+      "description": "BBC Sport explores how footballers and managers feel about professional autograph hunters, after a series of controversial incidents."
     },
     {
-      "title": "'If Liverpool play like that at PSG it could be 10-0'",
-      "link": "https://www.bbc.com/sport/football/articles/cevky4z9drgo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Mar 2026 18:03:43 GMT",
-      "description": "Arne Slot needs answers quickly or Liverpool's unwanted records may no longer be his only worry."
-    },
-    {
-      "title": "Norrie and Boulter knocked out of Miami Open",
-      "link": "https://www.bbc.com/sport/tennis/articles/cpd5q96d3x1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Mar 2026 07:26:12 GMT",
-      "description": "Cameron Norrie and Katie Boulter are knocked out in the third round of the Miami Open, ending British hopes in the singles."
+      "title": "Hodgkinson wins 800m gold in championship record time",
+      "link": "https://www.bbc.com/sport/athletics/videos/cn89y8z4gpgo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Mar 2026 19:16:42 GMT",
+      "description": "Keely Hodgkinson runs a championship record time of one minute 55.30 seconds to take gold in the women's 800m at the World Indoor Athletics Championships in Poland."
     }
   ]
 }
