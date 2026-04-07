@@ -1,145 +1,169 @@
 {
-  "scraped_at": "2026-04-06 08:59:00 UTC",
+  "scraped_at": "2026-04-07 08:49:48 UTC",
   "source": "BBC News RSS",
-  "total": 33,
+  "total": 37,
   "headlines": [
+    {
+      "title": "Anthony Zurcher: Little sign of breakthrough as Trump's Iran deadline nears",
+      "link": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Apr 2026 23:04:23 GMT",
+      "description": "The US president is in a delicate political position as the final hours to Tuesday's deadline for Iran to open the Strait of Hormuz tick down."
+    },
+    {
+      "title": "Disruption expected as six-day doctors' strike begins",
+      "link": "https://www.bbc.com/news/articles/c8ej461k3e5o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Apr 2026 08:33:02 GMT",
+      "description": "The NHS is advising patients in England to only use emergency services when necessary but attend any confirmed appointments."
+    },
+    {
+      "title": "Kanye offers to meet Jewish community in UK after Wireless controversy",
+      "link": "https://www.bbc.com/news/articles/cly79lrrz4lo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Apr 2026 08:45:14 GMT",
+      "description": "He said his goal was to 'come to London and present a show of change' through his music."
+    },
+    {
+      "title": "Warmest weather of the year expected with 25C on Wednesday",
+      "link": "https://www.bbc.com/weather/articles/cn7866klrp2o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Apr 2026 06:54:54 GMT",
+      "description": "The warmest weather of the year is expected on Tuesday and Wednesday as temperatures rise above average, as Simon King explains"
+    },
+    {
+      "title": "More than 1,700 Brits who fell ill in Cape Verde join action against Tui",
+      "link": "https://www.bbc.com/news/articles/c70d8dn1nrpo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Apr 2026 05:05:49 GMT",
+      "description": "Tui is investigating the claims and says it is \"not in a position to provide a statement at this stage\"."
+    },
+    {
+      "title": "China is winning one AI race, the US another - but either might pull ahead",
+      "link": "https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Apr 2026 05:13:12 GMT",
+      "description": "Both sides don't want to let their rival dominate. And the competition may yet be transformed further."
+    },
+    {
+      "title": "Australia's most-decorated living soldier charged over alleged war crimes",
+      "link": "https://www.bbc.com/news/articles/crr1jyk0qwjo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Apr 2026 07:19:27 GMT",
+      "description": "Ben Roberts-Smith, who denies all wrongdoing, previously lost a landmark defamation case over the alleged murders."
+    },
+    {
+      "title": "Taiwan opposition leader visits China for expected meeting with Xi Jinping",
+      "link": "https://www.bbc.com/news/articles/c0krnz7mmmjo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Apr 2026 07:29:55 GMT",
+      "description": "Cheng Li-wun said she \"gladly accepted\" Xi Jinping's invitation and hopes to be a \"bridge for peace\"."
+    },
+    {
+      "title": "JD Vance due in Hungary to back Orban's re-election bid",
+      "link": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Apr 2026 01:45:41 GMT",
+      "description": "The US vice-president's visit is the latest show of White House support for the Hungarian leader."
+    },
+    {
+      "title": "Price of first class stamp rises to £1.80",
+      "link": "https://www.bbc.com/news/articles/c0mj4mkk94mo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Apr 2026 07:01:52 GMT",
+      "description": "The rise come as the postal service faces criticism over missing delivery targets."
+    },
+    {
+      "title": "Moon fly-by sees astronauts regain contact with Earth",
+      "link": "https://www.bbc.com/news/articles/cx23p6j5gxgo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Apr 2026 06:33:58 GMT",
+      "description": "The Artemis II crew go further than any humans before in Nasa's first crewed mission to the Moon in over 50 years."
+    },
+    {
+      "title": "Emotional crew names Moon crater after commander's late wife",
+      "link": "https://www.bbc.com/news/videos/c5ylvz3rzyxo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Apr 2026 20:25:10 GMT",
+      "description": "Artemis II Commander Reid Wiseman's wife died from cancer in 2020 at age 46."
+    },
+    {
+      "title": "What's on the far side of the Moon?",
+      "link": "https://www.bbc.com/news/videos/c7vq1y048p5o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Apr 2026 20:45:17 GMT",
+      "description": "Artemis II's looping path has carried the crew around the far side of the Moon."
+    },
+    {
+      "title": "Trump's deadline looms but Asian nations already have deals with Iran",
+      "link": "https://www.bbc.com/news/articles/c79jqx1xdy9o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Apr 2026 23:34:11 GMT",
+      "description": "Nations in the region have been keen to reach agreements as their economies are heavily reliant on Middle East energy."
+    },
+    {
+      "title": "Oil prices rise ahead of Trump's Iran deal deadline",
+      "link": "https://www.bbc.com/news/articles/c20qv0w1j1do?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Apr 2026 06:55:31 GMT",
+      "description": "The US president has threatened to take out Iran \"in one night\" if it does not agree to open the Strait of Hormuz."
+    },
+    {
+      "title": "'We're sinking deeper': Iranians brace for infrastructure strikes as Trump deadline nears",
+      "link": "https://www.bbc.com/news/articles/cvgl0ng8z0do?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Apr 2026 15:40:35 GMT",
+      "description": "Ordinary Iranians respond to the US president's threat to destroy Iran's power plants and bridges unless it opens the Strait of Hormuz."
+    },
     {
       "title": "How rescue of US airman in remote part of Iran unfolded",
       "link": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 05 Apr 2026 21:19:02 GMT",
+      "published": "Mon, 06 Apr 2026 21:31:24 GMT",
       "description": "The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies."
     },
     {
-      "title": "The 40 minutes when the Artemis crew loses contact with the Earth",
-      "link": "https://www.bbc.com/news/articles/cj0vyzmmy50o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 05 Apr 2026 23:02:53 GMT",
-      "description": "As the astronauts pass behind the Moon they will experience a moment of silence and solitude as communication with the Earth is blocked."
+      "title": "Fake Australian, Chinese and Brazilian police stations: BBC goes inside a seized scam compound",
+      "link": "https://www.bbc.com/news/articles/cjenpy8gx71o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Apr 2026 23:09:23 GMT",
+      "description": "Almost nothing was known about the Royal Hill casino in Cambodia until the Thai military took control of it in December."
     },
     {
-      "title": "Benefits and pensions rise as two-child cap ends",
-      "link": "https://www.bbc.com/news/articles/cn085pdly86o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 05 Apr 2026 23:00:58 GMT",
-      "description": "Families on some benefits with three or more children will get an average rise of £4,100 a year."
+      "title": "54 years, 48 leagues, 2,000 grounds - the ultimate football odyssey",
+      "link": "https://www.bbc.com/sport/football/articles/cqj920d1wndo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Apr 2026 05:06:36 GMT",
+      "description": "BBC Sport travels with the UK's ultimate groundhopper to the final match of a decades-long, history-making journey."
     },
     {
-      "title": "Don't put off treatment during doctors' strike, NHS tells patients",
-      "link": "https://www.bbc.com/news/articles/c5y9j02dvq5o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Apr 2026 08:14:25 GMT",
-      "description": "The strike comes at the end of the bank holiday weekend and NHS managers fear demand could be \"challenging\"."
+      "title": "Woman speaks about ordeal after abduction and rape by fake taxi driver",
+      "link": "https://www.bbc.com/news/articles/c2d80457d1ro?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Apr 2026 05:14:22 GMT",
+      "description": "Barzan Nawshowani is serving eight years for the abduction and rape of the woman, who has now spoken to BBC Scotland."
     },
     {
-      "title": "Northern Ireland becomes first in UK to give parents two weeks paid leave for miscarriage",
-      "link": "https://www.bbc.com/news/articles/c9d4g24y5x8o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Apr 2026 04:44:13 GMT",
-      "description": "Northern Ireland becomes first part of UK to bring in legal entitlement for parents affected by miscarriage at any stage of a pregnancy to have paid leave."
+      "title": "Surprising story behind the Swiss chalet in Manx glen",
+      "link": "https://www.bbc.com/news/articles/c747nx0njymo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Apr 2026 05:29:05 GMT",
+      "description": "A popular glen on the Isle of Man is perhaps the last place you would expect to find a Swiss chalet."
     },
     {
-      "title": "Pepsi withdraws as UK festival sponsor after Kanye West backlash",
-      "link": "https://www.bbc.com/news/articles/cp86942yj97o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 05 Apr 2026 19:58:17 GMT",
-      "description": "Sir Keir Starmer says it is \"deeply concerning\" the rapper is set to headline a festival after recent antisemitic comments."
+      "title": "The Papers: Doctors 'hold patients hostage' and 'The whole of the moon'",
+      "link": "https://www.bbc.com/news/articles/c624n11yqpgo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Apr 2026 05:36:05 GMT",
+      "description": "A number of the papers have focused in on the six-day resident doctors' strike, which is due to kick off on Tuesday."
     },
     {
-      "title": "Hungary alleges plot to blow up gas pipeline ahead of election",
-      "link": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 05 Apr 2026 19:17:42 GMT",
-      "description": "The incident comes a week before the polls, and follow warnings of a potential operations staged to influence voters."
+      "title": "Lil Nas X assault case to be dismissed if he completes mental health programme",
+      "link": "https://www.bbc.com/news/articles/cew7nqn5rqgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Apr 2026 21:55:11 GMT",
+      "description": "The judge said the musician's behaviour when he was arrested in LA last year was \"aberrant from his normal conduct\"."
     },
     {
-      "title": "Disability benefits change means my son could lose £200 a month - it's terrifying",
-      "link": "https://www.bbc.com/news/articles/c78ljve3x7xo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 05 Apr 2026 23:10:50 GMT",
-      "description": "Charities say families are facing financial worries as changes to disability benefits come into effect."
+      "title": "Schools in knife crime hotspots to get specialist training",
+      "link": "https://www.bbc.com/news/articles/c4gxz5zw348o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Apr 2026 05:47:33 GMT",
+      "description": "A new partnership will provide training for school leaders about knife-crime risk, the government says."
     },
     {
-      "title": "Families battle to reclaim thousands of pounds owed by care operator investigated by BBC",
-      "link": "https://www.bbc.com/news/articles/cx26j67x172o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Apr 2026 05:23:57 GMT",
-      "description": "Relatives say it has taken months, and in some cases years, to get back money owed by a care home operator."
+      "title": "India's top court hears challenges to ruling on women's entry into temple",
+      "link": "https://www.bbc.com/news/articles/c36rkz1wl01o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Apr 2026 06:55:03 GMT",
+      "description": "Experts say the court's decision will have far-reaching consequences for women's religious freedoms in India."
     },
     {
-      "title": "Family 'utterly devastated' after boy, 13, killed in crash as two charged",
-      "link": "https://www.bbc.com/news/articles/c8jkm74yvzjo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 05 Apr 2026 18:11:36 GMT",
-      "description": "Noah Campbell's family say he was a \"talented, versatile sportsman\" who was \"incredibly well-liked\"."
+      "title": "Girl, 11, turns marsh trees into quirky characters",
+      "link": "https://www.bbc.com/news/articles/cn0wqjxkpqxo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Apr 2026 04:59:58 GMT",
+      "description": "An 11‑year‑old has spent the past year on family walks inventing backstories for each tree."
     },
     {
-      "title": "Oil prices choppy after expletive-laden Trump threat to Iran",
-      "link": "https://www.bbc.com/news/articles/c8dl7g6e59eo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Apr 2026 03:33:35 GMT",
-      "description": "Brent crude rose above $110 before those gains eased after a report of US-Iran talks over a potential ceasefire."
-    },
-    {
-      "title": "'We are at the edge of a battlefield': BBC reports near Strait of Hormuz",
-      "link": "https://www.bbc.com/news/videos/c3r3vw4j38do?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 05 Apr 2026 21:30:19 GMT",
-      "description": "The BBC's Orla Guerin travels to the edge of the critical waterway that Iran has put a stranglehold on."
-    },
-    {
-      "title": "Trump declares victory in Iran war after rescue, but threats to US operation still loom",
-      "link": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Apr 2026 00:23:16 GMT",
-      "description": "The rescue could impact how Trump views a ground operation to take Kharg Island or to seize enriched uranium sites."
-    },
-    {
-      "title": "How China fell for a lobster: What an AI assistant tells us about Beijing's ambition",
-      "link": "https://www.bbc.com/news/articles/cy41n17e23go?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 05 Apr 2026 22:07:40 GMT",
-      "description": "The AI agent sparked a frenzy of \"raising lobsters\" in March, with users training the tool to suit their needs."
-    },
-    {
-      "title": "'I adore her now': Mother learns to cope with child's autism in a country with little help",
-      "link": "https://www.bbc.com/news/articles/cj608n98z1jo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 05 Apr 2026 23:32:20 GMT",
-      "description": "Malawian Martha Ongwane, brought low by her daughter's autism, found a rare support group."
-    },
-    {
-      "title": "The Papers: Trump's 'expletive-laden tirade' and US airman's 'got gun' miracle escape",
-      "link": "https://www.bbc.com/news/articles/c0lekzk59z5o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Apr 2026 03:28:14 GMT",
-      "description": "The majority of the papers lead with Donald Trump's latest threat to Iran to open the Strait of Hormuz."
-    },
-    {
-      "title": "Streetwear and crop tops take football fashion to new heights",
-      "link": "https://www.bbc.com/news/articles/cr71vne5k70o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Apr 2026 23:01:44 GMT",
-      "description": "Inspired by football culture on and off the pitch, this year's World Cup kit collections mix archive classics with streetwear staples."
-    },
-    {
-      "title": "Apple at 50: Three products that changed how we live - and three that really didn't",
-      "link": "https://www.bbc.com/news/articles/ckgxdn9lyd2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Apr 2026 23:56:55 GMT",
-      "description": "On the tech giant's 50th year, we ask analysts to give their top three Apple successes and misses"
-    },
-    {
-      "title": "Artemis II astronauts have toilet trouble on their way towards the Moon",
-      "link": "https://www.bbc.com/news/articles/c87wy05wr4no?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 05 Apr 2026 18:35:24 GMT",
-      "description": "The four astronauts aboard the Artemis II mission's Orion capsule have encountered intermittent complications with their spacecraft's toilet."
-    },
-    {
-      "title": "New youth clubs for anti-social behaviour hotspots",
-      "link": "https://www.bbc.com/news/articles/ckgedgdx72zo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Apr 2026 08:02:53 GMT",
-      "description": "The government has announced eight young futures hubs in areas with high anti-social behaviour."
-    },
-    {
-      "title": "Missiles thrown at police as illegal rave halted",
-      "link": "https://www.bbc.com/news/articles/cddqm316mvjo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Apr 2026 07:49:10 GMT",
-      "description": "Dorset Police said the event drew about 2,000 people and more than 100 vehicles."
-    },
-    {
-      "title": "Pope Leo calls for global leaders to choose peace in his first Easter Mass",
-      "link": "https://www.bbc.com/news/articles/crk1zgjj7y1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 05 Apr 2026 12:35:36 GMT",
-      "description": "Pope Leo XIV addressed thousands of worshippers gathered in St Peter's Square on Easter Sunday in his first address as pontiff."
-    },
-    {
-      "title": "Seven arrested at RAF base demo accused of supporting Palestine Action",
-      "link": "https://www.bbc.com/news/articles/cx26rkk2zr4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 05 Apr 2026 17:26:48 GMT",
-      "description": "Five men and two women at a peace camp at RAF Lakenheath are held on suspicion of supporting Palestine Action."
+      "title": "Call for parents to teach online privacy like road safety",
+      "link": "https://www.bbc.com/news/articles/c070v00xzl5o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Apr 2026 23:05:52 GMT",
+      "description": "Three in four parents fear their child cannot make safe choices about personal data online, the data watchdog finds."
     },
     {
       "title": "BBC News app",
@@ -160,46 +184,46 @@
       "description": "Exploring the joy and pain of pursuing your dreams"
     },
     {
-      "title": "Totti, Puyol, Maldini, Carragher - ranking football's greatest one-club men",
-      "link": "https://www.bbc.com/sport/football/articles/cqxl2w1r7rwo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Apr 2026 05:15:33 GMT",
-      "description": "From Francesco Totti to Matthew Le Tissier, one-club men share a rare and special bond with the fans - we've ranked the top 10 here."
+      "title": "Why Real glamour tie could decide Kane's Ballon d'Or hopes",
+      "link": "https://www.bbc.com/sport/football/articles/cp86v8zq4jeo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Apr 2026 05:40:38 GMT",
+      "description": "Harry Kane is the leading goalscorer in Europe but does he need to win a major trophy to have a chance of winning the prestigious award?"
     },
     {
-      "title": "Depression fears drove Orie's retirement decision",
-      "link": "https://www.bbc.com/sport/boxing/articles/c070klg98gmo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Apr 2026 06:40:28 GMT",
-      "description": "Delicious Orie discusses his shock decision to retire from boxing and why he wants to be a role model for the younger generation."
+      "title": "Coventry edge ever closer - but who will join them in Premier League?",
+      "link": "https://www.bbc.com/sport/football/articles/cddqmlzz34qo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Apr 2026 22:26:52 GMT",
+      "description": "As Coventry edge ever closer to ending their 25-year wait for Premier League football, who is best placed to join them?"
     },
     {
-      "title": "Lijnders hints at Man City departure for  Silva",
-      "link": "https://www.bbc.com/sport/football/articles/c1krz9kxrdvo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 05 Apr 2026 21:30:40 GMT",
-      "description": "Manchester City assistant manager Pep Lijnders hints that midfielder Bernardo Silva could be leaving in the summer."
+      "title": "Lawes out of England retirement and will join Sale",
+      "link": "https://www.bbc.com/sport/rugby-union/articles/c62je3656geo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Apr 2026 08:38:05 GMT",
+      "description": "Former England captain Courtney Lawes says he is \"officially un-retiring from international duty\" after signing for Sale for 2026-27."
     },
     {
-      "title": "Why it's time for Rose to come of age at Masters",
-      "link": "https://www.bbc.com/sport/golf/articles/c1mkz2lejk0o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Apr 2026 05:10:57 GMT",
-      "description": "In the field for this week's 90th Masters there will be no player seeking a first Augusta crown with a better pedigree than Justin Rose, writes Iain Carter."
+      "title": "Gyokeres returns to Sporting as hero and villain",
+      "link": "https://www.bbc.com/sport/football/articles/c747wgze3meo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Apr 2026 05:08:28 GMT",
+      "description": "Viktor Gyokeres' impact at Sporting will never be forgotten, but he returns on Tuesday hoping to help fire Arsenal into the Champions League semi-finals."
     },
     {
-      "title": "Female coaches make huge difference - Scarratt",
-      "link": "https://www.bbc.com/sport/rugby-union/articles/c9qdxjenxgjo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Apr 2026 06:18:56 GMT",
-      "description": "More female coaches would be \"huge\" for women's rugby, says new Red Roses coach Emily Scarratt."
+      "title": "Why Honda engine is not the only issue with Aston Martin - F1 Q&A",
+      "link": "https://www.bbc.com/sport/formula1/articles/c1j7zn503eko?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Apr 2026 05:59:44 GMT",
+      "description": "BBC Sport F1 correspondent Andrew Benson answers your latest questions."
     },
     {
-      "title": "Is the Championship heading for financial 'catastrophe'?",
-      "link": "https://www.bbc.com/sport/football/articles/ce35l43w83lo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 05 Apr 2026 13:50:14 GMT",
-      "description": "BBC Sport takes a look at if the second tier could be facing a \"doomsday scenario\" as club accounts reveal the significant scale of their losses."
+      "title": "Minnesota deny ex-Everton forward Rodriguez has muscle-wasting condition",
+      "link": "https://www.bbc.com/sport/football/articles/cvgek33dxkpo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Apr 2026 06:49:14 GMT",
+      "description": "Minnesota United deny rumours that midfielder James Rodriguez is suffering from a potentially life-threatening muscle-wasting condition."
     },
     {
-      "title": "Dubois outpoints bloodied Harper to unify titles",
-      "link": "https://www.bbc.com/sport/boxing/articles/crl15n14668o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 05 Apr 2026 21:34:40 GMT",
-      "description": "Caroline Dubois floored Terri Harper before outpointing her British rival to become the unified lightweight world champion in London."
+      "title": "Record stand as Surrey draw with Warwickshire",
+      "link": "https://www.bbc.com/sport/cricket/articles/cz0e8rmmejzo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Apr 2026 16:05:11 GMT",
+      "description": "Jamie Smith and Dan Lawrence score centuries as Surrey bat through the final day to secure a County Championship draw with Warwickshire."
     }
   ]
 }
