@@ -1,157 +1,127 @@
 {
-  "scraped_at": "2026-04-18 08:34:57 UTC",
+  "scraped_at": "2026-04-19 08:40:16 UTC",
   "source": "BBC News RSS",
-  "total": 36,
+  "total": 31,
   "headlines": [
     {
-      "title": "Senior official ousted over Mandelson security row to face MPs",
-      "link": "https://www.bbc.com/news/articles/c0kryzd8l7no?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 18 Apr 2026 08:14:00 GMT",
-      "description": "Former Former Office chief Sir Olly Robbins is expected to be grilled by the Foreign Affairs Committee on Tuesday."
+      "title": "Starmer would have blocked Mandelson over vetting failure, says Lammy",
+      "link": "https://www.bbc.com/news/articles/c80m2z42pr1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 19 Apr 2026 07:25:55 GMT",
+      "description": "The prime minister says he only learned of security concerns around the ex-US ambassador earlier this week."
     },
     {
-      "title": "Chris Mason: Mandelson saga is a messy palaver - and the questions continue to swirl",
-      "link": "https://www.bbc.com/news/articles/cwydex228vko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Apr 2026 21:17:43 GMT",
-      "description": "Sir Keir and the top official at the Foreign Office at the time are expected to face questions from MPs next week."
+      "title": "Scammers are becoming ever more sophisticated - this is what the fightback looks like",
+      "link": "https://www.bbc.com/news/articles/cj60pl5g4z4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Apr 2026 23:02:48 GMT",
+      "description": "Scams have exploded over the last few years. Can countries and companies come together to turn the tables on the scammers?"
     },
     {
-      "title": "Mortgage rates show signs of falling after Iran war peak",
-      "link": "https://www.bbc.com/news/articles/cwyx2q86lgpo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Apr 2026 23:33:10 GMT",
-      "description": "Major lenders make rate reductions as markets take some heart from a possible truce in the Iran war."
+      "title": "Australia's most-decorated soldier vows to fight war crime charges",
+      "link": "https://www.bbc.com/news/articles/cy91r7ww3weo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 19 Apr 2026 05:12:40 GMT",
+      "description": "Ben Roberts-Smith has given his first statement since he was charged with five counts of the war crime of murder last week."
     },
     {
-      "title": "'I'm the lucky one' - more than one in three young men now live with their parents",
-      "link": "https://www.bbc.com/news/articles/ce3578g32d0o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Apr 2026 23:16:33 GMT",
-      "description": "Last year, the highest proportion of men aged 20-34 were still living at home since at least 2007 as the rising cost of living takes hold."
+      "title": "New charity to remember Queen Elizabeth 100 years since her birth",
+      "link": "https://www.bbc.com/news/articles/cre1l2q7329o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Apr 2026 23:00:01 GMT",
+      "description": "The Royal Family will be remembering the late monarch at events on Tuesday - on what would have been her birthday."
     },
     {
-      "title": "Pregnancy vaccine reduces baby hospital admissions for RSV by 80%",
-      "link": "https://www.bbc.com/news/articles/c4g84nxwz8wo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Apr 2026 23:35:23 GMT",
-      "description": "A study confirms the vaccine gives excellent protection for babies against life-threatening chest infections."
+      "title": "'Croatia, but cheaper': The quirky holiday spots on trend for 2026",
+      "link": "https://www.bbc.com/news/articles/c747r0l8n7do?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Apr 2026 23:08:45 GMT",
+      "description": "Montenegro and Albania are among the places rising in popularity for Britons seeking a holiday away from tourist traps."
     },
     {
-      "title": "The home cooks reviving forgotten British dishes you've probably never heard of",
-      "link": "https://www.bbc.com/news/articles/cje4pl85pxwo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 18 Apr 2026 07:46:02 GMT",
-      "description": "Carrageen pudding and Bedfordshire clangers might no longer be household staples, but some home chefs are bringing them back."
+      "title": "Chernobyl's last wedding: The couple who married as a nuclear disaster unfolded",
+      "link": "https://www.bbc.com/news/articles/c0q92lx8q75o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Apr 2026 23:05:30 GMT",
+      "description": "Serhiy and Iryna married 40 years ago, unaware a nuclear reactor had exploded less than 3 miles away."
     },
     {
-      "title": "Coachella campers are turning tents fancy and not all Brits are happy",
-      "link": "https://www.bbc.com/news/articles/c2032x399w1o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Apr 2026 23:05:09 GMT",
-      "description": "Campers are being judged for over-the-top tent set ups at this year's festival in California."
+      "title": "Should you really trust health advice from an AI chatbot?",
+      "link": "https://www.bbc.com/news/articles/clyepyy82kxo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Apr 2026 23:04:43 GMT",
+      "description": "Abi has had very mixed results when asking a chatbot for guidance about her health issues."
     },
     {
-      "title": "My weekly juggling act - being a teacher to other children and a mum to my own",
-      "link": "https://www.bbc.com/news/articles/c5yvvr5z2pro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Apr 2026 23:06:15 GMT",
-      "description": "Many teachers say they struggle to balance the pressures of their job with the demands of being a parent."
+      "title": "Harry and Meghan's trip felt like a royal tour - except many Aussies weren't interested",
+      "link": "https://www.bbc.com/news/articles/cwyx014e2wqo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Apr 2026 23:09:30 GMT",
+      "description": "The Sussexes' four-day tour of Australia appears to have fallen flat with some."
     },
     {
-      "title": "Orbán's era was over in a flash and Hungary's next PM is a man in a hurry",
-      "link": "https://www.bbc.com/news/articles/c4g40npz37lo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 18 Apr 2026 04:46:34 GMT",
-      "description": "Péter Magyar and his Tisza party are wasting no time preparing for the transfer of power after their dramatic landslide victory."
+      "title": "A literary revolution is sweeping South Korea - and being led by women",
+      "link": "https://www.bbc.com/news/articles/cm2rpl7xzpvo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Apr 2026 22:32:20 GMT",
+      "description": "A quiet revolution is unfolding as women writers carve out space in the wake of an anti-feminist backlash."
     },
     {
-      "title": "A man wrongfully served 17 years for rape. Now another man has been convicted",
-      "link": "https://www.bbc.com/news/articles/cq6jq12dmmro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Apr 2026 16:39:42 GMT",
-      "description": "Malkinson had his rape conviction quashed in 2023 after fresh DNA analysis linked a new suspect to the offence."
+      "title": "Police treating arson attack as antisemitic hate crime",
+      "link": "https://www.bbc.com/news/articles/cqxl1qr11q2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 19 Apr 2026 00:15:05 GMT",
+      "description": "It comes as a man attempts to ignite a plastic bag containing containing fluid in north-west London."
     },
     {
-      "title": "What people in power think the impact of the Iran war will be",
-      "link": "https://www.bbc.com/news/articles/c9vl37eev7ko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 18 Apr 2026 05:00:15 GMT",
-      "description": "I have been chatting with some of the world's most powerful people about the conflict and the economy. Here's what they said."
+      "title": "Newspaper headlines: 'Starmer accused of Mandelson cover up' and 'Time for Strait talking'",
+      "link": "https://www.bbc.com/news/articles/cge0vwj1drwo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 19 Apr 2026 04:15:40 GMT",
+      "description": "Criticism of Downing Street's handling of Lord Peter Mandeslon's vetting scandal remains prominent on Sunday's front pages."
     },
     {
-      "title": "A moment of risk and opportunity: How two ceasefires could boost US-Iran talks",
-      "link": "https://www.bbc.com/news/articles/c0mjynzvw94o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Apr 2026 19:59:30 GMT",
-      "description": "Some kind of diplomatic progress is now under way, but is it enough to prevent a return to war?"
+      "title": "Grand National winner Noble Yeats dies",
+      "link": "https://www.bbc.com/sport/horse-racing/articles/cwy3dlp7kp5o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Apr 2026 22:15:15 GMT",
+      "description": "Noble Yeats, who won the Grand National as a 50-1 outsider in 2022, dies after a bout of colic."
     },
     {
-      "title": "UK and France to lead defensive mission in Strait of Hormuz",
-      "link": "https://www.bbc.com/news/articles/c5yjz819vmgo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Apr 2026 21:05:55 GMT",
-      "description": "Sir Keir Starmer has said further details of the plan will come after a meeting in London next week."
+      "title": "At least six killed in Kyiv as gunman opens fire and takes hostages",
+      "link": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Apr 2026 18:09:57 GMT",
+      "description": "The attacker, who took hostages inside a supermarket, was killed after a shoot-out with police, officials say."
     },
     {
-      "title": "Oil prices plunge as Iran says Strait of Hormuz 'open' during ceasefire",
-      "link": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 18 Apr 2026 06:06:38 GMT",
-      "description": "Brent crude sinks by a tenth after Iran says the key waterway is open for commercial ships for the rest of the ceasefire."
+      "title": "'The weapons were loud, but there was always music': Sudanese band play on through the war",
+      "link": "https://www.bbc.com/news/articles/cx2ddjv90v9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Apr 2026 23:09:49 GMT",
+      "description": "One of Sudan's most popular bands, Aswat Almadina, recall being in the studio when the war broke out three years ago."
     },
     {
-      "title": "Swinney predicts SNP majority at Holyrood election",
-      "link": "https://www.bbc.com/news/articles/c9wq2jvqqxvo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 18 Apr 2026 05:00:24 GMT",
-      "description": "The first minister has told BBC News that his party will return at least 65 seats at next month's vote."
+      "title": "Rude names, railways and a mass trespass - how the Peak District became a tourist attraction",
+      "link": "https://www.bbc.com/news/articles/cqxl29wdrppo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Apr 2026 23:36:46 GMT",
+      "description": "It became the UK's first national park 75 years ago, but has been attracting visitors for longer."
     },
     {
-      "title": "Starmer faces 'judgement day' and 'Breakthrough in the Strait'",
-      "link": "https://www.bbc.com/news/articles/ckg04x0lkv3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 18 Apr 2026 03:46:48 GMT",
-      "description": "Pressure is building on Prime Minister Sir Keir Starmer as Lord Mandelson's vetting dominates Saturday's papers."
+      "title": "'We're not teaching them to order baguettes' - languages enjoy a renaissance in schools",
+      "link": "https://www.bbc.com/news/articles/c75ex7e6w53o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Apr 2026 20:50:31 GMT",
+      "description": "After a long decline, the number of pupils taking language GCSEs in Wales rises for two years."
     },
     {
-      "title": "Irish fugitive and alleged crime boss Daniel Kinahan arrested in Dubai",
-      "link": "https://www.bbc.com/news/articles/c4g4yl5dd4do?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Apr 2026 17:48:13 GMT",
-      "description": "Kinahan, in his 40s, was arrested in Dubai on foot of an arrest warrant issued by the Irish courts."
+      "title": "Baby abandoned by roadside is now changing lives",
+      "link": "https://www.bbc.com/news/articles/cvg05020g89o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Apr 2026 17:24:20 GMT",
+      "description": "Becky Chaplain, an occupational therapist, is now helping burns patients in West Africa."
     },
     {
-      "title": "Japan comes up with new word for days hotter than 40C after blistering summer",
-      "link": "https://www.bbc.com/news/articles/crr185nx0n9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Apr 2026 18:19:43 GMT",
-      "description": "The term - kokushobi - translates to \"cruelly hot\", \"brutally hot\" or \"severely hot\", and comes after Japan's hottest summer on record."
+      "title": "'A red kite took my mother-in-law's sausage rolls'",
+      "link": "https://www.bbc.com/news/articles/ceqwvp5g7ldo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Apr 2026 10:07:41 GMT",
+      "description": "A man believes he has the answer to where a red kite got hold of the savoury snack in Banbury."
     },
     {
-      "title": "Fears over rogue parking by sunrise-chasers at national park after overnight ban",
-      "link": "https://www.bbc.com/news/articles/cew77qq2r7lo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 18 Apr 2026 06:26:14 GMT",
-      "description": "Authorities in Eryri want to crackdown on anti-social behaviour, but there are concerns people would park on local roads."
+      "title": "'I wouldn't be here without RNLI volunteers'",
+      "link": "https://www.bbc.com/news/articles/cj40zg2j1vwo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Apr 2026 05:18:54 GMT",
+      "description": "Chris Haffenden meets one of the RNLI volunteers who saved him after he was trapped by the tide."
     },
     {
-      "title": "How Coventry earned Premier League return after 25 years",
-      "link": "https://www.bbc.com/sport/football/articles/cy814339170o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Apr 2026 21:08:52 GMT",
-      "description": "After a quarter of a century out of the Premier League, groundshares and administration, Frank Lampard has led Coventry City back to the top flight."
-    },
-    {
-      "title": "British man pleads guilty to conspiring to steal $8m in virtual currency",
-      "link": "https://www.bbc.com/news/articles/c145yxjrllko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 18 Apr 2026 03:37:04 GMT",
-      "description": "The Scottish 24-year-old admits defrauding at least a dozen companies and their employees across the US."
-    },
-    {
-      "title": "Sinatra fan Jimmy does it his way to keep promise to late wife",
-      "link": "https://www.bbc.com/news/articles/cly7pnpp27wo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Apr 2026 05:16:41 GMT",
-      "description": "Jimmy Moir went to L.A. to see where his idol made his music - and ended up with a few surprises."
-    },
-    {
-      "title": "Boy donates lockdown locks to children's charity",
-      "link": "https://www.bbc.com/news/articles/c3r3zxvy89xo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 14 Apr 2026 13:24:04 GMT",
-      "description": "Noah braves the scissors and gets a short do after growing out his hair for six years."
-    },
-    {
-      "title": "People assume I can't speak Welsh because I'm not white",
-      "link": "https://www.bbc.com/news/articles/cr71911795go?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Apr 2026 05:10:03 GMT",
-      "description": "Seren Jones says some Welsh speakers have switched to English when talking to her."
-    },
-    {
-      "title": "'My sister loved to party and turned her life around' - the nun on the way to sainthood",
-      "link": "https://www.bbc.com/news/articles/c5yjjzjgvm6o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 16 Apr 2026 09:10:32 GMT",
-      "description": "Thousands attend a retreat in Derry named after Sister Clare, 10 years after her death in an earthquake in Ecuador."
+      "title": "Shakespeare's 'missing' home mapped with discovery",
+      "link": "https://www.bbc.com/news/articles/cedeenvdwgxo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 16 Apr 2026 05:02:47 GMT",
+      "description": "A Shakespeare expert identifies the location and size of the property the playwright bought in1613."
     },
     {
       "title": "BBC News app",
@@ -161,7 +131,7 @@
     },
     {
       "title": "Have the Democrats found a new strategy to scare Trump?",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8lyy?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 17 Apr 2026 10:55:00 GMT",
       "description": "Why an oyster fisherman with a controversial past is splitting the Democrats"
     },
@@ -178,46 +148,46 @@
       "description": "Puss teams up with a fellow thieving feline and Humpty Dumpty to go on an exciting quest."
     },
     {
-      "title": "How Coventry earned Premier League return after 25 years",
-      "link": "https://www.bbc.com/sport/football/articles/cy814339170o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Apr 2026 21:08:52 GMT",
-      "description": "After a quarter of a century out of the Premier League, groundshares and administration, Frank Lampard has led Coventry City back to the top flight."
+      "title": "Wild celebrations to verge of tears -  time running out for Spurs",
+      "link": "https://www.bbc.com/sport/football/articles/c1l9yyp28peo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Apr 2026 22:14:50 GMT",
+      "description": "Scenes of celebration turned to bitter disappointment as Tottenham's hopes of avoiding relegation from the Premier League were dealt a devastating blow against Brighton."
     },
     {
-      "title": "Fitzpatrick's wild birdie and superb 63 puts him in Heritage lead",
-      "link": "https://www.bbc.com/sport/golf/articles/c62k160k831o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 18 Apr 2026 06:33:32 GMT",
-      "description": "Former US Open champion Matt Fitzpatrick has a one-shot lead over Viktor Hovland at the RBC Heritage in South Carolina."
+      "title": "Protests and another costly loss - pressure mounts on Rosenior's Chelsea",
+      "link": "https://www.bbc.com/sport/football/articles/cj0vg341djqo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Apr 2026 23:05:00 GMT",
+      "description": "Chelsea head coach Liam Rosenior admits his side face a \"mountain to climb\" as their campaign unravels at a crucial juncture following defeat by Manchester United."
     },
     {
-      "title": "Bournemouth close to appointing Rose",
-      "link": "https://www.bbc.com/sport/football/articles/c5ywz3x4r2eo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Apr 2026 17:11:56 GMT",
-      "description": "Bournemouth are close to appointing Marco Rose as Andoni Iraola's replacement as head coach."
+      "title": "Miettinen dies in seven-car crash during Nurburgring race featuring Verstappen",
+      "link": "https://www.bbc.com/sport/motorsport/articles/crl1wwdegkno?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Apr 2026 20:37:01 GMT",
+      "description": "Racing driver Juha Miettinen dies following a seven-car crash during the qualifiers for a race in Germany."
     },
     {
-      "title": "From FA ban to double Euros winners -  Lionesses reach 500 games",
-      "link": "https://www.bbc.com/sport/football/articles/ce844m5yzgvo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 18 Apr 2026 06:43:43 GMT",
-      "description": "BBC Sport takes a look at 11 defining moments in the history of England women before their milestone 500th official fixture on Saturday."
+      "title": "How Hampton's heroics bailed out Lionesses in win against Iceland",
+      "link": "https://www.bbc.com/sport/football/articles/clyx9zgvr4po?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Apr 2026 20:48:59 GMT",
+      "description": "Goalkeeper Hannah Hampton says she just \"did my job\" in pulling off three crucial late saves as England held on to beat Iceland 1-0."
     },
     {
-      "title": "O'Sullivan chasing eighth Crucible title aged 50",
-      "link": "https://www.bbc.com/sport/snooker/articles/c4g5ywe38dno?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Apr 2026 20:55:03 GMT",
-      "description": "In 2001, Ronnie O'Sullivan won his first World Snooker Championship. Now, a quarter of a century later, the Rocket is aiming for a record-breaking eighth title."
+      "title": "Champion Zhao defeats Highfield after Virgo tributes",
+      "link": "https://www.bbc.com/sport/snooker/articles/c9qd2e3p95po?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Apr 2026 21:58:52 GMT",
+      "description": "China's reigning world champion Zhao Xintong defeats England's Liam Highfield on an emotional opening day of the tournament at the Crucible."
     },
     {
-      "title": "'Mums thank me for changing the narrative': How motherhood in rugby has evolved",
-      "link": "https://www.bbc.com/sport/rugby-union/articles/czx995g44wvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Apr 2026 17:01:13 GMT",
-      "description": "Lark Atkin-Davies and Abbie Ward - two of four pregnant England Women's Rugby World Cup winners - discuss how motherhood in rugby is changing."
+      "title": "Carrick silences doubters as Man Utd close on Champions League",
+      "link": "https://www.bbc.com/sport/football/articles/cly67vpyx1jo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Apr 2026 23:18:56 GMT",
+      "description": "Manchester United beat Chelsea to move closer to a Champions League return and silence the growing Michael Carrick doubters."
     },
     {
-      "title": "Russell 'would understand' if Verstappen leaves F1",
-      "link": "https://www.bbc.com/sport/formula1/articles/cj37p3k1nx8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Apr 2026 14:29:54 GMT",
-      "description": "George Russell says Formula 1 \"would not want to lose\" Max Verstappen - but would \"understand\" if the four-time world champion decided to leave the sport."
+      "title": "Grand National winner Noble Yeats dies",
+      "link": "https://www.bbc.com/sport/horse-racing/articles/cwy3dlp7kp5o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 18 Apr 2026 22:15:15 GMT",
+      "description": "Noble Yeats, who won the Grand National as a 50-1 outsider in 2022, dies after a bout of colic."
     }
   ]
 }
