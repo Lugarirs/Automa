@@ -1,157 +1,133 @@
 {
-  "scraped_at": "2026-04-20 09:30:12 UTC",
+  "scraped_at": "2026-04-21 09:15:22 UTC",
   "source": "BBC News RSS",
-  "total": 35,
+  "total": 30,
   "headlines": [
     {
-      "title": "US releases video of forces seizing Iranian ship",
-      "link": "https://www.bbc.com/news/videos/c3w30l6qz49o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Apr 2026 07:29:42 GMT",
-      "description": "The US has intercepted an Iranian-flagged cargo ship in the Gulf as part of its naval blockade, Donald Trump has said."
+      "title": "Unemployment rate unexpectedly falls as fewer students look for work",
+      "link": "https://www.bbc.com/news/articles/cjd84pkkjgpo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Apr 2026 08:56:49 GMT",
+      "description": "The drop has been largely driven by a rise in the number of people not actively seeking work."
     },
     {
-      "title": "Spat at, threatened and kidnapped: British Jews tell of rising antisemitism",
-      "link": "https://www.bbc.com/news/articles/cwyxxjgdn94o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Apr 2026 05:00:02 GMT",
-      "description": "British Jews have described to BBC Panorama how they are experiencing a rise in antisemitism."
+      "title": "Petrol thefts surge as Iran war pushes up fuel costs",
+      "link": "https://www.bbc.com/news/articles/cx2drmm1mglo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Apr 2026 08:59:03 GMT",
+      "description": "One petrol retailer says he is experiencing about five drive-offs a week at each forecourt, costing him thousands."
     },
     {
-      "title": "The insider trading suspicions looming over Trump's presidency",
-      "link": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Apr 2026 05:13:58 GMT",
-      "description": "The BBC has found a pattern of spikes in trades ahead of public announcements by the US president."
+      "title": "Boy, 17, charged with Kenton synagogue arson",
+      "link": "https://www.bbc.com/news/articles/c4gdmee362ko?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Apr 2026 09:02:57 GMT",
+      "description": "A bottle containing a type of accelerant was thrown through the window of the synagogue."
     },
     {
-      "title": "Man kills seven of his children, and an eighth child, in Louisiana mass shooting",
-      "link": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Apr 2026 08:26:46 GMT",
-      "description": "The children, aged from one to 14 years old, were killed in a shooting that police are describing as a \"domestic disturbance\"."
+      "title": "Apple names new boss to replace Tim Cook after 15 years",
+      "link": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Apr 2026 05:57:56 GMT",
+      "description": "Ternus will take over running the technology giant in September as Cook steps up to become executive chairman."
     },
     {
-      "title": "'They told me he was dead': Children born near army base learn truth about UK soldier dads",
-      "link": "https://www.bbc.com/news/articles/c895k3537kgo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 19 Apr 2026 23:07:52 GMT",
-      "description": "A DNA and legal project has identified the fathers of 20 children born near a military base in Kenya."
+      "title": "King says late Queen may have been 'troubled deeply' by world we live in",
+      "link": "https://www.bbc.com/news/articles/cz9077ezlpno?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Apr 2026 07:53:43 GMT",
+      "description": "The final design for a statue of the late Queen Elizabeth is to be unveiled, 100 years after her birth."
     },
     {
-      "title": "Two arrested over Kenton synagogue attack",
-      "link": "https://www.bbc.com/news/articles/cd6l9wdpqgdo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Apr 2026 08:23:16 GMT",
-      "description": "A bottle containing a type of accelerant was thrown at the synagogue in Harrow, north-west London."
+      "title": "US singer D4vd pleads not guilty to murder in death of missing teen girl",
+      "link": "https://www.bbc.com/news/articles/crr1v4gzkvlo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Apr 2026 01:05:41 GMT",
+      "description": "Prosecutors say the singer, real name David Anthony Burke, could face life in prison due to the nature of the case, if convicted."
     },
     {
-      "title": "New university free speech complaints system to come into force this year",
-      "link": "https://www.bbc.com/news/articles/cm29dngvjqeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 19 Apr 2026 23:06:13 GMT",
-      "description": "Universities could face fines of £500,000 or 2% of their income if they are found to have failed to protect free speech."
+      "title": "High electricity bills targeted in planned shakeup to energy pricing",
+      "link": "https://www.bbc.com/news/articles/c79jg43vd8no?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Apr 2026 08:19:50 GMT",
+      "description": "The war in the Middle East has brought renewed attention to Britain's vulnerability to energy price shocks."
     },
     {
-      "title": "Health visitors call for limits on 'impossible' 1,000-family caseloads",
-      "link": "https://www.bbc.com/news/articles/ce8lp0pz3y9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 19 Apr 2026 23:00:05 GMT",
-      "description": "BBC analysis shows the number of health visitors in England has almost halved in the last 10 years."
+      "title": "Phones to be banned in schools by law in England under government plans",
+      "link": "https://www.bbc.com/news/articles/c5y7vd6gpq1o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Apr 2026 07:33:19 GMT",
+      "description": "Education minister Jacqui Smith said the move would create \"a clear legal requirement for schools\"."
     },
     {
-      "title": "New Zealand declares state of emergency in Wellington as floods hit",
-      "link": "https://www.bbc.com/news/articles/cly75d9zvj3o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Apr 2026 05:48:54 GMT",
-      "description": "Footage online shows vehicles submerged, trees uprooted and houses hit by landslides."
+      "title": "If Plaid win in Wales, that won't mean independence - at least not yet",
+      "link": "https://www.bbc.com/news/articles/c9958227r38o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Apr 2026 02:25:57 GMT",
+      "description": "In the Senedd campaign, are weighing up whether the issue of Welsh independence is a vote winner or loser."
     },
     {
-      "title": "Lyse Doucet: Most Iranians don't expect this truce to last",
-      "link": "https://www.bbc.com/news/videos/cgqk5gp95yzo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Apr 2026 08:46:24 GMT",
-      "description": "The BBC's Lyse Doucet reports from Tehran as tensions continue over the Strait of Hormuz."
+      "title": "The 20-somethings juggling three jobs to make ends meet",
+      "link": "https://www.bbc.com/news/articles/cn89n9exl11o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Apr 2026 07:23:11 GMT",
+      "description": "While the UK unemployment rate stands at 4.9%, increasing numbers of those in work have more than one job."
     },
     {
-      "title": "Oil prices rise after Trump says Iranian ship seized",
-      "link": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Apr 2026 08:41:12 GMT",
-      "description": "Energy markets have seen wild swings since the US and Israel attacked Iran on 28 February."
+      "title": "Youngest transfusion patient 'now chirpy little boy' after treatment in the womb",
+      "link": "https://www.bbc.com/news/articles/cvgkwk95e74o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Apr 2026 05:04:28 GMT",
+      "description": "A rare blood transfusion while in the womb saved a baby's life when his mum was 16 weeks pregnant."
     },
     {
-      "title": "Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC",
-      "link": "https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 19 Apr 2026 21:09:06 GMT",
-      "description": "Lyse Doucet speaks to Ebrahim Azizi, who says Iran \"will decide the right of passage\" through the crucial shipping route."
+      "title": "What we know about the Iranian ship seized by the US",
+      "link": "https://www.bbc.com/news/articles/c75kg0vdxyro?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 20 Apr 2026 20:04:59 GMT",
+      "description": "The US has intercepted an Iranian ship entering the Gulf as part of its naval blockade, US President Donald Trump has said."
     },
     {
-      "title": "Why and how is US blockading Iranian ports in Strait of Hormuz?",
-      "link": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Apr 2026 06:46:03 GMT",
-      "description": "Donald Trump says that the US is blockading the Strait of Hormuz. What does this mean in practice?"
+      "title": "Indian politicians are campaigning while holding fish. What is going on?",
+      "link": "https://www.bbc.com/news/articles/cwyw2zvqxe2o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 20 Apr 2026 21:01:31 GMT",
+      "description": "In West Bengal polls, fish moves from plate to politics, symbolising identity and cultural pride."
     },
     {
-      "title": "Chris Mason: PM facing awkward hours ahead as Mandelson questions remain",
-      "link": "https://www.bbc.com/news/articles/c2lwqrrp8ylo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Apr 2026 09:05:48 GMT",
-      "description": "Mandelson vetting row shows Westminster continues to have the power to surprise, writes Chris Mason."
+      "title": "'Dumb machine' promises a clean energy breakthrough",
+      "link": "https://www.bbc.com/news/articles/c5yvm11xrn6o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 20 Apr 2026 23:09:41 GMT",
+      "description": "A stellarator is difficult to build, but could it be the best way to make fusion energy work?"
     },
     {
-      "title": "Art on trial - a sculptor's arrest highlights new extremes for censorship in China",
-      "link": "https://www.bbc.com/news/articles/cddqpr7z74yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 19 Apr 2026 22:53:18 GMT",
-      "description": "Gao Zhen is being retroactively punished for 15 year-old-works, in a case that has alarmed rights groups."
+      "title": "'Why is the NHS funding students if it can't give them jobs?' Anger over recruitment freeze",
+      "link": "https://www.bbc.com/news/articles/c2488mn4r4po?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Apr 2026 05:17:51 GMT",
+      "description": "Dozens of midwifery, physiotherapy and nursing students contact BBC over fears they won't get jobs."
     },
     {
-      "title": "How do I register to vote in the May 2026 elections?",
-      "link": "https://www.bbc.com/news/articles/c888jep9j3ko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 19 Mar 2026 11:30:27 GMT",
-      "description": "Here’s what you need to know about how you register to vote and when."
+      "title": "Funding cuts turning beautiful Loch Lomond into 'rubbish dump'",
+      "link": "https://www.bbc.com/news/articles/cd7jlpy7yqpo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Apr 2026 05:20:44 GMT",
+      "description": "Lost funding means a community group is no longer able to empty bins on the Loch Lomond tourist route."
     },
     {
-      "title": "India has splurged billions on metro trains. But where are the commuters?",
-      "link": "https://www.bbc.com/news/articles/c4g833128vlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 19 Apr 2026 23:12:10 GMT",
-      "description": "Without better last-mile connectivity and affordable fares, metro use is unlikely to improve quickly, say experts."
+      "title": "Japan loosens arms export rules in break from post-WW2 pacifism",
+      "link": "https://www.bbc.com/news/articles/clyx4vlqy4vo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Apr 2026 08:05:10 GMT",
+      "description": "Eight decades of pacifism looks to be dismantling since Sanae Takaichi became Prime Minister in October 2025."
     },
     {
-      "title": "Frustration, apathy and hope: Birmingham divided as extraordinary election looms",
-      "link": "https://www.bbc.com/news/articles/cr411gk7pwlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 19 Apr 2026 23:19:54 GMT",
-      "description": "Is the UK's second city about to see the biggest political shake-up in more than a decade?"
+      "title": "Two children die in stabbings each month, study finds",
+      "link": "https://www.bbc.com/news/articles/cy51265p7exo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Apr 2026 06:40:36 GMT",
+      "description": "The average age of fatal knife attacks against children is 14 years old, a new study has revealed."
     },
     {
-      "title": "Why your recycled clothes could end up in this South American desert",
-      "link": "https://www.bbc.com/news/articles/c62kg63k8v6o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 19 Apr 2026 23:02:11 GMT",
-      "description": "Old garments from around the world are being discarded in the South American country."
+      "title": "James Bond and prog rock to feature in 2026 Proms",
+      "link": "https://www.bbc.com/news/articles/cddqp3yrd64o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Apr 2026 00:36:08 GMT",
+      "description": "Concerts celebrating Benjamin Britten, Steve Reich and Miles Davis also appear in the programme."
     },
     {
-      "title": "Keeping open all of King's coastal path will be a challenge, says Natural England",
-      "link": "https://www.bbc.com/news/articles/c79j7zj1x1yo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Apr 2026 05:10:36 GMT",
-      "description": "Natural England says it will be challenging to keep King Charles's coastal path fully open in parts of the south."
+      "title": "WW2 veteran who served in Navy despite seasickness dies aged 109",
+      "link": "https://www.bbc.com/news/articles/c5yv33xyek8o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Apr 2026 05:05:08 GMT",
+      "description": "Frank Chester is praised by his family following his death nine days after his birthday."
     },
     {
-      "title": "Watch: Trapped boy dangles from moving bus in Australia",
-      "link": "https://www.bbc.com/news/videos/c80mn1jjyvno?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Apr 2026 06:46:03 GMT",
-      "description": "The boy, who was uninjured, was dragged for 350 metres after the back doors trapped his arm and school bag."
-    },
-    {
-      "title": "At least 25 killed in firecracker factory blast in India",
-      "link": "https://www.bbc.com/news/articles/cp867zy9j6ro?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Apr 2026 06:16:21 GMT",
-      "description": "Mostly female workers have been killed in the blast, which occurred in Tamil Nadu state."
-    },
-    {
-      "title": "Rumen Radev's party wins Bulgarian election",
-      "link": "https://www.bbc.com/news/articles/cm2kgm1zpgro?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Apr 2026 07:47:42 GMT",
-      "description": "With 87% of the vote now counted, Progressive Bulgaria has secured a majority in parliament."
-    },
-    {
-      "title": "Row over classical music being 'weaponised' to disperse youths",
-      "link": "https://www.bbc.com/news/articles/c8x7w18v8zgo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Apr 2026 05:13:33 GMT",
-      "description": "Musicians are furious that the use of classical music to disperse groups is playing to stereotypes."
-    },
-    {
-      "title": "Reform pledges to review all asylum claims for past five years if it wins power",
-      "link": "https://www.bbc.com/news/articles/c0rxd5wpyqwo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Apr 2026 07:56:54 GMT",
-      "description": "The current Labour government has already announced major crackdowns on immigration, including disrupting gangs."
+      "title": "Canadian killed in shooting at Mexico's ancient Teotihuacán pyramids",
+      "link": "https://www.bbc.com/news/articles/crm1rg3ydkvo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Apr 2026 09:09:07 GMT",
+      "description": "Several people were also injured in the incident on Monday at the popular tourist site, say Mexican officials, weeks before the country hosts the Fifa World Cup."
     },
     {
       "title": "BBC News app",
@@ -160,58 +136,52 @@
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests"
     },
     {
-      "title": "Is The Strait Of Hormuz Actually Open (Or Shut) Right Now?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0nd424z?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 19 Apr 2026 12:32:00 GMT",
-      "description": "Plus, the government digs in over the Mandelson vetting row."
+      "title": "MPs Grill Starmer Over Mandelson (Again)",
+      "link": "https://www.bbc.co.uk/sounds/play/p0nfg0vr?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 20 Apr 2026 19:21:00 GMT",
+      "description": "PM defends his actions over the appointment of Mandelson."
     },
     {
-      "title": "Have the Democrats found a new strategy to scare Trump?",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8lyy?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 17 Apr 2026 10:55:00 GMT",
-      "description": "Why an oyster fisherman with a controversial past is splitting the Democrats"
+      "title": "Americanswers… on 5 Live! Is insider trading corrupting Trump's White House?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0nfl2l3?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 20 Apr 2026 20:05:00 GMT",
+      "description": "And will new claims about FBI Director Kash Patel’s behaviour get him fired?"
     },
     {
-      "title": "Puss in Boots, voiced by Antonio Banderas, is on an exciting quest",
-      "link": "https://www.bbc.co.uk/iplayer/episode/b01p6y1c/puss-in-boots?at_mid=gfHsptej6G&at_campaign=Film_Puss_in_Boots&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=b01p6y1c&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Film_Puss_in_Boots&at_bbc_team=BBC",
-      "published": "Sun, 12 Apr 2026 10:35:00 GMT",
-      "description": "Puss teams up with a fellow thieving feline and Humpty Dumpty to go on an exciting quest."
+      "title": "Spurs lifeline or good step for West Ham - who's favourite for drop?",
+      "link": "https://www.bbc.com/sport/football/articles/cx2vkw0n3kdo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 20 Apr 2026 22:54:43 GMT",
+      "description": "With five games remaining, BBC Sport looks at which side is most likely to take the third relegation spot."
     },
     {
-      "title": "'By chance or choice, they have clicked' - why Man City will be champions",
-      "link": "https://www.bbc.com/sport/football/articles/c5y7vwnvegzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 19 Apr 2026 22:41:46 GMT",
-      "description": "Match of the Day pundit Danny Murphy explains why he thinks Manchester City will beat Arsenal to the Premier League title."
+      "title": "Bolt advises Gout not to forget track and field",
+      "link": "https://www.bbc.com/sport/athletics/articles/cp3l0zpgd3qo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Apr 2026 06:23:10 GMT",
+      "description": "Usain Bolt urges Australian sprinter Gout Gout not to forget track and field and find a good support network to keep him focused on his career."
     },
     {
-      "title": "Fitzpatrick beats Scheffler in Heritage play-off",
-      "link": "https://www.bbc.com/sport/golf/articles/c208jrj07r7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 19 Apr 2026 22:33:27 GMT",
-      "description": "England's Matt Fitzpatrick beats world number one Scottie Scheffler in a play-off to win the RBC Heritage and claim his second PGA Tour title in the space of a month."
+      "title": "Ranking the most successful world record transfers of the past 50 years",
+      "link": "https://www.bbc.com/sport/football/articles/cje4k4p1z0xo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Apr 2026 05:08:57 GMT",
+      "description": "Stumping up world record sums doesn't always guarantee success, but plenty of football's most expensive players have delivered on their hefty fees -  here are the top 10."
     },
     {
-      "title": "Arteta must prove he won't be remembered as Arsenal's 'nearly man'",
-      "link": "https://www.bbc.com/sport/football/articles/cg40d145zgeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 19 Apr 2026 20:03:55 GMT",
-      "description": "Arsenal and manager Mikel Arteta may still have a season of glory - but must prove they are not 'nearly men' after Manchester City loss, says chief football writer Phil McNulty."
+      "title": "Why Wolves' relegation had been coming after slow decline",
+      "link": "https://www.bbc.com/sport/football/articles/ckg3l2k81x5o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 20 Apr 2026 20:56:09 GMT",
+      "description": "Wolves have been relegated from the Premier League after just three wins in their first 33 games of the season."
     },
     {
-      "title": "Record-breaking Bayern win Bundesliga - now for the Treble",
-      "link": "https://www.bbc.com/sport/football/articles/cq8wpln78eqo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 19 Apr 2026 19:05:10 GMT",
-      "description": "Free-scoring Bayern Munich swept to the German title for the 35th time. Now their sights turn towards completing the Treble."
+      "title": "What to do about Rew? England's dilemma",
+      "link": "https://www.bbc.com/sport/cricket/articles/cj40kkzr9xro?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 20 Apr 2026 16:25:18 GMT",
+      "description": "James Rew's start to the season makes him a strong contender for an England call-up, but how would he fit into the Test team?"
     },
     {
-      "title": "How 'dropouts' hangout' became snooker's ultimate stage",
-      "link": "https://www.bbc.com/sport/snooker/articles/c3dll4mzpdjo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Apr 2026 05:34:19 GMT",
-      "description": "Sheffield's Crucible Theatre was a regional arts centre with a polarising reputation before snooker came along, by chance, to make it a globally famous venue. What makes it so special?"
-    },
-    {
-      "title": "Raducanu pulls out of Madrid Open",
-      "link": "https://www.bbc.com/sport/tennis/articles/cwyx2d167n1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 19 Apr 2026 12:55:19 GMT",
-      "description": "Emma Raducanu's absence from the WTA Tour will be extended by at least two more weeks as she withdraws from the upcoming Madrid Open."
+      "title": "Red Bull's difficult start and 1976 cars compared with 2026 - F1 Q&A",
+      "link": "https://www.bbc.com/sport/formula1/articles/c070rjdxmjyo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Apr 2026 07:00:38 GMT",
+      "description": "BBC Sport F1 correspondent Andrew Benson answers your latest questions."
     }
   ]
 }
