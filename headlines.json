@@ -1,169 +1,181 @@
 {
-  "scraped_at": "2026-04-29 09:54:54 UTC",
+  "scraped_at": "2026-04-30 09:55:19 UTC",
   "source": "BBC News RSS",
-  "total": 36,
+  "total": 39,
   "headlines": [
     {
-      "title": "Five takeaways from the King's historic address to Congress",
-      "link": "https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Apr 2026 08:48:08 GMT",
-      "description": "There were some lines in the speech that may have buoyed Democrats – and raised eyebrows in the White House."
+      "title": "Watch: Met Police body-worn footage of Golders Green arrest",
+      "link": "https://www.bbc.com/news/videos/c332v47mmd2o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Apr 2026 21:53:51 GMT",
+      "description": "Footage shows the moment a man was arrested after two Jewish men were stabbed in north London."
     },
     {
-      "title": "Eleven cancers on the rise in young people - scientists find first clue on why it's happening",
-      "link": "https://www.bbc.com/news/articles/crepdjdj0z4o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Apr 2026 23:40:52 GMT",
-      "description": "Researchers stress that simple lifestyle changes can still significantly reduce the risk of cancer."
+      "title": "Oil price jumps after report Trump to be given new Iran options",
+      "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 09:51:52 GMT",
+      "description": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran."
     },
     {
-      "title": "A fresh financial crisis may be coming - it won't play out like the last one",
-      "link": "https://www.bbc.com/news/articles/cp3p5l0nyevo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Apr 2026 23:17:58 GMT",
-      "description": "Several warning lights are flashing that have some wondering whether we are in the foothills of another financial crisis."
+      "title": "'We will kill you and burn your house': Council staff under attack from High Street gangs",
+      "link": "https://www.bbc.com/news/articles/cdxplq92rx1o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 05:00:04 GMT",
+      "description": "Dozens of Trading Standards officers describe intimidation from criminals running mini-marts and vape shops."
     },
     {
-      "title": "Al Fayed survivor was modern slavery victim, says Home Office",
-      "link": "https://www.bbc.com/news/articles/c4g0qer941jo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Apr 2026 05:00:12 GMT",
-      "description": "Rachael Louw says she feels \"vindication\" and \"validation\" that her case has been recognised by the British government."
+      "title": "Have the royals got their mojo back from US visit?",
+      "link": "https://www.bbc.com/news/articles/cqxpr404053o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 03:48:53 GMT",
+      "description": "Many commentators, even critics of the monarchy, seem delighted at the spectacle."
     },
     {
-      "title": "Early care scheme could prevent thousands of miscarriages a year",
-      "link": "https://www.bbc.com/news/articles/c62r8lzgnk2o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Apr 2026 23:47:41 GMT",
-      "description": "Current rules state that three unsuccessful pregnancies are needed to trigger NHS support - but a pilot project could bring about change."
+      "title": "Statue with Banksy's signature appears in London",
+      "link": "https://www.bbc.com/news/articles/c5y9wlnwl85o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 09:08:02 GMT",
+      "description": "A sculpture of a man marching off a plinth in St James's appears to bear the artist's name."
     },
     {
-      "title": "Properties raided in modern slavery investigation",
-      "link": "https://www.bbc.com/news/articles/c759n2lnxz0o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Apr 2026 09:30:40 GMT",
-      "description": "Officers from Cheshire Police and neighbouring forces target three properties in Crewe."
+      "title": "Endometriosis could be diagnosed earlier with new scan technique",
+      "link": "https://www.bbc.com/news/articles/clyplwvgxjvo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 00:08:59 GMT",
+      "description": "A new scan technique could spot areas of endometriosis missed by conventional scans, scientists say."
     },
     {
-      "title": "Former FBI director charged with threatening Trump's life in Instagram post",
-      "link": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Apr 2026 00:24:05 GMT",
-      "description": "The new case stems from a 2025 seashell photo posted by the former FBI director that the justice department says calls for violence against Trump."
+      "title": "The city caught in the middle of the big energy shift debate",
+      "link": "https://www.bbc.com/news/articles/c1k239p409po?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 00:08:10 GMT",
+      "description": "Is the UK fumbling the shift away from oil and gas jobs?"
     },
     {
-      "title": "Advert for £49 serum banned over 'five years younger' claim",
-      "link": "https://www.bbc.com/news/articles/c78kl05en7po?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Apr 2026 07:48:16 GMT",
-      "description": "Eucerin asked 160 people to use the serum for four weeks then say how much younger they thought they looked."
+      "title": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
+      "link": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 09:07:47 GMT",
+      "description": "Pro-Palestinian activists say 22 boats carrying aid for Gaza were illegally intercepted in international waters near the Greek island."
     },
     {
-      "title": "Former US officials criticise Pentagon silence on deadly Iran school attack",
-      "link": "https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Apr 2026 02:01:50 GMT",
-      "description": "In the two months since the deadly strike, the Pentagon has said only that the incident is under investigation."
+      "title": "Interest rates expected to be held as uncertainty over Iran war continues",
+      "link": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Apr 2026 23:01:04 GMT",
+      "description": "Future base rate changes are hard to predict as analysts judge the economic impact of the Iran war."
     },
     {
-      "title": "Musk says basis of charitable giving at stake in OpenAI lawsuit",
-      "link": "https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Apr 2026 19:43:02 GMT",
-      "description": "The case over OpenAI's history and public commitments could have major implications for the future of AI."
+      "title": "Video that police denied existed shows woman pinned down",
+      "link": "https://www.bbc.com/news/articles/c5yxley0pp5o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 05:29:41 GMT",
+      "description": "Nadine Buzzard-Quashie speaks for first time about her \"David and Goliath battle\" against two police forces."
     },
     {
-      "title": "Fashion, billionaires and jokes: Inside the White House state dinner",
-      "link": "https://www.bbc.com/news/articles/cr7pr1e3p1do?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Apr 2026 03:48:35 GMT",
-      "description": "The night was filled with designer fashion, luscious bouquets, billionaire guests and joke-filled speeches."
+      "title": "Antisemitism 'a national security emergency', government terror adviser says",
+      "link": "https://www.bbc.com/news/articles/cy820jz41w8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 08:50:18 GMT",
+      "description": "Home Secretary Shabana Mahmood says the issue is being treated as an \"absolute priority\" but does not agree it constitutes a national emergency."
     },
     {
-      "title": "The state visit in pictures",
+      "title": "'We were first on scene' The Jewish security volunteers who rushed to help",
+      "link": "https://www.bbc.com/news/articles/cy52yygkd2lo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Apr 2026 20:55:44 GMT",
+      "description": "\"We got a phone call to the hotline saying that there's a man stabbing people,\" a Shomrim member says."
+    },
+    {
+      "title": "What we know about the attack",
+      "link": "https://www.bbc.com/news/articles/cvgzdn665x6o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 09:08:57 GMT",
+      "description": "Two Jewish men have been stabbed in Golders Green, north London, an attack police have declared a terrorist incident."
+    },
+    {
+      "title": "'I did not expect it': Kenya's Sabastian Sawe welcomed home with jubilant celebrations",
+      "link": "https://www.bbc.com/news/articles/cddp4y0rzjdo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 07:43:33 GMT",
+      "description": "The first man to run a marathon in under two hours in a competitive race received a hero's welcome from supporters and family when he arrived home."
+    },
+    {
+      "title": "Legal experts sceptical of DoJ case against Comey over seashell post",
+      "link": "https://www.bbc.com/news/articles/clyp70l1egeo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Apr 2026 20:18:28 GMT",
+      "description": "Acting AG Todd Blanche said the case was investigated for months, adding \"it's serious when you threaten the president.\""
+    },
+    {
+      "title": "'Watershed' moment as communities gain new rights to buy valuable local buildings",
+      "link": "https://www.bbc.com/news/articles/clypwyzk71po?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 08:00:41 GMT",
+      "description": "Ministers say the new law in England gives power to local people who want to help others."
+    },
+    {
+      "title": "A son overlooked and a jailed tycoon: Inside Samsung's succession drama",
+      "link": "https://www.bbc.com/news/articles/c9d313g91g4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Apr 2026 23:21:44 GMT",
+      "description": "The family dynasty behind Samsung is so complicated it regularly makes headline news in South Korea."
+    },
+    {
+      "title": "The 'Polar Bear Capital' with Arctic gateway ambitions",
+      "link": "https://www.bbc.com/news/articles/cyv1zdey7pmo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Apr 2026 23:35:30 GMT",
+      "description": "Canada is weighing whether a year-round northern trade route to Europe from Churchill, Manitoba, is viable, as climate change speeds Arctic warming."
+    },
+    {
+      "title": "Smiles and wonder: How the US reacted to King Charles",
+      "link": "https://www.bbc.com/news/articles/ce8pd1kr387o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Apr 2026 21:43:52 GMT",
+      "description": "A divided US has come together to watch King Charles' visit with a mix of awe, delight and hope."
+    },
+    {
+      "title": "The subtle messages hidden in the King's speeches",
+      "link": "https://www.bbc.com/news/articles/c5y73ndv83qo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Apr 2026 13:11:33 GMT",
+      "description": "How King Charles III navigated a diplomatic tightrope in his speech to the US Congress."
+    },
+    {
+      "title": "In pictures: Fashion royalty meets British royalty",
       "link": "https://www.bbc.com/news/articles/c86e6z26xdpo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Apr 2026 01:22:32 GMT",
-      "description": "King Charles III and Queen Camilla continued their state visit to the US with a White House state dinner and a speech from the King to Congress."
+      "published": "Wed, 29 Apr 2026 18:21:25 GMT",
+      "description": "King Charles III and Queen Camilla continued their state visit to the US by attending a ceremony at the National September 11 Memorial in New York City."
     },
     {
-      "title": "Watch: Washington rolls out red carpet for royal couple",
-      "link": "https://www.bbc.com/news/videos/cz92w28k0jpo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Apr 2026 02:12:49 GMT",
-      "description": "During the White House state dinner, the King gifted the US president a bell from his WW2 submarine namesake, 'HMS Trump'."
+      "title": "What the royals did on their third day in the US",
+      "link": "https://www.bbc.com/news/videos/ce9pj2ygmkno?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 00:37:45 GMT",
+      "description": "After visiting the 9/11 Memorial, Queen Camilla read to children at the New York Public Library and King Charles visited a community organisation in Harlem."
     },
     {
-      "title": "King Charles gets ovation for Congress speech warning of volatile world",
-      "link": "https://www.bbc.com/news/articles/c87qglyjr44o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Apr 2026 05:55:19 GMT",
-      "description": "He tells US lawmakers his address comes the two nations' relationship is \"more important\" than ever \"in times of great uncertainty\"."
+      "title": "King and Queen lay flowers at 9/11 Memorial in New York",
+      "link": "https://www.bbc.com/news/articles/cd7pxnv4j7ro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 06:30:56 GMT",
+      "description": "King Charles and Queen Camilla on their state visit to the US visit the memorial in New York."
     },
     {
-      "title": "£20m mystery gift buys London Zoo new hospital where you can watch vets work",
-      "link": "https://www.bbc.com/news/articles/cpqpj7wy4x4o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Apr 2026 23:20:26 GMT",
-      "description": "Visitors will be able to watch live veterinary procedures inside a state-of-the-art new animal hospital."
+      "title": "'Attacked 28 times in a day' - BBC visits heavily targeted US-UK base in Iraq",
+      "link": "https://www.bbc.com/news/videos/c5y9wdprpyyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 01:46:52 GMT",
+      "description": "Before the fragile ceasefire in the region, this was one of the most heavily targeted US and UK military bases in the Middle East."
     },
     {
-      "title": "Should I Marry a Murderer? - the love story that uncovered a killer",
-      "link": "https://www.bbc.com/news/articles/ce8j8xxzzjko?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Apr 2026 23:20:46 GMT",
-      "description": "True crime show follows a woman facing a life-changing dilemma after her fiancé makes a shock confession."
+      "title": "Hereditary peers' last hurrah as 700-year-old system abolished",
+      "link": "https://www.bbc.com/news/articles/ckgp5j5gpplo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Apr 2026 18:45:22 GMT",
+      "description": "It comes after legislation to remove their right to sit in the upper chamber passed last month."
     },
     {
-      "title": "Faisal Islam: Why the UAE's exit from Opec is a big deal",
-      "link": "https://www.bbc.com/news/articles/cj4pxyklw1jo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Apr 2026 15:55:46 GMT",
-      "description": "It will have little effect on the current oil blockades, but it could change everything afterwards."
+      "title": "Premier Inn owner to cut 3,800 jobs in savings plan",
+      "link": "https://www.bbc.com/news/articles/c5ye5g9m7mpo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 08:34:24 GMT",
+      "description": "Whitbread says it will also remodel its 197 hotel restaurants as part of a five-year savings plan."
     },
     {
-      "title": "Billie Eilish puts Manchester at centre of new 3D concert film",
-      "link": "https://www.bbc.com/news/articles/c794wv4rd50o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Apr 2026 00:08:59 GMT",
-      "description": "Teaming up with filmmaking giant James Cameron, the superstar creates a unique love letter to her fans."
+      "title": "Saudi Arabia to stop funding LIV Golf next season",
+      "link": "https://www.bbc.com/sport/golf/articles/cp3p9we4v0yo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 06:21:47 GMT",
+      "description": "Saudi Arabia will withdraw its multi-billion dollar backing of LIV Golf at the end of the season, plunging the future of the series into doubt."
     },
     {
-      "title": "Nostalgia wasn't enough: What went wrong at Claire's",
-      "link": "https://www.bbc.com/news/articles/cdxkxxvd3z4o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Apr 2026 14:41:49 GMT",
-      "description": "Experts says Claire's suffered from a perfect storm of issues which has spelled the end for the accessories chain."
+      "title": "Trump says US studying troop cuts in Germany, after Merz criticises war",
+      "link": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 03:25:51 GMT",
+      "description": "His remarks come after the German chancellor criticised the US approach to the war in Iran."
     },
     {
-      "title": "I shouldn't have been made to visit abusive killer mum",
-      "link": "https://www.bbc.com/news/articles/czx2637lxlwo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Apr 2026 05:07:17 GMT",
-      "description": "Kelly Higgins said despite her mother being in jail for murder, she retained rights over her."
-    },
-    {
-      "title": "A record-breaking European semi-final - the antidote to modern football?",
-      "link": "https://www.bbc.com/sport/football/articles/cp3pd2kgy76o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Apr 2026 23:33:30 GMT",
-      "description": "A scintillating semi-final first leg between Paris St-Germain and Bayern Munich left many to wonder if this was the antidote to modern football."
-    },
-    {
-      "title": "Laura Dern replaces Helena Bonham Carter in The White Lotus",
-      "link": "https://www.bbc.com/news/articles/cx218w742jzo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Apr 2026 09:39:10 GMT",
-      "description": "The British actress left the hit show due to creative differences shortly after filming began."
-    },
-    {
-      "title": "US regulator to review Disney broadcast licences after Jimmy Kimmel joke about Melania Trump",
-      "link": "https://www.bbc.com/news/articles/c4g0zwxl3k0o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Apr 2026 19:48:49 GMT",
-      "description": "The move comes as the White House pressures Disney-owned ABC to fire Kimmel after he called Melania an \"expectant widow\"."
-    },
-    {
-      "title": "Endangered antelopes flown to Kenya from Czech zoo in 'historic homecoming'",
-      "link": "https://www.bbc.com/news/articles/c202l3gzvp7o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Apr 2026 09:37:23 GMT",
-      "description": "The mountain bongo is a rare antelope endemic to Kenyan highland forests, with less than 100 in the wild."
-    },
-    {
-      "title": "Trump's face to feature on commemorative US passports",
-      "link": "https://www.bbc.com/news/articles/cr5pn1ngerpo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Apr 2026 23:41:00 GMT",
-      "description": "The passports will be released as part of the 250th anniversary of the US Declaration of Independence."
-    },
-    {
-      "title": "Woman harassed and beeped at by catcallers reports their untaxed van to DVLA",
-      "link": "https://www.bbc.com/news/articles/cx23264mzz6o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Apr 2026 05:12:07 GMT",
-      "description": "Despite feeling scared, Aneesa was determined to stand her ground and started filming the ordeal."
-    },
-    {
-      "title": "Japan zoo staffer allegedly dumps wife's body inside incinerator",
-      "link": "https://www.bbc.com/news/articles/cm2p3gn3yzno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Apr 2026 06:42:29 GMT",
-      "description": "The zoo has had to delay its reopening after a maintenance break, as police investigate the staff member's claim."
+      "title": "Ukraine volunteer claims MP stole idea to donate ventilators - to divert them to Cuba",
+      "link": "https://www.bbc.com/news/articles/clyxydp664xo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 05:03:40 GMT",
+      "description": "Steve Witherden MP has been accused of plagiarism over a letter written to him about the ventilators."
     },
     {
       "title": "BBC News app",
@@ -172,10 +184,10 @@
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests"
     },
     {
-      "title": "The Morgan McSweeney Evidence",
-      "link": "https://www.bbc.co.uk/sounds/play/p0nh439t?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Apr 2026 19:41:00 GMT",
-      "description": "And, MPs vote against Starmer facing parliamentary inquiry over Mandelson vetting."
+      "title": "What The King Did (And Didn’t) Say To Trump",
+      "link": "https://www.bbc.co.uk/sounds/play/p0nh7mdf?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Apr 2026 18:23:00 GMT",
+      "description": "Decoding what the King said to President Trump."
     },
     {
       "title": "Who is Trump’s 'would-be assassin' and were there security failings at DC shooting?",
@@ -184,40 +196,46 @@
       "description": "The US president was evacuated from the White House Correspondents Dinner"
     },
     {
-      "title": "A record-breaking semi-final - the antidote to modern football?",
-      "link": "https://www.bbc.com/sport/football/articles/cp3pd2kgy76o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Apr 2026 23:33:30 GMT",
-      "description": "A scintillating semi-final first leg between Paris St-Germain and Bayern Munich left many to wonder if this was the antidote to modern football."
+      "title": "Parker leaves Burnley after Premier League relegation",
+      "link": "https://www.bbc.com/sport/football/articles/c332vpz2kgmo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 09:28:51 GMT",
+      "description": "Burnley head coach Scott Parker leaves the club following talks with the club's hierarchy."
     },
     {
-      "title": "Grealish recovery 'couldn't be looking any better'",
-      "link": "https://www.bbc.com/sport/football/articles/c3w26nvqne6o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Apr 2026 08:45:55 GMT",
-      "description": "Jack Grealish says his recovery from the operation he had on his season-ending foot injury is going extremely well."
+      "title": "Saudi Arabia to stop funding LIV Golf at end of season",
+      "link": "https://www.bbc.com/sport/golf/articles/cp3p9we4v0yo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 06:21:47 GMT",
+      "description": "Saudi Arabia will withdraw its multi-billion dollar backing of LIV Golf at the end of the season, plunging the future of the series into doubt."
     },
     {
-      "title": "Chelsea's ex-England defender Bright retires",
-      "link": "https://www.bbc.com/sport/football/articles/cvgzd945593o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Apr 2026 09:31:57 GMT",
-      "description": "Chelsea captain Millie Bright announces she has retired from football with immediate effect because of injury."
+      "title": "New Arsenal deal for England captain Williamson",
+      "link": "https://www.bbc.com/sport/football/articles/c9v38vgd2jwo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 09:00:50 GMT",
+      "description": "Leah Williamson is the fourth player to commit her future to the club in recent weeks, with Kim Little, Stina Blackstenius, and Steph Catley also signing new deals."
     },
     {
-      "title": "Former NFL player Mauro dies aged 35",
-      "link": "https://www.bbc.com/sport/american-football/articles/c8d8pze8z74o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Apr 2026 08:31:00 GMT",
-      "description": "Former Arizona Cardinals defensive end Josh Mauro dies at the age of 35."
+      "title": "Lomu, Wilkinson, Pollock? Rugby's search for a crossover star",
+      "link": "https://www.bbc.com/sport/rugby-union/articles/cm2p8nzm81jo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 07:49:55 GMT",
+      "description": "Henry Pollock has signed with Eddie Hearn's talent agency in the hope of boosting his profile, but why has rugby found it so hard to forge mainstream figureheads?"
     },
     {
-      "title": "Wales great North to retire from rugby",
-      "link": "https://www.bbc.com/sport/rugby-union/articles/cwy2wz08l4no?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Apr 2026 07:15:03 GMT",
-      "description": "George North will bring down the curtain on one of the most successful careers in British professional rugby."
+      "title": "Pochettino sad to see Spurs suffering",
+      "link": "https://www.bbc.com/sport/football/articles/c072nm8n47no?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Apr 2026 09:26:56 GMT",
+      "description": "Tottenham's Premier League relegation struggles are \"difficult to accept\", says former manager Mauricio Pochettino."
     },
     {
-      "title": "Can Griezmann end his Atletico love story in style?",
-      "link": "https://www.bbc.com/sport/football/articles/c202l6yxvmxo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Apr 2026 05:07:15 GMT",
-      "description": "Antoine Griezmann's long love affair with Atletico Madrid is drawing to a close, but can the Frenchman bid farewell by securing the Champions League?"
+      "title": "Were Arsenal right to be 'fuming' with refereeing after Atletico draw?",
+      "link": "https://www.bbc.com/sport/football/articles/cr5p4335v7qo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Apr 2026 22:53:34 GMT",
+      "description": "Mikel Arteta was left \"fuming\" with the officials after Arsenal's draw at Atletico Madrid - what did they get right and wrong?"
+    },
+    {
+      "title": "Murphy to face Higgins after dashing Zhao's Crucible hopes",
+      "link": "https://www.bbc.com/sport/snooker/articles/c62er2ey37xo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Apr 2026 22:49:00 GMT",
+      "description": "Shaun Murphy dashes Zhao Xintong's hopes of lifting the Crucible curse with a superb 13-10 win as he moves into the semi-finals of the World Championship."
     }
   ]
 }
