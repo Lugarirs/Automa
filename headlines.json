@@ -1,139 +1,163 @@
 {
-  "scraped_at": "2026-05-06 10:05:25 UTC",
+  "scraped_at": "2026-05-07 10:11:57 UTC",
   "source": "BBC News RSS",
-  "total": 31,
+  "total": 35,
   "headlines": [
     {
-      "title": "Airlines cut 13,000 flights in May as jet fuel prices soar",
-      "link": "https://www.bbc.com/news/articles/cyv24v3mpdmo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 06 May 2026 08:59:55 GMT",
-      "description": "Airlines have removed nearly two million seats from flights over the month, data from Cirium shows."
+      "title": "Two Britons self-isolating in UK after leaving hantavirus cruise ship",
+      "link": "https://www.bbc.com/news/articles/c9wepl8we90o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 07 May 2026 10:01:04 GMT",
+      "description": "A British man is among three people evacuated from the ship while two other Britons are self-isolating in the UK."
     },
     {
-      "title": "BBC traces how 10 minutes of Israeli bombing brought devastation to Lebanon",
-      "link": "https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 05 May 2026 21:22:31 GMT",
-      "description": "The bombs started falling at 14:15 in the afternoon - bringing chaos and destruction across the country."
+      "title": "Iran considering US proposal as Trump says war will be 'over quickly'",
+      "link": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 07 May 2026 04:06:33 GMT",
+      "description": "Mediator Pakistan says it is \"endeavouring to convert this ceasefire into a permanent end to this war\"."
     },
     {
-      "title": "Watch: The Lebanese neighbourhoods shattered by Israel's ten minute bombing raid",
-      "link": "https://www.bbc.com/news/videos/c0l2z28d6elo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 06 May 2026 06:39:27 GMT",
-      "description": "The BBC’s Nawal Al-Maghafi has been piecing together what happened on 8 April 2026, after one of the deadliest chapters in the country’s recent history."
+      "title": "The AI fitness instructors selling unreal gains",
+      "link": "https://www.bbc.com/sport/articles/c5ye7dnxv86o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 07 May 2026 05:15:08 GMT",
+      "description": "A BBC Sport investigation finds misleading adverts for fitness apps that use AI-generated instructors to make exaggerated claims."
     },
     {
-      "title": "Catherine to return to overseas visits with Italy trip",
-      "link": "https://www.bbc.com/news/articles/c707k90lplno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 06 May 2026 06:49:06 GMT",
-      "description": "The Princess of Wales will go to Italy next week on her first official overseas engagement for more than three years."
+      "title": "Watch: Drone delivers first Amazon parcels in UK",
+      "link": "https://www.bbc.com/news/videos/c0l21992z75o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 07 May 2026 07:54:50 GMT",
+      "description": "The tech giant says it hopes to slowly expand the service as the demand for ultra-fast deliveries grows."
     },
     {
-      "title": "Campaigning sprint finish ahead of elections around Britain tomorrow",
-      "link": "https://www.bbc.com/news/articles/c759z9w7z3yo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 06 May 2026 00:15:28 GMT",
-      "description": "A mesmerising mix of results are expected after candidates make their final pitches, our political editor writes."
+      "title": "Serving Met officer and four ex-officers investigated for handling of Al Fayed allegations",
+      "link": "https://www.bbc.com/news/articles/crepwqzppqgo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 07 May 2026 05:01:20 GMT",
+      "description": "A serving officer and four former officers are being investigated over the handling of reports against the businessman."
     },
     {
-      "title": "Met forms team after attacks on Jewish community",
-      "link": "https://www.bbc.com/news/articles/ceqp9zj9j9eo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 06 May 2026 08:54:59 GMT",
-      "description": "The move comes after a series of arson attacks at Jewish sites, as well as a double stabbing."
+      "title": "Woman covertly filmed for 'humiliating' social media content - then told to pay",
+      "link": "https://www.bbc.com/news/articles/cwy87wqz0q9o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 07 May 2026 04:57:42 GMT",
+      "description": "Alice says the video was posted on social media and viewed about 40,000 times."
     },
     {
-      "title": "'I thought he was going to hit me,' OpenAI co-founder says of Musk",
-      "link": "https://www.bbc.com/news/articles/cn7pg8ymgezo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 06 May 2026 07:10:16 GMT",
-      "description": "OpenAI president Greg Brockman spoke during the second week of a month-long trial between Elon Musk and OpenAI's Sam Altman."
+      "title": "German tourist wins payout after losing sun lounger race",
+      "link": "https://www.bbc.com/news/articles/c5y72g09d7jo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 07 May 2026 00:41:21 GMT",
+      "description": "The man sued his tour operator for allowing people to reserve sun loungers with towels despite a hotel ban on the practice."
     },
     {
-      "title": "The league is the dream - but is this Arsenal's moment in Europe?",
-      "link": "https://www.bbc.com/sport/football/articles/cj0p2p60vl2o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 05 May 2026 23:29:43 GMT",
-      "description": "All the talk has been about Arsenal's Premier League title challenge - but is this now the Gunners' time to conquer Europe?"
+      "title": "Shell latest oil giant to see profits surge due to Iran war impact",
+      "link": "https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 07 May 2026 09:38:04 GMT",
+      "description": "The energy giant's profits jump by nearly a quarter as it benefits from the recent volatility in the oil price"
     },
     {
-      "title": "Former council leader jailed for sexually assaulting young men",
-      "link": "https://www.bbc.com/news/articles/c5yrwd2n3weo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 06 May 2026 09:36:55 GMT",
-      "description": "Jordan Linden stood down as leader of North Lanarkshire Council in 2022 after the allegations emerged."
+      "title": "Fifa president offers $2m World Cup ticket buyers 'a hot dog and a Coke'",
+      "link": "https://www.bbc.com/sport/football/articles/czx2nk2q7lgo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 07 May 2026 07:36:00 GMT",
+      "description": "Fifa president Gianni Infantino says he will \"personally bring a hot dog and a Coke\" to anyone who buys a World Cup final ticket for $2m."
     },
     {
-      "title": "Next to hike prices by up to 8% outside Europe due to Iran war costs",
-      "link": "https://www.bbc.com/news/articles/cjrp8e0rjpeo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 06 May 2026 08:43:47 GMT",
-      "description": "No extra price rises are slated for the UK, which saw better than expected sales in the first quarter."
+      "title": "What you need to know about the 7 May elections in England, Scotland and Wales",
+      "link": "https://www.bbc.com/news/articles/c62nq678nyzo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 05 May 2026 15:38:43 GMT",
+      "description": "Millions will vote in parliamentary elections in Scotland and Wales, and local elections in England."
     },
     {
-      "title": "Dressed for succession: What Kim Ju Ae's outfits tell us about North Korea",
-      "link": "https://www.bbc.com/news/articles/cy82x9wve2xo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 05 May 2026 22:44:35 GMT",
-      "description": "Kim Ju Ae's evolving fashion is one of the signs that she is being groomed as North Korea's next leader."
+      "title": "Do I need a photo ID and my polling card to vote in the elections?",
+      "link": "https://www.bbc.com/news/articles/czjg288xk93o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 07 May 2026 10:07:49 GMT",
+      "description": "Voters in England only will have to show photo ID while polling cards are not essential."
     },
     {
-      "title": "Cruise passengers tell of life on board stranded ship after hantavirus outbreak",
-      "link": "https://www.bbc.com/news/articles/clype7ededzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 05 May 2026 15:40:36 GMT",
-      "description": "While passengers onboard the MV Hondius say the situation is calm, they face days at sea as officials warn the disease may have spread."
+      "title": "Who can I vote for in my area?",
+      "link": "https://www.bbc.com/news/articles/c0ljrp76ywxo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 06 May 2026 16:51:29 GMT",
+      "description": "Elections are taking place across the UK. Find out whether there is one where you live and who you can vote for."
     },
     {
-      "title": "Spanish superstar Rosalía reaches for heaven as her tour hits London",
-      "link": "https://www.bbc.com/news/articles/c1e2zy2qy6jo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 06 May 2026 07:34:42 GMT",
-      "description": "The Spanish star delights fans as she brings her highly anticipated Lux tour to the UK."
+      "title": "How does the BBC report polling day?",
+      "link": "https://www.bbc.com/news/articles/cy417dvg80ro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 16 Apr 2026 13:50:11 GMT",
+      "description": "The BBC cannot report on campaigning or election issues while polls are open on Thursday 7 May."
     },
     {
-      "title": "To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city",
-      "link": "https://www.bbc.com/news/articles/c893xj41zwdo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 06 May 2026 04:53:31 GMT",
-      "description": "People in the Ukrainian city of Oleshky say they have been cut off from fresh supplies of food or medicine for months."
+      "title": "How cameras are being used to tackle abuse in nurseries",
+      "link": "https://www.bbc.com/news/articles/czx2kn4n5wxo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 06 May 2026 22:59:03 GMT",
+      "description": "With reports of abuse and deaths fuelling concern among parents, questions are growing over whether CCTV can offer real protection for children - or not."
     },
     {
-      "title": "What is Trump's 'Project Freedom' in the Strait of Hormuz?",
-      "link": "https://www.bbc.com/news/articles/c4g437depzpo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 06 May 2026 02:23:36 GMT",
-      "description": "The US president said the operation has been paused after starting on Monday."
+      "title": "Ukraine is a global surrogacy hub - but that could be about to end",
+      "link": "https://www.bbc.com/news/articles/clyp4kp687go?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 07 May 2026 05:02:12 GMT",
+      "description": "Ukraine is considering a law that would effectively ban foreigners from accessing surrogacy in the country."
     },
     {
-      "title": "Watch: How Heidi Klum became a living Met Gala sculpture",
-      "link": "https://www.bbc.com/news/videos/c70vqv8p1jwo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 05 May 2026 22:11:14 GMT",
-      "description": "Prosthetic make-up designer Mike Marino reveals how he created the supermodel's show-stopping costume for the annual event in New York."
+      "title": "Satellite images reveal key bridge linking North Korea and Russia is almost complete",
+      "link": "https://www.bbc.com/news/articles/cwy2e3wwd55o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 06 May 2026 23:25:24 GMT",
+      "description": "The road crossing is the latest sign of the deepening relationship between Pyongyang and Moscow."
     },
     {
-      "title": "Finding soldier Tom: Solving family mystery of WW2 Soviet prisoner of war",
-      "link": "https://www.bbc.com/news/articles/cdjpdzvzy41o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 05 May 2026 23:24:33 GMT",
-      "description": "He was saved by a Jersey family after escaping a Nazi labour camp, but after the war he disappeared in the Soviet Union."
+      "title": "The no-nonsense judge calling the shots in Musk v Altman trial",
+      "link": "https://www.bbc.com/news/articles/cx214rnlpn7o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 06 May 2026 23:52:48 GMT",
+      "description": "The feud has fuelled a costly showdown between two tech titans."
     },
     {
-      "title": "Oil prices ease as US pauses Project Freedom to seek deal with Iran",
-      "link": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 06 May 2026 03:05:16 GMT",
-      "description": "President Donald Trump raised hopes of an agreement between the US and Iran after days of escalation."
+      "title": "When Scotland qualified for the World Cup... but didn't go",
+      "link": "https://www.bbc.com/news/articles/c0k2jjmgj3xo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 07 May 2026 05:20:13 GMT",
+      "description": "Scotland waited 28 years to be part of this year's World Cup - back in 1950 they turned it down."
     },
     {
-      "title": "Bryson DeChambeau to focus on YouTube if LIV Golf fails",
-      "link": "https://www.bbc.com/sport/golf/articles/cg5pyj9pp0go?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 06 May 2026 06:22:35 GMT",
-      "description": "Bryson DeChambeau says he will focus on growing his YouTube channel and only \"play tournaments that want me\" if LIV Golf does not survive."
+      "title": "'Enjoy the show. Ignore the war': Venice Biennale faces backlash after including Russia",
+      "link": "https://www.bbc.com/news/articles/cvgz14e1zeno?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 06 May 2026 21:29:18 GMT",
+      "description": "Protests have taken place at the prestigious arts fair over the inclusion of Russia for the first time since the full-scale invasion of Ukraine."
     },
     {
-      "title": "Apple to pay up to $95 to some US iPhone buyers over AI lawsuit",
-      "link": "https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 06 May 2026 00:15:14 GMT",
-      "description": "Claims from last year said the tech firm’s advertising of Apple Intelligence fooled iPhone buyers."
+      "title": "How loan shark threats keep victims like me silent",
+      "link": "https://www.bbc.com/news/articles/cgrllw41dl4o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 07 May 2026 05:19:53 GMT",
+      "description": "A meat cleaver and samurai sword are among items seized from suspects, shown exclusively to the BBC."
     },
     {
-      "title": "UK government discusses hosting Olympics in 2040s",
-      "link": "https://www.bbc.com/sport/olympics/articles/c74dedq91vdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 05 May 2026 23:01:22 GMT",
-      "description": "The UK government says it is in \"discussions about supporting potential bids\" to host the Olympics and Paralympics in the 2040s."
+      "title": "Looksmaxxing influencer Clavicular charged over alleged alligator shooting",
+      "link": "https://www.bbc.com/news/articles/c62ex04n876o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 07 May 2026 04:50:18 GMT",
+      "description": "The looksmaxxing influencer allegedly livestreamed himself firing gunshots from an airboat at an alligator."
     },
     {
-      "title": "Four-acre traveller site 'illegally built at weekend'",
-      "link": "https://www.bbc.com/news/articles/c4g734lk1pdo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 06 May 2026 05:42:09 GMT",
-      "description": "Residents describe how a field in their village was rapidly concreted over within four days."
+      "title": "Watch: Passengers told virus-hit ship 'not infectious' after first death",
+      "link": "https://www.bbc.com/news/videos/cx21gp04gglo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 07 May 2026 06:13:24 GMT",
+      "description": "YouTuber Ruhi Çenet was on board the ship, and filmed the announcement made on 12 April."
+    },
+    {
+      "title": "Islamic State-linked women arrive home in Australia from Syria",
+      "link": "https://www.bbc.com/news/articles/czj2emlv2kjo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 07 May 2026 10:04:50 GMT",
+      "description": "A group of nine women and children has landed in Melbourne while another woman and her child arrived in Sydney."
+    },
+    {
+      "title": "Harry Potter TV series renewed for second season at HBO",
+      "link": "https://www.bbc.com/news/articles/cyv2em4r3mno?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 07 May 2026 02:11:59 GMT",
+      "description": "Filming is scheduled for autumn later this year and will likely adapt the second book in JK Rowling's series, The Chamber of Secrets."
+    },
+    {
+      "title": "Traveller site construction 'in breach of law'",
+      "link": "https://www.bbc.com/news/articles/cy52nlge0wdo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 07 May 2026 05:15:32 GMT",
+      "description": "A council orders all work on the land, which began on bank holiday weekend, to cease immediately."
+    },
+    {
+      "title": "Driver arrested after chasing down child cyclist on footpath",
+      "link": "https://www.bbc.com/news/videos/c9wep78epz8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 07 May 2026 08:13:36 GMT",
+      "description": "Video captures young boy on bike fleeing car that mounts footpath in Washington State"
     },
     {
       "title": "BBC News app",
@@ -142,52 +166,52 @@
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests"
     },
     {
-      "title": "Is the US-Iran War Restarting?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0njf7kr?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 05 May 2026 17:37:00 GMT",
-      "description": "Is the US-Iran ceasefire under threat after repeat attacks in Strait of Hormuz?"
+      "title": "Electioncast: It’s Time To Vote!",
+      "link": "https://www.bbc.co.uk/sounds/play/p0njf9sj?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 06 May 2026 19:08:00 GMT",
+      "description": "Adam, Laura, Chris, James and Felicity bring you one last update before the polls open."
     },
     {
-      "title": "Who could lead the Democrats into 2028?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0nhlhsg?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 04 May 2026 05:00:00 GMT",
-      "description": "The Americast team answer your questions live on stage!"
+      "title": "Is Donald Trump close to finishing his war with Iran?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0njpzv3?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 06 May 2026 18:02:00 GMT",
+      "description": "Or has the US president lost control?"
     },
     {
-      "title": "Smaller balls for women's rugby 'worst decision ever'",
-      "link": "https://www.bbc.com/sport/rugby-union/articles/ckgpn3pdzr7o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 06 May 2026 05:36:25 GMT",
-      "description": "England fly-half Zoe Harrison says the introduction of smaller balls for this autumn's WXV Global Series is \"the worst decision someone has ever made\"."
+      "title": "From ego-ridden team to complete package - why PSG pose ultimate test",
+      "link": "https://www.bbc.com/sport/football/articles/cx218q541lvo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 06 May 2026 22:58:01 GMT",
+      "description": "Luis Enrique's expertise at rebuilding a culture as well as a team means Arsenal will confront the complete package when they meet holders PSG in the Champions League final."
     },
     {
-      "title": "DeChambeau to focus on YouTube if LIV Golf fails",
-      "link": "https://www.bbc.com/sport/golf/articles/cg5pyj9pp0go?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 06 May 2026 06:22:35 GMT",
-      "description": "Bryson DeChambeau says he will focus on growing his YouTube channel and only \"play tournaments that want me\" if LIV Golf does not survive."
+      "title": "Liverpool reduce planned rise in ticket prices",
+      "link": "https://www.bbc.com/sport/football/articles/c2k2g90y931o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 07 May 2026 09:07:32 GMT",
+      "description": "Liverpool cut the size of their planned rise in ticket prices for the next couple of seasons after fan protests."
     },
     {
-      "title": "Where do Bayern's prolific trio rank in greatest front threes ever?",
-      "link": "https://www.bbc.com/sport/football/articles/cjep34l5qd7o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 06 May 2026 05:19:42 GMT",
-      "description": "Bayern Munich's attack of Harry Kane, Luis Diaz and Michael Olise has hit 100 goals this season. With the second leg of the Champions League semi-final with PSG coming up, BBC Sport compares the two front threes."
+      "title": "Did PSG 'get away' with handball decisions?",
+      "link": "https://www.bbc.com/sport/football/videos/cz92nezdjlgo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 06 May 2026 22:39:37 GMT",
+      "description": "BBC Sport pundits Nedum Onuoha, Guillem Balague and Stephen Warnock analyse two contentious handball decisions that weren't awarded against Paris St-Germain, including a potential red card for Nuno Mendes and a possible penalty for Bayern Munich."
     },
     {
-      "title": "Chelsea owners face moment of reckoning amid fan backlash",
-      "link": "https://www.bbc.com/sport/football/articles/cy72gpv573no?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 06 May 2026 05:49:33 GMT",
-      "description": "The moment of reckoning has arrived for Chelsea's BlueCo ownership, which is now the target of an increasingly angry fanbase."
+      "title": "Is 15-year-old IPL wonderkid ready to play for India?",
+      "link": "https://www.bbc.com/sport/cricket/articles/cd6p5vvqne2o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 07 May 2026 05:59:20 GMT",
+      "description": "What makes Indian sensation Vaibhav Sooryavanshi so effective and what could be next for the 15-year-old after his Indian Premier League success?"
     },
     {
-      "title": "The league is the dream - but is this Arsenal's moment in Europe?",
-      "link": "https://www.bbc.com/sport/football/articles/cj0p2p60vl2o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 05 May 2026 23:29:43 GMT",
-      "description": "All the talk has been about Arsenal's Premier League title challenge - but is this now the Gunners' time to conquer Europe?"
+      "title": "Villa's Staniforth 'at ease' with decision to retire",
+      "link": "https://www.bbc.com/sport/football/articles/cp3pw8v0qzno?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 07 May 2026 09:08:05 GMT",
+      "description": "Aston Villa midfielder and former England international Lucy Staniforth did not hesitate when she made the decision to retire from football at the end of the season."
     },
     {
-      "title": "Why are so many British players injured?",
-      "link": "https://www.bbc.com/sport/tennis/articles/cd6p43qgypgo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 06 May 2026 07:55:42 GMT",
-      "description": "British tennis players have struggled with injuries throughout the clay-court season - but why?"
+      "title": "Infantino's hot dog & soft drink pledge over $2m ticket",
+      "link": "https://www.bbc.com/sport/football/articles/czx2nk2q7lgo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 07 May 2026 07:36:00 GMT",
+      "description": "Fifa president Gianni Infantino says he will \"personally bring a hot dog and a Coke\" to anyone who buys a World Cup final ticket for $2m."
     }
   ]
 }
