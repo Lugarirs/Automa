@@ -1,163 +1,139 @@
 {
-  "scraped_at": "2026-05-08 09:02:23 UTC",
+  "scraped_at": "2026-05-09 09:04:54 UTC",
   "source": "BBC News RSS",
-  "total": 37,
+  "total": 34,
   "headlines": [
     {
-      "title": "Chris Mason: What the results tell us so far",
-      "link": "https://www.bbc.com/news/articles/cvgz8d556zpo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 08 May 2026 08:42:40 GMT",
-      "description": "So far, we have a chunk of the results around the parts of England that have had contests and no results yet from Scotland or Wales."
+      "title": "Historic win for SNP but change and challenges ahead at Holyrood",
+      "link": "https://www.bbc.com/news/articles/c9364lvpz2lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 09 May 2026 07:41:40 GMT",
+      "description": "John Swinney will return as first minister after a fifth Scottish election victory for the SNP."
     },
     {
-      "title": "What early election results show us in maps and charts",
-      "link": "https://www.bbc.com/news/articles/c0ljrp76ywxo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 08 May 2026 08:58:20 GMT",
-      "description": "See which parties are winning - and losing – across the UK and who’s won in your area, using our interactive tool."
+      "title": "Analysis: Many Labour MPs are blaming the boss for elections body blow",
+      "link": "https://www.bbc.com/news/articles/c5yxr7zng6po?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 08 May 2026 20:54:06 GMT",
+      "description": "Sir Keir Starmer is facing what looks like a coordinated attempt to get him to set a timetable for his departure."
     },
     {
-      "title": "John Curtice: First results shows how fragmented UK politics has become",
-      "link": "https://www.bbc.com/news/articles/ce8p4yn448vo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 08 May 2026 08:13:16 GMT",
-      "description": "Reform are the winners so far, with more results still to be declared."
+      "title": "Reform election gains show shift in British politics, says Farage",
+      "link": "https://www.bbc.com/news/articles/c0r255xlr59o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 08 May 2026 22:34:46 GMT",
+      "description": "Labour and the Conservatives suffer losses at the expense of Reform across England."
     },
     {
-      "title": "When will we know the full results?",
-      "link": "https://www.bbc.com/news/articles/c62nq678nyzo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 08 May 2026 08:48:36 GMT",
-      "description": "Millions have voted in parliamentary elections in Scotland and Wales, and local elections in England."
+      "title": "No leadership pressure on Badenoch despite Tory losses",
+      "link": "https://www.bbc.com/news/articles/cnvp5rqrde3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 08 May 2026 22:26:48 GMT",
+      "description": "The Tories had a grim night at the polls, losing seats to both Reform and the Liberal Democrats."
     },
     {
-      "title": "Quiz: Which facial feature almost stopped Attenborough's TV career?",
-      "link": "https://www.bbc.com/news/articles/c1e2pdw1808o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 07 May 2026 10:14:14 GMT",
-      "description": "Sir David Attenborough turns 100. How well do you know the broadcaster's life and career?"
+      "title": "Polanski says two-party politics 'dead' after election gains for Greens",
+      "link": "https://www.bbc.com/news/articles/c4g08e97523o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 08 May 2026 19:05:16 GMT",
+      "description": "The Greens secured their first-ever elected mayors and took control of councils, including Norwich."
     },
     {
-      "title": "David Attenborough says he is 'overwhelmed' by 100th birthday messages",
-      "link": "https://www.bbc.com/news/articles/cp3pww9g0p5o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 07 May 2026 16:00:10 GMT",
-      "description": "The legendary wildlife broadcaster thanks fans in a message the day before he reaches his centenary."
+      "title": "Anger and resignation in Tenerife as hantavirus ship approaches",
+      "link": "https://www.bbc.com/news/articles/c5y0gkg038yo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 09 May 2026 00:15:58 GMT",
+      "description": "Some on the Spanish island worry the imminent arrival of the MV Hondius could pose a health risk."
     },
     {
-      "title": "Third British national has suspected hantavirus infection, government says",
-      "link": "https://www.bbc.com/news/articles/c5yr41vq2ero?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 08 May 2026 06:03:23 GMT",
-      "description": "The patient is on the remote Atlantic island of Tristan da Cunha, which was visited by the cruise ship in April."
+      "title": "William hails Sir David Attenborough's 'remarkable milestone' at 100th birthday concert",
+      "link": "https://www.bbc.com/news/articles/cq5pwz743j9o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 08 May 2026 21:54:27 GMT",
+      "description": "The naturalist's seven-decade career was marked with a special concert at the Royal Albert Hall."
     },
     {
-      "title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
-      "link": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 08 May 2026 05:57:08 GMT",
-      "description": "Iran accuses the US of violating the truce, alleging it targeted an oil tanker and carried out attacks on coastal areas."
+      "title": "More than 200,000 migrants have crossed Channel in small boats since 2018",
+      "link": "https://www.bbc.com/news/articles/cx249y1jew2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 09 May 2026 08:43:43 GMT",
+      "description": "More than 6,000 people crossed the Channel so far this year, 36% below the total for the same time last year"
     },
     {
-      "title": "South East Water boss quits after thousands of homes left without water",
-      "link": "https://www.bbc.com/news/articles/cn7pxm13lrro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 08 May 2026 08:40:43 GMT",
-      "description": "David Hinton faced criticism after outages affected tens of thousands of people in Kent and Sussex."
+      "title": "Putin denounces Nato at scaled back Victory Day parade",
+      "link": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 09 May 2026 08:27:48 GMT",
+      "description": "The Russian leader used his annual speech to justify his so-called special military operation in Ukraine."
     },
     {
-      "title": "Celebrities send well wishes to Bonnie Tyler as singer in induced coma after surgery",
-      "link": "https://www.bbc.com/news/articles/c707edw539ro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 08 May 2026 07:04:43 GMT",
-      "description": "The Total Eclipse of the Heart singer was rushed to hospital for emergency surgery in Portugal on Wednesday."
+      "title": "'Illegal' traveller plot was listed for sale on Facebook",
+      "link": "https://www.bbc.com/news/articles/c0k2g81v6n8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 09 May 2026 04:43:52 GMT",
+      "description": "The four-acre site has been at the heart of an ongoing row with locals since Friday."
     },
     {
-      "title": "Man charged after allegedly threatening Andrew Mountbatten-Windsor",
-      "link": "https://www.bbc.com/news/articles/c4g0d1wp6g8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 08 May 2026 08:38:54 GMT",
-      "description": "Alex Jenkinson, 39, of Stowmarket, Suffolk, has been remanded in custody ahead of a court appearance."
+      "title": "The UK is set for a staycation summer - and there are plenty of hidden gems",
+      "link": "https://www.bbc.com/news/articles/cgjpv9pdnpwo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 08 May 2026 23:30:12 GMT",
+      "description": "Seasoned staycationers share their favourite spots as Airbnb and Booking.com say interest in UK stays are up on last year."
     },
     {
-      "title": "English clubs reach all three European finals for first time",
-      "link": "https://www.bbc.com/sport/football/articles/c5yr4vle9w2o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 07 May 2026 22:24:29 GMT",
-      "description": "English teams have reached the finals of three different European competitions in the same season for the first time."
+      "title": "Anti-work anthems, Boy George and controversial lyrics: A guide to all 35 Eurovision songs",
+      "link": "https://www.bbc.com/news/articles/ce8pmrv2p1mo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 08 May 2026 23:01:55 GMT",
+      "description": "From dancefloor bangers to heartfelt ballads, here are the highlights and low points of Eurovision."
     },
     {
-      "title": "The companies making billions from the Iran war",
-      "link": "https://www.bbc.com/news/articles/ce8pyyz5e0ro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 08 May 2026 08:13:07 GMT",
-      "description": "Through surging profits or soaring share prices, the war has been a boon for some firms."
+      "title": "Move over matcha. Hojicha is coming to a cafe near you",
+      "link": "https://www.bbc.com/news/articles/c232kzgm175o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 08 May 2026 23:01:44 GMT",
+      "description": "From lattes to ice-cream, the Japanese tea is popping up more and more on menus across the UK."
     },
     {
-      "title": "Live from your living room: The rise of concert films and livestreamed gigs",
-      "link": "https://www.bbc.com/news/articles/c1j74x9pe0eo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 07 May 2026 23:39:48 GMT",
-      "description": "Can't see your favourite act in the flesh? There might be a solution - but not everyone's a fan."
+      "title": "Car crashes into 'multiple pedestrians' in Nottinghamshire",
+      "link": "https://www.bbc.com/news/articles/cgrpgp91rwwo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 09 May 2026 08:30:07 GMT",
+      "description": "One person suffers life-threatening injuries as police work to trace the driver."
     },
     {
-      "title": "Instagram privacy tech is turned off today - what does this mean for your DMs?",
-      "link": "https://www.bbc.com/news/articles/clypzxl3lvqo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 08 May 2026 01:31:55 GMT",
-      "description": "The platform said it would remove end-to-end encrypted messages, a major U‑turn by parent company Meta."
+      "title": "Hungary's new PM to be sworn in during 'regime change' party",
+      "link": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 09 May 2026 00:46:16 GMT",
+      "description": "Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán."
     },
     {
-      "title": "The Papers: 'Official exposed as Chinese spy' and 'Time for Starmer to stand aside'",
-      "link": "https://www.bbc.com/news/articles/c78qep2jvj7o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 08 May 2026 00:19:00 GMT",
-      "description": "Several of the papers report that a Home Office official has been found guilty of working for Chinese intelligence."
+      "title": "The Papers: 'Labour's historic battering' and 'Vernon and Tess split'",
+      "link": "https://www.bbc.com/news/articles/cp8pvj9mzjdo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 08 May 2026 23:00:47 GMT",
+      "description": "Saturday's papers lead with calls for the PM to quit after Labour's local election losses and Tess Daly and Vernon Kay's marriage split."
     },
     {
-      "title": "Weekly quiz: Who was this mystery masked star at the Met Gala?",
-      "link": "https://www.bbc.com/news/articles/clypnwd98peo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 07 May 2026 17:21:47 GMT",
-      "description": "How much attention did you pay to what happened in the world over the past seven days?"
+      "title": "The UFO community has been waiting for answers. Has the Pentagon delivered?",
+      "link": "https://www.bbc.com/news/articles/c707zjg3p42o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 09 May 2026 03:04:49 GMT",
+      "description": "Those within the UFO community spent their day scrutinizing the new documents, images and videos released by the Pentagon."
     },
     {
-      "title": "Hantavirus survivor says sickness was like 'hell on earth'",
-      "link": "https://www.bbc.com/news/articles/cy72xmk1114o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 07 May 2026 13:57:43 GMT",
-      "description": "Two survivors who caught the hantavirus years earlier told the BBC they both felt lucky to be alive."
+      "title": "Margaret Thatcher assassination story by Hilary Mantel gets stage premiere in Liverpool",
+      "link": "https://www.bbc.com/news/articles/cz908vyvwpqo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 09 May 2026 00:02:08 GMT",
+      "description": "In The Assassination of Margaret Thatcher, the award-winning author imagined a plot to kill the PM."
     },
     {
-      "title": "Anti-war protests rock Japan as PM pushes for stronger defence",
-      "link": "https://www.bbc.com/news/articles/c4g93v8jqnyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 07 May 2026 22:15:51 GMT",
-      "description": "Japan's largest anti-war protests in decades highlight a population divided over changes to its pacifist constitution."
+      "title": "The car garage that became an unusual fashion house... for Kim Kardashian",
+      "link": "https://www.bbc.com/news/articles/crrp0nxn9y4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 05 May 2026 19:02:27 GMT",
+      "description": "A Kent bodyshop painted the striking orange breastplate she wore to the Met Gala after previously fixing its designers' car."
     },
     {
-      "title": "Rebel Wilson accused of 'complete revision of history' as defamation case closes",
-      "link": "https://www.bbc.com/news/articles/cdjpyjy98xyo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 08 May 2026 06:33:35 GMT",
-      "description": "The Bridesmaids star claims an actress retracted a complaint about sexual harassment by a producer."
+      "title": "Farmer's shock as sheep gives birth to seven lambs - one shy of world record",
+      "link": "https://www.bbc.com/news/articles/c9q34d030pdo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 08 May 2026 05:17:59 GMT",
+      "description": "While twins and triplets are common, seven lambs being born to one ewe is said to be \"incredibly rare\"."
     },
     {
-      "title": "Woman's joy at rare quintuplets after 12 years trying for a baby",
-      "link": "https://www.bbc.com/news/articles/c893y34zlv0o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 08 May 2026 06:48:20 GMT",
-      "description": "The woman, 35, says she was praying for a baby and was \"overjoyed\" to be \"blessed with five at once\"."
+      "title": "Boy, 8, showered with gifts after calming plane passenger with singing and football cards",
+      "link": "https://www.bbc.com/news/articles/ce3plnpx0y2o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 05 May 2026 11:55:03 GMT",
+      "description": "Phoenix has been sent gifts from as far away as Germany after his actions prevented the flight being diverted."
     },
     {
-      "title": "Football club owners charged with human trafficking",
-      "link": "https://www.bbc.com/news/articles/c4g09pdx82go?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 08 May 2026 07:01:59 GMT",
-      "description": "Barrie Drewitt-Barlow and husband Scott are accused of sexual exploitation and rape."
-    },
-    {
-      "title": "Five killed in huge fire at packed Mexico fairground",
-      "link": "https://www.bbc.com/news/articles/cq6py38q81ro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 07 May 2026 21:08:35 GMT",
-      "description": "The blaze in the south-eastern city of Villahermosa erupted during a concert reportedly attended by some 135,000 people."
-    },
-    {
-      "title": "Crowds cheer China's new snooker star on return from championship win",
-      "link": "https://www.bbc.com/news/articles/c62ex9ykl53o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 07 May 2026 20:59:43 GMT",
-      "description": "Wu Yize, 22, receives a rock star's welcome after becoming second-youngest player to win a world title."
-    },
-    {
-      "title": "Home baker shuts cake shed over 'ridiculous' rules",
-      "link": "https://www.bbc.com/news/articles/ce8p56j5rxxo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 08 May 2026 05:19:05 GMT",
-      "description": "Natalie Brook, 37, says she has stopped selling cakes from her garden over street trading rules."
-    },
-    {
-      "title": "US to revoke passports of parents with child support debt",
-      "link": "https://www.bbc.com/news/articles/c62r52l107po?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 08 May 2026 02:57:48 GMT",
-      "description": "Parents who have outstanding debt of more than $2,500 (€1,844) in child support payments could be impacted."
+      "title": "'Bumpy' the orphaned baby hippo to be hand-reared at Kenyan sanctuary",
+      "link": "https://www.bbc.com/news/articles/c1e2zev6754o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 07 May 2026 13:56:34 GMT",
+      "description": "The calf was just days old when it was found desperately nudging its dead mother at a lake last weekend."
     },
     {
       "title": "BBC News app",
@@ -166,64 +142,70 @@
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests"
     },
     {
-      "title": "Electioncast: It’s Time To Vote!",
-      "link": "https://www.bbc.co.uk/sounds/play/p0njf9sj?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 06 May 2026 19:08:00 GMT",
-      "description": "Adam, Laura, Chris, James and Felicity bring you one last update before the polls open."
+      "title": "Electioncast: The winners and the losers",
+      "link": "https://www.bbc.co.uk/sounds/play/p0njfw7p?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 08 May 2026 23:10:00 GMT",
+      "description": "Labour suffers historic losses across UK elections."
     },
     {
-      "title": "Is Donald Trump close to finishing his war with Iran?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0njpzv3?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 06 May 2026 18:02:00 GMT",
-      "description": "Or has the US president lost control?"
+      "title": "Trump takes his revenge on disloyal Republicans",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8lz1?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 08 May 2026 12:31:00 GMT",
+      "description": "The US president targets his political enemies in Kentucky and Indiana"
     },
     {
-      "title": "Paul McCartney’s 'lost bass’ and its remarkable return after 51 years",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m002v46m?at_mid=LGSOf6Jgtl&at_campaign=McCartney_The_Hunt_for_the_Lost_Bass&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002v46m&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=McCartney_The_Hunt_for_the_Lost_Bass&at_bbc_team=BBC",
-      "published": "Sat, 11 Apr 2026 21:15:47 GMT",
-      "description": "The story of Paul McCartney’s original Höfner bass and the fan-powered quest to find it."
+      "title": "Fast-paced, witty and smart coming-of-age comedy",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0014bvq/booksmart?at_mid=0yA8wbq8bt&at_campaign=Booksmart&at_medium=display_ad&at_campaign_type=owned&at_audience_id=SS&at_product=iplayer&at_brand=m0014bvq&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Booksmart&at_bbc_team=BBC",
+      "published": "Tue, 28 Apr 2026 22:42:32 GMT",
+      "description": "Two booksmart girls try to cram in four years of fun on the eve of their graduation."
     },
     {
-      "title": "Vibrant and victorious - Villa ready to end 30-year trophy drought",
-      "link": "https://www.bbc.com/sport/football/articles/cddpy80r5dgo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 07 May 2026 23:06:44 GMT",
-      "description": "When Unai Emery arrived at Aston Villa he declared he wanted to win trophies. He is now just a game away from silverware after a crushing Europa League semi-final win against Nottingham Forest."
+      "title": "An insight into the secretive 'matchstick men' painter",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m002rxvm?at_mid=wWtQvZdmNp&at_campaign=L_S_Lowry_The_Unheard_Tapes&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002rxvm&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=L_S_Lowry_The_Unheard_Tapes&at_bbc_team=BBC",
+      "published": "Wed, 25 Feb 2026 06:00:00 GMT",
+      "description": "The secretive artist revealed as never before, with his voice lip-synced by Ian McKellen."
     },
     {
-      "title": "Glasner's long Palace goodbye sets up 'perfect' finale",
-      "link": "https://www.bbc.com/sport/football/articles/cdepl8k6y5no?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 07 May 2026 23:10:19 GMT",
-      "description": "Crystal Palace desperately did not want to be in the Conference League - now they are one game from winning it and creating more club history and a \"perfect\" finale for boss Oliver Glasner."
+      "title": "Fernandes: The trophies, the assist record and his future",
+      "link": "https://www.bbc.com/sport/football/articles/cn5p2n3vw42o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 08 May 2026 22:23:55 GMT",
+      "description": "No Premier League medal, no Champions League title, but Bruno Fernandes has won other trophies and many accolades, and the FWA footballer of the year is on the brink of setting a record."
     },
     {
-      "title": "Littler beats Humphries for record-equalling win",
-      "link": "https://www.bbc.com/sport/darts/articles/c62dz1j0e25o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 07 May 2026 22:15:06 GMT",
-      "description": "Luke Littler beats Luke Humphries to claim a third successive night win and a record-equalling sixth in this season's Premier League."
+      "title": "Arteta rallies Arsenal for huge Premier League weekend",
+      "link": "https://www.bbc.com/sport/football/articles/cvgz7v5ve2eo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 08 May 2026 18:49:21 GMT",
+      "description": "As the Premier League title race nears its conclusion, Arsenal manager Mikel Arteta tells his players and the Gunners fans to \"stay present and live the moment\"."
     },
     {
-      "title": "Sutton's predictions v boxing world champion Fabio Wardley",
-      "link": "https://www.bbc.com/sport/football/articles/czr2m1463npo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 07 May 2026 15:18:30 GMT",
-      "description": "Chris Sutton takes on world champion boxer Fabio Wardley plus the BBC readers and AI with his predictions for this weekend's fixtures."
+      "title": "From cricket to 'bosh' queen - England prop Muir",
+      "link": "https://www.bbc.com/sport/rugby-union/articles/cdxpnzwnlp5o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 09 May 2026 06:36:29 GMT",
+      "description": "England prop Maud Muir discusses her childhood cricket days and love for pottery and \"boshing\" defenders."
     },
     {
-      "title": "Why Spurs fans face Arsenal dilemma",
-      "link": "https://www.bbc.com/sport/football/articles/cy42l7jz7q2o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 08 May 2026 06:30:32 GMT",
-      "description": "Why Sunday's Premier League game between West Ham and Arsenal could be viewed as a nightmare for Tottenham - whatever the result."
+      "title": "Saints charged by EFL with spying on Middlesbrough",
+      "link": "https://www.bbc.com/sport/football/articles/cy92vn803lno?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 08 May 2026 22:02:44 GMT",
+      "description": "The EFL charges Southampton with spying on Middlesbrough before they meet in the Championship play-off semi-finals on Saturday."
     },
     {
-      "title": "'Like getting the vicar to swear' – Dubois finding his voice",
-      "link": "https://www.bbc.com/sport/boxing/articles/cn4p8y4xe32o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 08 May 2026 06:59:12 GMT",
-      "description": "Frank Warren writes in his BBC Sport column about how hard it is to promote both Fabio Wardley and Daniel Dubois for their heavyweight world title fight."
+      "title": "'Good business' for PGA Tour if LIV players return - McIlroy",
+      "link": "https://www.bbc.com/sport/golf/articles/cwy27wkrzk9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 09 May 2026 06:54:50 GMT",
+      "description": "Rory McIlroy says bringing back LIV Golf defectors would be \"good business\" for the PGA Tour amid doubts over the future of the breakaway series."
     },
     {
-      "title": "England's Kemp never considered future during injury woe",
-      "link": "https://www.bbc.com/sport/cricket/articles/cpwpdpqd0z0o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 08 May 2026 05:28:01 GMT",
-      "description": "England all-rounder Freya Kemp says she did not consider retirement or continuing her career solely as a batter during her recent injury woes."
+      "title": "Djokovic stunned on return to action in Rome",
+      "link": "https://www.bbc.com/sport/tennis/articles/crlpd0x9zlzo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 08 May 2026 19:03:38 GMT",
+      "description": "An out-of-sorts Novak Djokovic suffers defeat on his return to action as he is stunned by gutsy qualifier Dino Prizmic in the Italian Open second round."
+    },
+    {
+      "title": "Tight-lipped Dubois weighs in at career-heavy 18st",
+      "link": "https://www.bbc.com/sport/boxing/articles/c302qq1n6dyo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 08 May 2026 19:26:49 GMT",
+      "description": "Daniel Dubois will not to be drawn into a war of words after weighing in at a career-heavy 18st for Saturday's all-British heavyweight world-title fight against Fabio Wardley."
     }
   ]
 }
