@@ -1,133 +1,157 @@
 {
-  "scraped_at": "2026-05-13 10:10:43 UTC",
+  "scraped_at": "2026-05-14 10:02:38 UTC",
   "source": "BBC News RSS",
-  "total": 31,
+  "total": 35,
   "headlines": [
     {
-      "title": "Watch: Wes Streeting leaves No 10 - minutes after arrival",
-      "link": "https://www.bbc.com/news/videos/c7v9l6dm43do?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 08:05:59 GMT",
-      "description": "Health Secretary Wes Streeting leaves No 10 less than 20 minutes after arriving for a meeting with the prime minister."
+      "title": "Chris Mason: Potential leadership challengers jostle for position",
+      "link": "https://www.bbc.com/news/articles/c232pz403dko?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 14 May 2026 07:37:46 GMT",
+      "description": "Sir Keir Starmer and his backers argue a leadership contest would paralyse the government for months."
     },
     {
-      "title": "Chris Mason: Why a quick meeting is overshadowing the King's Speech",
-      "link": "https://www.bbc.com/news/articles/cn7p2yl8j73o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 08:16:33 GMT",
-      "description": "The King will set out the government's agenda in Parliament, but the political plotting continues."
+      "title": "UK economy sees surprise growth in March despite Iran war",
+      "link": "https://www.bbc.com/news/articles/cx213n20njzo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 14 May 2026 09:53:21 GMT",
+      "description": "The economy grew by 0.3% in the month, official figures show, confounding  analysts' forecasts of a small contraction."
     },
     {
-      "title": "The potential challengers to Keir Starmer",
+      "title": "Watch: What happened on day one of Trump's China visit?",
+      "link": "https://www.bbc.com/news/videos/c707xn4ew3po?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 14 May 2026 07:13:24 GMT",
+      "description": "China welcomed US President Donald Trump with cheering children and a troop parade on Thursday, before a nearly two-hour long meeting with Xi-Jinping."
+    },
+    {
+      "title": "Streeting hails NHS progress as key hospital waiting time milestone met",
+      "link": "https://www.bbc.com/news/articles/cvgzv0j19vvo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 14 May 2026 09:45:45 GMT",
+      "description": "Government his its interim target of 65% of patients in England being treated within 18 weeks."
+    },
+    {
+      "title": "Madonna, Shakira & BTS to headline World Cup half-time show",
+      "link": "https://www.bbc.com/sport/football/articles/c5yrl54561do?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 14 May 2026 07:31:25 GMT",
+      "description": "Madonna, Shakira and K-pop boy band BTS will headline the Super Bowl-style half-time show at this summer's World Cup final."
+    },
+    {
+      "title": "Rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
+      "link": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 14 May 2026 09:50:29 GMT",
+      "description": "Children are among the injured after Russia launched drones and missiles across Ukraine, officials say."
+    },
+    {
+      "title": "Met Police prepares armoured vehicles and 4,000 officers for dual London protests",
+      "link": "https://www.bbc.com/news/articles/c172n5e0prko?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 13 May 2026 18:07:58 GMT",
+      "description": "It comes as a Unite the Kingdom rally is taking place in central London on the same day as the annual Nakba march."
+    },
+    {
+      "title": "Deaths of three women in sea are tragic and horrendous, Brighton council leader says",
+      "link": "https://www.bbc.com/news/articles/c5y9k2z81n7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 14 May 2026 08:34:08 GMT",
+      "description": "Brighton & Hove City Council leader Bella Sankey says the women are yet to be identified."
+    },
+    {
+      "title": "VAR penalty twist sets up Hearts & Celtic showdown for the ages",
+      "link": "https://www.bbc.com/sport/football/articles/clyp717750eo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 14 May 2026 00:44:41 GMT",
+      "description": "On a night of bewilderment, there was one unarguable truth. Hearts still have this in their own hands. Only Celtic can stop them, writes Tom English."
+    },
+    {
+      "title": "At a glance: Starmer fights to stay on as prime minister",
+      "link": "https://www.bbc.com/news/articles/c8jv1mzzkjgo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 14 May 2026 08:54:14 GMT",
+      "description": "The prime minister is fighting to stay on in No 10 as heavy election losses trigger a Labour revolt."
+    },
+    {
+      "title": "The potential challengers to the PM",
       "link": "https://www.bbc.com/news/articles/c3e2n7xn14xo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 01:31:58 GMT",
+      "published": "Thu, 14 May 2026 09:45:20 GMT",
       "description": "Andy Burnham, Angela Rayner and Wes Streeting are all potential candidates for the top job."
     },
     {
-      "title": "Starmer must go before next election, say Labour-backing unions",
-      "link": "https://www.bbc.com/news/articles/crrp252prwdo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 09:56:28 GMT",
-      "description": "Sir Keir Starmer has vowed to get on with governing despite pressure from his MPs and cabinet splits."
+      "title": "How would a Labour leadership contest work?",
+      "link": "https://www.bbc.com/news/articles/c3631k30xjlo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 14 May 2026 09:44:18 GMT",
+      "description": "How could MPs who want to see Sir Keir Starmer replaced force a leadership contest?"
     },
     {
-      "title": "A decade on, Trump returns to a stronger and more assertive China",
-      "link": "https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 12 May 2026 22:07:51 GMT",
-      "description": "Beijing is arguably the most powerful competitor the US has confronted in its history, one analyst says."
+      "title": "Watch: Angela Rayner resolves tax affairs - what now?",
+      "link": "https://www.bbc.com/news/videos/c5yepj79n04o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 14 May 2026 07:31:11 GMT",
+      "description": "BBC chief political correspondent Henry Zeffman explains what this could mean for a potential Labour leadership contest."
     },
     {
-      "title": "Alex's mum abducted him as a boy. Now he's ready to talk to her again",
-      "link": "https://www.bbc.com/news/articles/cjepwven131o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 05:00:04 GMT",
-      "description": "Alex Batty reveals all about his abduction and life on the run in a new BBC documentary."
+      "title": "'It's bigger, bolder, bonkier!' Behind the scenes on Rivals season two",
+      "link": "https://www.bbc.com/news/articles/cx210glmx19o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 13 May 2026 23:10:20 GMT",
+      "description": "Stars including Danny Dyer, Aidan Turner and David Tennant share secrets on the set of the hit show."
     },
     {
-      "title": "Israel qualifies but Boy George is out of Eurovision",
-      "link": "https://www.bbc.com/news/articles/cz92klwqz87o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 12 May 2026 22:27:30 GMT",
-      "description": "The Israeli act is met with boos and chants, but also a chorus of support, at Tuesday's semi-final."
+      "title": "I nearly died after buying skinny jab from friend of friend",
+      "link": "https://www.bbc.com/news/articles/cm2pvl56l72o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 14 May 2026 05:18:22 GMT",
+      "description": "A woman is warning others of the dangers of unregulated jabs after one dose of a black market pen."
     },
     {
-      "title": "Daily pill to help keep weight off after stopping obesity jabs",
-      "link": "https://www.bbc.com/news/articles/cwy2e9wlvjxo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 12 May 2026 23:06:23 GMT",
-      "description": "The tablet - orforglipron - is available in the US and could soon launch in the UK."
+      "title": "Becoming a mum left me incontinent - we need to talk about birth injuries",
+      "link": "https://www.bbc.com/news/articles/cy01kgzgpwxo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 14 May 2026 05:15:59 GMT",
+      "description": "Geeta Nayar, who has lived with bowel incontinence since her daughter was born, urges others not to suffer in silence."
     },
     {
-      "title": "Twenty-two people set to leave hospital after hantavirus isolation",
-      "link": "https://www.bbc.com/news/articles/clyp4nk09k1o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 06:57:31 GMT",
-      "description": "The passengers and crew will have spent 72-hours isolating at Arrowe Park Hospital in Merseyside."
+      "title": "What's happening to the UK economy and how does it affect you?",
+      "link": "https://www.bbc.com/news/articles/c0j7p38jg15o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 14 May 2026 08:08:35 GMT",
+      "description": "The rate of UK economic growth affects things like pay increases and the amount of tax raised."
     },
     {
-      "title": "Smart glasses are 'an invasion of privacy' - Meta's are selling better than ever",
-      "link": "https://www.bbc.com/news/articles/cj37z8357e5o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 05:01:07 GMT",
-      "description": "The biggest tech firms are set to sell millions of smart glasses despite growing privacy concerns."
+      "title": "Why big tech is betting on cute mascots",
+      "link": "https://www.bbc.com/news/articles/c99l1zzp8xzo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 13 May 2026 23:08:37 GMT",
+      "description": "The likes of Apple, Microsoft and Google are all putting cartoon characters centre stage."
     },
     {
-      "title": "Why is there a row about an MSP's immigration status?",
-      "link": "https://www.bbc.com/news/articles/c4g82j03w94o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 05:12:14 GMT",
-      "description": "Q Manivannan, originally from India, is on a student visa which is due to expire at the end of the year."
+      "title": "Hezbollah support endures in south Lebanon as ceasefire fails to stop war with Israel",
+      "link": "https://www.bbc.com/news/articles/c9d3g6deljyo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 13 May 2026 23:22:07 GMT",
+      "description": "Despite continuing Israeli attacks and occupation, many people in the south still believe the armed group is the only force capable of defending them."
     },
     {
-      "title": "'Prize draw addiction left me hungry and using tissues for tampons'",
-      "link": "https://www.bbc.com/news/articles/c86e7yv6en6o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 04:56:39 GMT",
-      "description": "The lure of luxury prizes is leading people to addiction, gambling support organisations warn."
+      "title": "Harry warns of 'deeply troubling' rise in antisemitism in UK",
+      "link": "https://www.bbc.com/news/articles/c8xw55q0elvo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 14 May 2026 00:56:24 GMT",
+      "description": "The Duke of Sussex says \"legitimate protest\" is important but people must be more \"clear\" about where they are aiming their anger."
     },
     {
-      "title": "Air India crisis deepens ahead of final Ahmedabad crash report",
-      "link": "https://www.bbc.com/news/articles/c775vvz0kydo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 12 May 2026 22:15:50 GMT",
-      "description": "Air India faces a leadership vacuum and mounting financial losses as it struggles to recover from the crash."
+      "title": "E-gate access to be expanded at UK airports to include younger children",
+      "link": "https://www.bbc.com/news/articles/c89300l2934o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 14 May 2026 05:00:03 GMT",
+      "description": "Children aged eight and nine returning to the UK from abroad will be able to use e-gates from 8 July."
     },
     {
-      "title": "'Our homes are two minutes from each other but a peace wall makes it 20 minutes'",
-      "link": "https://www.bbc.com/news/articles/c172w8ly4gwo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 08:28:29 GMT",
-      "description": "Living on opposite sides of a so-called peaceline, they have had to overcome a psychological as well as a physical barrier."
+      "title": "Cuba has run out of diesel and oil, energy minister says",
+      "link": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 14 May 2026 09:06:23 GMT",
+      "description": "The minister says the situation in Cuba is \"extremely tense\", as a US-led blockade of oil to the country causes widespread power cuts."
     },
     {
-      "title": "Man, 26, dies after car hit group of pedestrians",
-      "link": "https://www.bbc.com/news/articles/c3d2k32r9mzo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 09:31:35 GMT",
-      "description": "Police say a murder investigation is under way after Tyler Fairman died in hospital."
+      "title": "HMRC to use AI from British tech firm to spot fraud and tax return errors",
+      "link": "https://www.bbc.com/news/articles/c7v9ld262n4o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 14 May 2026 05:10:45 GMT",
+      "description": "Quantexa, a financial data platform, won the £175m contract to spot fraud and tax return errors."
     },
     {
-      "title": "World's first international football stadium given protected status",
-      "link": "https://www.bbc.com/news/articles/cn5pkl1pwe6o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 08:52:20 GMT",
-      "description": "The first Hampden Park is designated a scheduled monument in recognition of its place in football history."
+      "title": "Baby born on Attenborough's 100th birthday named after environmentalist",
+      "link": "https://www.bbc.com/news/articles/c9q3yv2vyypo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 13 May 2026 19:00:34 GMT",
+      "description": "Stephen Whyte says Sir David has been present in both their lives for as \"long as they can remember\"."
     },
     {
-      "title": "'Ciao Kate': Crowds gathering for Catherine's comeback tour to Italy",
-      "link": "https://www.bbc.com/news/articles/cx21nlwrd49o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 08:10:59 GMT",
-      "description": "The Princess of Wales travels to Reggio Emilia, to learn about its approach to early years education."
-    },
-    {
-      "title": "Spring temperatures to bounce back next week after cold snap",
-      "link": "https://www.bbc.com/weather/articles/cevp0nweyrlo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 06:10:02 GMT",
-      "description": "A flip from northerly to southerly winds will bring warmer weather across the UK next week but as Ben Rich explains that does not necessarily mean sunshine."
-    },
-    {
-      "title": "Jason Collins, NBA's first openly gay player, dies aged 47",
-      "link": "https://www.bbc.com/news/articles/clyp8rdldk1o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 00:40:54 GMT",
-      "description": "Collins shared late last year that he had been diagnosed with an aggressive form of brain cancer."
-    },
-    {
-      "title": "White-tailed eagles to be released in Exmoor despite farmer warnings",
-      "link": "https://www.bbc.com/news/articles/cd6p26y6d8vo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 05:00:08 GMT",
-      "description": "Some farmers fear the reintroduction of the UK's biggest bird of prey will threaten their livestock."
-    },
-    {
-      "title": "Alleged scammer extradited after  hacking attempt on BTS star Jungkook",
-      "link": "https://www.bbc.com/news/articles/cx21p4qy93po?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 09:04:48 GMT",
-      "description": "The suspect allegedly tried to transfer millions of dollars worth of shares from the K-pop singer's account."
+      "title": "'I was given a choice - keep my legs or keep my life' - the sepsis patient who lived",
+      "link": "https://www.bbc.com/news/articles/cgjp2w03v10o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 14 May 2026 05:26:35 GMT",
+      "description": "The life-threatening reaction to infection caused Marshall Wylie to lose his legs."
     },
     {
       "title": "BBC News app",
@@ -142,52 +166,52 @@
       "description": "Starmer vows to fight on despite another day of pressure from his party to quit."
     },
     {
-      "title": "Trump takes his revenge on disloyal Republicans",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8lz1?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 08 May 2026 12:31:00 GMT",
-      "description": "The US president targets his political enemies in Kentucky and Indiana"
+      "title": "Does Trump need China to end the war in Iran?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0nl1r5w?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 13 May 2026 18:28:00 GMT",
+      "description": "What you need to know about Donald Trump vs President Xi"
     },
     {
-      "title": "Will Middlesbrough-Southampton play-off have a decisive third act?",
-      "link": "https://www.bbc.com/sport/football/articles/cj9pvd24ew8o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 06:08:38 GMT",
-      "description": "Despite a 2-1 win for Southampton, allegations of spying means the outcome of their play-off with Middlesbrough is still not decided."
+      "title": "A moving portrait of wartime Britain through children’s eyes",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m002wbwk?at_mid=xzdQKgBiUK&at_campaign=Children_of_the_Blitz&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002wbwk&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Children_of_the_Blitz&at_bbc_team=BBC",
+      "published": "Mon, 11 May 2026 05:00:00 GMT",
+      "description": "Some of the last survivors of the Blitz, children who weren't evacuated, tell their story."
     },
     {
-      "title": "NBA player Clarke dies aged 29",
-      "link": "https://www.bbc.com/sport/basketball/articles/cn4plpp7z9lo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 12 May 2026 18:42:57 GMT",
-      "description": "Memphis Grizzlies forward Brandon Clarke dies at the age of 29, the NBA team confirms."
+      "title": "Was it a penalty? Celtic-Hearts title decider set up as McInnes slams 'disgusting' call",
+      "link": "https://www.bbc.com/sport/football/articles/c20211evnlvo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 13 May 2026 22:56:22 GMT",
+      "description": "Hearts head coach Derek McInnes says his side are \"up against everybody\" after a \"disgusting\" 99th-minute penalty winner for Celtic ensured the Scottish Premiership title race goes to a final-day decider on Saturday."
     },
     {
-      "title": "Ted Lasso actor Fernandez signs for US club",
-      "link": "https://www.bbc.com/sport/football/articles/c5y87rerg1jo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 12 May 2026 21:43:35 GMT",
-      "description": "Ted Lasso actor Cristo Fernandez signs for American second-tier side El Paso Locomotive after a two-month trial."
+      "title": "Will F1 go back to the future with its engines?",
+      "link": "https://www.bbc.com/sport/formula1/articles/c2e2zmglvp9o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 14 May 2026 07:00:24 GMT",
+      "description": "F1 is in the midst of two parallel sets of engine discussions. Andrew Benson looks at whether one of them will lead to the return of V8s."
     },
     {
-      "title": "Liverpool owners face dilemma - stick or twist with Slot?",
-      "link": "https://www.bbc.com/sport/football/articles/cm2p08gllrko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 05:34:32 GMT",
-      "description": "Liverpool owners FSG face a dilemma as they consider whether to react to growing fan dissent against Arne Slot, says chief football writer Phil McNulty."
+      "title": "Assist of the season? Mesmerising Foden keeps title hopes alive",
+      "link": "https://www.bbc.com/sport/football/articles/cdxp0le9k1qo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 13 May 2026 22:44:04 GMT",
+      "description": "Phil Foden's magical first-half assist proves the catalyst that Manchester City needed to maintain their challenge in this season's fascinating Premier League title race."
     },
     {
-      "title": "Immortality beckons - but Hearts must overcome Celtic & weight of history",
-      "link": "https://www.bbc.com/sport/football/articles/c0526q244zqo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 00:06:34 GMT",
-      "description": "For Heart of Midlothian, the tantalising, scarcely-believable, bottom line is this: after 66 years they may be crowned champions of Scotland on Wednesday."
+      "title": "McIlroy 'totally fine' for US PGA after toe issue",
+      "link": "https://www.bbc.com/sport/golf/articles/c33261711pyo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 13 May 2026 19:22:26 GMT",
+      "description": "World number two Rory McIlroy says using a \"bigger and wider shoe with more cushioning\" is helping deal with a sore little toe on his right foot."
     },
     {
-      "title": "How Gerrard went from 'best night' to 'head like a box of frogs'",
-      "link": "https://www.bbc.com/sport/football/articles/cvgzn2nqz59o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 12 May 2026 23:01:09 GMT",
-      "description": "Steven Gerrard inspired Liverpool's Champions League win in 2005 but just two months later wanted out. What happened?"
+      "title": "Hall, 18, becomes youngest to score MLS hat-trick",
+      "link": "https://www.bbc.com/sport/football/articles/c98r7gl2pjgo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 14 May 2026 09:05:03 GMT",
+      "description": "Forward Julian Hall makes MLS history by becoming the youngest player to score a hat-trick in Red Bull New York's win over Columbus Crew."
     },
     {
-      "title": "Raducanu to make return with wildcard in Strasbourg",
-      "link": "https://www.bbc.com/sport/tennis/articles/c042rpq5x7ko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 09:19:52 GMT",
-      "description": "Emma Raducanu will make her return to action in Strasbourg after being granted a wildcard, as she seeks crucial match practice before the French Open."
+      "title": "An iron fist joining a broken team: Inside Mourinho's Real return",
+      "link": "https://www.bbc.com/sport/football/articles/clyp4rj9r01o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 13 May 2026 17:20:21 GMT",
+      "description": "Jose Mourinho is set to be appointed Real Madrid's new manager. Spanish football expert Guillem Balague explains why."
     }
   ]
 }
