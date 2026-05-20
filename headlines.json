@@ -1,163 +1,133 @@
 {
-  "scraped_at": "2026-05-19 10:51:13 UTC",
+  "scraped_at": "2026-05-20 10:39:22 UTC",
   "source": "BBC News RSS",
-  "total": 35,
+  "total": 30,
   "headlines": [
     {
-      "title": "Married at First Sight UK rape allegations serious, says government",
-      "link": "https://www.bbc.com/news/articles/c62xv7n4xwdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 19 May 2026 08:40:08 GMT",
-      "description": "A BBC Panorama investigation revealed allegations that two women had been raped during filming."
+      "title": "Supermarkets hit back over pressure to cap price of milk, bread and eggs",
+      "link": "https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 20 May 2026 08:30:20 GMT",
+      "description": "A minister confirms talks have taken place but says there will be no mandatory cap on essential food prices."
     },
     {
-      "title": "Watch: Channel 4 boss asked if she will apologise to MAFS UK women",
-      "link": "https://www.bbc.com/news/videos/c052881dmylo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 19 May 2026 09:30:51 GMT",
-      "description": "The broadcaster's chief executive Priya Dogra walked away from an interview when given the opportunity to say sorry."
+      "title": "Inflation falls to 2.8% but is expected to rise from here",
+      "link": "https://www.bbc.com/news/articles/c4g0e0p4p2go?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 20 May 2026 10:34:00 GMT",
+      "description": "Energy prices were lower due to the government's energy bill support package and lower wholesale prices before the Iran war."
     },
     {
-      "title": "New High Street crime unit to target gangs fronting shops after BBC investigation",
-      "link": "https://www.bbc.com/news/articles/ce3pzwx449no?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 19 May 2026 07:53:14 GMT",
-      "description": "It follows BBC News exposing drug gangs, money laundering, immigration crime, and ghost directors linked to shop fronts."
+      "title": "Arsenal fans and players celebrate title at Emirates at 5am",
+      "link": "https://www.bbc.com/sport/football/articles/ce3pwrrnvd6o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 20 May 2026 09:00:53 GMT",
+      "description": "Arsenal have had to wait 22 years to celebrate a title win, and both the club's players and fans made sure to savour every second of it on Tuesday night."
     },
     {
-      "title": "Wrongly jailed Malkinson says demand for legal fees is 'penny-pinching'",
-      "link": "https://www.bbc.com/news/articles/c74r1x7dj8go?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 19 May 2026 10:31:16 GMT",
-      "description": "Andrew Malkinson, who was wrongly jailed for rape, says being asked to repay legal fees is “penny-pinching”."
+      "title": "Kylie Minogue reveals she had second cancer diagnosis in 2021",
+      "link": "https://www.bbc.com/news/articles/ckgpydgklneo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 20 May 2026 09:25:22 GMT",
+      "description": "In a new documentary, the star says she \"got through it, again\" following successful treatment in 2005."
     },
     {
-      "title": "Ebola may be spreading faster than first thought, WHO doctor warns",
-      "link": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 19 May 2026 10:15:46 GMT",
-      "description": "Hundreds of cases are suspected in central Africa but experts fear the actual number may be much higher."
+      "title": "Was Married at First Sight UK an 'accident waiting to happen'?",
+      "link": "https://www.bbc.com/news/articles/c172x2vkxl5o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 20 May 2026 05:52:59 GMT",
+      "description": "Channel 4 has wider questions to answer after allegations made by three women who took part in the show."
     },
     {
-      "title": "Man City set to replace Guardiola with Maresca",
-      "link": "https://www.bbc.com/sport/football/articles/cd0pkk1xy23o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 19 May 2026 08:44:11 GMT",
-      "description": "Enzo Maresca is set to replace Pep Guardiola as Manchester City manager before next season."
+      "title": "Boss of Sarah Ferguson-linked firm used royal links to threaten worker with jail",
+      "link": "https://www.bbc.com/news/articles/c4g8kv7ykv8o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 20 May 2026 05:00:59 GMT",
+      "description": "In a recording obtained by the BBC, the worker was threatened with jail for allegedly hacking emails at lifestyle app vVoosh."
     },
     {
-      "title": "Jackson Pollock painting sells for record $181m at auction",
-      "link": "https://www.bbc.com/news/articles/crkp777llgko?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 19 May 2026 09:59:58 GMT",
-      "description": "The Abstract Expressionist's Number 7A, 1948 painting is now his most expensive artwork ever sold at auction."
+      "title": "Moped riding in shop is not a surprise on 'forgotten estate'",
+      "link": "https://www.bbc.com/news/articles/cm2p1zkjx5xo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 20 May 2026 05:12:00 GMT",
+      "description": "Residents of a Grimsby estate blame anti-social behaviour on a lack of facilities for young people."
     },
     {
-      "title": "UK unemployment rate unexpectedly rises",
-      "link": "https://www.bbc.com/news/articles/czx2plkvg45o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 19 May 2026 08:17:52 GMT",
-      "description": "The number of UK job vacancies also fell to its lowest level in five years as the initial impact of the Iran war on businesses starts to be seen."
+      "title": "UK loosens Russian oil sanctions as fuel prices rise",
+      "link": "https://www.bbc.com/news/articles/cy42x3g7r89o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 20 May 2026 08:13:07 GMT",
+      "description": "The waiver reflects increasing supply concerns over certain fuels due to the effective blockade of the Strait of Hormuz."
     },
     {
-      "title": "Selling children to survive: Afghan fathers forced to make impossible choices",
-      "link": "https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 19 May 2026 10:46:50 GMT",
-      "description": "In Afghanistan today, a staggering three in four people cannot meet their basic needs."
+      "title": "Trump exerts iron grip on Republican Party with Massie defeated",
+      "link": "https://www.bbc.com/news/articles/cdjpng88d2vo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 20 May 2026 09:49:33 GMT",
+      "description": "Victory over a Republican rebel in Kentucky shows the president's strength but his power comes with risks for the midterms."
     },
     {
-      "title": "Swinney defends food prices policy ahead of first minister vote",
-      "link": "https://www.bbc.com/news/articles/cn5pllxl1npo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 19 May 2026 09:06:50 GMT",
-      "description": "The SNP leader says the proposed price cap on basic foodstuffs is not intended to force a fight with the UK government."
+      "title": "Inside Arsenal's title win with boats, fire and a TikTok song",
+      "link": "https://www.bbc.com/sport/football/articles/c9v3jx1jmrwo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 19 May 2026 20:26:33 GMT",
+      "description": "The inside story of how Mikel Arteta turned Arsenal from 'nearly men' into Premier League winners."
     },
     {
-      "title": "Junior school pupil treated for meningitis in fourth Reading case",
-      "link": "https://www.bbc.com/news/articles/cy72vey8nj7o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 19 May 2026 08:31:27 GMT",
-      "description": "The UKHSA says the fourth case has links with the same wider social network as the others."
+      "title": "In Texas, Trump has backed a loyal ally - but he comes with baggage",
+      "link": "https://www.bbc.com/news/articles/cy72v488g4go?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 20 May 2026 00:03:04 GMT",
+      "description": "Trump's move dismayed Senate Republicans, many of whom have served with the Texan for decades."
     },
     {
-      "title": "'Untouchable' teen motorbike thieves mocking victims on TikTok",
-      "link": "https://www.bbc.com/news/articles/c5y91dg75ejo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 19 May 2026 00:10:56 GMT",
-      "description": "BBC investigation finds hundreds of videos showing self-confessed thieves posing with stolen bikes."
+      "title": "'Adenomyosis may be invisible, its impact is not'",
+      "link": "https://www.bbc.com/news/articles/cx21vgz77rgo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 20 May 2026 05:10:39 GMT",
+      "description": "One in 10 women live with adenomyosis yet sufferers say their pain is often dismissed."
     },
     {
-      "title": "Is a bank holiday heatwave on the way?",
-      "link": "https://www.bbc.com/weather/articles/c4g5zgzre5ro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 19 May 2026 02:27:39 GMT",
-      "description": "The warmest weather of the year is forecast for later this week after early rain."
+      "title": "Trump's Greenland envoy faces uphill battle on mission to make 'friends'",
+      "link": "https://www.bbc.com/news/articles/cze28ex3lexo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 20 May 2026 03:49:24 GMT",
+      "description": "Jeff Landry's visit to the territory, a semi-autonomous part of Denmark, has touched a nerve among some Greenlanders."
     },
     {
-      "title": "Widows left in pension limbo after husbands' deaths",
-      "link": "https://www.bbc.com/news/articles/ce3pw153dvpo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 19 May 2026 05:14:30 GMT",
-      "description": "Pension payments have been delayed after Capita took over administration of the civil servants' scheme."
+      "title": "What's happening to UK petrol and diesel prices?",
+      "link": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 20 May 2026 09:16:03 GMT",
+      "description": "Motoring group RAC warns pump prices could keep rising if there is no resolution to the Iran war."
     },
     {
-      "title": "What really holds China and Russia together",
-      "link": "https://www.bbc.com/news/articles/c4g8kpkjkl0o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 18 May 2026 23:06:55 GMT",
-      "description": "The relationship endures despite a power imbalance, with both sides recognising that it is too important to fail."
+      "title": "Adverts for sexual assault DNA self-swab kits banned as misleading",
+      "link": "https://www.bbc.com/news/articles/cgjpn0qeqzdo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 19 May 2026 23:45:34 GMT",
+      "description": "The Advertising Standards Authority has ruled Enough's online posts contained unproven claims."
     },
     {
-      "title": "Guardiola's legacy will shape the future of football in England for years to come",
-      "link": "https://www.bbc.com/sport/football/articles/cn8p34e12nno?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 18 May 2026 21:21:35 GMT",
-      "description": "As Manchester City prepare for Pep Guardiola's exit, Phil McNulty reflects on how he has changed football in England."
+      "title": "US groups urge investigation into child safety and spending on Roblox",
+      "link": "https://www.bbc.com/news/articles/cgqpz809e7lo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 20 May 2026 10:27:50 GMT",
+      "description": "Roblox said it had \"clear policies\" banning actual and simulated gambling, as well as rules governing paid random items."
     },
     {
-      "title": "Why people are so excited about Swatch's Royal Pop watch",
-      "link": "https://www.bbc.com/news/articles/c2e2meeg2yro?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 18 May 2026 15:39:04 GMT",
-      "description": "A watch range by Swatch and luxury brand Audemars Piguet is causing a frenzy as people queue for days to get their hands on one."
+      "title": "Dozens arrested as specialist team targets romance fraudsters and scammers",
+      "link": "https://www.bbc.com/news/articles/cgjpnw8dg88o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 19 May 2026 23:56:01 GMT",
+      "description": "The specialist team of financial crime experts is working \"in the shadows\" to hunt down scammers online."
     },
     {
-      "title": "The Republican who stood up to Trump is hoping for a big win against president",
-      "link": "https://www.bbc.com/news/articles/cz924g45530o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 18 May 2026 21:39:45 GMT",
-      "description": "Kentucky Congressman Thomas Massie, who has crossed Trump on federal spending and the Epstein files, faces Republican voters."
+      "title": "UK should set maximum working temperature rules, advisers say",
+      "link": "https://www.bbc.com/news/articles/cm2p1j4y0kro?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 19 May 2026 23:40:12 GMT",
+      "description": "Successive governments have failed to prepare the UK for extreme heat, the climate watchdog says."
     },
     {
-      "title": "What is Ebola and why is stopping this outbreak so difficult?",
-      "link": "https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 18 May 2026 15:52:38 GMT",
-      "description": "An outbreak of Ebola in DR Congo involves a rare strain and is in an area affected by conflict."
+      "title": "Abusive nursery worker's deportation 'horrendous'",
+      "link": "https://www.bbc.com/news/articles/cqxpql7rnw7o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 20 May 2026 05:11:22 GMT",
+      "description": "Roksana Lecka served 14 months of an eight-year sentence before she was deported to Poland."
     },
     {
-      "title": "Teen suspects fatally shoot three in suspected hate crime at San Diego mosque",
-      "link": "https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 19 May 2026 07:07:55 GMT",
-      "description": "The alleged attackers were aged 17 and 18 and one left a note containing \"generalised hate rhetoric\", investigators say."
+      "title": "British couple on new hunger strike in Iranian jail, family say",
+      "link": "https://www.bbc.com/news/articles/c8e890y14r5o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 20 May 2026 05:33:54 GMT",
+      "description": "Lindsay and Craig Foreman, from East Sussex, have each spent several days refusing food, their family says."
     },
     {
-      "title": "MP failed by NHS appointed first maternity adviser",
-      "link": "https://www.bbc.com/news/articles/c7v9m0q9ey2o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 19 May 2026 10:46:48 GMT",
-      "description": "Michelle Welsh says she will work to push for \"better, safer care for mothers, babies and families\"."
-    },
-    {
-      "title": "British ex-soldier imprisoned by Russia says he feels abandoned in occupied Ukraine",
-      "link": "https://www.bbc.com/news/articles/cdxper4k5w1o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 18 May 2026 23:09:42 GMT",
-      "description": "In letters sent to the BBC from prison, Hayden Davies says he has had no contact with British authorities."
-    },
-    {
-      "title": "Two bodies of missing Italians recovered from inside Maldives cave",
-      "link": "https://www.bbc.com/news/articles/cpdp6y37zn6o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 19 May 2026 10:37:43 GMT",
-      "description": "The two were among four divers located in the furthest chamber in the cave and their bodies were recovered by specialist divers."
-    },
-    {
-      "title": "Two dead in Spain shooting, with babies reportedly among injured",
-      "link": "https://www.bbc.com/news/articles/cdrpnzv84gro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 19 May 2026 07:17:15 GMT",
-      "description": "Police say a 25-year-old man is suspected of killing his parents and injuring four others in southern Spain."
-    },
-    {
-      "title": "Starbucks Korea sacks CEO over controversial 'Tank Day' promotion",
-      "link": "https://www.bbc.com/news/articles/c0k2dz4y6gxo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 19 May 2026 06:03:52 GMT",
-      "description": "Starbucks withdrew the campaign for its drink tumblers after many said it referenced a bloody crackdown."
-    },
-    {
-      "title": "'Digi-hogs' tracked in bid to slow decline in hedgehog numbers",
-      "link": "https://www.bbc.com/news/articles/c202g60qrlpo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 18 May 2026 23:04:03 GMT",
-      "description": "Researchers hope the project will also help to identify barriers preventing hedgehogs from finding food and mates in the wild."
+      "title": "Deputy British ambassador to US abruptly leaves post",
+      "link": "https://www.bbc.com/news/articles/c0520j079n2o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 20 May 2026 05:45:11 GMT",
+      "description": "Until his sudden departure, James Roscoe held one the most senior, high-profile roles in the British diplomatic service"
     },
     {
       "title": "BBC News app",
@@ -166,10 +136,10 @@
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests"
     },
     {
-      "title": "Does Labour’s Leadership Race Mean A Battle Over Brexit?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0nkrlx6?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 17 May 2026 12:58:00 GMT",
-      "description": "Wes Streeting and Andy Burnham have said they want the UK to rejoin the EU."
+      "title": "The £100Bn HS2 Debacle",
+      "link": "https://www.bbc.co.uk/sounds/play/p0nm3wvt?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 19 May 2026 18:23:00 GMT",
+      "description": "HS2 could now cost over £100bn, but government vows to deliver project “to completion”."
     },
     {
       "title": "Americanswers... on 5 Live! Has Zohran Mamdani achieved a miracle in New York?",
@@ -178,40 +148,40 @@
       "description": "The new mayor says he’s rescued NYC from its budget crisis"
     },
     {
-      "title": "Man City set to replace Guardiola with Maresca",
-      "link": "https://www.bbc.com/sport/football/articles/cd0pkk1xy23o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 19 May 2026 08:44:11 GMT",
-      "description": "Enzo Maresca is set to replace Pep Guardiola as Manchester City manager before next season."
+      "title": "Boats, fire and a TikTok song - inside Arsenal's title win",
+      "link": "https://www.bbc.com/sport/football/articles/c9v3jx1jmrwo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 19 May 2026 20:26:33 GMT",
+      "description": "The inside story of how Mikel Arteta turned Arsenal from 'nearly men' into Premier League winners."
     },
     {
-      "title": "Stewart & Curtis in Scotland World Cup squad",
-      "link": "https://www.bbc.com/sport/football/articles/c4g94rpvx73o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 19 May 2026 10:03:02 GMT",
-      "description": "Ross Stewart and Findlay Curtis are named in Scotland's World Cup squad but there is no place for Lennon Miller."
+      "title": "A just or harsh punishment? Reaction to Southampton expulsion",
+      "link": "https://www.bbc.com/sport/football/articles/c202gegv9qlo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 20 May 2026 06:08:57 GMT",
+      "description": "Southampton will be playing in the Championship next season after they were expelled from the play-offs following their admission that they spied on three league rivals this season."
     },
     {
-      "title": "Could history be rewritten? Guardiola, Man City and the 115 charges",
-      "link": "https://www.bbc.com/sport/football/articles/cn7pkjjdy30o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 19 May 2026 10:29:16 GMT",
-      "description": "With Pep Guardiola expected to leave Manchester City at the end of this season, how do the club's 115 Premier League charges for alleged financial rule breaches potentially impact his legacy at the Etihad Stadium?"
+      "title": "The crucial split-second call that could deny Spurs safety",
+      "link": "https://www.bbc.com/sport/football/articles/c302je261rno?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 19 May 2026 23:16:07 GMT",
+      "description": "A controversial split-second call leaves Tottenham are left fighting for Premier League survival and dignity to avoid the ultimate humiliation on the last day of the season, says chief football writer Phil McNulty."
     },
     {
-      "title": "'I broke the curse' - the fall and rise of a teenage Grand Slam champion",
-      "link": "https://www.bbc.com/sport/tennis/articles/c3e24xw8p2no?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 19 May 2026 07:34:27 GMT",
-      "description": "When 19-year-old Bianca Andreescu stunned Serena Williams to win the US Open. It was unthinkable it would be more than 2,300 days before her next triumph."
+      "title": "Arsenal players celebrate title at Emirates at 5am",
+      "link": "https://www.bbc.com/sport/football/articles/ce3pwrrnvd6o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 20 May 2026 09:00:53 GMT",
+      "description": "Arsenal have had to wait 22 years to celebrate a title win, and both the club's players and fans made sure to savour every second of it on Tuesday night."
     },
     {
-      "title": "D-Day for Spygate: What's at stake and what could happen?",
-      "link": "https://www.bbc.com/sport/football/articles/c87ql0g27jno?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 19 May 2026 10:35:39 GMT",
-      "description": "Southampton's place in the play-off final is at stake as they face a disciplinary hearing as they stand charged of watching a Middlesbrough training session. The result is expected to come on Tuesday."
+      "title": "Emery eyes fifth Europa crown but denies being 'king' of competition",
+      "link": "https://www.bbc.com/sport/football/articles/cx21e2grxywo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 20 May 2026 05:37:53 GMT",
+      "description": "Aston Villa are aiming to end a 30-year trophy drought in Istanbul on Wednesday."
     },
     {
-      "title": "Five reasons why Best was a genius",
-      "link": "https://www.bbc.com/sport/football/articles/cy92nl2q4qyo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 19 May 2026 05:42:40 GMT",
-      "description": "George Best would have been 80 on 22 May. Take a look back on an unforgettable career and enjoy five of his most memorable goals."
+      "title": "NRL star Arrow retires at 30 after MND diagnosis",
+      "link": "https://www.bbc.com/sport/rugby-league/articles/cgqpey71devo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 20 May 2026 07:23:33 GMT",
+      "description": "South Sydney Rabbitohs forward Jai Arrow announces his immediate retirement after being diagnosed with Motor Neurone Disease (MND) at the age of 30."
     }
   ]
 }
