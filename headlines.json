@@ -1,121 +1,151 @@
 {
-  "scraped_at": "2026-05-25 11:39:55 UTC",
+  "scraped_at": "2026-05-27 11:25:48 UTC",
   "source": "BBC News RSS",
-  "total": 28,
+  "total": 33,
   "headlines": [
     {
-      "title": "Deal with US not imminent, Iran says",
-      "link": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 25 May 2026 11:17:49 GMT",
-      "description": "The US secretary of state earlier said that an agreement could possibly come on Monday."
+      "title": "Energy bills to rise for millions as impact of Iran war hits",
+      "link": "https://www.bbc.com/news/articles/ce8pw464986o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 07:39:33 GMT",
+      "description": "A household using a typical amount of energy will pay £221 a year more, under the regulator's new price cap."
     },
     {
-      "title": "Oil prices slide on hopes of US-Iran peace deal",
-      "link": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 25 May 2026 10:39:18 GMT",
-      "description": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details."
+      "title": "Labour has 'no coherent plan' for country, says Blair",
+      "link": "https://www.bbc.com/news/articles/cx211r9nm3lo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 07:55:19 GMT",
+      "description": "The ex-Labour PM says Sir Keir Starmer's government is in the \"wrong position\" ahead of the next election."
     },
     {
-      "title": "Greek swimmer only athlete to beat world record at controversial Enhanced Games",
-      "link": "https://www.bbc.com/sport/articles/cx211xyd298o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 25 May 2026 07:49:56 GMT",
-      "description": "Greek swimmer Kristian Gkolomeev beats a world record in the pool at the controversial Enhanced Games in Las Vegas."
+      "title": "Six people die in water-related incidents during heatwave",
+      "link": "https://www.bbc.com/news/articles/cx211k9rl5lo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 10:34:36 GMT",
+      "description": "At least five youngsters and a man in his 60s died, with a teenage boy reported missing in Cheshire."
     },
     {
-      "title": "EasyJet flight diverts to Rome over power bank in luggage",
-      "link": "https://www.bbc.com/news/articles/cg7p3pdl8m7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 24 May 2026 19:10:32 GMT",
-      "description": "Many airlines have toughened their rules on power banks, often requiring that they be stored in hand luggage not checked luggage."
+      "title": "Sturgeon defends 'no comment' police interview after SNP funds probe arrest",
+      "link": "https://www.bbc.com/news/articles/cwy2kww2jzpo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 10:15:14 GMT",
+      "description": "The former SNP leader's solicitor says her response was \"standard\" and she later provided written answers to detectives' questions."
     },
     {
-      "title": "Starmer 'appalled' by case of boys spared jail after raping teenage girls",
-      "link": "https://www.bbc.com/news/articles/c332ljdkd81o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 25 May 2026 10:14:43 GMT",
-      "description": "The prime minister said it was \"right\" that the sentences were being urgently reviewed."
+      "title": "Nasa unveils next steps to build permanent Moon base",
+      "link": "https://www.bbc.com/news/articles/c39228nxyr4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 26 May 2026 20:25:50 GMT",
+      "description": "Nasa plans to send hopping drones and roving vehicles to the Moon as part of plans for a permanent Moon base."
     },
     {
-      "title": "How Saudi Arabia's spending spree reached the end of the line",
-      "link": "https://www.bbc.com/news/articles/cx21g0828reo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 25 May 2026 01:08:39 GMT",
-      "description": "MBS's Vison 2030 project seemed the stuff of science fiction. Now reality has bitten"
+      "title": "'We knew somebody would die': Teenage patients 'ignored' before fatal NHS trust failures",
+      "link": "https://www.bbc.com/news/articles/c995yr1520ko?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 26 May 2026 21:18:44 GMT",
+      "description": "Mental health patients say nobody listened to their concerns about a north-east England trust."
     },
     {
-      "title": "Education secretary to ask competition watchdog to review hidden childcare costs",
-      "link": "https://www.bbc.com/news/articles/c4g7d6ngjldo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 25 May 2026 08:13:07 GMT",
-      "description": "Bridget Phillipson will ask the competition watchdog to examine costs that families are still facing in government-funded childcare."
+      "title": "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
+      "link": "https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 10:40:29 GMT",
+      "description": "Tedros Adhanom Ghebreyesus said fighting in DR Congo was hampering efforts to stop spread"
     },
     {
-      "title": "Anger grows after China's deadliest coal mining disaster in years",
-      "link": "https://www.bbc.com/news/articles/c893543gn20o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 25 May 2026 08:00:35 GMT",
-      "description": "On China's tightly-controlled internet, people are calling for justice and questioning how this happened."
+      "title": "'Shocking' rise in school suspensions for racist, ableist and homophobic abuse",
+      "link": "https://www.bbc.com/news/articles/cdjpx7rnredo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 26 May 2026 23:36:31 GMT",
+      "description": "Education experts and charities are calling for a national anti-bullying strategy in schools."
     },
     {
-      "title": "Sun, superstars and other takeaways from Radio 1's Big Weekend",
-      "link": "https://www.bbc.com/news/articles/cj6p0wx70rxo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 25 May 2026 09:55:09 GMT",
-      "description": "Olivia Dean, Zara Larsson and Fatboy Slim topped the bill - but it wasn't all about the music."
+      "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
+      "link": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 09:55:11 GMT",
+      "description": "At least three people were killed in the attack, which came despite a ceasefire with Hamas being in place."
     },
     {
-      "title": "What to do if you think someone has heat exhaustion or heatstroke",
-      "link": "https://www.bbc.com/news/articles/ckgl51jjp3jo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 25 May 2026 07:53:58 GMT",
-      "description": "Know the signs and what to do if someone is unwell in hot weather."
+      "title": "Hundreds of dead sharks found washed-up on Welsh beaches",
+      "link": "https://www.bbc.com/news/articles/cgkpplz4lxvo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 11:02:10 GMT",
+      "description": "The dead fish, at Saundersfoot and Pembrey beaches, were probably part of a discarded catch."
     },
     {
-      "title": "Goodbye Salah and Pep, hello new champions - the Premier League in review",
-      "link": "https://www.bbc.com/sport/football/articles/cx2136mx2m2o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 25 May 2026 08:10:33 GMT",
-      "description": "BBC Sport chief football writer Phil McNulty reviews every team's Premier League - and looks back at his pre-season predictions."
+      "title": "Trump-backed challenger beats veteran US senator in Texas primary",
+      "link": "https://www.bbc.com/news/articles/clypprglrlyo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 06:18:51 GMT",
+      "description": "The result sets up what will be a closely watched contest in November with Paxton's Democratic opponent."
     },
     {
-      "title": "She was told to marry in a country which bans girls' education. So she got in a taxi and fled",
-      "link": "https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 24 May 2026 21:02:08 GMT",
-      "description": "Nearly five years on from Afghanistan's school ban, young women say they have waved goodbye to their dreams."
+      "title": "Student loans inquiry finds many did not understand terms",
+      "link": "https://www.bbc.com/news/articles/cn9pejwj0xxo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 10:54:56 GMT",
+      "description": "The Treasury inquiry is looking at student loan plans in England and whether repayment terms are \"reasonable\"."
     },
     {
-      "title": "Beer boom goes flat as breweries call last orders",
-      "link": "https://www.bbc.com/news/articles/c9werp5keqlo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 25 May 2026 00:21:24 GMT",
-      "description": "The UK's brewery scene is shrinking as pubs close, costs rise and drinking habits change."
+      "title": "The footballer setting the record straight after 46 years",
+      "link": "https://www.bbc.com/sport/football/articles/cz02gdm7zleo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 05:34:00 GMT",
+      "description": "Roly Gregoire, Sunderland's first black player, sometimes wishes he had never played football because of the racist abuse he found too painful to talk about for decades."
     },
     {
-      "title": "Morocco wants tourists to visit Western Sahara. Some say it's tightening its control",
-      "link": "https://www.bbc.com/news/articles/cvgldqk4w95o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 24 May 2026 23:13:50 GMT",
-      "description": "The Moroccan government wants more Western holidaymakers to visit the territory it claims to own."
+      "title": "Can EU find a Russia whisperer to mediate an end to war in Ukraine?",
+      "link": "https://www.bbc.com/news/articles/cqxpp73wqero?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 26 May 2026 23:15:47 GMT",
+      "description": "With the US pulling out of trilateral talks with Russia and Ukraine, the EU is looking for potential candidates to step in."
     },
     {
-      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
-      "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 25 May 2026 04:45:13 GMT",
-      "description": "A hypersonic missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed."
+      "title": "How I won fantasy football in my first ever season - without using AI",
+      "link": "https://www.bbc.com/news/articles/c8jvvvwepj1o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 09:18:33 GMT",
+      "description": "Danish medical student Erik Ibsen, 23, says it's \"insane\" he beat more than 11 million FPL players."
     },
     {
-      "title": "At least 19 people taken to hospital after 'strong smell' reported at Tokyo mall",
-      "link": "https://www.bbc.com/news/articles/cevpp983kmzo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 25 May 2026 11:08:05 GMT",
-      "description": "Police say a man sprayed a substance at an ATM in the luxury Ginza 6 shopping centre."
+      "title": "Watch: Trump is transforming Washington - by adding his face everywhere",
+      "link": "https://www.bbc.com/news/videos/ce8pp9r03z7o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 09:17:42 GMT",
+      "description": "Sarah Smith visits places across the US capital where the president has hung banners, renamed a site or is rebuilding something."
     },
     {
-      "title": "Surf photographer attacked in water by 'shark or sea lion'",
-      "link": "https://www.bbc.com/sport/surfing/articles/cx213zv3dv3o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 25 May 2026 03:22:46 GMT",
-      "description": "The finals day of the World Surf League's New Zealand Pro event was paused after a photographer was attacked."
+      "title": "How long will the heatwave last?",
+      "link": "https://www.bbc.com/weather/articles/cx2114xqv05o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 03:40:37 GMT",
+      "description": "Following the hottest May day on record, Simon King looks at how many more days of heat you can expect."
     },
     {
-      "title": "First Hong Kong astronaut launches into space onboard Chinese mission",
-      "link": "https://www.bbc.com/news/articles/cn7p87r56mgo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 25 May 2026 06:52:59 GMT",
-      "description": "The 43-year-old police officer and mother of three serves as the team's payload scientist."
+      "title": "Five people found alive after week trapped in flooded Laos cave",
+      "link": "https://www.bbc.com/news/articles/crkpvxrxgp6o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 11:11:54 GMT",
+      "description": "The search is continuing for a further two villagers who are still missing, rescuers say."
     },
     {
-      "title": "Raducanu exits French Open in first round - will she come out stronger at Wimbledon?",
-      "link": "https://www.bbc.com/sport/tennis/articles/c202q242lnyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 24 May 2026 22:07:45 GMT",
-      "description": "Emma Raducanu's French Open first-round defeat was not unexpected, but the nature of it may have left her wishing she had stayed at home."
+      "title": "Bad Bunny joins Toy Story 5 cast as voice of forgotten pizza toy",
+      "link": "https://www.bbc.com/news/articles/c4g4y0zyen4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 10:20:21 GMT",
+      "description": "The Puerto Rican star will make a cameo in the latest in the animated Disney film franchise."
+    },
+    {
+      "title": "Russia 'relentlessly targeting' critical infrastructure and democracy, GCHQ says",
+      "link": "https://www.bbc.com/news/articles/c4g44gprnnvo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 26 May 2026 23:42:16 GMT",
+      "description": "The spy agency's head will set out threats facing the UK and the measures she believes need to be taken to confront them on Wednesday."
+    },
+    {
+      "title": "Man charged over fatal shooting of award-winning farmer",
+      "link": "https://www.bbc.com/news/articles/crlpwd8ryd5o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 10:04:29 GMT",
+      "description": "The body of Charles Kinston, 23, was found in a field in Derbyshire on 29 January 2024."
+    },
+    {
+      "title": "Dozens killed in Lebanon as Israel intensifies strikes",
+      "link": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 04:07:27 GMT",
+      "description": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" the Iran-backed group."
+    },
+    {
+      "title": "Around 100 firefighters tackle Golders Green blaze",
+      "link": "https://www.bbc.com/news/articles/ceqpd9vezrdo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 10:07:55 GMT",
+      "description": "The fire broke out around 06:45 BST at a supermarket below a block of flats in north-west London."
+    },
+    {
+      "title": "Hotel that refused to give tourist tap water acted lawfully, Italian court rules",
+      "link": "https://www.bbc.com/news/articles/c4g4yd8q0j7o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 02:52:49 GMT",
+      "description": "The Italian Supreme Court rejected a tourist's claim that her consumer rights were breached when she was only offered €7 bottled mineral water."
     },
     {
       "title": "BBC News app",
@@ -124,52 +154,52 @@
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests"
     },
     {
-      "title": "The Louise Casey Interview (Live at Hay Festival)",
-      "link": "https://www.bbc.co.uk/sounds/play/p0nmrhlr?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 24 May 2026 15:54:00 GMT",
-      "description": "Baroness Casey on violence against girls and whether governments take reviews seriously."
+      "title": "Why Did Teenage Rapists Avoid Custody?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0nndbnv?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 26 May 2026 19:06:00 GMT",
+      "description": "Sentences of boys spared custody over rape referred to Court of Appeal."
     },
     {
-      "title": "Americast",
+      "title": "The political fight for American men",
       "link": "https://www.bbc.co.uk/sounds/play/p0nmv22y?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 25 May 2026 06:00:00 GMT",
       "description": "An interview with author and professor, Scott Galloway"
     },
     {
-      "title": "Which side were remarkable? Who were a shambles? Phil McNulty's season review",
-      "link": "https://www.bbc.com/sport/football/articles/cx2136mx2m2o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 25 May 2026 08:10:33 GMT",
-      "description": "BBC Sport chief football writer Phil McNulty reviews every team's Premier League - and looks back at his pre-season predictions."
+      "title": "Nuno to stay as West Ham boss after relegation",
+      "link": "https://www.bbc.com/sport/football/articles/c4g4y0px4gyo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 08:45:20 GMT",
+      "description": "Nuno Espirito Santo will stay on as West Ham manager to lead their fight to get back to the Premier League at the first attempt, the club says."
     },
     {
-      "title": "Premier League predictions - how accurate were BBC Sport pundits?",
-      "link": "https://www.bbc.com/sport/football/articles/c1j27y7leelo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 25 May 2026 08:55:21 GMT",
-      "description": "Last summer, 33 BBC pundits - plus AI and Opta's 'supercomputer' were asked to pick which teams would finish in the Premier League's top four, and in which order. How did they get on?"
+      "title": "Spurs needed 'complete reset', says under fire CEO",
+      "link": "https://www.bbc.com/sport/football/articles/c5y771yleqvo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 07:06:39 GMT",
+      "description": "In a wide-ranging exclusive interview with BBC Sport, Tottenham chief executive Vinai Venkatesham talks about a number of issues the club needs to address."
     },
     {
-      "title": "The title battle finally came alive - then Antonelli took control",
-      "link": "https://www.bbc.com/sport/formula1/articles/czr2ed3zrr5o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 25 May 2026 00:59:57 GMT",
-      "description": "The Formula 1 title battle caught light in Canada - but then took a potentially decisive turn, writes Andrew Benson."
+      "title": "The footballer setting record straight after 46 years",
+      "link": "https://www.bbc.com/sport/football/articles/cz02gdm7zleo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 05:34:00 GMT",
+      "description": "Roly Gregoire, Sunderland's first black player, sometimes wishes he had never played football because of the racist abuse he found too painful to talk about for 46 years."
     },
     {
-      "title": "'Spurs avoid humiliation but elation of fans will soon turn to anger'",
-      "link": "https://www.bbc.com/sport/football/articles/c5y7j7752ppo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 24 May 2026 19:19:39 GMT",
-      "description": "Tottenham Hotspur's celebrations in survival cannot cover up their embarrassment of a season that almost ended in the unthinkable, says chief football writer Phil McNulty."
+      "title": "60 Palace 'troublemakers' ordered to leave Leipzig",
+      "link": "https://www.bbc.com/sport/football/articles/cx213pp0yrlo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 07:36:32 GMT",
+      "description": "Police say 60 Crystal Palace fans classified as \"known troublemakers\" have been ordered to leave Leipzig while two arrests were made before the Europa Conference League final."
     },
     {
-      "title": "'A big ask' in Paris - will a stronger Raducanu emerge at Wimbledon?",
-      "link": "https://www.bbc.com/sport/tennis/articles/c202q242lnyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 24 May 2026 22:07:45 GMT",
-      "description": "Emma Raducanu's French Open first-round defeat was not unexpected, but the nature of it may have left her wishing she had stayed at home."
+      "title": "Yapp makes history as first Lions Women coach",
+      "link": "https://www.bbc.com/sport/rugby-union/articles/clypwngjxy2o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 10:01:22 GMT",
+      "description": "The ex-England scrum-half says she wants to 'create something special' on next year's inaugural tour in New Zealand."
     },
     {
-      "title": "What happens now at relegated West Ham?",
-      "link": "https://www.bbc.com/sport/football/articles/cvgz1zl14k3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 24 May 2026 19:19:40 GMT",
-      "description": "West Ham's 14-year stay in the Premier League is over - but what changes lie ahead as they prepare for life in the Championship?"
+      "title": "Travelling solo and sharing rooms – what is life like on tennis’ lower rung?",
+      "link": "https://www.bbc.com/sport/tennis/articles/cgjpp5408jdo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 10:54:27 GMT",
+      "description": "Sleeping in a transit van is one of the money-saving tricks used by those on the lower rung of the tennis circuit."
     }
   ]
 }
