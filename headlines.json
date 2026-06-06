@@ -1,157 +1,145 @@
 {
-  "scraped_at": "2026-06-05 11:15:57 UTC",
+  "scraped_at": "2026-06-06 09:50:52 UTC",
   "source": "BBC News RSS",
-  "total": 34,
+  "total": 33,
   "headlines": [
     {
-      "title": "Andrew was sub-letting Royal Lodge cottages, watchdog reveals",
-      "link": "https://www.bbc.com/news/articles/ce8p8dzvjy9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 11:00:58 GMT",
-      "description": "A public spending watchdog examines the property arrangements of royals including Andrew Mountbatten-Windsor."
+      "title": "Downing Street hits out at 'people seeking to stir division' after Vance's Nowak post",
+      "link": "https://www.bbc.com/news/articles/crlplwn1jkro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 06 Jun 2026 07:04:19 GMT",
+      "description": "The US vice-president wrote the \"only response is righteous anger\" when referring to Henry Nowak's death on X."
     },
     {
-      "title": "World-first vaccine designed by AI could protect against whole families of viruses",
-      "link": "https://www.bbc.com/news/articles/crrpggegwe0o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 23:29:06 GMT",
-      "description": "Cambridge scientists say they have, for the first time, tested a vaccine designed by AI."
+      "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
+      "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 06 Jun 2026 06:16:28 GMT",
+      "description": "The US military says it struck Iranian drones and radar sites. Tehran responds by targeting US bases in Kuwait and Bahrain."
     },
     {
-      "title": "Former student charged after University of Surrey crossbow attack",
-      "link": "https://www.bbc.com/news/articles/cvgzg417yxno?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 10:40:40 GMT",
-      "description": "A university campus safety officer was seriously injured in the attack in Guildford on Thursday."
+      "title": "Tributes to Buffy and Ted Lasso star Anthony Head after death aged 72",
+      "link": "https://www.bbc.com/news/articles/cd0p0rz4n0mo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 06 Jun 2026 07:33:07 GMT",
+      "description": "The British actor, who also appeared in Merlin and Little Britain, died of complications from pneumonia."
     },
     {
-      "title": "How the contest is shaping up two weeks ahead of crucial Makerfield by-election",
-      "link": "https://www.bbc.com/news/articles/cg7p7nmj52jo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 10:16:46 GMT",
-      "description": "What stood out from the Question Time exchanges between candidates in the Makerfield by-election?"
+      "title": "D-Day veterans mark anniversary as nearly 100 British names added to memorial",
+      "link": "https://www.bbc.com/news/articles/cvgm53nqvndo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 06 Jun 2026 09:23:37 GMT",
+      "description": "Tributes are under way to mark the largest military seaborne operation ever attempted."
     },
     {
-      "title": "UK in most dangerous period I've known, military chief says",
-      "link": "https://www.bbc.com/news/articles/c1m2mryg0k7o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 10:12:17 GMT",
-      "description": "Russian incursions into UK defences risk crossing a line, Chief of the Defence Staff Sir Richard Knighton tells the BBC."
+      "title": "Armenia braces for election as Russia piles pressure on pro-West government",
+      "link": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 06 Jun 2026 07:06:43 GMT",
+      "description": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support."
     },
     {
-      "title": "The deeply contentious debate around what it means to be English",
-      "link": "https://www.bbc.com/news/articles/c3626n0lgj3o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 08:57:34 GMT",
-      "description": "The debate about English identity has been a perennial one but has now taken on a harder edge"
+      "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
+      "link": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 05 Jun 2026 18:16:15 GMT",
+      "description": "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks."
     },
     {
-      "title": "Gareth Southgate: We need to teach boys differently from girls to get best out of them",
-      "link": "https://www.bbc.com/news/articles/ckgp5g34kzpo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 05:08:01 GMT",
-      "description": "The former England manager has made a documentary looking at the issues affecting boys and young men."
+      "title": "Singer Duffy to return for first live concert in more than 15 years",
+      "link": "https://www.bbc.com/news/articles/ce8p8mzj4e8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 06 Jun 2026 07:54:22 GMT",
+      "description": "The Welsh singer has announced her first concert after a sexual assault led her to step away from public life."
     },
     {
-      "title": "One in four births in England is now emergency caesarean, BBC analysis shows",
-      "link": "https://www.bbc.com/news/articles/cqxpxjrqd1po?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 23:41:16 GMT",
-      "description": "The shift marks a significant rise over the last five years, but experts say there is no single, clear explanation for the increase."
+      "title": "Giant banquets rile radical left in France",
+      "link": "https://www.bbc.com/news/articles/c78q215vyd7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 06 Jun 2026 03:42:04 GMT",
+      "description": "The feasting phenomenon run by Le Canon Français has become a hot political issue."
     },
     {
-      "title": "A-level maths exam marking to be watched closely by regulator after students 'overwhelmed'",
-      "link": "https://www.bbc.com/news/articles/c4g9gz9d2qzo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 10:56:07 GMT",
-      "description": "More than 20,000 people sign a petition calling for a review of a paper they say was significantly more challenging than any past exam."
+      "title": "Late night but 'full throttle' - the UK public screenings going all out this World Cup",
+      "link": "https://www.bbc.com/news/articles/c2d2drny216o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 05 Jun 2026 23:05:13 GMT",
+      "description": "With the 2026 FIFA World Cup just around the corner, why not catch a bit of the action from a more surprising location?"
     },
     {
-      "title": "Paddleboard firm owner who caused four deaths has bid to cut sentence refused",
-      "link": "https://www.bbc.com/news/articles/c9q3qew4rvwo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 11:15:12 GMT",
-      "description": "Nerys Lloyd was sentenced to 10 years and six months for gross negligence manslaughter in April 2025."
+      "title": "Your middle-aged friend starts dating your daughter: Drama explores what happens next",
+      "link": "https://www.bbc.com/news/articles/cy02r2863k4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 05 Jun 2026 23:08:53 GMT",
+      "description": "The new drama centres on Alice discovering best friend Steve is dating her 26-year-old daughter."
     },
     {
-      "title": "US actor James Handy stabbed to death, with girlfriend's son arrested",
-      "link": "https://www.bbc.com/news/articles/czd2dj24jgdo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 09:40:06 GMT",
-      "description": "Handy, 81, is known for his roles in films including Jumanji and Top Gun: Maverick."
+      "title": "Rumours and speculation as fans forecast date of Taylor Swift's wedding",
+      "link": "https://www.bbc.com/news/articles/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 06 Jun 2026 02:28:56 GMT",
+      "description": "Swifties worldwide are looking for clues about the superstar's nuptials to American football star Travis Kelce."
     },
     {
-      "title": "'We moved in with 17 strangers so we wouldn't be lonely' - why co-housing is on the rise",
-      "link": "https://www.bbc.com/news/articles/c5y445vd584o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 05:12:33 GMT",
-      "description": "Co-housing is becoming a more popular model to beat loneliness and the affordable housing crisis"
+      "title": "How a virtual space battle lost gamers £400,000",
+      "link": "https://www.bbc.com/news/articles/cnvp7364q5no?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 05 Jun 2026 23:13:30 GMT",
+      "description": "One of the most violent chapters in EVE Online history wiped out an empire that had taken years to build."
     },
     {
-      "title": "Who can buy shares in Elon Musk's SpaceX?",
-      "link": "https://www.bbc.com/news/articles/czx299wpp56o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 09:51:36 GMT",
-      "description": "From next week individual investors can take a stake in Musk's rockets-to-AI company."
+      "title": "Seven spectacular night sky events to watch out for this summer",
+      "link": "https://www.bbc.com/weather/articles/cgepvrgepn4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 06 Jun 2026 08:25:39 GMT",
+      "description": "From a lunar eclipse to one of the best meteor showers of the calendar year, there are a number of impressive sights to behold in the summer night sky."
     },
     {
-      "title": "Weekly quiz: What did Rosamund Pike say to the person using their phone during her play?",
-      "link": "https://www.bbc.com/news/articles/cd9p9njwpvyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 17:01:19 GMT",
-      "description": "How much attention did you pay to what happened in the world over the past seven days?"
+      "title": "The Papers: 'Flagship breaks down' and 'Beer we go!'",
+      "link": "https://www.bbc.com/news/articles/c9q3q930vj1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 06 Jun 2026 04:58:24 GMT",
+      "description": "The World Cup features on many of Saturday's front pages - as well as the woes of one of Britain's aircraft carriers."
     },
     {
-      "title": "Where does the Royal Family get its money from?",
-      "link": "https://www.bbc.com/news/articles/cwy5lzq94gqo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 10:47:18 GMT",
-      "description": "The language of Buckingham Palace's statement is \"very brutal\", royal historian Kelly Swaby tells the BBC."
+      "title": "Six charged with violent disorder after Nowak protest",
+      "link": "https://www.bbc.com/news/articles/c05yjg452geo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 06 Jun 2026 09:38:06 GMT",
+      "description": "The six men are remanded in custody and due to appear at Southampton Magistrates' Court later."
     },
     {
-      "title": "Tough cookies: How pop group Le Sserafim overcame band tensions and internet trolls",
-      "link": "https://www.bbc.com/news/articles/c7752znyle6o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 22:22:56 GMT",
-      "description": "The K-pop band say accepting their flaws and embracing humour took them to a new level of success."
+      "title": "Euromillions winner dies in suspected hit-and-run",
+      "link": "https://www.bbc.com/news/articles/cqj1lljr5wjo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 06 Jun 2026 09:10:48 GMT",
+      "description": "Anthony Canty was knocked off his bicycle and an 18-year-old has since been arrested, police say."
     },
     {
-      "title": "How Trump's White House ballroom plan has doubled in size and cost over a year",
-      "link": "https://www.bbc.com/news/articles/cnvpvd52j95o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 23:53:19 GMT",
-      "description": "BBC Verify examines how the biggest change to the White House in decades has transformed in the last year."
+      "title": "Man dies after bitten by shark in Western Australia, police say",
+      "link": "https://www.bbc.com/news/articles/c74yl98kv37o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 06 Jun 2026 08:20:50 GMT",
+      "description": "The man was spearfishing off Michaelmas Island with his family, according to local reports."
     },
     {
-      "title": "Do single 20-somethings need AI to make first move on dating apps? Hinge's boss thinks so",
-      "link": "https://www.bbc.com/news/articles/c052397y6ygo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 23:05:54 GMT",
-      "description": "Jackie Jantos says loneliness and lack of confidence were challenges for young adults looking for relationships."
+      "title": "Canada bans Texas cattle over flesh-eating screwworm outbreak in US",
+      "link": "https://www.bbc.com/news/articles/cevpv3r7jmpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 06 Jun 2026 04:22:25 GMT",
+      "description": "The ban came as a second infected calf was identified in Texas, and the US state declaring a state of disaster over the outbreak."
     },
     {
-      "title": "Mangrove forests are healing after decades of human destruction",
-      "link": "https://www.bbc.com/news/articles/cn4pk07npvvo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 23:11:15 GMT",
-      "description": "Swampy mangrove forests are staging a surprise comeback - which is good news for coastal communities and the climate."
+      "title": "Man charged over Barry Island stabbing after boy has leg amputated",
+      "link": "https://www.bbc.com/news/articles/c74yjjvz2xyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 06 Jun 2026 06:58:10 GMT",
+      "description": "An 18-year-old is due in court charged with wounding with intent and possessing a knife."
     },
     {
-      "title": "Kanya King, who founded Mobo Awards to champion black music, dies at 57",
-      "link": "https://www.bbc.com/news/articles/cy89qg3n7vvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 09:45:08 GMT",
-      "description": "King overcame doubters and mortgaged her house to launch the influential ceremony 30 years ago."
+      "title": "'He's causing havoc': Parrot loose in Inverness blamed for damage to cars",
+      "link": "https://www.bbc.com/news/articles/c232dnkkd3po?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 02 Jun 2026 11:13:55 GMT",
+      "description": "Residents of Lochardil say the parakeet is pecking chunks out of parts of their cars."
     },
     {
-      "title": "Greens can bring hope and joy, Makerfield candidate says",
-      "link": "https://www.bbc.com/news/articles/cvgzjr34372o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 28 May 2026 14:01:07 GMT",
-      "description": "Green candidate Sarah Wakefield pledged action on two \"big buckets of issues\"."
+      "title": "I moved from Ethiopia to Shetland - and I've brought the coffee with me",
+      "link": "https://www.bbc.com/news/articles/cvgz46znz0vo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 31 May 2026 08:29:29 GMT",
+      "description": "Netsanet Sori is bringing a flavour of the farm where she grew up to her new home 4,000 miles away."
     },
     {
-      "title": "'Extremely intelligent' bear on the run in Japan after injuring four people",
-      "link": "https://www.bbc.com/news/videos/cx212p755z8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 09:08:57 GMT",
-      "description": "Authorities said that a bear in north-east Japan has eluded capture by opening a window."
+      "title": "Rivals costume designer honoured to make outfit for Dame Jilly Cooper",
+      "link": "https://www.bbc.com/news/articles/clyp0rz9726o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 02 Jun 2026 18:09:03 GMT",
+      "description": "TV drama Rivals' costume designer says it was an honour creating an outfit for Dame Jilly Cooper."
     },
     {
-      "title": "Helicopter deaths 'devastating' for Royal Navy",
-      "link": "https://www.bbc.com/news/articles/c9q3qyqr5nno?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 10:59:43 GMT",
-      "description": "Tributes continue to be paid to three crew members killed in a crash in Devon."
-    },
-    {
-      "title": "Kate Winslet delights young film fan with surprise call",
-      "link": "https://www.bbc.com/news/articles/c302g680zr1o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 05:13:51 GMT",
-      "description": "Teenager Eryn, who has been blind since brith, made a three hour round-trip for a film screening because there was no local accessible cinema."
-    },
-    {
-      "title": "Nearly 50 people die of thirst in Sahara desert after lorry breaks down",
-      "link": "https://www.bbc.com/news/articles/c62r2ldyejro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 09:37:38 GMT",
-      "description": "Only two survived after trekking more than 50km (30 miles) across the desert to alert the authorities."
+      "title": "'It was an easy decision': Man donates part of his brain to help find cure for dementia",
+      "link": "https://www.bbc.com/news/articles/c332x7nv8x4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 02 Jun 2026 05:30:20 GMT",
+      "description": "Aidan McAllister gave permission for doctors to take a part of his healthy brain matter to use for dementia research."
     },
     {
       "title": "BBC News app",
@@ -160,16 +148,16 @@
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests"
     },
     {
-      "title": "Andy Burnham Says He Would Enter Labour Leadership Contest",
-      "link": "https://www.bbc.co.uk/sounds/play/p0nphd97?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 04 Jun 2026 22:34:00 GMT",
-      "description": "Adam and Chris react to Question Time in Makerfield"
+      "title": "Will This Be The Donald Trump World Cup? (With Football Daily, Part 1)",
+      "link": "https://www.bbc.co.uk/sounds/play/p0nq984k?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 05 Jun 2026 10:59:00 GMT",
+      "description": "And what’s going on with the Infantino bromance?"
     },
     {
-      "title": "Does the US need new laws to protect elections?",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8lz4?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 29 May 2026 16:36:00 GMT",
-      "description": "And, why does Donald Trump want to “nationalise” elections?"
+      "title": "Anthropic: AI could escape human control",
+      "link": "https://www.bbc.co.uk/sounds/play/p0nqck86?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 05 Jun 2026 15:43:00 GMT",
+      "description": "US firm proposes coordinated global slowdown on building advanced artificial intelligence"
     },
     {
       "title": "Explore a place where science, politics and culture collide",
@@ -178,34 +166,40 @@
       "description": "Film exploring the human stories behind mankind’s biggest experiment in particle physics."
     },
     {
-      "title": "Arsenal trio & Fernandes on PFA men's player of the year shortlist",
-      "link": "https://www.bbc.com/sport/football/articles/c4g4gkmmge9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 08:56:33 GMT",
-      "description": "Declan Rice, Gabriel, David Raya, Bruno Fernandes, Erling Haaland and Rayan Cherki are nominated for the Professional Footballers' Association men's player of the year award."
+      "title": "Mr Irreplaceable and Ballon d'Or contender - is this Kane's time?",
+      "link": "https://www.bbc.com/sport/football/articles/cvgzx1e7l1jo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 06 Jun 2026 05:21:33 GMT",
+      "description": "Harry Kane has been described as irreplaceable for England, but will the World Cup provide the stage for him to prove he is now the best?"
     },
     {
-      "title": "'Just what England wanted' - Tongue gets two early wickets",
-      "link": "https://www.bbc.com/sport/cricket/videos/cj6p6983l45o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 10:30:26 GMT",
-      "description": "England's Josh Tongue bowls New Zealand's Glenn Phillips and Nathan Smith early on day two of the Second Test."
+      "title": "Teenage star v 500-1 qualifier - a French Open final of contrasts",
+      "link": "https://www.bbc.com/sport/tennis/articles/c3w2wz7pd0po?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 06 Jun 2026 05:49:39 GMT",
+      "description": "Mirra Andreeva is a teenage star long predicted to win a Grand Slam title while Maja Chwalinska is a qualifier who came out of nowhere. On Saturday, they meet in the French Open final."
     },
     {
-      "title": "Farrell signs new Ireland deal to 2031",
-      "link": "https://www.bbc.com/sport/rugby-union/articles/c1k2k0vejdwo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 08:36:59 GMT",
-      "description": "Ireland men's head coach Andy Farrell signs a new contract with the Irish Rugby Football Union (IRFU) until 2031."
+      "title": "Vaughan feels sorry for batters on poor Lord's pitch",
+      "link": "https://www.bbc.com/sport/cricket/articles/c4g8g8pp3vgo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 05 Jun 2026 20:02:01 GMT",
+      "description": "Michael Vaughan says he feels sorry for batters over the state of the Lord's pitch after 33 wickets fell on the opening two days of the first Test between England and New Zealand."
     },
     {
-      "title": "Shaw and Hasegawa on PFA women's award shortlist",
-      "link": "https://www.bbc.com/sport/football/articles/cwy2ykk9lvro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 09:28:13 GMT",
-      "description": "Manchester City duo Khadija 'Bunny' Shaw and Yui Hasegawa are shortlisted for the Professional Footballers Association's Women's Player of the Year award."
+      "title": "Tuchel will not let Tampa pitch affect selection",
+      "link": "https://www.bbc.com/sport/football/articles/c87q7q45gp2o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 05 Jun 2026 20:45:14 GMT",
+      "description": "England head coach Thomas Tuchel says reports about the state of the pitch at the venue for his side's friendly against New Zealand will not influence team selection."
     },
     {
-      "title": "Football regulator faces 'defining test' over potential Derby investment",
-      "link": "https://www.bbc.com/sport/football/articles/c20257p2dyyo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 09:24:21 GMT",
-      "description": "English football's independent regulator faces a \"defining test\" as Saudi Arabian government official Turki Al-Sheikh attempts to invest in Derby County, says Amnesty International."
+      "title": "17 wickets fall as England take control on another action-packed day",
+      "link": "https://www.bbc.com/sport/cricket/videos/cy52vpr9gqgo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 05 Jun 2026 19:16:01 GMT",
+      "description": "England have a golden opportunity for victory in the first Test against New Zealand despite a chaotic collapse of four wickets for one run in 11 balls on the second day at Lord's."
+    },
+    {
+      "title": "The pioneer in an unlikely World Cup team",
+      "link": "https://www.bbc.com/sport/football/articles/cn4p4jw7pzko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 06 Jun 2026 06:11:06 GMT",
+      "description": "When Desmond Armstrong faced the media at the World Cup in 1990, the first question he got was one that would stick in his mind for the wrong reasons."
     }
   ]
 }
