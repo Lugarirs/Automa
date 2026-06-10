@@ -1,157 +1,151 @@
 {
-  "scraped_at": "2026-06-09 10:49:11 UTC",
+  "scraped_at": "2026-06-10 11:28:16 UTC",
   "source": "BBC News RSS",
-  "total": 35,
+  "total": 31,
   "headlines": [
     {
-      "title": "Man arrested on suspicion of attempted murder after 'brutal' knife attack in Belfast",
-      "link": "https://www.bbc.com/news/articles/cdejnjdg08eo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 10:35:14 GMT",
-      "description": "Police say a man in his 30s, who is believed to be Somali, is in custody as Keir Starmer calls the incident \"sickening\"."
+      "title": "Watch: Residents flee as cars and houses burn in Belfast",
+      "link": "https://www.bbc.com/news/videos/c5yzpg514v0o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 10 Jun 2026 04:17:20 GMT",
+      "description": "Police and firefighters help families leave their homes amid disorder following a knife attack."
     },
     {
-      "title": "'I was a prisoner in my home': Drug gangs 'cuckooing' hundreds of homes a week, police warn",
-      "link": "https://www.bbc.com/news/articles/cd7p7p4xdq9o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 08 Jun 2026 23:01:50 GMT",
-      "description": "Hundreds if not thousands of people's homes are being taken over by UK gangs every week, say police."
+      "title": "Illegal mini-marts to shut for up to 12 months under law change prompted by BBC",
+      "link": "https://www.bbc.com/news/articles/cqj1rkqqrgro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 10 Jun 2026 04:17:02 GMT",
+      "description": "Under current rules, shops breaking the law can only be closed for up to six months in England and Wales."
     },
     {
-      "title": "Football regulator contacts West Ham over 'serious allegations' against Sullivan",
-      "link": "https://www.bbc.com/news/articles/c1ky7gndnlyo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 08:58:17 GMT",
-      "description": "Multiple women accuse the billionaire of abusing his power and preying on them for sex, in some cases when they were in their late teens."
+      "title": "US strikes Iran in response to downing of military helicopter",
+      "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 10 Jun 2026 09:39:35 GMT",
+      "description": "President Donald Trump earlier accused Iran of shooting down the US helicopter over the Strait of Hormuz and vowed to respond."
     },
     {
-      "title": "300 migrants bound for UK kidnapped and threatened with kidney removal",
-      "link": "https://www.bbc.com/news/articles/c8xwxdgvx8lo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 05:00:06 GMT",
-      "description": "The Iraqi Kurds were captured by a militia who demanded a ransom of $5,000 (£3,700) per person."
+      "title": "BBC cancels planned Doctor Who Christmas special",
+      "link": "https://www.bbc.com/news/articles/c621ln7vx7qo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 10 Jun 2026 10:54:17 GMT",
+      "description": "The BBC said the decision was made \"after careful consideration\" and had \"not been taken lightly\"."
     },
     {
-      "title": "Legal equality duty for public services should be scrapped, says Badenoch",
-      "link": "https://www.bbc.com/news/articles/cy5vyqykpx5o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 08:20:56 GMT",
-      "description": "The Conservative leader will argue that the rules have become a \"minefield that exposes almost every significant public decision to legal challenge\"."
+      "title": "Who will win the World Cup? BBC pundits make their predictions",
+      "link": "https://www.bbc.com/sport/football/articles/cg7485gyxz9o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 10 Jun 2026 05:24:53 GMT",
+      "description": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
     },
     {
-      "title": "Ben Stokes and Gus Atkinson investigated over nightclub incident",
-      "link": "https://www.bbc.com/sport/cricket/articles/c0ry801k2geo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 08 Jun 2026 18:58:44 GMT",
-      "description": "An incident at a nightclub involving England cricket captain Ben Stokes, pace bowler Gus Atkinson and a Saracens academy player is being investigated by the England and Wales Cricket Board and the Prem Rugby club."
+      "title": "Model who alleges Kanye West choked her tells BBC she felt 'suffocated and scared'",
+      "link": "https://www.bbc.com/news/articles/c0q2jgkwk0no?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 10 Jun 2026 05:02:46 GMT",
+      "description": "West claims the encounter on a music video set was part of a \"provocative theatrical performance\"."
     },
     {
-      "title": "Teen charged over Golders Green ambulance attack",
-      "link": "https://www.bbc.com/news/articles/c5yz3j256jlo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 10:19:07 GMT",
-      "description": "Subhan Ahmed, 18, is charged with assisting an offender after four Jewish ambulances were burnt out."
+      "title": "Advanced radiotherapy for prostate cancer to cut sessions from 20 to five",
+      "link": "https://www.bbc.com/news/articles/crm02mmgr3ro?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 09 Jun 2026 23:57:30 GMT",
+      "description": "Some men in England with the disease will now be offered an advanced form of treatment on the NHS."
     },
     {
-      "title": "SpaceX's stock market blast-off could be Musk's biggest gamble yet",
-      "link": "https://www.bbc.com/news/articles/cy8d9e4lzv1o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 08 Jun 2026 23:22:17 GMT",
-      "description": "SpaceX is preparing for a stock market debut that could transform the company, the wider market and Elon Musk's fortune."
+      "title": "The UK could hit 28C this weekend - is another heatwave on the way?",
+      "link": "https://www.bbc.com/weather/articles/c74y8p34nvno?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 10 Jun 2026 06:02:59 GMT",
+      "description": "Temperatures are expected to rise by the end of the week where we could see another heatwave developing, Simon King explains"
     },
     {
-      "title": "Somali referee Artan barred from entering US ahead of World Cup",
-      "link": "https://www.bbc.com/sport/football/articles/cnv9drg0qzgo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 08:50:40 GMT",
-      "description": "Omar Artan, who was set to be the first Somali to referee at the World Cup finals, is dropped from the list of officials after he was denied entry to the United States."
+      "title": "How to watch the key World Cup matches - and keep your job",
+      "link": "https://www.bbc.com/news/articles/c0r2yldw1vjo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 09 Jun 2026 23:03:08 GMT",
+      "description": "Football fans and bosses share their strategies to balance late night kick offs with work the next day."
     },
     {
-      "title": "Driving test booking rules tightened after thousands of no shows",
-      "link": "https://www.bbc.com/news/articles/c4gyel9n02zo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 08 Jun 2026 23:05:32 GMT",
-      "description": "Learner drivers can only swap their test to the three centres nearest to their original booking."
+      "title": "With no team in World Cup, China fans rally around a red card-happy referee",
+      "link": "https://www.bbc.com/news/articles/cx2x5z4202jo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 09 Jun 2026 23:49:56 GMT",
+      "description": "Ma Ning, known for his stern style, has sparked viral memes and attracted major brand sponsorships."
     },
     {
-      "title": "Russia's fuel crisis intensifies as Ukraine steps up strikes on occupied territories",
-      "link": "https://www.bbc.com/news/articles/cn75l36vdd8o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 08 Jun 2026 23:23:15 GMT",
-      "description": "Kyiv has made it difficult for Moscow to provide military and civilian supplies to the territories it occupies."
+      "title": "Cymru connections: Who can Wales fans back?",
+      "link": "https://www.bbc.com/sport/football/articles/cdx7rqpevzdo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 10 Jun 2026 08:56:54 GMT",
+      "description": "It's the return of a conundrum that Welsh football fans had to deal with for 64 years before 2022: Who to support at the World Cup?"
     },
     {
-      "title": "I thought I'd got my dream flat - so did 23 others",
-      "link": "https://www.bbc.com/news/articles/c3w32xj676no?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 05:11:38 GMT",
-      "description": "Student Mide Awosika pays thousands for a flat rental deposit - and discovers many others also did."
+      "title": "Twenty new players to look out for",
+      "link": "https://www.bbc.com/sport/football/articles/cn0p0gkl90go?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 09 Jun 2026 06:42:53 GMT",
+      "description": "BBC Sport TV and radio commentators pick the players they think could be the breakout stars."
     },
     {
-      "title": "Billionaire West Ham co-owner accused of abusing his power and preying on women for sex",
-      "link": "https://www.bbc.com/news/articles/cj9p2lm7epeo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 08 Jun 2026 16:00:01 GMT",
-      "description": "Women say David Sullivan told them they needed to have sex with him to feature in his newspapers."
+      "title": "'People didn't believe I was sleeping rough': The UK's hidden homeless women",
+      "link": "https://www.bbc.com/news/articles/c1jydj76pzno?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 10 Jun 2026 00:07:31 GMT",
+      "description": "Two thirds of the women counted in a charity-led census would not have been recorded using the government method."
     },
     {
-      "title": "Could humanoid robots be heading for the battlefield?",
-      "link": "https://www.bbc.com/news/articles/cedpxwe26l1o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 08 Jun 2026 23:06:30 GMT",
-      "description": "Armed forces are experimenting with humanoid robots, but battlefield deployment is some way off."
+      "title": "Three questions Bill Gates could face as he testifies to Congress on Epstein",
+      "link": "https://www.bbc.com/news/articles/crr892qp255o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 10 Jun 2026 10:40:42 GMT",
+      "description": "The Microsoft co-founder has repeatedly denied any wrongdoing or knowledge of his former associate's illegal activity."
     },
     {
-      "title": "Trump tells BBC Netanyahu did not defy him",
-      "link": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 08 Jun 2026 22:34:25 GMT",
-      "description": "In a call with the US president, the BBC’s Sarah Smith asked Trump about the war in Iran and his relationship with the Israeli leader."
+      "title": "'My son and daughter play for England, I still pinch myself'",
+      "link": "https://www.bbc.com/news/articles/cx2x5l2yyqpo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 10 Jun 2026 05:14:42 GMT",
+      "description": "Nigel James says \"I still pinch myself\" that two of his children represent England's football teams."
     },
     {
-      "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
-      "link": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 05:07:44 GMT",
-      "description": "Iran appears emboldened by the outcome and its leaders may sense Trump's appetite for risk is low."
+      "title": "Watch: BBC goes into jungle with Myanmar's civil war rebels",
+      "link": "https://www.bbc.com/news/videos/cx2k5nq51lgo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 09 Jun 2026 21:04:20 GMT",
+      "description": "The BBC’s Quentin Sommerville travels to Myanmar - without the permission of the authorities - to meet a group of rebel fighters."
     },
     {
-      "title": "Why super-sized and politicised World Cup comes at a cost",
-      "link": "https://www.bbc.com/sport/football/articles/cg4wqr2ev33o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 05:57:24 GMT",
-      "description": "Whatever one's perspective, it seems certain that away from the on-field spectacle, this super-sized World Cup could be among the most contentious ever."
+      "title": "My wife's 'unadoptable' baby was left to die at unmarried mothers' home",
+      "link": "https://www.bbc.com/news/articles/c78k2z9d4e4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 10 Jun 2026 02:34:42 GMT",
+      "description": "A new report condemning an unmarried mothers' home is welcomed by survivors and relatives."
     },
     {
-      "title": "I wrote a poem about my son - years later it appeared on his exam paper",
-      "link": "https://www.bbc.com/news/articles/cj4gd2eyvp1o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 05:27:44 GMT",
-      "description": "Emily Cullen says she couldn't believe it when her son told her about the poem, which she had written seven years earlier."
+      "title": "Hundreds of twitchers flock to see African bird in UK for first time",
+      "link": "https://www.bbc.com/news/articles/cd0mz82lvrjo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 10 Jun 2026 05:12:24 GMT",
+      "description": "It is the first time the African bird has been recorded in the UK."
     },
     {
-      "title": "Schoolgirl arrested after three hurt in knife attack",
-      "link": "https://www.bbc.com/news/articles/c4gydjpdwy2o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 10:47:05 GMT",
-      "description": "Three people suffer knife wounds and a pupil is arrested at the school in Blackley."
+      "title": "World Cup referee denied US entry arrives home to hero's welcome in Somalia",
+      "link": "https://www.bbc.com/sport/football/articles/c2dylj8kj82o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 10 Jun 2026 09:50:32 GMT",
+      "description": "Omar Artan vows to officiate at the 2030 World Cup instead after arriving home in Somalia in the wake of being banned from entering the United States."
     },
     {
-      "title": "'Lives still at risk' from unregulated baby sleep industry after BBC investigation",
-      "link": "https://www.bbc.com/news/articles/crrprxy2257o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 08 Jun 2026 23:07:35 GMT",
-      "description": "'Families deserve clarity about the qualifications and training of those caring for their children'"
+      "title": "Inside Myanmar, rebels are losing ground as military forces men into army",
+      "link": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 09 Jun 2026 21:13:17 GMT",
+      "description": "The BBC travels with rebels to frontline positions in Myanmar to see how the war is unfolding."
     },
     {
-      "title": "World Cup tickets for Iran fans revoked, the country's football body says",
-      "link": "https://www.bbc.com/sport/football/articles/c9q2vrdx0ewo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 10:15:49 GMT",
-      "description": "Iran's football federation says its allocation of tickets for the group stage of the World Cup has been revoked just days before the tournament."
+      "title": "Manhunt under way in South Africa after 12 killed in mass shooting in Johannesburg",
+      "link": "https://www.bbc.com/news/articles/c79yzqw0z0wo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 10 Jun 2026 10:26:54 GMT",
+      "description": "Another nine people were injured at an informal settlement in Cleveland late on Tuesday."
     },
     {
-      "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
-      "link": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 08:46:05 GMT",
-      "description": "The catcalls came after ticketholders faced airport-style security to enter the venue at Madison Square Garden."
+      "title": "Texas teen sentenced to 35 years for killing fellow student at athletics event",
+      "link": "https://www.bbc.com/news/articles/cp3xn1101ewo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 10 Jun 2026 11:20:47 GMT",
+      "description": "The fatal incident during a high school athletics event in a Dallas suburb drew national attention."
     },
     {
-      "title": "Hundreds of aftershocks jolt Philippines as officials say death toll could rise",
-      "link": "https://www.bbc.com/news/articles/ckg50pypn2eo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 07:36:15 GMT",
-      "description": "Dozens of people are dead and hundreds more injured following an earthquake in the country's south."
+      "title": "Pakistan launches deadly air strikes in Afghanistan, reigniting tensions",
+      "link": "https://www.bbc.com/news/articles/cvg57nk373lo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 10 Jun 2026 10:26:26 GMT",
+      "description": "The fresh strikes come after weeks of relative calm in the restive border region between the two countries."
     },
     {
-      "title": "Total of 135 people make compensation claims over care home abuse",
-      "link": "https://www.bbc.com/news/articles/cp9ve3ylv57o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 08:32:51 GMT",
-      "description": "A BBC investigation reveals a report detailing the scale of abuse and neglect at a children's home."
-    },
-    {
-      "title": "Anita Manning's auction house criticised for offering human remains",
-      "link": "https://www.bbc.com/news/articles/cr5j4v548g2o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 05:14:45 GMT",
-      "description": "Human bones, including a skull, were to go under the hammer on Friday, but Great Western Auctions has now withdrawn the item."
+      "title": "Boy, 8, helps save grandad after capsized kayak drifts two miles off coast",
+      "link": "https://www.bbc.com/news/articles/clyxr66kgx4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 10 Jun 2026 10:24:20 GMT",
+      "description": "An eight-year-old boy and his grandad drifted more than two miles off the Vale of Glamorgan coast."
     },
     {
       "title": "BBC News app",
@@ -160,10 +154,10 @@
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests"
     },
     {
-      "title": "Jess Phillips On The Explicit Image Ban For Children",
-      "link": "https://www.bbc.co.uk/sounds/play/p0nq8lpk?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 08 Jun 2026 19:20:00 GMT",
-      "description": "Starmer has told tech firms to block naked images on phones for children."
+      "title": "What We Know About The Belfast Knife Attack So Far",
+      "link": "https://www.bbc.co.uk/sounds/play/p0nq8lzn?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 09 Jun 2026 17:11:00 GMT",
+      "description": "Police and political leaders in Northern Ireland have called for calm."
     },
     {
       "title": "Americanswers… on 5 Live! Why did Trump walk out of his TV interview with Meet The Press?",
@@ -172,46 +166,28 @@
       "description": "And why is JD Vance posting about Henry Nowak?"
     },
     {
-      "title": "Why super-sized and politicised World Cup comes at a cost",
-      "link": "https://www.bbc.com/sport/football/articles/cg4wqr2ev33o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 05:57:24 GMT",
-      "description": "Whatever one's perspective, it seems certain that away from the on-field spectacle, this super-sized World Cup could be among the most contentious ever."
+      "title": "Who will win the World Cup? BBC pundits make their predictions",
+      "link": "https://www.bbc.com/sport/football/articles/cg7485gyxz9o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 10 Jun 2026 05:24:53 GMT",
+      "description": "Who will win, who might spring a surprise and how will England and Scotland do? BBC pundits predict what will happen at the 2026 World Cup."
     },
     {
-      "title": "Tickets for Iran fans revoked, says federation",
-      "link": "https://www.bbc.com/sport/football/articles/c9q2vrdx0ewo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 10:15:49 GMT",
-      "description": "Iran's football federation says its allocation of tickets for the group stage of the World Cup has been revoked just days before the tournament."
+      "title": "Keane and Fernandes clear air after row over 'lie'",
+      "link": "https://www.bbc.com/sport/football/articles/c1mylp97p53o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 10 Jun 2026 08:57:42 GMT",
+      "description": "Roy Keane clears the air with Manchester United captain Bruno Fernandes after he misquoted the Portuguese - which led to  Fernandes accusing him of lying."
     },
     {
-      "title": "'Mazadona', 'Einstein', 'The Ant' - 20 new players to watch at World Cup",
-      "link": "https://www.bbc.com/sport/football/articles/cn0p0gkl90go?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 06:42:53 GMT",
-      "description": "BBC Sport TV and radio commentators pick the players they think could be the breakout stars of the 2026 World Cup."
+      "title": "Real Madrid's £130m Alvarez bid laughed off by Atletico",
+      "link": "https://www.bbc.com/sport/football/articles/cwy0xl7dwv2o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 09 Jun 2026 18:23:07 GMT",
+      "description": "Real Madrid make an offer of 150m euros (£130m) for striker Julian Alvarez, but city rivals Atletico Madrid turn it down."
     },
     {
-      "title": "Champion Maria asks for respect after Queen's snub",
-      "link": "https://www.bbc.com/sport/tennis/articles/cdjke0gl099o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 08:18:42 GMT",
-      "description": "Tatjana Maria says Queen's should show more respect to its defending champions after she goes through qualifying to reach the main draw."
-    },
-    {
-      "title": "Play BBC Sport's new World Cup predictor game",
-      "link": "https://www.bbc.com/sport/football/articles/cn0plqlkl51o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 08:24:41 GMT",
-      "description": "Play BBC Sport's new World Cup predictor game to be in with the chance of winning a signed football."
-    },
-    {
-      "title": "'Diogo will be with you' - Jota's widow writes to Robertson",
-      "link": "https://www.bbc.com/sport/football/articles/c3dyvyy8g5vo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 07:21:29 GMT",
-      "description": "Diogo Jota's widow urges Scotland captain Andrew Robertson to carry his former Liverpool team-mate \"in your heart\" when he plays at the World Cup."
-    },
-    {
-      "title": "RFU council member resigns over Alphonsi post",
-      "link": "https://www.bbc.com/sport/rugby-union/articles/c0ry8dq0w9xo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 09:48:57 GMT",
-      "description": "Rugby Football Union council member Matthew Smith resigns after posting discriminatory criticism of television pundit Maggie Alphonsi."
+      "title": "The wild hip-hop parties that started Tuchel's journey to England boss",
+      "link": "https://www.bbc.com/sport/football/articles/cvgqevklyx1o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 10 Jun 2026 05:45:28 GMT",
+      "description": "Thomas Tuchel is bidding to become the first foreign manager to win the World Cup. BBC Sport charts the start of his journey to becoming England boss."
     }
   ]
 }
