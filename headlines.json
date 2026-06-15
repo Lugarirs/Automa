@@ -1,193 +1,169 @@
 {
-  "scraped_at": "2026-06-14 10:41:33 UTC",
+  "scraped_at": "2026-06-15 13:43:37 UTC",
   "source": "BBC News RSS",
-  "total": 40,
+  "total": 37,
   "headlines": [
     {
-      "title": "Royal Marines board Russian shadow fleet oil tanker in English Channel",
-      "link": "https://www.bbc.com/news/articles/clyek039l2vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 14 Jun 2026 10:19:40 GMT",
-      "description": "Marines were joined by National Crime Agency officers in the six-hour long operation in the early hours of Sunday."
+      "title": "How will social media ban work and when does it start?",
+      "link": "https://www.bbc.com/news/articles/ceqdny4l3jdo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 11:09:42 GMT",
+      "description": "The measures will see apps including TikTok and Snapchat banned for UK teens early in 2027."
     },
     {
-      "title": "Watch: MOD video shows Russian shadow fleet tanker interception",
-      "link": "https://www.bbc.com/news/videos/ce8k5kj64lgo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 14 Jun 2026 09:40:53 GMT",
-      "description": "British armed forces boarded a Russian shadow fleet oil tanker in the English Channel."
+      "title": "Russia was behind arson attacks targeting PM, BBC reveals",
+      "link": "https://www.bbc.com/news/articles/c8r2l352z2do?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 13:10:58 GMT",
+      "description": "Evidence shows Russians directing the plot and stoking tensions with fake far-right and Muslim groups."
     },
     {
-      "title": "What does 1-0 win mean for Scotland's chances of qualification?",
-      "link": "https://www.bbc.com/sport/football/articles/cvglm8n1nyjo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 14 Jun 2026 05:31:14 GMT",
-      "description": "With eight third-place finishers advancing to the last 32, might three points be enough for Scotland to make history?"
+      "title": "How soon could the economy go back to normal after a US-Iran deal?",
+      "link": "https://www.bbc.com/news/articles/cd0p8me2m5do?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 12:33:56 GMT",
+      "description": "Experts warn the impact of the war will continue to affect the global economy for months to come."
     },
     {
-      "title": "Tech firms had 'enough time' says Nandy, ahead of social media announcement",
-      "link": "https://www.bbc.com/news/articles/ce8jyp78mklo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 14 Jun 2026 09:51:15 GMT",
-      "description": "The prime minister is expected to announce measures on protecting teenagers online on Monday."
+      "title": "Boy, 2, seriously hurt in nursery playground car crash",
+      "link": "https://www.bbc.com/news/articles/cy4eldkpxgwo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 13:41:39 GMT",
+      "description": "A 63-year-old woman is arrested on suspicion of causing serious injury by dangerous driving."
     },
     {
-      "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-      "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 14 Jun 2026 07:55:16 GMT",
-      "description": "The US president's comments come as Iran says an exact date has not been decided."
+      "title": "Award-winning investigative journalist Roger Cook dies aged 83",
+      "link": "https://www.bbc.com/news/articles/ckg48qqwkd2o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 10:23:10 GMT",
+      "description": "The New Zealand-born reporter was credited with having invented the doorstep interview technique."
     },
     {
-      "title": "Jarvis says Labour must 'meet the moment' on defence spending",
-      "link": "https://www.bbc.com/news/articles/c4gyx962pepo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 14 Jun 2026 00:42:14 GMT",
-      "description": "The new defence secretary tells the Sunday Telegraph he is determined to ensure the military gets \"what they need\"."
+      "title": "Man arrested for allegedly pushing woman in front of bus in 2017",
+      "link": "https://www.bbc.com/news/articles/cp9ly0gy10yo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 11:52:08 GMT",
+      "description": "A 44-year-old man is in custody over the incident where a woman appeared to be shoved into the path of a bus."
     },
     {
-      "title": "Jubilation as Scotland fans celebrate win",
-      "link": "https://www.bbc.com/news/articles/c78yxr7dl3mo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 14 Jun 2026 08:10:46 GMT",
-      "description": "Supporters gathered in bars and venues across the country in the early hours to watch the match against Haiti."
+      "title": "OnlyFans 'agents' control and threaten creators while taking half their earnings, BBC finds",
+      "link": "https://www.bbc.com/news/articles/c932gpk2l1do?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 05:00:09 GMT",
+      "description": "Dozens of women on OnlyFans describe being exploited by managers who promised to help maximise profits."
     },
     {
-      "title": "Why Haiti v Scotland was antidote to the ills of world football",
-      "link": "https://www.bbc.com/sport/football/articles/cdjkdmel292o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 14 Jun 2026 04:54:15 GMT",
-      "description": "It might have been nervy. It might not have been pretty. But Scotland are here. And Scotland have won. Tom English reports from Boston."
+      "title": "Palestine Action ban is lawful, Court of Appeal rules",
+      "link": "https://www.bbc.com/news/articles/c4gy927jx88o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 12:44:04 GMT",
+      "description": "The Home Office had challenged a High Court ruling that the group's proscription should be quashed."
     },
     {
-      "title": "Two men charged over theft of England World Cup kit",
-      "link": "https://www.bbc.com/sport/football/articles/cm2r35lk8ejo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 14 Jun 2026 06:15:50 GMT",
-      "description": "Two men are charged for stealing $18,000 worth of property from England at their Kansas City training base."
+      "title": "World Cup hydration breaks - who are the winners and losers?",
+      "link": "https://www.bbc.com/sport/football/articles/c621620wr77o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 09:34:25 GMT",
+      "description": "They have become a regular feature at World Cup games - but who are the winners and who are losers of the mandatory hydration breaks?"
     },
     {
-      "title": "Smaller than Isle of Man & huge Dutch influence: Curacao making history",
-      "link": "https://www.bbc.com/sport/football/articles/cn7p0d1mdrzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 14 Jun 2026 08:48:00 GMT",
-      "description": "Curacao has possibly been most famous for its alcoholic drink of the same name - but now the nation is ready to announce itself at the World Cup."
+      "title": "Brazilian woman dies after rope-jumping instructors fail to attach cord",
+      "link": "https://www.bbc.com/news/articles/c5yz4xelnveo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 10:24:09 GMT",
+      "description": "Three men have been arrested after instructors failed to attach a rope to her before helping her jump from a bridge."
     },
     {
-      "title": "Remarkable story of refugee who quit Bayern and became Australia's record-breaker",
-      "link": "https://www.bbc.com/sport/football/articles/c33y424vv4zo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 14 Jun 2026 07:41:05 GMT",
-      "description": "Nestory Irankunda was born as a refugee in Tanzania before becoming Australian record breaker with goal in victory over Turkey."
+      "title": "Fifa seeks explanation over VAR official's hand gesture",
+      "link": "https://www.bbc.com/sport/football/articles/cy9rd8g1lwzo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 12:59:09 GMT",
+      "description": "Fifa is seeking an explanation over a hand gesture made by video assistant referee Shaun Evans before Germany's 7-1 win over Curacao on Sunday."
     },
     {
-      "title": "Has Vinicius Jr brilliance just papered over the Brazilian cracks?",
-      "link": "https://www.bbc.com/sport/football/articles/cjdge0dr9rgo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 14 Jun 2026 01:56:24 GMT",
-      "description": "Vinicius Jr scores a wonder goal to rescue his side but Brazil's performance against Morocco raises more questions than answers."
+      "title": "France star Mbappe vows to increase defensive work after criticism",
+      "link": "https://www.bbc.com/sport/football/articles/cjegv7j5349o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 12:17:01 GMT",
+      "description": "The French captain has faced scrutiny over both his performances and leadership, but supporters say the criticism has gone \"too far\"."
     },
     {
-      "title": "New rules abound - was VAR diving decision wrong despite feeling right?",
-      "link": "https://www.bbc.com/sport/football/articles/c5yze64d362o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 13 Jun 2026 18:22:34 GMT",
-      "description": "Some new rules and tweaks to a few old ones have been introduced for the 2026 World Cup. But are the changes leading to confusion?"
+      "title": "Graham Potter's journey from last-chance saloon to World Cup redemption",
+      "link": "https://www.bbc.com/sport/football/articles/c77y88076n1o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 06:31:28 GMT",
+      "description": "For a manager who was dismissed by West Ham in September after failing at Chelsea before that, few would have expected Graham Potter to be steering a nation to a winning start in the World Cup this summer."
     },
     {
-      "title": "Iran win four staff visa appeals but 11  banned",
-      "link": "https://www.bbc.com/sport/football/articles/czxqkwrr1k6o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 13 Jun 2026 18:25:14 GMT",
-      "description": "Four members of Iran's World Cup delegation win appeals against having their visa applications rejected but 11 staff remain banned from travelling to the United States."
+      "title": "Social media ban - bold and blunt, but no silver bullet",
+      "link": "https://www.bbc.com/news/articles/cddl65dp0rdo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 12:41:43 GMT",
+      "description": "The BBC's technology editor Zoe Kleinman on the big changes coming down the line for young people online."
     },
     {
-      "title": "Why football is called 'soccer' in the US and Canada",
-      "link": "https://www.bbc.com/news/articles/clyexj7dggpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 13 Jun 2026 15:33:54 GMT",
-      "description": "Football is life for millions of fans around the world, but in two World Cup co-host nations, they tend to call it by a different name."
+      "title": "Unclear if US-Iran agreement will provide respite to Lebanon",
+      "link": "https://www.bbc.com/news/articles/cd952n4qz2qo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 01:37:47 GMT",
+      "description": "Pakistan says the deal includes Lebanon, but recent ceasefires there have failed to take hold."
     },
     {
-      "title": "How Myles Smith turned five years of therapy notes into a debut album",
-      "link": "https://www.bbc.com/news/articles/c1dy5xvwrgvo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 13 Jun 2026 23:09:14 GMT",
-      "description": "The singer songwriter's first collection is inspired by the experiences that shaped him before he was famous."
+      "title": "Why you might not be buying the right pain relief for period cramps",
+      "link": "https://www.bbc.com/news/articles/c932pex1vpwo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 14 Jun 2026 23:10:57 GMT",
+      "description": "Many women are buying less effective pain medication for period cramps, supermarket data suggests."
     },
     {
-      "title": "Vincent's parents 'never say he's good enough' - so he turned to a middle-aged couple online",
-      "link": "https://www.bbc.com/news/articles/cpq3dnr5vlzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 13 Jun 2026 22:05:24 GMT",
-      "description": "A niche group of content creators called \"virtual parents\" have become hugely popular among young people."
+      "title": "Millions of people can get discounts on their bills - here's how",
+      "link": "https://www.bbc.com/news/articles/c4gyplpyj00o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 14 Jun 2026 23:25:30 GMT",
+      "description": "Lower social tariffs allow many people on benefits to get cheaper deals for water, broadband and phone."
     },
     {
-      "title": "Are the Downing Street dominoes about to fall?",
-      "link": "https://www.bbc.com/news/articles/c6213rkyp3lo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 13 Jun 2026 11:59:35 GMT",
-      "description": "John Healey's resignation as defence secretary is a disaster for the prime minister, writes Laura Kuenssberg."
+      "title": "Is the convertible heading into the sunset?",
+      "link": "https://www.bbc.com/news/articles/cx212yy4er0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 14 Jun 2026 23:25:00 GMT",
+      "description": "UK drivers have taken a shine to the SUV but could the fate of the convertible be reversed?"
     },
     {
-      "title": "Licence to thrill: The making of the James Bond video game soundtrack",
-      "link": "https://www.bbc.com/news/articles/cy8wn864q46o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 13 Jun 2026 23:27:47 GMT",
-      "description": "The BBC went behind the scenes as the score for the blockbuster James Bond video game was recorded."
+      "title": "Jurors, lawyers and social workers face 'resilience test' in inaccessible courts",
+      "link": "https://www.bbc.com/news/articles/ckg701z0p01o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 14 Jun 2026 23:29:55 GMT",
+      "description": "Access issues faced by wheelchair users in courts include broken lifts, “unsafe” ramps and unsuitable toilets."
     },
     {
-      "title": "As Trump turns 80, what's it really like to work as an octogenarian?",
-      "link": "https://www.bbc.com/news/articles/cm20vyxppneo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 13 Jun 2026 23:22:52 GMT",
-      "description": "As President Donald Trump celebrates his birthday, we ask people who have worked into their 80s themselves about what it takes to keep going."
+      "title": "Why I sold my business to my staff",
+      "link": "https://www.bbc.com/news/articles/c0ey87z1ggjo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 14 Jun 2026 23:26:01 GMT",
+      "description": "As more US company owners reach retirement age many are selling up to their employees."
     },
     {
-      "title": "Norway braces for verdict in rape trial of crown princess's son Høiby",
-      "link": "https://www.bbc.com/news/articles/cd95xvk4vn2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 13 Jun 2026 23:11:28 GMT",
-      "description": "Marius Borg Høiby will appear via video link, almost three months after his trial came to an end on 40 charges, including four counts of rape."
+      "title": "Norwegian crown princess's son found guilty of two counts of rape",
+      "link": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 11:09:03 GMT",
+      "description": "Marius Borg Høiby, the 29-year-old son of Norway's Crown Princess Mette Marit, has been sentenced to four years in jail."
     },
     {
-      "title": "Why the US economy keeps defying the odds",
-      "link": "https://www.bbc.com/news/articles/cwy031el03po?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 14 Jun 2026 05:14:17 GMT",
-      "description": "Why has the American economy continued to outperform so many of its peers, despite facing the same global shocks?"
+      "title": "Trump and thousands of others watch UFC fight on White House lawn",
+      "link": "https://www.bbc.com/news/articles/c892xnwg5vlo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 12:02:22 GMT",
+      "description": "Justin Gaethje beat Ilia Topuria to win the lightweight championship in the main event."
     },
     {
-      "title": "Resident doctors cancel strike after new offer from government",
-      "link": "https://www.bbc.com/news/articles/cj9g1wgxng2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 13 Jun 2026 20:46:11 GMT",
-      "description": "The walkout had been due to start at 07:00 BST on Monday and last until Friday."
+      "title": "Canadian lynx one of big cat sightings in Welsh countryside",
+      "link": "https://www.bbc.com/news/articles/cx2kjz2drkpo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 09:01:56 GMT",
+      "description": "Fifteen \"big cats\" were reported to authorities in Wales between January 2020 and July 2025."
     },
     {
-      "title": "New York Knicks win NBA championship for first time in over 50 years",
-      "link": "https://www.bbc.com/news/articles/c78yw4zw19do?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 14 Jun 2026 07:21:26 GMT",
-      "description": "The Knicks clinched the title against the San Antonio Spurs, 94-90, in the fifth game of the best-of-seven series."
+      "title": "Australia demands answers after girl taken hostage is shot dead by Pakistan police",
+      "link": "https://www.bbc.com/news/articles/cgqj9v7nw3vo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 09:42:20 GMT",
+      "description": "Pakistani police said the nine-year-old was mistakenly shot as they pursued a group of armed robbers."
     },
     {
-      "title": "Russian families use AI to 'resurrect' loved ones killed in Ukraine",
-      "link": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 13 Jun 2026 23:19:52 GMT",
-      "description": "The highly controversial trend lies at the intersection of Russia's war on Ukraine, new AI technologies and grief."
+      "title": "New attempt to legalise assisted dying in England and Wales",
+      "link": "https://www.bbc.com/news/articles/c4gyxgwkyxyo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 10:57:34 GMT",
+      "description": "Lauren Edwards says she will bring the exact same bill which was narrowly passed by the Commons but ran out of time in the Lords."
     },
     {
-      "title": "Does the UK have a blind spot on UFO sightings?",
-      "link": "https://www.bbc.com/news/articles/c3929kk7gdjo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 13 Jun 2026 23:36:41 GMT",
-      "description": "A campaigner is calling on the government to resume investigations into alleged encounters."
+      "title": "US musician Oliver Tree dies as two helicopters crash mid-air",
+      "link": "https://www.bbc.com/news/articles/cqj1dd5rgnzo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 06:47:23 GMT",
+      "description": "The singer-songwriter is among six people presumed dead in air crash over Rio de Janeiro on Sunday."
     },
     {
-      "title": "Woman fearful of 'predators' before her death, family say",
-      "link": "https://www.bbc.com/news/articles/cgk6xyem7rmo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 14 Jun 2026 06:22:34 GMT",
-      "description": "Police are reviewing the investigation into Katie Beattie's death following calls from her family."
-    },
-    {
-      "title": "Dig site offers 'window' into Roman life",
-      "link": "https://www.bbc.com/news/articles/cx23k421n5ro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 05:32:04 GMT",
-      "description": "A decorative flagon in the shape of a woman's head is among the finds."
-    },
-    {
-      "title": "Welsh church in village home to legendary hound voted 'best place on Earth' by Reddit users",
-      "link": "https://www.bbc.com/news/articles/cwyleyde01go?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 10 Jun 2026 17:03:34 GMT",
-      "description": "St Mary's Church in Beddgelert was the last place standing in a challenge that started with a world map."
-    },
-    {
-      "title": "Card games replace smartphones after school ban",
-      "link": "https://www.bbc.com/news/articles/cgmdg38jl1jo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 13:48:07 GMT",
-      "description": "A Coventry head teacher says pupils are having chats and playing games after they banned phones."
-    },
-    {
-      "title": "Watch: Truck carrying fireworks catches fire, sparking spectacular display",
-      "link": "https://www.bbc.com/news/videos/cgmdgz8kk7xo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 08 Jun 2026 17:08:31 GMT",
-      "description": "No one was harmed in the incident, which saw motorists treated to an early Fourth of July show."
+      "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
+      "link": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 12:07:36 GMT",
+      "description": "A Ukrainian drone attack in the Russian city of Tula, south of Moscow, killed three people."
     },
     {
       "title": "BBC News app",
@@ -196,10 +172,10 @@
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests"
     },
     {
-      "title": "By-Electioncast: Could Restore Britain Help Andy Burnham Win?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0nrn4dk?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 13 Jun 2026 18:26:00 GMT",
-      "description": "A new poll suggests the party could steal a significant number of voters from Reform UK."
+      "title": "Royal Marines Take Control Of Russian Shadow Fleet Tanker",
+      "link": "https://www.bbc.co.uk/sounds/play/p0nrn4hj?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 14 Jun 2026 12:47:00 GMT",
+      "description": "Royal Marine Commandos boarded a Russian shadow fleet oil tanker in the English Channel."
     },
     {
       "title": "The battle in rural America against AI data centres",
@@ -208,40 +184,46 @@
       "description": "Utah approves the world’s largest data centre (62sq miles) but opposition is growing"
     },
     {
-      "title": "Why Haiti v Scotland was antidote to the ills of world football",
-      "link": "https://www.bbc.com/sport/football/articles/cdjkdmel292o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 14 Jun 2026 04:54:15 GMT",
-      "description": "It might have been nervy. It might not have been pretty. But Scotland are here. And Scotland have won. Tom English reports from Boston."
+      "title": "Inside Ella Toone’s life on and off the pitch",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m002x6jy?at_mid=i9BmYGpjPQ&at_campaign=24_Hours_with_Ella_Toone&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002x6jy&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=24_Hours_with_Ella_Toone&at_bbc_team=BBC",
+      "published": "Fri, 29 May 2026 17:00:00 GMT",
+      "description": "Behind the scenes with Manchester United and England star Ella Toone."
     },
     {
-      "title": "What does 1-0 win mean for Scotland's chances of qualification?",
-      "link": "https://www.bbc.com/sport/football/articles/cvglm8n1nyjo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 14 Jun 2026 05:31:14 GMT",
-      "description": "With eight third-place finishers advancing to the last 32, might three points be enough for Scotland to make history?"
+      "title": "Fifa seeks explanation over VAR official's hand gesture",
+      "link": "https://www.bbc.com/sport/football/articles/cy9rd8g1lwzo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 12:59:09 GMT",
+      "description": "Fifa is seeking an explanation over a hand gesture made by video assistant referee Shaun Evans before Germany's 7-1 win over Curacao on Sunday."
     },
     {
-      "title": "Fifa to pay Somali referee Artan full World Cup fee",
-      "link": "https://www.bbc.com/sport/football/articles/c79y10r2plzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 14 Jun 2026 09:00:08 GMT",
-      "description": "Somali referee Omar Artan, who was denied entry to the United States to officiate at the World Cup, will still receive his tournament fee from Fifa in full."
+      "title": "McCullum worried for Stokes as coach gives no captaincy backing",
+      "link": "https://www.bbc.com/sport/cricket/articles/cg53d054vl7o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 13:16:13 GMT",
+      "description": "Brendon McCullum refuses to be drawn on Ben Stokes’ future as England captain, but repeatedly speaks of his “worry and concern” for the all-rounder."
     },
     {
-      "title": "Refugee who quit Bayern to create Australia World Cup dream",
-      "link": "https://www.bbc.com/sport/football/articles/c33y424vv4zo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 14 Jun 2026 07:41:05 GMT",
-      "description": "Nestory Irankunda was born as a refugee in Tanzania before becoming Australian record breaker with goal in victory over Turkey."
+      "title": "Stones goes from brink of retirement to World Cup 'pure joy'",
+      "link": "https://www.bbc.com/sport/football/articles/c24y192myrvo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 12:21:54 GMT",
+      "description": "John Stones' selection for England's World Cup squad may have raised a few eyebrows but the player says he had to \"dig deep\" to secure his place in the 26-man travelling party."
     },
     {
-      "title": "Knicks end 53-year wait for NBA Championship",
-      "link": "https://www.bbc.com/sport/basketball/articles/cx2v4rj1ew2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 14 Jun 2026 07:12:58 GMT",
-      "description": "The New York Knicks win their first NBA Championship since 1973 thanks to a 94-90 win over the San Antonio Spurs."
+      "title": "Cox and Baker to make Test debuts in second Test",
+      "link": "https://www.bbc.com/sport/cricket/articles/c8721ejdqn0o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 13:03:30 GMT",
+      "description": "Essex batter Jordan Cox and Hampshire fast bowler Sonny Baker will make their England debuts in the second Test against New Zealand."
     },
     {
-      "title": "Has Vinicius Jr brilliance just papered over the Brazilian cracks?",
-      "link": "https://www.bbc.com/sport/football/articles/cjdge0dr9rgo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 14 Jun 2026 01:56:24 GMT",
-      "description": "Vinicius Jr scores a wonder goal to rescue his side but Brazil's performance against Morocco raises more questions than answers."
+      "title": "France star Mbappe vows to increase defensive work",
+      "link": "https://www.bbc.com/sport/football/articles/cjegv7j5349o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 12:17:01 GMT",
+      "description": "French captain Kylian Mbappe vows to increase his defensive efforts at the World Cup in the face of criticism."
+    },
+    {
+      "title": "Cucurella joins Real Madrid - will Fernandez follow?",
+      "link": "https://www.bbc.com/sport/football/articles/c3rynp1ex9ro?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 15 Jun 2026 12:58:30 GMT",
+      "description": "Marc Cucurella has officially joined Real Madrid just hours before his opening World Cup game with Spain, raising the question of whether his former Chelsea team-mate Enzo Fernandez follows."
     }
   ]
 }
