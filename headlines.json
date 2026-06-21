@@ -1,151 +1,133 @@
 {
-  "scraped_at": "2026-06-20 10:23:22 UTC",
+  "scraped_at": "2026-06-21 10:57:16 UTC",
   "source": "BBC News RSS",
-  "total": 30,
+  "total": 29,
   "headlines": [
     {
-      "title": "'People flew from their seats': Passengers describe how collision unfolded",
-      "link": "https://www.bbc.com/news/articles/cx2j700l5jlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 20 Jun 2026 08:36:41 GMT",
-      "description": "The East of England Ambulance Service says nearly 90 people were injured, over 30 of them seriously."
+      "title": "Leadership uncertainty 'enormously disruptive', former top civil servant warns",
+      "link": "https://www.bbc.com/news/articles/cpq3n5g218no?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 21 Jun 2026 10:09:52 GMT",
+      "description": "Speaking on Sunday with Laura Kuenssberg, the former Cabinet Secretary said leadership transitions are \"enormously disruptive\"."
     },
     {
-      "title": "PM under pressure from Labour MPs and ministers to set timetable for exit",
-      "link": "https://www.bbc.com/news/articles/cqx1ev0wn87o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 20 Jun 2026 08:22:52 GMT",
-      "description": "The BBC has been told that the transport secretary is among those advising Starmer to set out a timetable."
+      "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
+      "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 21 Jun 2026 04:34:00 GMT",
+      "description": "The US disputed Iran's claim the waterway is shut, a move Tehran says was a response to Israeli attacks in Lebanon."
     },
     {
-      "title": "Several reported killed in Israeli strikes on Lebanon despite ceasefire",
-      "link": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 20 Jun 2026 08:53:53 GMT",
-      "description": "The IDF said it struck \"Hezbollah terrorist targets\" after the group fired over 50 projectiles at Israeli forces in southern Lebanon."
-    },
-    {
-      "title": "Cooler Saturday gives brief relief before heat returns",
+      "title": "Extreme heat warning expanded as 37C heatwave approaches UK",
       "link": "https://www.bbc.com/weather/articles/cp8lye61jk6o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 20 Jun 2026 08:35:17 GMT",
-      "description": "After a slightly cooler Saturday, temperatures will rise again, possibly touching 35C by Tuesday with a Met Office amber extreme heat warning set to come into force."
+      "published": "Sat, 20 Jun 2026 20:10:28 GMT",
+      "description": "After a slightly cooler Saturday, temperatures will rise again, possibly touching 36C by Tuesday with a Met Office amber extreme heat warning set to come into force."
     },
     {
-      "title": "Harry and Meghan offered royal accommodation during UK visit",
-      "link": "https://www.bbc.com/news/articles/c5yzlmkl7zzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 20 Jun 2026 03:47:35 GMT",
-      "description": "The Duke and Duchess of Sussex are set to visit the UK with their children next month, for the first time since 2022."
+      "title": "Man charged after suspected anti-Muslim attacks in Edinburgh",
+      "link": "https://www.bbc.com/news/articles/cx2xg6lwz5jo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 20 Jun 2026 23:17:05 GMT",
+      "description": "Two people were injured close to a mosque and a man was later seen battering the door of a pizzeria as members of the public run away."
     },
     {
-      "title": "What we know so far about train collision and emergency response",
-      "link": "https://www.bbc.com/news/articles/cn75z3nl048o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 20 Jun 2026 09:56:58 GMT",
-      "description": "Two passenger trains collided, leaving a driver dead and dozens of passengers and crew hurt."
+      "title": "Jeremy Clarkson in remission from prostate cancer",
+      "link": "https://www.bbc.com/news/articles/czj8kgg4rrro?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 21 Jun 2026 01:48:33 GMT",
+      "description": "The presenter shared his \"aggressive\" cancer diagnosis on an episode of Clarkson's Farm earlier this week."
     },
     {
-      "title": "Video shows scene of collision as passenger describes aftermath",
-      "link": "https://www.bbc.com/news/videos/c8d21z2q77do?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 19 Jun 2026 19:21:10 GMT",
-      "description": "Passenger Pete Knapp said the crash \"felt like [he'd] been in a bomb explosion\"."
+      "title": "Meet the Curacao keeper who made record 15 saves to keep Ecuador out",
+      "link": "https://www.bbc.com/sport/football/articles/cvg58z9gl34o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 21 Jun 2026 04:29:28 GMT",
+      "description": "Curacao's Eloy Room makes a record-equalling 15 saves to help his tiny island nation to a first World Cup point against Ecuador."
     },
     {
-      "title": "Flawed but relentless Scotland show themselves as men of substance",
-      "link": "https://www.bbc.com/sport/football/articles/c33y5v4mer3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 20 Jun 2026 01:41:52 GMT",
-      "description": "Morocco threatened to blow Scotland away early on, but Steve Clarke's squad showed their resilience despite defeat, writes Tom English."
+      "title": "Dutch royals enjoy two big results in one day",
+      "link": "https://www.bbc.com/sport/football/articles/c4gydq973nqo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 21 Jun 2026 09:45:57 GMT",
+      "description": "There may be about 5,000 miles between the Netherlands and their former colony Curacao but members of the Dutch royal family managed to see both sides play on Saturday."
     },
     {
-      "title": "World Cup still waits for real Brazil to show up",
-      "link": "https://www.bbc.com/sport/football/articles/c4gy8lldwqyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 20 Jun 2026 04:54:22 GMT",
-      "description": "While rivals Argentina and France have impressed in the United States, Brazil have struggled to hit top form - despite a 3-0 win over minnows Haiti."
+      "title": "How many World Cup Golden Boot winners can you name?",
+      "link": "https://www.bbc.com/sport/football/articles/ckgpjw4wd21o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 21 Jun 2026 09:25:46 GMT",
+      "description": "How many World Cup top goalscorers from down the years can you name?"
     },
     {
-      "title": "Paraguay's Almiron first player sent off for covering mouth",
-      "link": "https://www.bbc.com/sport/football/articles/cvg58m7n1plo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 20 Jun 2026 04:45:25 GMT",
-      "description": "Paraguay's Miguel Almiron is the first player to be shown a red card for covering his mouth while speaking to an opponent - doing so during the World Cup match against Turkey."
+      "title": "How the social media ban could reshape how all of us use the internet",
+      "link": "https://www.bbc.com/news/articles/c1jy512r19ro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 20 Jun 2026 23:18:12 GMT",
+      "description": "Why some argue the social media ban could have a profound affect on how young people gain new knowledge and the rest of us move around online"
     },
     {
-      "title": "Nervy, optimist, die-hard: What sort of fan are you?",
-      "link": "https://www.bbc.com/news/articles/cy4ek8pegj1o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 19 Jun 2026 23:42:44 GMT",
-      "description": "Take our World Cup quiz and discover your fan personality type."
+      "title": "Tequila spritz and dot cakes - why these summer trends are having a moment",
+      "link": "https://www.bbc.com/food/articles/c3vy977qd64o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 19 Jun 2026 23:44:03 GMT",
+      "description": "Fairy cakes, milk bread and a fresh take on a popular cocktail will be big in the coming months."
     },
     {
-      "title": "Popping a cocktail of supplements every day might be doing you more harm than good",
-      "link": "https://www.bbc.com/news/articles/cd6e25lpwxzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 20 Jun 2026 00:46:56 GMT",
-      "description": "While many of us take supplements regularly, there are some risks people may not be aware of."
+      "title": "Backstage at Gorillaz' epic, one-off stadium show: 'The vibe is ridiculous'",
+      "link": "https://www.bbc.com/news/articles/cm203gndx0lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 21 Jun 2026 01:14:49 GMT",
+      "description": "Damon Albarn, De La Soul and Moonchild Sannelly talk backstage as Gorillaz play their biggest show."
     },
     {
-      "title": "Love Pride but hate big parades? These places are doing it differently",
-      "link": "https://www.bbc.com/news/articles/cj6g85kr375o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 20 Jun 2026 00:53:54 GMT",
-      "description": "From Glasgow to Salford, smaller, unique events are celebrating the LGBTQ+ community."
+      "title": "True crime's biggest convention faces its own moral dilemma",
+      "link": "https://www.bbc.com/news/articles/cr47z6ykp2xo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 20 Jun 2026 23:26:45 GMT",
+      "description": "Victims' families say there are ways to be an ethical true-crime fan - not an exploitative one."
     },
     {
-      "title": "Japanese pop group XG went from brutal five year training to global pop stars",
-      "link": "https://www.bbc.com/news/articles/cly8gj8pqz7o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 19 Jun 2026 23:40:59 GMT",
-      "description": "The Japanese pop group have become global stars, after being recruited before they were teenagers."
+      "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
+      "link": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 21 Jun 2026 07:16:54 GMT",
+      "description": "Davey Hearn says he was simply touching the new paint at the site out of curiosity and did not remove or alter it."
     },
     {
-      "title": "A fox, a gannet and an intergalactic space warrior - why UK election candidates dress up",
-      "link": "https://www.bbc.com/news/articles/cj9g3g28en1o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 19 Jun 2026 23:39:46 GMT",
-      "description": "Candidates like Count Binface are motivated to run for different reasons, but their role in politics is a longstanding tradition."
+      "title": "King Charles to reveal personal tax bill for first time as monarch",
+      "link": "https://www.bbc.com/news/articles/c5yzlk582pzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 20 Jun 2026 21:04:00 GMT",
+      "description": "For the first time, the annual financial report for the royals will include how much tax is paid by the monarch."
     },
     {
-      "title": "How to stay safe swimming outdoors - and still have fun",
-      "link": "https://www.bbc.com/news/articles/c9q3qezvewro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 20 Jun 2026 00:03:21 GMT",
-      "description": "Pick designated swimming spots, learn about riptides and don't use inflatables at the beach, experts say."
+      "title": "Nine people in critical condition among 100 injured in Bedford train crash",
+      "link": "https://www.bbc.com/news/articles/ce8j33e30neo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 20 Jun 2026 15:30:12 GMT",
+      "description": "British Transport Police says the collision, which killed a train driver, is being investigated."
     },
     {
-      "title": "Child attacked by crocodile critical two days on: Here's what we know so far",
-      "link": "https://www.bbc.com/news/articles/clyege536n5o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 20 Jun 2026 04:38:47 GMT",
-      "description": "A 30-year-old man is bailed after a child ended up in a crocodile enclosure at a farm zoo."
+      "title": "Three men die after White City building fire",
+      "link": "https://www.bbc.com/news/articles/c79yqrevgg1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 21 Jun 2026 10:26:07 GMT",
+      "description": "The men were rescued from the single-storey building but died soon after, London Fire Brigade said."
     },
     {
-      "title": "Tourist dies in Dominican Republic luxury resort fire",
-      "link": "https://www.bbc.com/news/articles/c932k8010j1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 20 Jun 2026 07:40:20 GMT",
-      "description": "Nearly 1,700 people were evacuated from the huge blaze at Viva Wyndham Dominicus Beach in Bayahibe, a popular resort town on the Caribbean coast."
+      "title": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
+      "link": "https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 21 Jun 2026 10:55:05 GMT",
+      "description": "Fuel had already been rationed due to shortages caused by Kyiv's attacks against supply routes in Russian-occupied territories."
     },
     {
-      "title": "New video game console aims to get kids moving",
-      "link": "https://www.bbc.com/news/articles/czx50rrz7zro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 20 Jun 2026 01:10:51 GMT",
-      "description": "The cube-shaped console will cost £269 (€319) when it is released on 22 June in the UK and Ireland."
+      "title": "Tom Hanks congratulates boy, 8, on Toy Story 5 artwork",
+      "link": "https://www.bbc.com/news/articles/c0kyxpe5781o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 18 Jun 2026 05:28:17 GMT",
+      "description": "Tommy, from Blackpool, will have his artwork shown at the UK screenings of the new Disney Pixar film."
     },
     {
-      "title": "Michael Fassbender says it is becoming harder to know what to trust online",
-      "link": "https://www.bbc.com/news/articles/c2e290l73m3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 20 Jun 2026 01:35:51 GMT",
-      "description": "Stars of spy thriller show The Agency discuss espionage, AI and the personal cost of living a double life."
+      "title": "'He's a life saver': The miniature therapy horse that travels by taxi",
+      "link": "https://www.bbc.com/news/articles/c9361rqv1wvo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 14 Jun 2026 06:59:45 GMT",
+      "description": "Meet Rusty, the pint-sized therapy horse who travels around London in a black cab."
     },
     {
-      "title": "'My dog Gertie saved my life by helping to find my breast cancer'",
-      "link": "https://www.bbc.com/news/articles/c0ly1lxn95ko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 17 Jun 2026 05:24:58 GMT",
-      "description": "Lesley Goodburn is hoping her story will encourage others to check for signs of the cancer."
+      "title": "Oldest Birthday Honours recipient is 'delighted'",
+      "link": "https://www.bbc.com/news/articles/cg53yj3v647o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 16 Jun 2026 05:28:49 GMT",
+      "description": "Pat Knifton Hough is recognised for 57 years being involved with Nantwich Players in Cheshire."
     },
     {
-      "title": "Paddington musical set for Broadway debut",
-      "link": "https://www.bbc.com/news/articles/c8j2el87yj0o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 16 Jun 2026 13:12:47 GMT",
-      "description": "The production will launch in the US at New York's Al Hirschfeld Theatre in March 2027."
-    },
-    {
-      "title": "Sherpa travels thousands of miles to thank children for help after earthquake",
-      "link": "https://www.bbc.com/news/articles/czj8n77lk9yo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 17 Jun 2026 11:05:07 GMT",
-      "description": "A Nepalese Sherpa travels thousands of miles to thank children for their fundraising efforts."
-    },
-    {
-      "title": "Snake takes surprise trip to seaside in car engine",
-      "link": "https://www.bbc.com/news/articles/cyv0q5qvn0lo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 17 Jun 2026 14:11:58 GMT",
-      "description": "The corn snake is thought to have travelled around 17 miles from its owner's house in Bridlington."
+      "title": "Eight police pups named after Three Lions stars",
+      "link": "https://www.bbc.com/news/articles/crel9drwleyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 18 Jun 2026 08:11:14 GMT",
+      "description": "It is hoped the eight puppies will emulate the success of their namesakes."
     },
     {
       "title": "BBC News app",
@@ -172,16 +154,28 @@
       "description": "Owen Wilson and Vince Vaughn star in this classic 2005 comedy"
     },
     {
-      "title": "Flawed but relentless Scotland show themselves as men of substance",
-      "link": "https://www.bbc.com/sport/football/articles/c33y5v4mer3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 20 Jun 2026 01:41:52 GMT",
-      "description": "Morocco threatened to blow Scotland away early on, but Steve Clarke's squad showed their resilience despite defeat, writes Tom English."
+      "title": "Doku criticised over plan to return home for birth",
+      "link": "https://www.bbc.com/sport/football/articles/c74ywv08ylpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 20 Jun 2026 23:21:21 GMT",
+      "description": "Winger Jeremy Doku is criticised for saying he wants to leave Belgium's World Cup camp to be with his wife when she gives birth to their first child."
     },
     {
-      "title": "World Cup still waits for real Brazil to show up",
-      "link": "https://www.bbc.com/sport/football/articles/c4gy8lldwqyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 20 Jun 2026 04:54:22 GMT",
-      "description": "While rivals Argentina and France have impressed in the United States, Brazil have struggled to hit top form - despite a 3-0 win over minnows Haiti."
+      "title": "All three England keepers played there - Carlisle's role in trio's rise",
+      "link": "https://www.bbc.com/sport/football/articles/ckg4qw57d4do?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 21 Jun 2026 10:43:54 GMT",
+      "description": "From west Cumbria to the World Cup, Carlisle is England's goalkeeper factory, with all of Thomas Tuchel's goalkeepers passing through the club."
+    },
+    {
+      "title": "How Murray was tempted back to tennis - and would he ever do a Serena?",
+      "link": "https://www.bbc.com/sport/tennis/articles/c621zrvxp6vo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 21 Jun 2026 08:01:19 GMT",
+      "description": "British tennis icon Andy Murray discusses returning to coaching with Jack Draper, Serena Williams' comeback and filling the void of not playing."
+    },
+    {
+      "title": "Mark Hughes' son Alex dies aged 38",
+      "link": "https://www.bbc.com/sport/football/articles/cm2j0x3zgego?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 21 Jun 2026 08:44:38 GMT",
+      "description": "Wales legend Mark Hughes says he is \"totally heartbroken\" after the death of his son Alex aged 38."
     }
   ]
 }
