@@ -1,193 +1,157 @@
 {
-  "scraped_at": "2026-06-22 13:23:44 UTC",
+  "scraped_at": "2026-06-23 10:51:10 UTC",
   "source": "BBC News RSS",
-  "total": 41,
+  "total": 31,
   "headlines": [
     {
-      "title": "Why did Starmer resign and what could happen next?",
-      "link": "https://www.bbc.com/news/articles/c0qyllvpkw8o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 13:05:27 GMT",
-      "description": "The Labour leader says he will remain prime minister until his successor is chosen."
+      "title": "Can you keep your kids off school or refuse to work during a heatwave?",
+      "link": "https://www.bbc.co.uk/news/articles/c6217nv34rro?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 09:58:41 GMT",
+      "description": "As temperatures increase significantly over the next few days, these are your rights."
     },
     {
-      "title": "Watch and read Starmer's resignation speech in full",
-      "link": "https://www.bbc.com/news/articles/c621nnq4pm7o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 09:14:38 GMT",
-      "description": "Sir Keir announces he will be step down as Labour leader and PM in a Downing Street address."
+      "title": "Chris Mason: Questions multiply for the man tipped to replace Starmer",
+      "link": "https://www.bbc.co.uk/news/articles/cn8k4kyrdn5o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 22 Jun 2026 22:43:29 GMT",
+      "description": "Andy Burnham will have to set out his stall to show how he will deliver on his promises, the BBC's political editor writes."
     },
     {
-      "title": "Top lawyer whose 'Mr Rules' approach failed to connect with the public",
-      "link": "https://www.bbc.com/news/articles/cwygj95xrp9o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 10:34:41 GMT",
-      "description": "Less than two years after he won a huge majority in the 2024 general election, Sir Keir Starmer has been forced out."
+      "title": "Is watching football bad for your health? I tested my body to find out",
+      "link": "https://www.bbc.co.uk/news/articles/cgjxy199d9do?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 04:30:14 GMT",
+      "description": "Watching football is an emotional rollercoaster - but is it good or bad for your health?"
     },
     {
-      "title": "Who is Andy Burnham? Ex-Manchester mayor who wants to lead the country",
-      "link": "https://www.bbc.com/news/articles/cp8pml5z8p6o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 11:04:28 GMT",
-      "description": "The outgoing Greater Manchester mayor is lining up a third attempt to be Labour leader following his return to Westminster."
+      "title": "Ashley Cain says he's 'not proud' of sexist language",
+      "link": "https://www.bbc.co.uk/news/articles/c3wynw8znl1o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 08:37:56 GMT",
+      "description": "The former BBC Three presenter says he has changed since the historical tweets were posted."
     },
     {
-      "title": "Starmer's premiership in six charts",
-      "link": "https://www.bbc.com/news/articles/cp8p9qellmqo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 13:15:05 GMT",
-      "description": "BBC Verify looks at the record of Sir Keir's time in government in six key areas since he took office in July 2024."
+      "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
+      "link": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 05:39:17 GMT",
+      "description": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland."
     },
     {
-      "title": "First round of US-Iran talks ends with encouraging progress, mediators say",
-      "link": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 10:46:45 GMT",
-      "description": "The US-Iran talks began on Sunday in Switzerland, after last week's agreement, which includes a commitment to reach a final deal within 60 days."
+      "title": "First drug to delay onset of type 1 diabetes made available on NHS",
+      "link": "https://www.bbc.co.uk/news/articles/ce8mzd94r76o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 22 Jun 2026 23:44:41 GMT",
+      "description": "The immunotherpay can give children and adults three extra years before they need to use insulin."
     },
     {
-      "title": "Paedophile nursery worker could have been stopped sooner, says former colleague",
-      "link": "https://www.bbc.com/news/articles/c862jy76y21o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 09:24:12 GMT",
-      "description": "Staff member who raised concerns about nursery worker Nathan Bennett was \"ignored\" for months."
+      "title": "Ransom note claims Nancy Guthrie died after abduction",
+      "link": "https://www.bbc.co.uk/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 08:10:56 GMT",
+      "description": "The note from the possible kidnappers reportedly stated that they did not mean for her to die and included an apology to the family."
     },
     {
-      "title": "Injured ticket inspector who helped others in Bedford train crash hailed a hero",
-      "link": "https://www.bbc.com/news/articles/c20y1n8y2z7o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 12:17:34 GMT",
-      "description": "A passenger praises a member of railway staff who, despite being in pain, helped the injured."
+      "title": "Around 29,000 lightning strikes light up sky across southern England",
+      "link": "https://www.bbc.co.uk/news/articles/ckg84g3zv7po?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 10:26:52 GMT",
+      "description": "Thunderstorms caused flash flooding and travel disruption across parts of England, with more extreme heat expected on Tuesday."
     },
     {
-      "title": "Lottery players urged to check tickets with £12m prize still unclaimed",
-      "link": "https://www.bbc.com/news/articles/c1lye84dmgno?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 12:06:42 GMT",
-      "description": "A Lotto Jackpot ticket worth £12m bought in Rhondda Cynon Taf has yet to be claimed."
-    },
-    {
-      "title": "Alan Greenspan, architect of the modern American economy, dies aged 100",
-      "link": "https://www.bbc.com/news/articles/cjer7x7yl12o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 11:55:36 GMT",
-      "description": "As chairman of the Federal Reserve, Alan Greenspan became the world's most high-profile banker."
-    },
-    {
-      "title": "Schools close as more than half of France under red heat alerts",
-      "link": "https://www.bbc.com/news/articles/c0jy9g96086o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 12:36:07 GMT",
-      "description": "The health minister warns many citizens \"will suffer\", with temperatures set to peak on Monday."
-    },
-    {
-      "title": "Late singer Oliver Tree's body returned to US after helicopter crash",
-      "link": "https://www.bbc.com/news/articles/c14ygg6vk3vo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 10:19:25 GMT",
-      "description": "The 32-year-old California native died whilst on his world tour, ahead of a date in Brazil."
-    },
-    {
-      "title": "Boy, 3, no longer critical after crocodile attack",
-      "link": "https://www.bbc.com/news/articles/cx2kqxe55z1o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 10:41:28 GMT",
-      "description": "The boy's condition \"is no longer critical\", police say."
-    },
-    {
-      "title": "Sturgeon and Gove to team up for reality TV 'wargame'",
-      "link": "https://www.bbc.com/news/articles/cq6188775g5o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 09:47:53 GMT",
-      "description": "The former first minister is to serve as deputy prime minister in a simulation of a Russian attack on the UK."
-    },
-    {
-      "title": "How England's Madueke went from rejection by club fans to World Cup starter",
-      "link": "https://www.bbc.com/sport/football/articles/c5yz2xyvd1zo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 10:47:17 GMT",
-      "description": "Noni Madueke has gone from fans protesting against him signing for Arsenal to England World Cup starter. BBC Sport look at his rollercoaster season."
-    },
-    {
-      "title": "Iran leaves note about peace in dressing room after Belgium draw",
-      "link": "https://www.bbc.com/sport/football/articles/cwy0ppqx1p9o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 09:54:09 GMT",
-      "description": "Iran leave a message saying \"may peace, respect and friendship prevail among all nations\" following their World Cup group game with Belgium."
-    },
-    {
-      "title": "A defender's view on how to stop the World Cup's best strikers",
-      "link": "https://www.bbc.com/sport/football/articles/cly8gpp39d0o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 08:10:21 GMT",
-      "description": "Lionel Messi, Kylian Mbappe, Erling Haaland and Harry Kane look to be on lethal form in this World Cup. So how can you stop them in their tracks?"
-    },
-    {
-      "title": "Salah's World Cup pain ends as he fires Egypt to historic win",
-      "link": "https://www.bbc.com/sport/football/articles/c17yn5y977yo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 04:23:40 GMT",
-      "description": "Mohamed Salah fires Egypt to their first ever World Cup win - 92 years on from their tournament debut."
-    },
-    {
-      "title": "One of World Cup's great stories - can Cape Verde become legends?",
-      "link": "https://www.bbc.com/sport/football/articles/c0qylwk421eo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 01:53:23 GMT",
-      "description": "Cape Verde's impressive World Cup continues with a draw against two-time winners Uruguay - and they will now be looking to make the last 32."
-    },
-    {
-      "title": "Kids were made to eat dog biscuits off the floor - pupils speak out after school abuse payouts",
-      "link": "https://www.bbc.com/news/articles/c5yz2r0197do?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 04:58:58 GMT",
-      "description": "Former pupils describe staff pelting them with footballs and pouring pints of blackcurrant over them."
-    },
-    {
-      "title": "The BTS fans losing thousands as scammers cash in on comeback tour ticket war",
-      "link": "https://www.bbc.com/news/articles/cdr45nrr2jyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 21 Jun 2026 23:44:31 GMT",
-      "description": "As ticket demand outstrips supply by a ratio of 15 to one, desperate fans have become easy targets."
-    },
-    {
-      "title": "Six ways to keep your home and yourself cool in hot weather",
-      "link": "https://www.bbc.com/news/articles/cz6gxe61p70o?at_medium=RSS&at_campaign=rss",
+      "title": "Tips to keep your home and yourself cool in hot weather",
+      "link": "https://www.bbc.co.uk/news/articles/cz6gxe61p70o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 22 Jun 2026 11:13:44 GMT",
       "description": "Six simple things you can do to help keep your house cool when temperatures rise."
     },
     {
-      "title": "The picturesque mountain village that helped send Jannik Sinner to tennis stardom",
-      "link": "https://www.bbc.co.uk/sport/extra/v5ergq8rop/the-making-of-Jannik-Sinner?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 00:00:00 GMT",
-      "description": "Jannik Sinner is the world's best tennis player. This is the journey that forged a champion."
+      "title": "How to stay safe swimming outdoors - and still have fun",
+      "link": "https://www.bbc.co.uk/news/articles/c9q3qezvewro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 20 Jun 2026 00:03:21 GMT",
+      "description": "Pick designated swimming spots, learn about riptides and don't use inflatables at the beach, experts say."
     },
     {
-      "title": "The remote town with no bank - and the nearest is an hour away",
-      "link": "https://www.bbc.com/news/articles/c1ey6qy18jlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 21 Jun 2026 23:03:07 GMT",
-      "description": "When 84-year-old Maggie Dodd discovered that the last remaining bank in Lochgilphead was closing, she began to panic."
+      "title": "From Boston to Miami: Tartan Army adjusts to World Cup culture shock",
+      "link": "https://www.bbc.co.uk/news/articles/c9329ekydvdo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 06:54:48 GMT",
+      "description": "Scotland football fans are set for a different experience after travelling to Miami, Florida."
     },
     {
-      "title": "Do esports students do more than play games?",
-      "link": "https://www.bbc.com/news/articles/cpv3kml48g2o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 05:18:50 GMT",
-      "description": "Marketing, nutrition and video editing, there is apparently more to esports than being good at games."
+      "title": "England boss Tuchel not a fan of hydration breaks",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c4gyzknng1jo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 01:39:34 GMT",
+      "description": "England head coach Thomas Tuchel admits he is not a fan of the controversial hydration breaks being used at the World Cup."
     },
     {
-      "title": "'I witnessed Maradona's Hand of God' - a goal still talked about 40 years on",
-      "link": "https://www.bbc.com/news/articles/cqx1gwl7wnno?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 10:13:28 GMT",
-      "description": "One BBC journalist's first football game had one of the sport's most controversial moments and also one of the most celebrated."
+      "title": "A Golden Boot race for the ages - but who will come out on top?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5yz2enre06o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 03:56:28 GMT",
+      "description": "It is fast turning into a Golden Boot race for the ages as the world's best strikers star at the World Cup. But who will come out on top?"
     },
     {
-      "title": "EasyJet says US bidder trying to buy it 'on the cheap' as it rejects £4.7bn offer",
-      "link": "https://www.bbc.com/news/articles/c30yz76834yo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 10:29:11 GMT",
-      "description": "The airline describes the latest bid approach from Castlelake as \"highly opportunistic\"."
+      "title": "New pictures show dozens of items bought illegally by Peter Murrell",
+      "link": "https://www.bbc.co.uk/news/articles/c1eyjv27xl3o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 09:59:57 GMT",
+      "description": "The images include a range of  luxury bags, watches and pens, as well as fresh pictures of a £124,550 motorhome."
     },
     {
-      "title": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
-      "link": "https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 21 Jun 2026 23:57:59 GMT",
-      "description": "If Kostyantynivka falls, Russian forces would be able push towards Ukraine's last remaining strongholds in the east."
+      "title": "How 100 hospitals switched to pen and paper to defeat a national cyber-attack",
+      "link": "https://www.bbc.co.uk/news/articles/c4gyk756mzlo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 22 Jun 2026 23:31:21 GMT",
+      "description": "For four days, dozens of Romanian hospitals went offline, as cyber-experts sought to defeat the hackers."
     },
     {
-      "title": "Trump-backed political outsider wins Colombia election, initial count shows",
-      "link": "https://www.bbc.com/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 03:31:40 GMT",
-      "description": "Abelardo de la Espriella appears to have narrowly defeated his rival Iván Cepeda, who says the preliminary count is \"not yet official or binding\"."
+      "title": "Energy bills, defence and social care: What are Burnham's potential policies?",
+      "link": "https://www.bbc.co.uk/news/articles/clywzj2vk3zo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 22 Jun 2026 14:01:23 GMT",
+      "description": "After winning the Makerfield by-election, we look at what policies Andy Burnham has advocated - including transport, education and energy."
     },
     {
-      "title": "Three dead in Philippines high school shooting over bullying 'grudge'",
-      "link": "https://www.bbc.com/news/articles/cjegy777xw5o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 09:45:52 GMT",
-      "description": "Police say they believe the attack was motivated by a \"grudge\" over bullying."
+      "title": "Do you know your 'sweat score'? The rise of hydration tech",
+      "link": "https://www.bbc.co.uk/news/articles/c5yz5z72lqgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 22 Jun 2026 23:01:11 GMT",
+      "description": "Hydration tracking gadgets are flooding the market but is it too much information?"
     },
     {
-      "title": "Johnny Marr to auction guitars he played with The Smiths and Billie Eilish",
-      "link": "https://www.bbc.com/news/articles/clye44gvrx3o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 08:32:40 GMT",
-      "description": "The Smiths musician says he's selling his collection to stop his studio from becoming a museum."
+      "title": "'They made my mum give me up because she was unmarried'",
+      "link": "https://www.bbc.co.uk/news/articles/c05ye9je10lo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 05:44:06 GMT",
+      "description": "Reg Barker, 66, says he only found out he was adopted when he applied for a passport, aged 18."
+    },
+    {
+      "title": "Reflecting Pool to be drained as Trump again blames 'vandals' for recent troubles",
+      "link": "https://www.bbc.co.uk/news/articles/c5yzpjd1njpo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 03:19:52 GMT",
+      "description": "Trump said vandals cut a long slit in it and possibly dumped fertiliser in the water, and later threatened to sue over reporting on the pool."
+    },
+    {
+      "title": "Millions in UK could claim share of £3bn after Apple case given green light",
+      "link": "https://www.bbc.co.uk/news/articles/c932d1r0p96o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 22 Jun 2026 23:02:33 GMT",
+      "description": "Apple rejected the suggestion its practices are anti-competitive, saying many customers rely on third-party alternatives."
+    },
+    {
+      "title": "National Portrait Gallery display withdrawn after Churchill row",
+      "link": "https://www.bbc.co.uk/news/articles/cqj1y8d27p4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 22 Jun 2026 21:18:25 GMT",
+      "description": "The video installation prompted a row over its claims about Churchill's role in the Bengal famine."
+    },
+    {
+      "title": "Man returns fly-tipper's rubbish to his doorstep after sifting through CCTV",
+      "link": "https://www.bbc.co.uk/news/articles/c75y442y5zno?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 05:15:39 GMT",
+      "description": "Dean Gauci tracked down the waste offender using amateur detective skills and returned the sacks."
+    },
+    {
+      "title": "Ticket reseller StubHub UK customers to get refunds over illegal hidden fees",
+      "link": "https://www.bbc.co.uk/news/articles/cd6enx152jlo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 09:53:22 GMT",
+      "description": "The Competition and Markets Authority said StubHub must refund 50,000 customers and pay a fine."
+    },
+    {
+      "title": "Montreal shooting leaves officer, civilian and suspect dead",
+      "link": "https://www.bbc.co.uk/news/articles/c5yz3lv015qo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 08:36:38 GMT",
+      "description": "It was the first time in 24 years that a Montreal police officer was  killed in the line of duty, the city's police chief said."
+    },
+    {
+      "title": "Killed train driver was well-known community figure",
+      "link": "https://www.bbc.co.uk/news/articles/c3wyn9q636qo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 05:09:53 GMT",
+      "description": "Tributes are paid to Shaun Burton, who was killed in the crash near Bedford on Friday."
     },
     {
       "title": "BBC News app",
@@ -196,58 +160,34 @@
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests"
     },
     {
-      "title": "Why Keir Starmer’s resignation looks more likely than ever",
-      "link": "https://www.bbc.co.uk/sounds/play/p0nt55lf?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 21 Jun 2026 12:11:00 GMT",
-      "description": "The government message about the PM’s future has changed."
+      "title": "Keir Starmer Resigns as Prime Minister",
+      "link": "https://www.bbc.co.uk/sounds/play/p0ntfddg?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 22 Jun 2026 18:19:00 GMT",
+      "description": "Keir Starmer resigns as PM, and Andy Burnham confirms he will run to replace him."
     },
     {
-      "title": "Jill Biden reveals how she really felt about Joe Biden’s health whilst he was president",
-      "link": "https://www.bbc.co.uk/sounds/play/p0nsll2g?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 17 Jun 2026 21:22:00 GMT",
-      "description": "And Trump wants to give America’s top legal job to his former personal lawyer"
+      "title": "The Climate Question: Is climate change ruining our sleep?",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct99hm?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 21 Jun 2026 13:00:00 GMT",
+      "description": "How the rise in night-time temperatures is starting to disrupt our sleep and health"
     },
     {
-      "title": "Madueke's remarkable season - from petition to World Cup starter",
-      "link": "https://www.bbc.com/sport/football/articles/c5yz2xyvd1zo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 10:47:17 GMT",
-      "description": "Noni Madueke has gone from fans protesting against him signing for Arsenal to England World Cup starter. BBC Sport look at his rollercoaster season."
+      "title": "How do you solve a problem like Ronaldo?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c2ly7gz8p0qo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 09:30:00 GMT",
+      "description": "Portugal take on Uzbekistan with Cristiano Ronaldo in poor form for his country and a backlash raging on social media against his team-mates."
     },
     {
-      "title": "In the foothills of the Dolomites, a champion was made",
-      "link": "https://www.bbc.co.uk/sport/extra/v5ergq8rop/the-making-of-Jannik-Sinner?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 00:00:00 GMT",
-      "description": "Jannik Sinner is the world's best tennis player. This is the journey that forged a champion."
+      "title": "Anderson's journey to England star and potential British record",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c1eyjvzeg8qo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 10:30:50 GMT",
+      "description": "Elliot Anderson has emerged as a key part of Thomas Tuchel's England side, and could be on the verge of a British record transfer."
     },
     {
-      "title": "Iran leave note asking for peace after Belgium draw",
-      "link": "https://www.bbc.com/sport/football/articles/cwy0ppqx1p9o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 09:54:09 GMT",
-      "description": "Iran leave a message saying \"may peace, respect and friendship prevail among all nations\" following their World Cup group game with Belgium."
-    },
-    {
-      "title": "How football united behind Doku after childbirth criticism",
-      "link": "https://www.bbc.com/sport/football/articles/cly01kjqdnpo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 10:01:15 GMT",
-      "description": "Jeremy Doku wants to fly home to attend the birth of his first child - but why has that proved controversial in some quarters?"
-    },
-    {
-      "title": "'He's stored in a hard disk in my head' - watching the World Cup as a manager",
-      "link": "https://www.bbc.com/sport/football/articles/c77y64gzvzgo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 12:01:44 GMT",
-      "description": "Former Tottenham and Brentford manager Thomas Frank on watching new players at the World Cup - who would he sign and who will be the star of the tournament?"
-    },
-    {
-      "title": "US Open shows why golf is on guard against bad behaviour",
-      "link": "https://www.bbc.com/sport/golf/articles/c9827n38n69o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 12:35:47 GMT",
-      "description": "With unruly behaviour both on and off the course during last week's US Open, it is imperative officials continue to closely police the situation, writes Iain Carter."
-    },
-    {
-      "title": "Williams is the greatest - but will she produce another great fight?",
-      "link": "https://www.bbc.com/sport/tennis/articles/cze9rrdn91xo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 11:17:11 GMT",
-      "description": "Serena Williams will return to the singles court at Wimbledon aged 44 - BBC Sport analyses if she is ready and the challenges she will face."
+      "title": "A Golden Boot race for the ages - but who will come out on top?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5yz2enre06o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 03:56:28 GMT",
+      "description": "It is fast turning into a Golden Boot race for the ages as the world's best strikers star at the World Cup. But who will come out on top?"
     }
   ]
 }
