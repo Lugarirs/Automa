@@ -1,193 +1,169 @@
 {
-  "scraped_at": "2026-06-26 10:40:40 UTC",
+  "scraped_at": "2026-06-27 09:53:41 UTC",
   "source": "BBC News RSS",
-  "total": 39,
+  "total": 36,
   "headlines": [
     {
-      "title": "New bodycam footage shows Henry Nowak killer's arrest and repeated lies to police",
-      "link": "https://www.bbc.co.uk/news/articles/c5yzl5xl3gjo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 05:03:23 GMT",
-      "description": "Henry Nowak's killer is seen lying to police in bodycam video released after a request from the BBC."
+      "title": "Mahmood announces new refugee sponsorship route into UK",
+      "link": "https://www.bbc.co.uk/news/articles/c5yz952dm74o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 27 Jun 2026 08:56:49 GMT",
+      "description": "The home secretary says \"capped safe and legal\" routes would help to restore confidence in the asylum system."
     },
     {
-      "title": "King becomes first monarch to reveal tax bill as royal public funding to double to £100m",
-      "link": "https://www.bbc.co.uk/news/articles/c8x2151y8q4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 09:21:08 GMT",
-      "description": "New figures show the monarch paid £12.9m in tax last year, but do not give any detailed breakdown of how that tax was calculated."
+      "title": "Are we in for a summer of serial heatwaves?",
+      "link": "https://www.bbc.co.uk/weather/articles/cgrk4w57e74o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 27 Jun 2026 03:16:46 GMT",
+      "description": "Forecasters have suggested that summer is likely to be warmer than average with an increased chance of more heatwaves, as Simon King explains."
     },
     {
-      "title": "King and Queen will not live in Buckingham Palace after renovations",
-      "link": "https://www.bbc.co.uk/news/articles/cdr4z5rxympo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 09:21:40 GMT",
-      "description": "King Charles and Queen Camilla will continue to reside in Clarence House, Buckingham Palace says."
+      "title": "US strikes Iran after attack on cargo ship",
+      "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 27 Jun 2026 08:25:43 GMT",
+      "description": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response."
     },
     {
-      "title": "Watch: Driver gives lift to armed officer chasing suspect",
-      "link": "https://www.bbc.co.uk/news/articles/clyxg76527po?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 21:09:16 GMT",
-      "description": "The chase was caught on camera as the motorist pulled over to help in Margate."
+      "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
+      "link": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 23:01:50 GMT",
+      "description": "Italy's PM was not long ago being called the \"Trump whisperer\", but their relationship has gone from public attacks to personal insults."
     },
     {
-      "title": "I'm back at home again after uni - here's how I'm making it work",
-      "link": "https://www.bbc.co.uk/news/articles/cg53q6dl0plo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 23:03:48 GMT",
-      "description": "Rising costs are forcing more young adults to live with their parents, here's how not to come to blows."
+      "title": "Is Andy Burnham Labour's saviour, or just its best bet?",
+      "link": "https://www.bbc.co.uk/news/articles/c621e13n2dvo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 27 Jun 2026 09:43:41 GMT",
+      "description": "Labour insiders give Laura Kuenssberg their take on the man tipped to replace Keir Starmer as PM."
     },
     {
-      "title": "Starmer and home secretary in row over minister's future",
-      "link": "https://www.bbc.co.uk/news/articles/cj9g7w0xnnjo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 08:00:20 GMT",
-      "description": "Shabana Mahmood believes Mike Tapp should be sacked for writing an article but No 10 say he remains in post."
+      "title": "Madonna was 'jealous of Kylie' - and more things we learned in her Graham Norton interview",
+      "link": "https://www.bbc.co.uk/news/articles/cn07rpn0rkxo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 27 Jun 2026 01:41:28 GMT",
+      "description": "All the revelations from Madonna's chat with Graham Norton, including a big hint about Glastonbury."
     },
     {
-      "title": "Investigation after up to 40 hospital staff access records of boy attacked by crocodile",
-      "link": "https://www.bbc.co.uk/news/articles/cvg5kvpdd15o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 05:43:40 GMT",
-      "description": "Cambridge University Hospitals refers itself to the Information Commissioner over the breach."
+      "title": "How Cape Verde stunned World Cup to set up Argentina tie",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c0mypzl7v2xo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 27 Jun 2026 03:41:58 GMT",
+      "description": "How has a group of islands with just 525,000 inhabitants made it to the knockout rounds of the World Cup?"
     },
     {
-      "title": "Boy, 14, charged with murder after body found in search for girl in south Wales",
-      "link": "https://www.bbc.co.uk/news/articles/cwyd1w958jzo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 05:28:48 GMT",
-      "description": "The body was found during the search for a 14-year-old girl, Lilly, who was reported missing."
+      "title": "How completing the World Cup sticker book is like having a second job",
+      "link": "https://www.bbc.co.uk/news/articles/c3eyv0v28gwo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 27 Jun 2026 00:27:54 GMT",
+      "description": "From car park meet ups to Facebook groups, how families try to complete the set on a budget."
     },
     {
-      "title": "BBC DJ and presenter Trevor Nelson taking a break from work due to health issues",
-      "link": "https://www.bbc.co.uk/news/articles/c4gykyenweyo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 09:43:20 GMT",
-      "description": "The Radio 2 and 1Xtra presenter said he was now \"concentrating on getting better\"."
+      "title": "Does a World Cup star have roots near you? Try our postcode lookup",
+      "link": "https://www.bbc.co.uk/news/articles/cn75y330kpjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 11:08:50 GMT",
+      "description": "Which World Cup stars have roots near you? Find out with our interactive lookup tool"
     },
     {
-      "title": "Quake is devastating blow at time of uncertainty",
-      "link": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 02:12:07 GMT",
-      "description": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces."
+      "title": "See it, say it, not sorted. I was let down when I reported my train sexual assault",
+      "link": "https://www.bbc.co.uk/news/articles/c5yzr58xy0ro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 27 Jun 2026 01:33:36 GMT",
+      "description": "After reporting an incident on a train, Esme Rice waited 13 hours for a response from the British Transport Police."
     },
     {
-      "title": "What we know so far",
-      "link": "https://www.bbc.co.uk/news/articles/c4gyjgreg1ro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 03:28:13 GMT",
-      "description": "The two quakes have killed at least 235 people and injured more than 4,300, with more feared trapped under rubble."
+      "title": "Two years ago, she was delivering parcels - now KWN is an R&B star",
+      "link": "https://www.bbc.co.uk/news/articles/cg74d834lzpo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 23:04:36 GMT",
+      "description": "The R&B singer broke out with the single Worst Behaviour, which she sold on a custom-built website."
     },
     {
-      "title": "New red heat warning in place but cooler weather on the way",
-      "link": "https://www.bbc.co.uk/weather/articles/ceqd0701j44o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 09:20:15 GMT",
-      "description": "A red warning for extreme heat remains in place for the south-east but cooler air is starting to move in from the west as Elizabeth Rizzinni explains."
+      "title": "They quit the West for Russia's traditional values. It wasn't what they expected",
+      "link": "https://www.bbc.co.uk/news/articles/cn075j04pnyo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 23:02:05 GMT",
+      "description": "The BBC asks Westerners who moved to Russia if life there lives up to expectations."
     },
     {
-      "title": "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
-      "link": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 00:06:45 GMT",
-      "description": "Temperatures in Germany could hit 40C in some areas while French officials bring in alcohol restrictions to ease pressure on hospitals."
+      "title": "Going to a festival as a neurodivergent person can be tough - but there are ways to recharge",
+      "link": "https://www.bbc.co.uk/news/articles/cgl3ew1j64go?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 23:03:16 GMT",
+      "description": "Some festivals are rolling out calm spaces and noise-cancelling headphones, but there are calls to go further."
     },
     {
-      "title": "Inside the cold store where it's -18C in a heatwave",
-      "link": "https://www.bbc.co.uk/news/articles/c0ry0xe80qgo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 05:17:02 GMT",
-      "description": "Staff at Magnavale, near Grantham, say the \"giant freezer\" is a great place to be in hot weather."
+      "title": "Why GTA 6 will launch without a disc and what it means for gamers",
+      "link": "https://www.bbc.co.uk/news/articles/c6210nj8gpro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 23:03:04 GMT",
+      "description": "Music and films are now largely digital-only - does the lack of a disc for GTA 6 mean gaming is going the same way?"
     },
     {
-      "title": "Even young and fit urged to skip runs and too many beers in heatwave",
-      "link": "https://www.bbc.co.uk/news/articles/cgjxdpp4qzeo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 10:24:26 GMT",
-      "description": "Cardiac arrests have gone up during very hot weather, and it's not just among the elderly and frail, experts are warning."
+      "title": "Three unusual things about the King's tax bill",
+      "link": "https://www.bbc.co.uk/news/articles/ce8kg7zg09ko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 23:00:30 GMT",
+      "description": "King Charles paid £12.9m in tax for 2024-2025 - here's what we know about his unique tax situation."
     },
     {
-      "title": "How male infertility is still not getting enough attention",
-      "link": "https://www.bbc.co.uk/news/articles/cx2w4kz7z1ko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 01:05:11 GMT",
-      "description": "How could the system better support men who have been told they might have a fertility issue?"
+      "title": "Could you handle a 20-plus hour flight? This airline is banking on it",
+      "link": "https://www.bbc.co.uk/news/articles/cx2j7v51l5ko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 23:02:15 GMT",
+      "description": "Some analysts say the first non-stop London to Sydney flight is a major milestone - but would you buy a ticket?"
     },
     {
-      "title": "Chris Mason: The anatomy of the prime minister's downfall",
-      "link": "https://www.bbc.co.uk/news/articles/ckg8kkdx7l9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 00:38:18 GMT",
-      "description": "Sir Keir, like his predecessors Liz Truss and Boris Johnson, lost the capacity to viably govern, our political editor writes."
+      "title": "Harry and Meghan accept offer to stay at royal estate during UK visit",
+      "link": "https://www.bbc.co.uk/news/articles/cdjk8gggnndo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 27 Jun 2026 01:27:34 GMT",
+      "description": "The royal residence the pair will use has not been made public, but they will also be staying in private accommodation during the trip."
     },
     {
-      "title": "Missing Glastonbury? There's a festival on your doorstep this weekend",
-      "link": "https://www.bbc.co.uk/news/articles/cj4gyz21wyko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 23:50:10 GMT",
-      "description": "Stars like Fatboy Slim and Becky Hill will play small local venues to celebrate the UK music scene."
+      "title": "How messages between two dads helped expose the largest NHS maternity scandal",
+      "link": "https://www.bbc.co.uk/news/articles/cd7pqqzznevo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 27 Jun 2026 00:03:47 GMT",
+      "description": "Among the hundreds of affected families in Nottingham, two sets of parents led the fight to get answers."
     },
     {
-      "title": "Why the trail went cold in Nancy Guthrie case",
-      "link": "https://www.bbc.co.uk/news/articles/cy064kg3n0ko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 23:12:22 GMT",
-      "description": "The lack of a breakthrough in the abduction of a famous TV anchor's mother is puzzling given the huge publicity."
+      "title": "A smartphone ban in English schools is coming into force. What's changing?",
+      "link": "https://www.bbc.co.uk/news/articles/cy8wjv3x81qo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 27 Jun 2026 00:52:45 GMT",
+      "description": "Schools must now follow government guidance that says schools should be phone-free for the entire day."
     },
     {
-      "title": "Weekly quiz: Who did Donald Trump anger after saying they begged for a photo with him?",
-      "link": "https://www.bbc.co.uk/news/articles/c1lyqd6e7ypo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 17:42:35 GMT",
-      "description": "How much attention did you pay to what happened in the world over the past seven days?"
+      "title": "Unwanted items from Alan Carr's castle head to auction",
+      "link": "https://www.bbc.co.uk/news/articles/cjwg7zyl92no?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 27 Jun 2026 08:14:55 GMT",
+      "description": "The sale includes dozens of items from a \"concrete menagerie\" of animals, figures and rural scenes."
     },
     {
-      "title": "From 42% to 5.26% - how Scotland's World Cup hopes are fading",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx23rx038w1o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 04:33:51 GMT",
-      "description": "Defeat against Brazil left Scotland in a precarious position, but little has gone their way since either."
+      "title": "We host strangers for dinner every month - now we have 60 new friends",
+      "link": "https://www.bbc.co.uk/news/articles/cvg48wnx7eyo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 22 Jun 2026 05:44:13 GMT",
+      "description": "After 2 years in Belfast, Nidhi Pal and Vik Parashar found a creative way to make new friends - a monthly dinner party with strangers."
     },
     {
-      "title": "Why are World Cup underdogs doing so well?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cr5jedp7ppyo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 09:18:00 GMT",
-      "description": "Are the surprise results achieved by lower-ranked teams in the World Cup a matter of luck - or clever planning and execution?"
+      "title": "I'm 98 but I still do my 40 press-ups every day",
+      "link": "https://www.bbc.co.uk/news/articles/c5yzlx7zpk2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 27 Jun 2026 08:09:14 GMT",
+      "description": "Bill Kober, who lives in Woodbridge, is proving that age is just a number... one press-up at a time."
     },
     {
-      "title": "What is SkyJo? The card game being played in the England camp",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5yzdryjj8vo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 05:26:44 GMT",
-      "description": "As England try to get their game right on the pitch, the games they play off the field are performing a key role in team bonding - as Morgan Rogers reveals to BBC Sport."
+      "title": "Banned swimmer's daughters to realise family's Commonwealth Games dream",
+      "link": "https://www.bbc.co.uk/news/articles/cj0gzpm57pro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 24 Jun 2026 21:49:48 GMT",
+      "description": "Annette Cowley was not allowed to compete at the 1986 Games as she was caught in a political storm."
     },
     {
-      "title": "What each team need to reach World Cup knockouts",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cgmdz4ww81vo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 04:08:59 GMT",
-      "description": "With the final round of group fixtures under way the path to the World Cup final on 19 July is starting to take shape."
+      "title": "Rescued sewage work eggs hatch into five ducklings",
+      "link": "https://www.bbc.co.uk/news/articles/c78y4dpdpzvo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 15:13:30 GMT",
+      "description": "The eggs were spotted in a nest at risk of toppling over on the surface at a sewage treatment works."
     },
     {
-      "title": "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
-      "link": "https://www.bbc.co.uk/news/articles/cn8qxz6qypyo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 06:16:01 GMT",
-      "description": "Earlier in the week Donald Trump blamed vandals for \"a 300 foot long gash\" in the pool and accused someone of putting fertiliser in the water."
+      "title": "Weekend to bring cooldown after record-breaking heatwave",
+      "link": "https://www.bbc.co.uk/weather/articles/crkvl343jj3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 27 Jun 2026 00:21:33 GMT",
+      "description": "The record-breaking heatwave is set to end with cooler and more unsettled weather by \nSunday."
     },
     {
-      "title": "Serena Williams to start Wimbledon comeback against Maya Joint",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/c621072x6l2o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 09:20:27 GMT",
-      "description": "American superstar Serena Williams will make her highly-anticipated singles comeback at Wimbledon against Australia's Maya Joint in the first round."
+      "title": "Hottest June day record broken for third day in row as temperature hits 37.3C",
+      "link": "https://www.bbc.co.uk/news/articles/cn4d0n1l8zno?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 27 Jun 2026 05:38:24 GMT",
+      "description": "Suffolk saw the highest temperature on Friday - but many will feel the heatwave begin to ease over the weekend."
     },
     {
-      "title": "Home Office plan to use more military bases to house asylum seekers",
-      "link": "https://www.bbc.co.uk/news/articles/cvgjm61lkl4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 07:54:50 GMT",
-      "description": "Three new sites in Oxfordshire, Suffolk, and Yorkshire could house about 3,750 asylum seekers if permission is granted."
-    },
-    {
-      "title": "New CCTV footage contradicts prison death evidence",
-      "link": "https://www.bbc.co.uk/news/articles/ce37vkqp29go?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 05:16:24 GMT",
-      "description": "Footage of Allan Marshall, who died after being restrained by prison officers, has been obtained by the BBC."
-    },
-    {
-      "title": "Power banks and vapes now biggest fire risk on planes",
-      "link": "https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 25 Jun 2026 23:28:13 GMT",
-      "description": "Lithium battery fires are the number one safety risk to aircraft, yet the number of devices found in hold bags has nearly doubled in a year."
-    },
-    {
-      "title": "Housing board votes to freeze New York rents in victory for Mamdani",
-      "link": "https://www.bbc.co.uk/news/articles/cn947pxxz4yo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 09:42:26 GMT",
-      "description": "The decision was welcomed by many tenants - but landlords fear it will worsen housing conditions."
-    },
-    {
-      "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
-      "link": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 06:49:22 GMT",
-      "description": "The ship was reportedly struck by an \"unknown projectile\" near Oman but no casualties were reported."
+      "title": "Watch: Lightning strikes seen across UK",
+      "link": "https://www.bbc.co.uk/news/videos/c74y1l9kkryo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 19:26:58 GMT",
+      "description": "Lightning strikes lit up the sky across the UK during the early hours of Friday as thunderstorms were triggered by the intense heat."
     },
     {
       "title": "BBC News app",
@@ -196,46 +172,52 @@
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests"
     },
     {
-      "title": "What The UK's Biggest Maternity Review Tells Us About Maternity Care",
-      "link": "https://www.bbc.co.uk/sounds/play/p0ntfdp7?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 19:15:00 GMT",
-      "description": "A review has found “systemic failures” in maternity care at a hospital in Nottingham."
+      "title": "Boiling point: The week of extreme heat",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m002ypkf?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 16:00:00 GMT",
+      "description": "Danger to life warnings and record heat: how the UK and Europe struggled to cope."
     },
     {
-      "title": "Can Trump convince Republicans he’s won the war on Iran?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0ntx01g?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 17:50:00 GMT",
-      "description": "Republicans are critical of the US lifting sanctions against Iran"
+      "title": "The King (sort of) reveals his finances",
+      "link": "https://www.bbc.co.uk/sounds/play/p0ntfdw5?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 15:07:00 GMT",
+      "description": "King Charles has become the first monarch to reveal their tax bill, paying £12.9m."
     },
     {
-      "title": "Inside the OnlyFans machine",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m002xv2q?at_mid=MwXXj1KhiS&at_campaign=OnlyFans_Inside_the_Machine&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002xv2q&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=OnlyFans_Inside_the_Machine&at_bbc_team=BBC&at_creation=News",
-      "published": "Mon, 15 Jun 2026 05:00:00 GMT",
-      "description": "Amber Haque reveals how OnlyFans models suffer widespread exploitation by their managers."
+      "title": "Gripping, star-studded environmental thriller",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m001j65w/dark-waters?at_mid=ZBSEF4bP71&at_campaign=Dark_Waters&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m001j65w&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Dark_Waters&at_bbc_team=BBC&at_creation=Film",
+      "published": "Sat, 27 Jun 2026 01:49:12 GMT",
+      "description": "Past ties drag corporate lawyer Rob into conflict with a company he usually assists."
     },
     {
-      "title": "Williams given favourable Wimbledon start - who else plays who?",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/c621072x6l2o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 09:20:27 GMT",
-      "description": "American superstar Serena Williams will make her highly-anticipated singles comeback at Wimbledon against Australia's Maya Joint in the first round."
+      "title": "'I leave nothing' - the end of 'toxic' Bielsa's Uruguay reign",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ce95d89x5meo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 27 Jun 2026 04:04:40 GMT",
+      "description": "With Uruguay eliminated from the 2026 World Cup, BBC Sport looks at what has gone wrong for them under colourful coach Marcelo Bielsa."
     },
     {
-      "title": "Why are World Cup underdogs doing so well?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cr5jedp7ppyo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 09:18:00 GMT",
-      "description": "Are the surprise results achieved by lower-ranked teams in the World Cup a matter of luck - or clever planning and execution?"
+      "title": "One night in Miami: The Scotsmen of the apocalypse",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c872lpl4e0do?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 27 Jun 2026 08:34:12 GMT",
+      "description": "BBC Scotland's Scott Mullen paints the scene from Miami as Scotland's World Cup hopes fade."
     },
     {
-      "title": "From 42% to 5.26% - how Scotland's World Cup hopes are fading",
+      "title": "George criticises 'unacceptable' Auvaa over nightclub incident",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/crm0dkn2m8no?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 27 Jun 2026 08:16:02 GMT",
+      "description": "Jamie George has criticised his Saracens' team-mate Totoa Auvaa's \"unacceptable\" behaviour after the Samoan was involved in a nightclub incident with England cricket captain Ben Stokes and bowler Gus Atkinson."
+    },
+    {
+      "title": "Scotland's World Cup hopes at 0.07% - these are results they need",
       "link": "https://www.bbc.co.uk/sport/football/articles/cx23rx038w1o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 04:33:51 GMT",
+      "published": "Sat, 27 Jun 2026 05:38:01 GMT",
       "description": "Defeat against Brazil left Scotland in a precarious position, but little has gone their way since either."
     },
     {
-      "title": "How to be a good tennis parent",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/cx23r1r55npo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 10:01:44 GMT",
-      "description": "Pushy parents are well documented in tennis - BBC Sport looks at when things get out of hand and what is being done to change this."
+      "title": "Scouting report on Panama - why England should be wary",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cly02gv3yd8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 27 Jun 2026 09:22:57 GMT",
+      "description": "Panama's results do not paint a true picture of their performances in the World Cup so far - so what can England expect from them?"
     }
   ]
 }
