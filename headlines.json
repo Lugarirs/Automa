@@ -1,151 +1,175 @@
 {
-  "scraped_at": "2026-06-29 12:20:24 UTC",
+  "scraped_at": "2026-06-30 10:46:02 UTC",
   "source": "BBC News RSS",
-  "total": 33,
+  "total": 37,
   "headlines": [
     {
-      "title": "Mum rescued from Venezuela rubble with newborn baby tells BBC how he helped her survive",
-      "link": "https://www.bbc.co.uk/news/articles/clyw3rkj2p7o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 07:51:05 GMT",
-      "description": "The \"miracle\" rescue of 18-day-old baby Juan David is a symbol of hope in Venezuela after the devastating earthquakes."
+      "title": "Refugees would be told to repay around £10,000 under new asylum bill",
+      "link": "https://www.bbc.co.uk/news/articles/cddlgqlm7q2o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 09:00:25 GMT",
+      "description": "The Home Office will be given powers to recover costs from adults who have received asylum support under new laws."
     },
     {
-      "title": "The Good Life actress Dame Penelope Keith dies aged 86",
-      "link": "https://www.bbc.co.uk/news/articles/c2ey1pjx0z9o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 12:10:46 GMT",
-      "description": "Tributes are paid to the \"comic genius\", who starred in some of Britain's most popular sitcoms."
+      "title": "Manhunt under way in France after bomb injures Ukrainian oligarch and family in Monaco",
+      "link": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 09:38:50 GMT",
+      "description": "The blast was caused by an explosive device which appeared to contain bolts and pellets, the head of Monaco's government said."
     },
     {
-      "title": "Five dead following shooting in Stade, northern Germany",
-      "link": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 12:17:43 GMT",
-      "description": "Two people have been arrested, police said."
+      "title": "One big win and three defeats for Trump in dramatic day at Supreme Court",
+      "link": "https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 29 Jun 2026 20:34:52 GMT",
+      "description": "While Trump celebrated a ruling expanding presidential power to remove and replace regulators, other decisions were major setbacks."
     },
     {
-      "title": "One in 10 children in England referred for mental healthcare - with anxiety the main reason",
-      "link": "https://www.bbc.co.uk/news/articles/cwyd1l0lge8o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 00:58:15 GMT",
-      "description": "Demand is soaring beyond capacity, meaning children in England wait years for help with various conditions."
+      "title": "Homes harder to sell as high mortgage rates frustrate buyers",
+      "link": "https://www.bbc.co.uk/news/articles/cdr4env2v14o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 06:22:35 GMT",
+      "description": "Three in five homes listed for sale since January remain on the market, says property portal Zoopla."
     },
     {
-      "title": "Temperatures to drop this week but relief from heat may be short-lived",
-      "link": "https://www.bbc.co.uk/weather/articles/c5yzq1q4zm8o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 10:55:51 GMT",
-      "description": "Many will experience cooler air and some rain this week before a possible return to hot weather at the weekend."
+      "title": "'No rescuers have been sent': Venezuelans accuse government of negligence over earthquake response",
+      "link": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 03:53:48 GMT",
+      "description": "People in areas devastated by twin earthquakes say they need more support from the government."
     },
     {
-      "title": "Navy to build drone-equipped warships instead of replacing ageing destroyers",
-      "link": "https://www.bbc.co.uk/news/articles/c2ky95ndx92o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 03:18:06 GMT",
-      "description": "The government says it will invest in modern drone-equipped vessels in the upcoming defence investment plan."
+      "title": "Another UK heatwave could be on the way",
+      "link": "https://www.bbc.co.uk/weather/articles/cql14kwex2wo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 10:33:03 GMT",
+      "description": "As parts of Europe continue to swelter in record temperatures, higher temperatures could develop again across the UK later this week, as Simon King explains."
     },
     {
-      "title": "Michael Jackson movie becomes highest-grossing biopic of all time",
-      "link": "https://www.bbc.co.uk/news/articles/cy49gpygn2vo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 09:55:37 GMT",
-      "description": "The Michael Jackson movie was questioned by critics but has been a hit with fans around the world."
+      "title": "Pupil put in isolation booth for more than half a school year, BBC learns",
+      "link": "https://www.bbc.co.uk/news/articles/c5yzlnp6p52o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 05:00:16 GMT",
+      "description": "The pupil's experience in a Yorkshire school highlights concerns about zero-tolerance behaviour policies."
     },
     {
-      "title": "How population decline is exposing Germany's old divides",
-      "link": "https://www.bbc.co.uk/news/articles/c24ylyv40y5o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 04:49:09 GMT",
-      "description": "Decades after the fall of the Berlin Wall, a population slump in the east lays bare the existing divisions"
+      "title": "Man charged with attempted murder and arson following Belfast disorder",
+      "link": "https://www.bbc.co.uk/news/articles/c5yzqw9erq0o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 08:45:44 GMT",
+      "description": "The 29-year-old was arrested on Monday in connection with a glider bus which was set on fire on 9 June."
     },
     {
-      "title": "Fitness brand founder and Olympian Les Mills dies aged 91",
-      "link": "https://www.bbc.co.uk/news/articles/c5yzxpzy81vo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 10:55:41 GMT",
-      "description": "The Les Mills International brand is now known globally for choreographed workouts set to music, like Body Pump and Body Combat."
+      "title": "US security chief 'danced happy dance' after Iran exit",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crr8x5qkly1o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 07:47:46 GMT",
+      "description": "The United States' head of homeland security says he \"danced a happy dance\" when Iran's elimination from the World Cup was confirmed."
     },
     {
-      "title": "How the new Brazil is taking shape and why Cunha is key",
-      "link": "https://www.bbc.co.uk/sport/football/articles/clywddlrykdo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 07:03:47 GMT",
-      "description": "Former Brazil midfielder Lucas Leiva explains why Manchester United striker Matheus Cunha is so important to Brazil's adaptable system under Carlo Ancelotti."
+      "title": "The end for Nagelsmann? Germany suffer their 'next football nightmare'",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c992kzk00kzo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 02:38:35 GMT",
+      "description": "Germany make a shock last-32 exit against Paraguay, losing a World Cup penalty shootout for the first time to pile pressure on boss Julian Nagelsmann."
     },
     {
-      "title": "'Worth every penny', say England fans at World Cup",
-      "link": "https://www.bbc.co.uk/news/articles/cd0m7ee3z2do?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 06:53:05 GMT",
-      "description": "As football fever sweeps the nation, England fans from Yorkshire share their World Cup experiences."
+      "title": "Pick Kobbie Mainoo over Elliot Anderson against DR Congo, says Wayne Rooney",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cp8l7p0n2kvo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 08:06:24 GMT",
+      "description": "Former England captain Wayne Rooney says he would start Manchester United midfielder Kobbie Mainoo instead of Elliot Anderson in Wednesday's World Cup last-32 tie with DR Congo."
     },
     {
-      "title": "Clarke says standing down 'easy' decision after World Cup exit",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c3ry1jyzpejo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 09:25:31 GMT",
-      "description": "Steve Clarke says it was an easy decision to step down as Scotland head coach because he always planned to depart if they did not qualify for the knock-out stages."
+      "title": "Why are South Korean fans so angry at their football coach?",
+      "link": "https://www.bbc.co.uk/news/videos/c4gyje1p0l9o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 08:26:11 GMT",
+      "description": "Hong Myung-bo has resigned after South Korea failed to advance to the World Cup knockout stages."
     },
     {
-      "title": "Dallas Cowboys Cheerleaders on fame, pressure and World Cup fever",
-      "link": "https://www.bbc.co.uk/news/articles/c15ypnx1v0wo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 10:51:03 GMT",
-      "description": "As the Netflix show following their lives returns, the squad open up about their new-found fame."
+      "title": "Rescuers keep up search for survivors at collapsed La Guaira building",
+      "link": "https://www.bbc.co.uk/news/videos/cz75y2rggppo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 29 Jun 2026 20:22:13 GMT",
+      "description": "At least 1,700 people are known to have been killed in the disaster but hope remains that others can continue to be found alive."
     },
     {
-      "title": "How formidable sitcom star Penelope Keith won the nation's hearts",
-      "link": "https://www.bbc.co.uk/news/articles/c0kkddzr874o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 10:29:06 GMT",
-      "description": "The life of the much-loved comedy actress best known as Margo Leadbeatter in The Good Life."
+      "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
+      "link": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 04:21:58 GMT",
+      "description": "In areas devastated by the twin earthquakes, people are using crowbars, pickaxes and their bare hands to try to reach survivors."
     },
     {
-      "title": "'I see tourists pee in front of my house': The campervan problem on the Isle of Skye",
-      "link": "https://www.bbc.co.uk/news/articles/crlwj7z7481o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 10:32:41 GMT",
-      "description": "The Isle of Skye is among the Highlands' most popular destinations for thousands of holidaymakers."
+      "title": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
+      "link": "https://www.bbc.co.uk/news/articles/c78yvq72dg7o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 29 Jun 2026 21:19:28 GMT",
+      "description": "With tens of thousands of people still believed missing, teams listen for signs of life beneath the rubble."
     },
     {
-      "title": "Got the tennis bug? How to play sport without paying",
-      "link": "https://www.bbc.co.uk/news/articles/crlw2xw1yy2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 28 Jun 2026 23:06:00 GMT",
-      "description": "As the world's best players begin play at Wimbledon, how can you get into sport on a budget."
+      "title": "Dogs, drones and sound detectors: How rescuers search for quake survivors",
+      "link": "https://www.bbc.co.uk/news/articles/cn75jk07y5do?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 29 Jun 2026 20:17:26 GMT",
+      "description": "Teams armed with a range of techniques continue to dig through the rubble in Venezuela."
     },
     {
-      "title": "Why is pregnancy sickness drug not easily accessible to all?",
-      "link": "https://www.bbc.co.uk/news/articles/cy8w5w095vxo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 05:11:00 GMT",
-      "description": "BBC journalist Linzi Kinghorn finds out why a pregnancy sickness drug is not always accessible on the NHS."
+      "title": "We had packed lunches every day for 10 years and retired at 40",
+      "link": "https://www.bbc.co.uk/news/articles/cvgdn3qqg7po?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 29 Jun 2026 23:03:26 GMT",
+      "description": "The Fire (Financially Independent, Retire Early) movement sees followers save as much as possible."
     },
     {
-      "title": "Catherine completes Three Peaks Challenge to 'explore life beyond' cancer diagnosis",
-      "link": "https://www.bbc.co.uk/news/articles/cwydwgy7125o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 02:41:26 GMT",
-      "description": "The Princess of Wales did the endurance event to raise awareness about \"holistic healthcare\" for cancer patients."
+      "title": "Chris Mason: Burnham revels on public stage but has little time to hammer ideas into shape",
+      "link": "https://www.bbc.co.uk/news/articles/crkvr3xjxx3o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 29 Jun 2026 23:46:54 GMT",
+      "description": "As a man who has held prime ministerial ambitions for years, Andy Burnham makes his dash for the door, political editor Chris Mason writes."
     },
     {
-      "title": "White working-class children failed by education system, says inquiry",
-      "link": "https://www.bbc.co.uk/news/articles/cq51j10q601o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 10:35:43 GMT",
-      "description": "The inquiry spoke to thousands of young people and their parents, as well as hundreds of teachers."
+      "title": "Is tennis' relentless nature causing injury crisis?",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c3eyd24pk75o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 29 Jun 2026 21:45:02 GMT",
+      "description": "After British stars Jack Draper and Emma Raducanu withdrew injured from Wimbledon, BBC Sport analyses why so many top players are struggling with injury."
     },
     {
-      "title": "British American Tobacco to cut 9,000 jobs",
-      "link": "https://www.bbc.co.uk/news/articles/c3vyen243dno?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 11:04:10 GMT",
-      "description": "The company had said earlier this year it was planning savings to make it  \"more digital and AI-focused\"."
+      "title": "In pictures: Stunning Strawberry Moon lights up the sky",
+      "link": "https://www.bbc.co.uk/news/articles/c20yz4e7wlqo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 07:31:23 GMT",
+      "description": "Clear night skies over Hampshire and Dorset give stunning shots of the Strawberry Moon."
     },
     {
-      "title": "Fife man dies after being shot 'multiple times' in Caribbean",
-      "link": "https://www.bbc.co.uk/news/articles/c04y1gq1pqeo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 11:53:54 GMT",
-      "description": "Daniel Vettrino, 37, was killed following the incident on in the island of Canouan in St Vincent and the Grenadines."
+      "title": "Why £15 durians are being sold at half price or given away for free",
+      "link": "https://www.bbc.co.uk/news/articles/c8x21yld0yro?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 29 Jun 2026 23:17:19 GMT",
+      "description": "As Malaysian durians are being sold at throwaway prices, farmers worry about their livelihoods."
     },
     {
-      "title": "Metallica donates £20,000 to city foodbank with 'empty shelves' after sell-out gig",
-      "link": "https://www.bbc.co.uk/news/articles/c2eymz7p2y8o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 04:42:29 GMT",
-      "description": "Heavy metal legends Metallica have donated £20,000 to Cardiff food bank which is enough for 9000 meals through the charity."
+      "title": "Lily Allen defends tour after some fans criticise show length",
+      "link": "https://www.bbc.co.uk/news/articles/c4gy843m5lno?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 09:50:18 GMT",
+      "description": "Some fans had complained that the show is too short because the singer only performs her latest album."
     },
     {
-      "title": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
-      "link": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 04:52:17 GMT",
-      "description": "A series of strikes over the weekend saw the US and Iran accuse each other of violating the ceasefire agreement."
+      "title": "Shetland set to back £1.5bn plan to connect islands with undersea tunnels",
+      "link": "https://www.bbc.co.uk/news/articles/cvgl1egyl79o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 05:20:33 GMT",
+      "description": "The undersea links between some of the UK's most northerly islands could be in place within eight years."
     },
     {
-      "title": "First dinosaur bone from Antarctica found in a drawer",
-      "link": "https://www.bbc.co.uk/news/articles/cdep67jnn9zo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 05:10:46 GMT",
-      "description": "The fossil, collected in Antarctica in 1985, is part of the tail of a beast called a Titanosaur."
+      "title": "Heavy security in South Africa as anti-migrant protesters take to the streets",
+      "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 10:14:57 GMT",
+      "description": "Thousands of people have left South Africa ahead of Tuesday's deadline set by anti-migrant groups."
+    },
+    {
+      "title": "WhatsApp to let people chat by swapping usernames instead of phone numbers",
+      "link": "https://www.bbc.co.uk/news/articles/c1dykk3135xo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 09:16:23 GMT",
+      "description": "The app's new usernames feature will be rolled out globally over the next few months."
+    },
+    {
+      "title": "Boy says it was incredible bumping into princess doing Three Peaks Challenge",
+      "link": "https://www.bbc.co.uk/news/articles/cg74e9vj200o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 07:51:27 GMT",
+      "description": "Ted and his father say it was incredible bumping into Catherine, Princess of Wales."
+    },
+    {
+      "title": "Parents urge council not to shut Scotland's smallest secondary",
+      "link": "https://www.bbc.co.uk/news/articles/ce95ydel84no?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 10:31:30 GMT",
+      "description": "The local authority is deciding the fate of Dalry Secondary which will have just eight pupils by August."
+    },
+    {
+      "title": "Why a mural of Eastenders legend Dot Cotton has appeared in a Welsh village",
+      "link": "https://www.bbc.co.uk/news/articles/c9321xxq5qko?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 05:13:47 GMT",
+      "description": "June Brown, who starred in Eastenders for decades, had a surprising childhood link to Pontyates."
     },
     {
       "title": "BBC News app",
@@ -154,16 +178,16 @@
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests"
     },
     {
-      "title": "Newscast",
-      "link": "https://www.bbc.co.uk/sounds/play/p0ntff7q?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 28 Jun 2026 13:40:00 GMT",
-      "description": "We look at new details from the controversial defence plan a new PM would inherit."
+      "title": "Has the Supreme Court just made Trump the most powerful president in history?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0nvtmx4?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 29 Jun 2026 19:14:00 GMT",
+      "description": "A landmark decision expands Trump’s presidential power"
     },
     {
-      "title": "Test Match Special Podcast",
-      "link": "https://www.bbc.co.uk/sounds/play/p0nvn03k?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 28 Jun 2026 19:26:00 GMT",
-      "description": "Ben Stokes speaks after the announcement he's to retire from international cricket."
+      "title": "What's Andy Burnham's Plan For Number 10 (North)?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0nvqw0t?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 29 Jun 2026 19:16:00 GMT",
+      "description": "Burnham unveils \"Number 10 North\" in first speech since running for PM."
     },
     {
       "title": "Biopic starring Will Smith as Venus and Serena Williams' father",
@@ -172,34 +196,34 @@
       "description": "Richard Williams is determined to write daughters Venus and Serena into sporting history."
     },
     {
-      "title": "More change needed after Stokes retires - Vaughan",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/ce8ke6y8egzo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 10:32:04 GMT",
-      "description": "Former captain Michael Vaughan says he will be \"absolutely staggered\" if there is not more leadership change in English cricket after Ben Stokes' retirement."
+      "title": "Pick Mainoo over Anderson against DR Congo - Rooney",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cp8l7p0n2kvo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 08:06:24 GMT",
+      "description": "Former England captain Wayne Rooney says he would start Manchester United midfielder Kobbie Mainoo instead of Elliot Anderson in Wednesday's World Cup last-32 tie with DR Congo."
     },
     {
-      "title": "Tuchel still searching for answers out wide - Shearer",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqj1g9egd80o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 11:27:47 GMT",
-      "description": "Former England captain Alan Shearer explains why there are lots of reasons to be positive about England so far at this World Cup, but having a settled side is not one of them."
+      "title": "'Germany no longer first-class team ' - is this the end for Nagelsmann?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c992kzk00kzo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 02:38:35 GMT",
+      "description": "Germany make a shock last-32 exit against Paraguay, losing a World Cup penalty shootout for the first time to pile pressure on boss Julian Nagelsmann."
     },
     {
-      "title": "Why Netherlands v Morocco is more than just a match",
-      "link": "https://www.bbc.co.uk/sport/football/articles/clye1l3m9k4o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 10:16:02 GMT",
-      "description": "Morocco’s World Cup meeting with the Netherlands tells a story about migration, identity and the battle for Dutch-born talent."
+      "title": "US security chief 'danced happy dance' after Iran exit",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crr8x5qkly1o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 07:47:46 GMT",
+      "description": "The United States' head of homeland security says he \"danced a happy dance\" when Iran's elimination from the World Cup was confirmed."
     },
     {
-      "title": "I'd ticked all the boxes so decision to resign easy - Clarke",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c3ry1jyzpejo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 09:25:31 GMT",
-      "description": "Steve Clarke says it was an easy decision to step down as Scotland head coach because he always planned to depart if they did not qualify for the knock-out stages."
+      "title": "'I never expected to be here' - Williams returns to Wimbledon",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c0jyv69p821o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 06:31:46 GMT",
+      "description": "For Serena Williams, everything and nothing has changed on her return to Wimbledon."
     },
     {
-      "title": "Why 'big brother' Van Dijk is key to Dutch World Cup dreams",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c9927m2jlx0o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 11:52:25 GMT",
-      "description": "France's World Cup winner Olivier Giroud explains why Netherlands defender Virgil van Dijk is still the main man for his national team."
+      "title": "North v South - the battle for global supremacy is tighter than ever",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c20y58ndlgeo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 10:10:35 GMT",
+      "description": "The new Nations Championship pits the northern hemisphere against the south. Traditionally there would only be one winner in such a contest. Perhaps things are different now..."
     }
   ]
 }
