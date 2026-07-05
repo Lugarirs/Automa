@@ -1,211 +1,187 @@
 {
-  "scraped_at": "2026-07-04 09:56:53 UTC",
+  "scraped_at": "2026-07-05 10:00:44 UTC",
   "source": "BBC News RSS",
-  "total": 43,
+  "total": 40,
   "headlines": [
     {
-      "title": "Starmer tells of 'intensely personal' decision to quit and warns Burnham in first interview since resigning",
-      "link": "https://www.bbc.co.uk/news/articles/c0qy2zxjkwvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 03 Jul 2026 21:26:53 GMT",
-      "description": "In an untypically candid interview, the outgoing PM tells the BBC it was \"really tough\" to accept his political career was over."
+      "title": "US marks 250th birthday with fireworks, flyovers and extreme weather",
+      "link": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 05 Jul 2026 08:24:32 GMT",
+      "description": "US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history."
     },
     {
-      "title": "England-Mexico kick-off unchanged at 1am after Fifa U-turn",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvgmz3jyq9qo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 00:16:26 GMT",
-      "description": "England's World Cup last-16 tie against Mexico will kick off as scheduled at 01:00 BST on Monday."
+      "title": "Tuchel praises respectful Mexico fans amid increased security",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8r2827pyxlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 05 Jul 2026 02:15:19 GMT",
+      "description": "Thomas Tuchel dismisses concerns over England's treatment in Mexico, saying it has been \"nicer than I expected\" and that home fans are \"friendly and respectful\"."
     },
     {
-      "title": "Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler",
-      "link": "https://www.bbc.co.uk/news/articles/c982ry2pen3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 02:26:54 GMT",
-      "description": "The star-studded celebration saw several streets in Midtown Manhattan shut, as hordes of fans gathered outside the arena."
+      "title": "Farage denies rules broken after reports benefits from ally were not declared",
+      "link": "https://www.bbc.co.uk/news/articles/cy0424end7vo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 05 Jul 2026 09:51:44 GMT",
+      "description": "The Sunday Times says the Reform UK leader failed to register the support supplied by a man who had been convicted of fraud in the US."
     },
     {
-      "title": "In pictures: Stars and fans celebrate Taylor Swift and Travis Kelce's wedding",
-      "link": "https://www.bbc.co.uk/news/articles/c7vyqgy4r5lo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 08:24:17 GMT",
-      "description": "Celebrities and sports stars were spotted as the A-list couple tied the knot in New York on Friday."
+      "title": "Watch: Lyse Doucet in Tehran as huge funeral for Iran's former supreme leader takes place",
+      "link": "https://www.bbc.co.uk/news/videos/c23y22z4ppxo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 04 Jul 2026 21:46:43 GMT",
+      "description": "Authorities expect up to 20 million people to attend ceremonies across Iran and Iraq over the coming days."
     },
     {
-      "title": "The massive scramble behind the scenes before the new PM arrives",
-      "link": "https://www.bbc.co.uk/news/articles/cj4g0n0p15xo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 09:22:20 GMT",
-      "description": "As Starmer gets ready to pack his bags, there's a \"bunfight for jobs\" in Whitehall, one MP tells Laura Kuenssberg."
+      "title": "How Iran's new regime is very different to what came before",
+      "link": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 05 Jul 2026 05:40:07 GMT",
+      "description": "Khamenei's funeral is another reminder of the change Iran has seen, but what does its new leadership want?"
     },
     {
-      "title": "Fireworks, flyovers and a 'really long' Trump speech ahead as US celebrates 250th",
-      "link": "https://www.bbc.co.uk/news/articles/cp36l4e6v9po?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 06:54:54 GMT",
-      "description": "The celebrations in the US capital will feature 850,000 fireworks, a \"really long\" speech from the president and scorching temperatures."
+      "title": "Police leadership needs 'ethical reset', Lord Blunkett tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cy0429yx1k9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 04 Jul 2026 19:36:58 GMT",
+      "description": "The former home secretary has co-authored a major report that has found the running of forces in England and Wales needs a \"fundamental overhaul\"."
     },
     {
-      "title": "Mini-marts linked to convicted people smuggler closed after BBC investigation",
-      "link": "https://www.bbc.co.uk/news/articles/cjwgp00l84qo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 01:54:31 GMT",
-      "description": "We traced Twana Jamal, once the \"the godfather\" of French migrant camps, to two shops in Leicestershire."
+      "title": "Prince Harry and Meghan: Will they or won't they, and will we care?",
+      "link": "https://www.bbc.co.uk/news/articles/c621jwpld8zo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 04 Jul 2026 23:18:36 GMT",
+      "description": "There will be much attention on whether the Duke of Sussex can build bridges with his family."
     },
     {
-      "title": "'Hotter and hotter and hotter' - Europe's new climate in seven charts",
-      "link": "https://www.bbc.co.uk/news/articles/c8e2j0j87reo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 00:57:05 GMT",
-      "description": "Temperature records have tumbled across the UK and Europe as scientists warn it is a sign of things to come."
+      "title": "What Sky buying ITV could mean for your favourite shows",
+      "link": "https://www.bbc.co.uk/news/articles/c04yx44xq19o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 04 Jul 2026 23:23:51 GMT",
+      "description": "An announcement is expected imminently on Sky buying ITV's TV and streaming channels."
     },
     {
-      "title": "What could new rights for unmarried couples mean for your money?",
-      "link": "https://www.bbc.co.uk/news/articles/cx2vx4dvgzno?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 01:10:13 GMT",
-      "description": "Co-habiting couples in England and Wales could be given more protections if they break up under new government proposals."
+      "title": "How Manchester became an 'influencer heaven'",
+      "link": "https://www.bbc.co.uk/news/articles/cp8p8y937ydo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 05 Jul 2026 01:52:18 GMT",
+      "description": "Influencers are showing the world why they think Manchester is a great place it is to live."
     },
     {
-      "title": "The schools starting late after 1am England kick-off to 'reduce pressure' on parents",
-      "link": "https://www.bbc.co.uk/news/articles/c621j2qj50do?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 02:46:58 GMT",
-      "description": "Some schools are opting to open late, arguing they are striking the right balance, and many parents have backed the decision."
+      "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
+      "link": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 04 Jul 2026 23:17:24 GMT",
+      "description": "Far-right leader Marine Le Pen is appealing against a verdict which found her guilty of misusing EU funds."
     },
     {
-      "title": "Russia looks to students to make up for mounting losses in Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cp8lnnr080go?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 03 Jul 2026 23:24:20 GMT",
-      "description": "Moscow's campaign for students to sign army contracts comes as the Kremlin seeks to sustain its war effort for a fifth year."
+      "title": "Cowboys, fighter jets and US Border Patrol - inside Trump's big recruitment drive",
+      "link": "https://www.bbc.co.uk/news/articles/ce3ex7rnpg6o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 04 Jul 2026 23:33:27 GMT",
+      "description": "Space Force and Customs and Border Patrol are using a rodeo as a way to drive up recruitment numbers."
     },
     {
-      "title": "How to walk 30 minutes a day - your tips after NHS reward scheme announced",
-      "link": "https://www.bbc.co.uk/news/articles/c20y2lkgz13o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 03 Jul 2026 21:31:05 GMT",
-      "description": "From walking the dog before breakfast to getting off the bus a stop early, readers share their tips for building a daily walking habit."
+      "title": "A very British love affair - why Wimbledon regulars keep coming back",
+      "link": "https://www.bbc.co.uk/news/articles/ckg54yldw1eo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 05 Jul 2026 01:55:14 GMT",
+      "description": "Devoted fans of the SW19 Championships tell stories of camping in the queue and lifelong friendships."
     },
     {
-      "title": "Five and a half hours that left England's last-16 tie in chaos",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c0ey24q42w2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 01:36:43 GMT",
-      "description": "For several hours on Friday, no-one seemed to know when England's World Cup last-16 match against co-hosts Mexico would kick off. BBC Sport tells how a story of confusion and anger - culminating in a Fifa U-turn - unfolded."
+      "title": "England enter the Azteca - where football kings are crowned",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cg74e324835o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 05 Jul 2026 08:26:39 GMT",
+      "description": "BBC Sport explores the history and cultural power of the Azteca, one of the great cathedrals of world football, as England prepare to face Mexico there in the last 16 of the World Cup."
     },
     {
-      "title": "England team booed on arrival at Mexico City hotel",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx2x1gwwjego?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 08:33:11 GMT",
-      "description": "England are booed as they arrive at their Mexico City hotel to prepare for their World Cup last-16 game against Mexico."
+      "title": "Staying up for the match? How to handle a 1am kick-off",
+      "link": "https://www.bbc.co.uk/news/articles/c3wyel830w8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 05 Jul 2026 08:18:30 GMT",
+      "description": "Forget blocks and tackles, this is the tactical plan you need for the football."
     },
     {
-      "title": "Eight of the 10 most populous countries are not in the World Cup",
-      "link": "https://www.bbc.co.uk/news/articles/c621je3we82o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 09:09:18 GMT",
-      "description": "Many countries with massive populations consistently miss out on football’s biggest party. What can they do to change their sporting fortunes?"
+      "title": "Alan Shearer: Why England won't fear Mexico or the Azteca",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c4gy0l7x25wo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 04 Jul 2026 18:51:18 GMT",
+      "description": "Former England captain Alan Shearer explains why Thomas Tuchel's team will not be worried about the difficult conditions when they play Mexico at the Azteca Stadium."
     },
     {
-      "title": "Farewell Cape Verde - defeat by Argentina but they are the underdogs the World Cup will never forget",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqj1pd8lqw9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 03:09:37 GMT",
-      "description": "Cape Verde may have been the World Cup's second-smallest nation but they leave the largest impact as they depart following defeat by defending champions Argentina in an epic."
+      "title": "Stay humble - the Premier League feud about to hit world stage",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c2ky2x52kwlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 05 Jul 2026 09:25:03 GMT",
+      "description": "The Premier League between Manchester City's Erling Haaland and Arsenal defender Erling Haaland goes global as Norway meet Brazil at the World Cup."
     },
     {
-      "title": "Murals, flags and beef dishes - Messi mania takes hold in Miami",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm2jpkkdld4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 05:37:08 GMT",
-      "description": "Lionel Messi's World Cup goals roadshow continued with his seventh of the tournament for Argentina against Cape Verde - and delighted the fans who were in Miami to see their hero."
+      "title": "France survive Paraguay's 'disgraceful' and 'embarrassing' dark arts",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cn4dpd11v1eo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 05 Jul 2026 01:53:01 GMT",
+      "description": "After dismantling all before them at this World Cup, France had to find a new way to win against a Paraguay side whose use of the dark arts angered many of those watching."
     },
     {
-      "title": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ce8ml7jv1g1o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 03 Jul 2026 10:39:10 GMT",
-      "description": "The BBC will be launching a special 'Stay Up or Catch Up' offer for its live coverage of England's game against Mexico at the 2026 World Cup."
+      "title": "Unbeaten in 34 matches - why Morocco are World Cup contenders",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cy4e22gqe50o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 04 Jul 2026 21:20:25 GMT",
+      "description": "As  Morocco beat Canada to book their place in the last-8, their World Cup campaign can no longer be seen as a fairytale."
     },
     {
-      "title": "UK temperatures forecast to exceed 30C as another heatwave imminent",
+      "title": "James doubtful for Mexico tie but Quansah fit again",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ce8jpjx1dkvo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 04 Jul 2026 22:13:11 GMT",
+      "description": "Reece James misses training on the eve of England's World Cup last-16 tie against Mexico but Jarell Quansah is available again."
+    },
+    {
+      "title": "NHS app to use AI to determine which service best for patients",
+      "link": "https://www.bbc.co.uk/news/articles/c0my2kjjnp2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 04 Jul 2026 21:32:08 GMT",
+      "description": "The update will be available to all users in England by April 2028, the health service says."
+    },
+    {
+      "title": "The Papers: 'Kicking up a storm' and 'Burnham plots homes tax raid'",
+      "link": "https://www.bbc.co.uk/news/articles/c36y224nyn6o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 05 Jul 2026 05:06:47 GMT",
+      "description": "Logistics surrounding the World Cup match between England and Mexico continue to lead a number of the papers."
+    },
+    {
+      "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+      "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 04 Jul 2026 18:41:25 GMT",
+      "description": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\"."
+    },
+    {
+      "title": "New heatwave likely to peak at 34C with week-long health alert issued",
       "link": "https://www.bbc.co.uk/weather/articles/c621j44jwe1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 00:23:47 GMT",
+      "published": "Sat, 04 Jul 2026 15:28:17 GMT",
       "description": "Another heatwave is on its way and set to last significantly longer as Stav Danaos explains."
     },
     {
-      "title": "China's internet got so mad about a celebrity's 'bad' singing, her concert was cancelled",
-      "link": "https://www.bbc.co.uk/news/articles/cdx7d254lrjo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 03 Jul 2026 22:46:42 GMT",
-      "description": "Celebrities have become outlets for young people's social and economic frustrations."
+      "title": "Chinese underground church figure Jin Mingri freed from prison",
+      "link": "https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 05 Jul 2026 05:58:21 GMT",
+      "description": "The Zion Church founder's release comes after a direct plea to Xi Jinping from Donald Trump."
     },
     {
-      "title": "Iran begins public mourning for Ayatollah killed in February",
-      "link": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 04:12:06 GMT",
-      "description": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla from Friday ahead of days-long funeral events."
+      "title": "Supporting Pride London 'more important than ever'",
+      "link": "https://www.bbc.co.uk/news/articles/cvgqlplpyyqo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 04 Jul 2026 17:56:50 GMT",
+      "description": "Hundreds of charities, community groups and companies took part in Saturday's parade."
     },
     {
-      "title": "Force bosses to face MPs over maternity scandal, says Streeting",
-      "link": "https://www.bbc.co.uk/news/articles/cx2d9x8rvd9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 00:29:58 GMT",
-      "description": "Former health secretary Wes Streeting says the \"cowardice\" of leaders who refused to co-operate was \"an insult\"."
+      "title": "Dior dress and a man of honour: What we know about Taylor Swift and Travis Kelce's wedding",
+      "link": "https://www.bbc.co.uk/news/articles/cvg5zn58nj2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 04 Jul 2026 17:51:04 GMT",
+      "description": "The couple tied the knot in New York on Friday, after months of speculation about when, where and how it would happen."
     },
     {
-      "title": "Trump's new take on 250 years of American expansionism",
-      "link": "https://www.bbc.co.uk/news/articles/clyery8p047o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 00:10:22 GMT",
-      "description": "The US has grown, both in terms of its land and its people, over the last 250 years. What's next?"
+      "title": "Life-size Lego bench built in memory of boy",
+      "link": "https://www.bbc.co.uk/news/articles/cly0914y98eo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 03 Jul 2026 10:02:46 GMT",
+      "description": "The bench is made in memory of Matthew Girard who died in 2020 from cancer."
     },
     {
-      "title": "The Papers: Storm threat to England match and 'bid to block Miliband'",
-      "link": "https://www.bbc.co.uk/news/articles/cnv9p35z866o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 05:12:12 GMT",
-      "description": "Shifting start times at the Fifa World Cup are the lead story for the papers on Saturday."
+      "title": "Man, 91, completes skydive for community group",
+      "link": "https://www.bbc.co.uk/news/articles/cz0jpn0vzxko?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 05:01:26 GMT",
+      "description": "Alan Still completed the skydive for Rowleys Centre for the Community in Cranleigh."
     },
     {
-      "title": "Ear plugs have become a festival must-have - but they aren't all created equal",
-      "link": "https://www.bbc.co.uk/news/articles/c87288g4zrgo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 01:29:21 GMT",
-      "description": "Ear plugs are becoming an increasingly popular accessory at music festivals."
+      "title": "The school podcast that beat the professionals to a top award",
+      "link": "https://www.bbc.co.uk/news/articles/cy73mjry412o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 05:21:13 GMT",
+      "description": "The Reading Cafe features pupils from Holy Cross High School in Hamilton quizzing authors, musicians and other cultural figures about books."
     },
     {
-      "title": "'Flamingo Revolution' takes off as thousands demand Albanian PM's resignation",
-      "link": "https://www.bbc.co.uk/news/articles/c8925jnl0z3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 00:43:26 GMT",
-      "description": "Flamingos have become a national symbol of protest, triggered by opposition to a luxury development."
-    },
-    {
-      "title": "Tartan Army's World Cup traffic cone high jinks are taking over Scotland",
-      "link": "https://www.bbc.co.uk/news/articles/cvgm4d4jv8eo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 09:50:19 GMT",
-      "description": "Scotland fans' coning of statues during the World Cup has led to a surge in the practice back home, but not everyone has welcomed it."
-    },
-    {
-      "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
-      "link": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 07:52:55 GMT",
-      "description": "The daughter of disgraced president Alberto Fujimori is declared winner of tight race nearly a month after voting took place."
-    },
-    {
-      "title": "Anguished families left to identify Venezuela quake victims at makeshift morgue",
-      "link": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 03 Jul 2026 21:00:53 GMT",
-      "description": "The disaster has overwhelmed local services, with bodies put outside or in tents for identification."
-    },
-    {
-      "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
-      "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 03 Jul 2026 15:20:57 GMT",
-      "description": "Officials believe the suspect may not have acted alone and spent days casing out the scene of the attack."
-    },
-    {
-      "title": "'I love my superhero legs', says boy who 'inspires everyone around him'",
-      "link": "https://www.bbc.co.uk/news/articles/cn94zedj30eo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 30 Jun 2026 05:06:22 GMT",
-      "description": "The school says the young double amputee's courage and positivity has \"inspired everyone\"."
-    },
-    {
-      "title": "Greyhound who refuses to race finds new home in US",
-      "link": "https://www.bbc.co.uk/news/articles/cy8dvn1lj25o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 28 Jun 2026 10:00:25 GMT",
-      "description": "Kiki, who was bred to race, will cross the Atlantic to live in California with her new family."
-    },
-    {
-      "title": "Pupils perform for Foo Fighters in stadium show",
-      "link": "https://www.bbc.co.uk/news/articles/ce95ym1d578o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 18:35:00 GMT",
-      "description": "The Bell Tower Beats, from Anfield Road Primary School, performed for the US stars in Liverpool."
-    },
-    {
-      "title": "Mr Blobby costume sells for £8,500 at auction",
-      "link": "https://www.bbc.co.uk/news/articles/c5yz2rvpnrro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 30 Jun 2026 05:25:30 GMT",
-      "description": "Auctioneers say they had bids from around the world for the costume of the 'iconic' TV character."
+      "title": "Artist happily reunited with lost tea towel art",
+      "link": "https://www.bbc.co.uk/news/articles/c1wy4pl8944o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Jul 2026 16:26:14 GMT",
+      "description": "Holly Searle had posted her work and was distraught when it was not delivered to its destination."
     },
     {
       "title": "BBC News app",
@@ -232,34 +208,40 @@
       "description": "A love triangle forms between three tennis players."
     },
     {
-      "title": "Five and a half hours that left England's World Cup tie in chaos",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c0ey24q42w2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 01:36:43 GMT",
-      "description": "For several hours on Friday, no-one seemed to know when England's World Cup last-16 match against co-hosts Mexico would kick off. BBC Sport tells how a story of confusion and anger - culminating in a Fifa U-turn - unfolded."
+      "title": "Why England won't fear Mexico or the Azteca - Shearer",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c4gy0l7x25wo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 04 Jul 2026 18:51:18 GMT",
+      "description": "Former England captain Alan Shearer explains why Thomas Tuchel's team will not be worried about the difficult conditions when they play Mexico at the Azteca Stadium."
     },
     {
-      "title": "England team booed on arrival at Mexico City hotel",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx2x1gwwjego?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 08:33:11 GMT",
-      "description": "England are booed as they arrive at their Mexico City hotel to prepare for their World Cup last-16 game against Mexico."
+      "title": "France survive Paraguay's 'disgraceful' and 'embarrassing' dark arts",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cn4dpd11v1eo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 05 Jul 2026 01:53:01 GMT",
+      "description": "After dismantling all before them at this World Cup, France had to find a new way to win against a Paraguay side whose use of the dark arts angered many of those watching."
     },
     {
-      "title": "Farewell Cape Verde - the underdogs the World Cup will never forget",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqj1pd8lqw9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 03:09:37 GMT",
-      "description": "Cape Verde may have been the World Cup's second-smallest nation but they leave the largest impact as they depart following defeat by defending champions Argentina in an epic."
+      "title": "England enter the Azteca - where football kings are crowned",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cg74e324835o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 05 Jul 2026 08:26:39 GMT",
+      "description": "BBC Sport explores the history and cultural power of the Azteca, one of the great cathedrals of world football, as England prepare to face Mexico there in the last 16 of the World Cup."
     },
     {
-      "title": "All Blacks beat France in thrilling Nations Championship opener",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c5yze25d46do?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 09:03:29 GMT",
-      "description": "Will Jordan scores twice to help New Zealand beat France as the inaugural Nations Championship opens with a captivating, nine-try thriller in Christchurch."
+      "title": "Boks unleash big-game brutality on Borthwick's faltering England",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cz752234r45o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 04 Jul 2026 20:36:07 GMT",
+      "description": "Defeat by South Africa can, and does, happen to any team in world rugby, but England need to stop their losing streak soon."
     },
     {
-      "title": "Argentina overcome Cape Verde in extra-time thriller",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cj6gp70g967o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 01:55:42 GMT",
-      "description": "Argentina overcome a huge scare as they beat Cape Verde 3-2 in extra time thanks to a deflected header from Cristian Romero to advance to the last 16."
+      "title": "A rivalry renewed - Sabalenka and Osaka meet again",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/cg53p7mn85mo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 05 Jul 2026 05:00:51 GMT",
+      "description": "For the third time in three months, Aryna Sabalenka and Naomi Osaka will meet - but this time for a place in the Wimbledon quarter-finals."
+    },
+    {
+      "title": "Stay humble - the Premier League feud about to hit world stage",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c2ky2x52kwlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 05 Jul 2026 09:25:03 GMT",
+      "description": "The Premier League between Manchester City's Erling Haaland and Arsenal defender Erling Haaland goes global as Norway meet Brazil at the World Cup."
     }
   ]
 }
