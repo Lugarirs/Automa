@@ -1,175 +1,181 @@
 {
-  "scraped_at": "2026-07-07 10:42:25 UTC",
+  "scraped_at": "2026-07-08 10:03:14 UTC",
   "source": "BBC News RSS",
-  "total": 38,
+  "total": 37,
   "headlines": [
     {
-      "title": "Belgium say 'sense of injustice' spurred them on to knock US out of World Cup",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c4gyj50450go?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 07:07:29 GMT",
-      "description": "Belgium's Nicolas Raskin says Fifa's decision to allow US striker Folarin Balogun to play against them fired them up for the last-16 tie in Seattle."
+      "title": "Farage's rivals rule out standing in Clacton by-election",
+      "link": "https://www.bbc.co.uk/news/articles/cjdg4y3g0z7o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 09:31:50 GMT",
+      "description": "The Reform UK leader says he wants an \"establishment versus the people by-election\" but Labour calls it a \"circus\"."
     },
     {
-      "title": "One million more UK homeowners set  to face higher mortgages",
-      "link": "https://www.bbc.co.uk/news/articles/cze9kpxx6d8o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 10:30:27 GMT",
-      "description": "Homeowners face paying £45 a month more on average when they move onto a new deal over the next two years."
+      "title": "Amber heat health alerts in effect as UK set for one of longest-lasting heatwaves since 1976",
+      "link": "https://www.bbc.co.uk/weather/articles/cwy0jpez1nqo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Jul 2026 23:10:07 GMT",
+      "description": "Temperatures are set to rise as high as 36C (97F) for parts of southern England this week."
     },
     {
-      "title": "MI5 knew agent was misogynist 'obsessed' with violence, watchdog finds",
-      "link": "https://www.bbc.co.uk/news/articles/cj9gggjekyjo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 05:00:08 GMT",
-      "description": "A secret inquiry by the security service's watchdog concluded there were 'serious failings in MI5's management of Agent X’."
+      "title": "Virgin Media fined after hanging up on customers trying to cancel contracts",
+      "link": "https://www.bbc.co.uk/news/articles/c982vm2jzl1o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 08:38:24 GMT",
+      "description": "Millions of phone calls from customers were \"likely mishandled\" over nearly a three-year period, the regulator says."
     },
     {
-      "title": "Endometriosis diagnosis set to be sped up with two new tests carried out by GPs",
-      "link": "https://www.bbc.co.uk/news/articles/c4gyy8jdn3eo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 09:16:09 GMT",
-      "description": "Experts hope they will be a game-changer and cut the nine-year or longer diagnosis waits patients can currently face."
+      "title": "Tom Holland on how getting Odyssey role was 'a real pinch-me moment'",
+      "link": "https://www.bbc.co.uk/news/articles/c0ky1gxgxjro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 05:00:38 GMT",
+      "description": "The Spider-Man star and other cast members talk about the hotly anticipated Christopher Nolan movie."
     },
     {
-      "title": "Explosions injure 18 in Damascus during Macron's visit",
-      "link": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 10:12:27 GMT",
-      "description": "As reports of the blasts came in, state television said the Syrian president had welcomed Macron at the presidential palace."
+      "title": "Has Harry's war with the press finally run out of road?",
+      "link": "https://www.bbc.co.uk/news/articles/clyrq1kr6q5o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 07:49:57 GMT",
+      "description": "The Duke of Sussex and six others have lost their High Court privacy case against the publisher of the Daily Mail and Mail on Sunday."
     },
     {
-      "title": "The Odyssey stars wow red carpet at world premiere in London",
-      "link": "https://www.bbc.co.uk/news/videos/cj0g3rze2gqo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 08:00:06 GMT",
-      "description": "Anne Hathaway, Zendaya, Tom Holland and Matt Damon were among the stars who walked the carpet in London for the premiere of Christopher Nolan's adaptation of Homer's Ancient Greek epic."
+      "title": "How the leasehold revolution could transform neighbourly relations",
+      "link": "https://www.bbc.co.uk/news/articles/cp8llpp67l1o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Jul 2026 23:13:38 GMT",
+      "description": "The government wants to abolish leasehold, but replacing it could prove far more complicated"
     },
     {
-      "title": "Harry begins UK visit as verdict due in privacy case against Daily Mail publisher",
-      "link": "https://www.bbc.co.uk/news/articles/ce8mmm5v8j0o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 08:36:29 GMT",
-      "description": "The Duke of Sussex begins a week of charity engagements and will hear the outcome of his newspaper court battle."
+      "title": "International manhunt after mother and two children found dead at home",
+      "link": "https://www.bbc.co.uk/news/articles/c8e2njxnn7jo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 08:07:14 GMT",
+      "description": "Bedfordshire Police says it believes the suspect officers are looking for has left the country."
     },
     {
-      "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
-      "link": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 04:18:19 GMT",
-      "description": "The Ukrainian president will use the Nato meeting in Turkey to argue he needs more interceptor missiles."
+      "title": "Nato allies announce £37bn for new missile project",
+      "link": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 05:57:53 GMT",
+      "description": "Prime Minister Sir Keir Starmer will convene around a dozen leaders to discuss the programme in Ankara."
     },
     {
-      "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Jul 2026 23:55:53 GMT",
-      "description": "Former prisoners accuse the men of abuse in detention centres and want to see them brought to trial."
+      "title": "Extreme marine heatwave expected for parts of UK with risk to sea life, Met Office warns",
+      "link": "https://www.bbc.co.uk/news/articles/ckg888vpz4do?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Jul 2026 23:45:07 GMT",
+      "description": "Scientists fear that high sea temperatures could have wide-ranging consequences for marine life."
     },
     {
-      "title": "E-bike injury payouts top £110m and push up insurance premiums",
-      "link": "https://www.bbc.co.uk/news/articles/c05y9pe5p1jo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 09:57:27 GMT",
-      "description": "It is only seven years since the first claim over an injury from a micromobility vehicle was made."
+      "title": "'It is not normal' - but extraordinary Djokovic defies odds once again",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/cy8wev0p0wno?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Jul 2026 23:46:39 GMT",
+      "description": "It is worth remembering that what you are watching is not normal - but Novak Djokovic is anything but ordinary in another thrilling Wimbledon match."
     },
     {
-      "title": "Report into mother and baby homes to be published",
-      "link": "https://www.bbc.co.uk/news/articles/c1jyy29d1x6o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 07:57:20 GMT",
-      "description": "The report will contain a number of findings and recommendations, including on areas for an upcoming public inquiry to look into further."
+      "title": "More protein or less? The foods to get you through a heatwave",
+      "link": "https://www.bbc.co.uk/news/articles/clyw89g3443o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 09:05:56 GMT",
+      "description": "When turning on the oven is a no-no and you're bored of salads, these foods (and drinks) will help to beat the heat."
     },
     {
-      "title": "The US World Cup dream ends in shambolic fashion - did red card saga play a part?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c4gyxdeql5eo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 05:00:10 GMT",
-      "description": "Mauricio Pochettino says he feels \"disappointed with too many people\" who brought \"politics and manipulation\" into the game as the US exit World Cup."
+      "title": "Your tips from the last heatwave on how to cope in extreme temperatures",
+      "link": "https://www.bbc.co.uk/news/articles/cze9w9xnprno?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 05:35:17 GMT",
+      "description": "From what to wear to getting a restful night's sleep, you share your tips for beating the heat."
     },
     {
-      "title": "Watch: Belgium make light work of US to set up quarter-final tie with Spain",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cj0gg55613do?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 02:39:07 GMT",
-      "description": "Belgium ease past a defensively sloppy USA in a match shrouded in controversy surrounding Folarin Balogun's delayed suspension, a scandal that made little impact on the pitch."
+      "title": "Six ways to keep your home and yourself cool",
+      "link": "https://www.bbc.co.uk/news/articles/cz6gxe61p70o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 22 Jun 2026 11:13:44 GMT",
+      "description": "Six simple things you can do to help keep your house cool when temperatures rise."
     },
     {
-      "title": "Ronaldo's World Cup career ends in tears after his sixth and final attempt to lift trophy",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c3vyyq1kg5go?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Jul 2026 23:51:04 GMT",
-      "description": "BBC Sport looks at the end of Cristiano Ronaldo's World Cup career as he fails to win football's biggest prize."
+      "title": "What does hot weather do to the body?",
+      "link": "https://www.bbc.co.uk/news/articles/cy7n6m7y6yvo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 22 Jun 2026 13:48:18 GMT",
+      "description": "Hot weather during the summer can affect anyone, but some people run a greater risk of serious harm."
     },
     {
-      "title": "Fans react to US loss after red card drama",
-      "link": "https://www.bbc.co.uk/news/videos/cdxd791zzd4o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 05:08:06 GMT",
-      "description": "The BBC's Nada Tawfik spoke to US fans after the FIFA World Cup co-hosts were knocked out of the tournament."
+      "title": "From mouthwash to hair dye: How weight-loss jabs are changing shopping habits",
+      "link": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 09:31:56 GMT",
+      "description": "The BBC looks at how spending habits have shifted as users report feeling less hungry."
     },
     {
-      "title": "Watch: Spain into quarter-finals after Merino's late winner against Portugal",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cx2338eg1ndo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Jul 2026 21:46:32 GMT",
-      "description": "Spain leave it late as super-sub Mikel Merino scores a stoppage-time winner to send his side into the quarter-finals, ending Cristiano Ronaldo's hopes of World Cup glory."
+      "title": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
+      "link": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 03:22:46 GMT",
+      "description": "Within hours of a court of appeal confirming a guilty verdict, Marine Le Pen had already launched her presidential campaign."
     },
     {
-      "title": "'I wear it on my middle finger': The rise of the defiant divorce ring",
-      "link": "https://www.bbc.co.uk/news/articles/c3wy56v4ge6o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Jul 2026 23:30:40 GMT",
-      "description": "Around the world women are marking their split with new - or repurposed engagement - rings."
+      "title": "Fears of a massacre in this city on the front line of Sudan's war",
+      "link": "https://www.bbc.co.uk/news/articles/c20yyjdzw7po?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Jul 2026 23:32:04 GMT",
+      "description": "El-Obeid has been under \"siege-like conditions\" for 18 months says the UN human rights chief."
     },
     {
-      "title": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
-      "link": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 00:46:03 GMT",
-      "description": "Three days of public mourning in Tehran was a political spectacle Iran's leaders wanted the world to see, writes the BBC's international correspondent Lyse Doucet."
+      "title": "What must British wildcard Arthur Fery do to become Wimbledon semi-finalist?",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c20y4x4y714o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 05:41:31 GMT",
+      "description": "Arthur Fery is bidding to become the fifth British man to reach the Wimbledon semi-finals in the Open era - here is how he can beat Italian 10th seed Flavio Cobolli."
     },
     {
-      "title": "Meet Arthur Fery, the wildcard lifting the gloom around British players at Wimbledon",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/c3wyyj54p18o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Jul 2026 22:38:13 GMT",
-      "description": "Seven days ago, there was doom and gloom around British players' performances at this year's Wimbledon. Then Arthur Fery stepped forward."
+      "title": "Russian fuel shortages bite – but will Putin change tack in Ukraine war?",
+      "link": "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 05:05:31 GMT",
+      "description": "Even in Moscow, authorities are unable to guarantee fuel supplies, but will economic pressure lead to talks or escalation?"
     },
     {
-      "title": "Can China repeat its EV success with robotaxis?",
-      "link": "https://www.bbc.co.uk/news/articles/cvgl8dlxjd3o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Jul 2026 22:01:07 GMT",
-      "description": "China's self-driving car firms have been given a headstart by the country's EV supply chain as they expand globally."
+      "title": "Tears of relief? Messi adds another incredible chapter to World Cup career",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cz6v407y3qjo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Jul 2026 20:28:19 GMT",
+      "description": "Argentina great Lionel Messi sheds tears as they fight back to beat Egypt and reach the World Cup quarter-finals."
     },
     {
-      "title": "Why some African nations are turning down Trump aid money",
-      "link": "https://www.bbc.co.uk/news/articles/ckg0921y8kdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 00:49:08 GMT",
-      "description": "The Trump administration sees the aid as more transactional - but some say it is not a fair trade."
+      "title": "England players to be told not to jump hoardings",
+      "link": "https://www.bbc.co.uk/sport/football/articles/czx5qev7nqno?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Jul 2026 17:49:34 GMT",
+      "description": "England players will be advised not to jump over advertising hoardings after Jordan Henderson suffered a freak injury."
     },
     {
-      "title": "Erika Kirk comes face-to-face in court with husband's alleged killer",
-      "link": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 08:25:54 GMT",
-      "description": "Charlie Kirk's widow was joined by the late US activist's family - all of whom attended court for the first time in the case."
+      "title": "Watch: Gaza football fans watch World Cup from rubble",
+      "link": "https://www.bbc.co.uk/news/videos/c8r2nmm7xeeo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 07:26:49 GMT",
+      "description": "Hundreds of people cheered for Egypt, which shares a border with Gaza, in the match against Argentina."
     },
     {
-      "title": "Comparing student loans to phone contracts 'amounted to mis-selling', MPs say",
-      "link": "https://www.bbc.co.uk/news/articles/c4gy9lpylz9o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Jul 2026 23:08:51 GMT",
-      "description": "A new report says students were not well-enough informed that their loan terms could change retrospectively."
+      "title": "'Lifeless' three-year-old resuscitated by heroes after pond rescue",
+      "link": "https://www.bbc.co.uk/news/articles/c4gyx4g8z62o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 06:09:34 GMT",
+      "description": "Stefan Johnson jumped in to pull the boy out of the water before two nurses came to help."
     },
     {
-      "title": "Women hit fertility tipping point at 49 - even with young donor eggs",
-      "link": "https://www.bbc.co.uk/news/articles/ckg018w1r02o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Jul 2026 23:33:47 GMT",
-      "description": "Age-related changes in the womb lining may be the cause and could be treatable in the future, say experts."
+      "title": "Southport Inquiry to examine role of social media",
+      "link": "https://www.bbc.co.uk/news/articles/c23y52le1jeo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 07:24:44 GMT",
+      "description": "The hearings will investigate how the internet and social media influences violent individuals."
     },
     {
-      "title": "Watch: Moment rare tornado lashes central Chinese cities",
-      "link": "https://www.bbc.co.uk/news/videos/cq61d22ved2o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 07:27:05 GMT",
-      "description": "Videos shared with the BBC show debris flying through the air as the storm swept through Ezhou and Huanggang in Hubei province."
+      "title": "Dallas Cowboys player who died by suicide diagnosed with brain disease",
+      "link": "https://www.bbc.co.uk/news/articles/c5yz6kllg1jo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 06:59:03 GMT",
+      "description": "Marshawn Kneeland had early chronic traumatic encephalopathy, which is caused by head impacts and has been found in hundreds of former NFL players."
     },
     {
-      "title": "Banks accused of pushing customers away from basic accounts",
-      "link": "https://www.bbc.co.uk/news/articles/cgl33dyk7y9o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Jul 2026 23:29:34 GMT",
-      "description": "Some of the UK's biggest banks have been failing their most vulnerable customers, according to the financial regulator."
+      "title": "Trains and emergency calls affected after major outage at Australia's largest telecoms company",
+      "link": "https://www.bbc.co.uk/news/articles/cgevw0d95pdo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 07:53:37 GMT",
+      "description": "Servers at data centres in Sydney and Melbourne were to blame but the exact cause remains unknown."
     },
     {
-      "title": "Runner becomes fastest woman to complete the three peaks challenge on foot",
-      "link": "https://www.bbc.co.uk/news/articles/cddlllyp58qo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 05:14:21 GMT",
-      "description": "Trish Patterson, 41, from Hythe is the fastest woman to complete the three peaks on foot."
+      "title": "Smuggler accepts most of his drugs mules 'will get caught'",
+      "link": "https://www.bbc.co.uk/news/articles/c982g5322q6o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 05:12:21 GMT",
+      "description": "A smuggler taunts the government even though the UK Border Force is seizing record amounts of cannabis."
     },
     {
-      "title": "Amazon bars breastfeeding boss from business course",
-      "link": "https://www.bbc.co.uk/news/articles/cp9llgg5k8ro?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Jul 2026 23:31:21 GMT",
-      "description": "Rachael Bews says she told on the way her child would not be allowed on site. Amazon has apologised for not communicating its policy clearly."
+      "title": "The places where it's cheaper to holiday this summer",
+      "link": "https://www.bbc.co.uk/news/articles/c17y81vnje5o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 09:43:36 GMT",
+      "description": "Family deals to many non-European destinations are cheaper this summer than last, as travel nerves have slowed bookings."
+    },
+    {
+      "title": "Search under way after Boeing 737 plane vanishes off Pakistan coast",
+      "link": "https://www.bbc.co.uk/news/articles/cn4dn1d55njo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 01:11:50 GMT",
+      "description": "The plane, carrying five people, rapidly descended before losing contact, authorities say."
     },
     {
       "title": "BBC News app",
@@ -178,10 +184,10 @@
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests"
     },
     {
-      "title": "Is Trump interfering in the World Cup?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0nx5djc?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Jul 2026 17:48:00 GMT",
-      "description": "Trump spoke to Fifa president about controversial red card for USA player."
+      "title": "Nigel Farage Resigns As MP",
+      "link": "https://www.bbc.co.uk/sounds/play/p0nx5dtz?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Jul 2026 19:05:00 GMT",
+      "description": "Nigel Farage resigns as MP but says he’ll fight the by-election."
     },
     {
       "title": "After 250 years, do US citizens still believe in the American Dream?",
@@ -190,46 +196,34 @@
       "description": "Historian Heather Cox Richardson on what history tells us about modern America"
     },
     {
-      "title": "A shambolic end for the American dream - did Balogun saga play a part?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c4gyxdeql5eo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 05:00:10 GMT",
-      "description": "Mauricio Pochettino says he feels \"disappointed with too many people\" who brought \"politics and manipulation\" into the game as the US exit World Cup."
+      "title": "Egypt fume at 'injustice' and make Messi favouritism claims after exit",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5yzd23jll5o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 07 Jul 2026 21:33:21 GMT",
+      "description": "BBC Sport unpicks a game that will go down in World Cup history for featuring a team who were two goals down so late on, but who went on to win without needing extra time."
     },
     {
-      "title": "'Overturn this' - Belgium taunt US and say Trump move fired them up",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c4gyj50450go?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 07:07:29 GMT",
-      "description": "Belgium's Nicolas Raskin says Fifa's decision to allow US striker Folarin Balogun to play against them fired them up for the last-16 tie in Seattle."
+      "title": "'Your boys took a hell of a beating' - England and Norway's football rivalry",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cz9l74k031do?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 09:22:41 GMT",
+      "description": "England's meeting with Norway in the World Cup quarter-final revives memories a commentary more famous than their rivalry."
     },
     {
-      "title": "Messi v Salah: A World Cup meeting of two national icons",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvg55yl9xj4o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 09:58:33 GMT",
-      "description": "Mohamed Salah and Lionel Messi will meet in the last 16 of the World Cup on Tuesday with their nations' hopes resting firmly on their shoulders."
+      "title": "How GB's Fery can beat Cobolli to reach Wimbledon semi-finals",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c20y4x4y714o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 05:41:31 GMT",
+      "description": "Arthur Fery is bidding to become the fifth British man to reach the Wimbledon semi-finals in the Open era - here is how he can beat Italian 10th seed Flavio Cobolli."
     },
     {
-      "title": "'Learn how to lose' - tempers flare in Wimbledon mixed doubles",
-      "link": "https://www.bbc.co.uk/sport/tennis/videos/c4gyy151xzyo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Jul 2026 22:15:33 GMT",
-      "description": "Jelena Ostapenko and Marcelo Arevalo advance to the Wimbledon mixed doubles semi-finals in straight sets, but the victory is marred by a fiery post-match argument."
+      "title": "Dallas Cowboys player who died by suicide diagnosed with brain disease",
+      "link": "https://www.bbc.co.uk/news/articles/c5yz6kllg1jo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 06:59:03 GMT",
+      "description": "Marshawn Kneeland had early chronic traumatic encephalopathy, which is caused by head impacts and has been found in hundreds of former NFL players."
     },
     {
-      "title": "Ronaldo's World Cup career ends in tears as 'pandering' Martinez departs",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c3vyyq1kg5go?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Jul 2026 23:51:04 GMT",
-      "description": "BBC Sport looks at the end of Cristiano Ronaldo's World Cup career as he fails to win football's biggest prize."
-    },
-    {
-      "title": "Giantkiller Fery stands tall to make history at Wimbledon for Britain",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/c3wyyj54p18o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Jul 2026 22:38:13 GMT",
-      "description": "Seven days ago, there was doom and gloom around British players' performances at this year's Wimbledon. Then Arthur Fery stepped forward."
-    },
-    {
-      "title": "The man who invented a sport and played tennis with Willy Wonka",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/c1e2nlj58zxo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 07 Jul 2026 06:39:44 GMT",
-      "description": "Brad Parks came up with the idea for a new sport while on a family picnic 50 years ago."
+      "title": "Why Newcastle target Manzambi is in demand",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwyllrxveklo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 08 Jul 2026 09:03:10 GMT",
+      "description": "Johan Manzambi has been one of the World Cup's breakout stars, so can Newcastle United win the race to sign the Freiburg midfielder?"
     }
   ]
 }
