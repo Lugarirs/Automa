@@ -1,157 +1,163 @@
 {
-  "scraped_at": "2026-07-13 10:46:28 UTC",
+  "scraped_at": "2026-07-14 09:42:04 UTC",
   "source": "BBC News RSS",
-  "total": 33,
+  "total": 34,
   "headlines": [
     {
-      "title": "Suspect in Ann Widdecombe murder seen on CCTV getting into car with object",
+      "title": "Ann Widdecombe suspect not known to Prevent as counter terrorism police take over investigation",
       "link": "https://www.bbc.co.uk/news/articles/c0mydjl12mwo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 10:29:22 GMT",
-      "description": "The man, dressed in a white shirt and shorts, can be seen getting into a red car outside a house in Rotherham in the footage."
+      "published": "Mon, 13 Jul 2026 21:26:28 GMT",
+      "description": "Home Secretary Shabana Mahmood confirmed the suspect was not known to the government's anti-terrorism programme in an update to MPs."
     },
     {
-      "title": "More than 2,700 people may have died in exceptional May and June heatwaves in England and Wales",
-      "link": "https://www.bbc.co.uk/news/articles/czx5zy82n7no?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 08:57:15 GMT",
-      "description": "Most deaths will have occurred in the June heatwave, experts say, when a rare red heat alert was issued."
+      "title": "Mason: Widdecombe's death renews debate over protection of politicians",
+      "link": "https://www.bbc.co.uk/news/articles/cvgdgx01y98o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 05:10:25 GMT",
+      "description": "Many MPs blame social media for normalising violent language and abuse, the BBC's political editor writes."
     },
     {
-      "title": "Heatwave to intensify in second week as wildfires burn across UK",
-      "link": "https://www.bbc.co.uk/weather/articles/c0jyx16ww8jo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 10:04:04 GMT",
-      "description": "After a brief drop in temperature many areas will see heat and humidity build again this week"
+      "title": "No significant rain forecast for at least a week as UK heatwave continues",
+      "link": "https://www.bbc.co.uk/weather/articles/cvge2zq0zg3o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 13 Jul 2026 23:02:25 GMT",
+      "description": "Heat has been this big story of the summer so far but there has also been a lack of wet weather, as Ben Rich explains."
     },
     {
-      "title": "UK seeking extradition of man suspected of killing wife and two daughters",
-      "link": "https://www.bbc.co.uk/news/articles/cy8w61qz873o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 09:42:57 GMT",
-      "description": "Ndodana Mkhanyisi Tshuma is in court after being arrested in Johannesburg."
+      "title": "The mysterious crypto firm backed by Farage's biggest donor",
+      "link": "https://www.bbc.co.uk/news/articles/cg4w6wqye32o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 13 Jul 2026 23:00:59 GMT",
+      "description": "Tether is a giant in crytocurrency, an industry that Nigel Farage believes the UK should be embracing."
     },
     {
-      "title": "Witness says he crawled for exit as flames swept through Bangkok bar",
-      "link": "https://www.bbc.co.uk/news/articles/crr8gnx01d7o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 10:02:43 GMT",
-      "description": "A musician who was performing when the fire broke out says he crawled for the exit - and was thrown from the bar when something exploded."
+      "title": "Who will win the World Cup? The view from the semi-finalists' countries",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cjrgew3wv4xo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 05:43:53 GMT",
+      "description": "BBC Sport speaks to journalists and fans from the World Cup's four semi-finalists to see who they think will win the tournament."
     },
     {
-      "title": "New era for Gibraltar with removal of 118-year-old border controls with Spain",
-      "link": "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 12 Jul 2026 23:29:06 GMT",
-      "description": "It is hoped that free movement between the UK territory and Spain will provide an economic boost."
+      "title": "Australian police reveal unseen photos 25 years after British backpacker murder",
+      "link": "https://www.bbc.co.uk/news/articles/crlwln0gkzlo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 02:26:45 GMT",
+      "description": "Police hope the images could jog memories that will help them find the body of Peter Falconio."
     },
     {
-      "title": "Home secretary to set out plan to deport Rochdale grooming gang leader",
-      "link": "https://www.bbc.co.uk/news/articles/ce8m9615dqlo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 08:44:27 GMT",
-      "description": "Calls have grown to deport Rochdale grooming gang ringleader Shabir Ahmed after his release from prison."
+      "title": "YouTube still recommending eating disorder videos to teens, research finds",
+      "link": "https://www.bbc.co.uk/news/articles/c5yzn2g0xw9o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 13 Jul 2026 23:05:00 GMT",
+      "description": "The site is continuing to recommend harmful videos despite new rules meant to better protect teenagers in the UK, a study finds."
     },
     {
-      "title": "UK begins trials of Ebola vaccine developed in just eight weeks",
-      "link": "https://www.bbc.co.uk/news/articles/cpwep8xnkrqo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 08:00:16 GMT",
-      "description": "The UK medicines regulator has given approval for an experimental vaccine to be tested on healthy adults."
+      "title": "Train crash driver died from traumatic injuries",
+      "link": "https://www.bbc.co.uk/news/articles/c9323k52n67o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 09:36:08 GMT",
+      "description": "An inquest hears Shaun Burton died in the collision in which 102 people needed hospital treatment."
     },
     {
-      "title": "Arthur Fery invites Prince George and Princess Charlotte to play tennis",
-      "link": "https://www.bbc.co.uk/news/articles/ckg7mxj41lro?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 12 Jul 2026 20:20:38 GMT",
-      "description": "The Princess of Wales congratulated Arthur Fery on his run to the semi-finals and wished him a happy birthday."
+      "title": "Free school meal pupils falling further behind their peers, report warns",
+      "link": "https://www.bbc.co.uk/news/articles/cr7xgx831exo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 07:03:28 GMT",
+      "description": "The Education Policy Institute says the new prime minister should target the issue with \"laser-like focus\"."
     },
     {
-      "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
-      "link": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 10:29:17 GMT",
-      "description": "It was the first time firefighting planes had been sent up from the normally drier and hotter south of the country to tackle fires in the Paris region."
+      "title": "Dad who died helping two children in sea named",
+      "link": "https://www.bbc.co.uk/news/articles/c8626jpp0ewo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 09:27:05 GMT",
+      "description": "A dad who died helping two children swimming at Seaton Carew beach is named locally as Wayne Taylor."
     },
     {
-      "title": "These are unprecedented times - England should enjoy them",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c932rqverkvo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 05:25:22 GMT",
-      "description": "A record of four semi-finals in the past five international tournaments for England is outstanding. It is time to accept that this is where England belong."
+      "title": "Lindsey Graham's sister, who he adopted as a child, to replace him as senator",
+      "link": "https://www.bbc.co.uk/news/articles/c05y3rlvp20o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 13 Jul 2026 21:37:02 GMT",
+      "description": "The South Carolina governor chose the senator's little sister to serve out the rest of his term after Graham's death on Saturday."
     },
     {
-      "title": "BBC experts pick their England World Cup semi-final XI - do you agree?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cz75x4jgddpo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 09:05:27 GMT",
-      "description": "England are through to the World Cup semi-finals, but who would you pick in your starting XI?"
+      "title": "England to make late call on Rice for semi-final",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ce8m996g9g1o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 13 Jul 2026 21:30:05 GMT",
+      "description": "England will make a late decision on whether Declan Rice is fit to start Wednesday's World Cup semi-final against Argentina."
     },
     {
-      "title": "Infantino opens door to 64-team World Cup",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cj9gm31jwg8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 12 Jul 2026 19:18:56 GMT",
-      "description": "Plans for a 64-team men's world cup are set to be picked up and assessed in detail after the 2026 tournament with Fifa boss Gianni Infantino saying football needs to be \"for the whole world\"."
+      "title": "Time for Lamine Yamal to ignite? Or another Mbappe masterclass?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/clywep30z7jo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 05:13:23 GMT",
+      "description": "France face Spain for a place in the World Cup final on Tuesday, meaning a showdown between Kylian Mbappe and Lamine Yamal. Who comes out on top?"
     },
     {
-      "title": "Hollywood blockbusters and arthouse films: Sam Neill's best-known roles in pictures",
-      "link": "https://www.bbc.co.uk/news/articles/c8r271zx43mo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 09:19:44 GMT",
-      "description": "The beloved actor's career ranged from box office blockbusters to thrillers and award-winning dramas."
+      "title": "Increased security for England and Argentina tie",
+      "link": "https://www.bbc.co.uk/sport/football/articles/clyey5glv4ko?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 07:14:16 GMT",
+      "description": "Authorities say there will be increased security measures in place for Wednesday's World Cup semi-final between England and Argentina in Atlanta."
     },
     {
-      "title": "How to get a better deal on banking, energy and internet",
-      "link": "https://www.bbc.co.uk/news/articles/cd7w98n2y3eo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 12 Jul 2026 23:28:01 GMT",
-      "description": "Changing your broadband or energy supplier, or even your bank, for a better deal is simpler than it used to be."
+      "title": "How my period is supercharging my ADHD",
+      "link": "https://www.bbc.co.uk/news/articles/czj8zp9e084o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 13 Jul 2026 23:00:58 GMT",
+      "description": "A first-of-its-kind study by UK researchers is looking at the link between menstrual cycles and ADHD."
     },
     {
-      "title": "Burnham set for No 10: BBC correspondents on what Trump, Putin and others will make of him",
-      "link": "https://www.bbc.co.uk/news/articles/cn8qzlvlz81o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 12 Jul 2026 23:49:28 GMT",
-      "description": "In the US, China, Europe, Russia and elsewhere, how is the UK's expected new prime minister regarded?"
+      "title": "How to navigate the awkward year-end teacher 'thank you' collection",
+      "link": "https://www.bbc.co.uk/news/articles/ckg8x4vk04vo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 13 Jul 2026 23:02:11 GMT",
+      "description": "Collecting money for a joint present might overcome the competitive gift-giving, but it can still cause friction."
     },
     {
-      "title": "Starting uni? What to know about the free NHS meningitis B jab in England",
-      "link": "https://www.bbc.co.uk/news/articles/cvgmyggpg42o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 00:11:11 GMT",
-      "description": "It follows the UK's largest and fastest growing meningitis B outbreak to date in Kent earlier this year."
+      "title": "Andy Serkis defends lack of diversity in Lord of the Rings cast",
+      "link": "https://www.bbc.co.uk/news/articles/c07y400jlngo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 13 Jul 2026 23:03:02 GMT",
+      "description": "Kate Winslet, Jamie Dornan and Anya Taylor-Joy are among the stars who have been cast so far."
     },
     {
-      "title": "Has SpaceX lost momentum one month after its stock market debut made history?",
-      "link": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 07:19:57 GMT",
-      "description": "A month on from the firm's stock market debut, the reality of how SpaceX currently makes money has seemed to come into clearer focus."
+      "title": "I hunted the men who secretly film their wives and share footage online",
+      "link": "https://www.bbc.co.uk/news/articles/c621kprnd3jo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 05:08:57 GMT",
+      "description": "What disturbed Jess the most was men sharing footage of wives, girlfriends and loved ones."
     },
     {
-      "title": "From shock loss to Wimbledon title - resilient Sinner rises back to top",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/cx2v84zje83o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 12 Jul 2026 22:52:17 GMT",
-      "description": "For a brief moment after his shock French Open loss, Jannik Sinner appeared vulnerable. He answered the critics by storming to a second Wimbledon title."
+      "title": "Hours each day in an iron lung kept her breathing, her will to live kept her alive",
+      "link": "https://www.bbc.co.uk/news/articles/cwyk4z3e2xlo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 02:20:14 GMT",
+      "description": "The sister of the last known polio patient in the US to use the life-saving machine spoke to the BBC about her sister's life."
     },
     {
-      "title": "The Chinese graduate accused of being Mexico's 'fentanyl king'",
-      "link": "https://www.bbc.co.uk/news/articles/c39ymggglxeo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 00:05:46 GMT",
-      "description": "Cartel members and ex-colleagues describe how Zhang Zhidong allegedly linked Chinese chemicals to Mexican drug labs."
+      "title": "Colombian national killed by ICE agent during operation in Maine",
+      "link": "https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 01:50:48 GMT",
+      "description": "It comes less than a week after an undocumented migrant was fatally shot in Houston by an immigration agent."
     },
     {
-      "title": "Wildfire expected to spread due to heatwave as 36 homes evacuated",
-      "link": "https://www.bbc.co.uk/news/articles/cvg7280qwxpo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 10:26:13 GMT",
-      "description": "The blaze broke out near Conwy Mountain and the Sychnant Pass in Conwy county on Sunday."
+      "title": "US judge voids Donald Trump's $1.8bn settlement with IRS that gave him immunity from tax audits",
+      "link": "https://www.bbc.co.uk/news/articles/cn8q0e8d4ego?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 13 Jul 2026 18:52:46 GMT",
+      "description": "The judge said the suit was brought for 'improper purposes' and referred a Trump attorney for possible disciplinary action."
     },
     {
-      "title": "Amber Davies calls out audience member for filming Legally Blonde performance",
-      "link": "https://www.bbc.co.uk/news/articles/c14y35erdg2o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 09:29:35 GMT",
-      "description": "The ex-Love Islander says she asked for the theatregoer, who was sitting in the front row, to be kicked out."
+      "title": "Burnham cements Labour leadership with backing of 349 MPs",
+      "link": "https://www.bbc.co.uk/news/articles/c05y3rj09qqo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 13 Jul 2026 21:11:08 GMT",
+      "description": "The MP for Makerfield is on track to become the prime minister next week after receiving the support of the vast majority of Labour MPs."
     },
     {
-      "title": "I passed my Grade 8 piano exam with one hand",
-      "link": "https://www.bbc.co.uk/news/articles/c5yznq14zxlo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 05:16:17 GMT",
-      "description": "Freya Terris' achievement has inspired music exam board ABRSM to publish a new syllabus for one hand."
+      "title": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
+      "link": "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 05:00:03 GMT",
+      "description": "Simon Andriesz made the discovery about Howard Lutnick in publicly released Epstein files."
     },
     {
-      "title": "British couple return to village at heart of deadly Spanish wildfire",
-      "link": "https://www.bbc.co.uk/news/articles/cx24e09x79no?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 00:29:21 GMT",
-      "description": "At least 13 people, including five believed to be Britons, were killed by Thursday's wildfire in Spain's Almeria province."
+      "title": "Bangkok fire investigation finds locked doors and flammable decor as deaths climb to 30",
+      "link": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 03:47:41 GMT",
+      "description": "Survivors and first responders reported locked doors and a lack of signage marking emergency exits."
     },
     {
-      "title": "Heavy rains and flash floods in Bangladesh leave 51 dead",
-      "link": "https://www.bbc.co.uk/news/articles/ce8k7e75k7go?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 06:19:49 GMT",
-      "description": "Thousands have lost their homes as flash floods and landslides have hit large parts of the country."
+      "title": "Identity of Sydney daycare worker facing 329 child abuse offences revealed",
+      "link": "https://www.bbc.co.uk/news/articles/c5yzy0lpello?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 01:43:57 GMT",
+      "description": "Hamish Tait is accused of abusing 136 children at five childcare facilities over a 16-year period."
+    },
+    {
+      "title": "Gang feud ended with 'resolution of differences' between rivals - police",
+      "link": "https://www.bbc.co.uk/news/articles/c20yqvrn0qvo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 05:19:06 GMT",
+      "description": "Chief Constable Jo Farrell noted the feud - which spanned six months and involved 84 separate incidents - had ended for multiple reasons including dozens of arrests."
     },
     {
       "title": "BBC News app",
@@ -160,46 +166,46 @@
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests"
     },
     {
-      "title": "Does Andy Burnham Have A New Plan For Tax?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0nx5fzl?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 12 Jul 2026 14:13:00 GMT",
-      "description": "And what will his premiership mean for your payslip?"
+      "title": "Counter Terrorism Police Investigating Ann Widdecombe Death",
+      "link": "https://www.bbc.co.uk/sounds/play/p0nyjv74?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 13 Jul 2026 15:24:00 GMT",
+      "description": "Counter terrorism police takeover the investigation into Ann Widdecombe’s death."
     },
     {
-      "title": "The battle for Charlie Kirk’s legacy",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8lzb?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 10 Jul 2026 06:00:00 GMT",
-      "description": "Will young people still vote Republican after Kirk’s death?"
+      "title": "Americanswers… on 5 Live! Mitch McConnell breaks his silence, will it stop the conspiracy theories?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0nyl496?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 13 Jul 2026 18:13:00 GMT",
+      "description": "A photo of the US senator has gone viral after he hadn’t been seen for weeks"
     },
     {
-      "title": "BBC experts pick their England World Cup semi-final XI - do you agree?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cz75x4jgddpo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 09:05:27 GMT",
-      "description": "England are through to the World Cup semi-finals, but who would you pick in your starting XI?"
+      "title": "Who will win the World Cup? The view from the semi-finalists",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cjrgew3wv4xo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 05:43:53 GMT",
+      "description": "BBC Sport speaks to journalists and fans from the World Cup's four semi-finalists to see who they think will win the tournament."
     },
     {
-      "title": "Ted Lasso actor Fernandez makes professional debut",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckg7me5kdk1o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 09:43:13 GMT",
-      "description": "Ted Lasso actor Cristo Fernandez makes his professional football debut for American second-tier side El Paso Locomotive."
+      "title": "Increased security for England v Argentina tie in Atlanta",
+      "link": "https://www.bbc.co.uk/sport/football/articles/clyey5glv4ko?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 07:14:16 GMT",
+      "description": "Authorities say there will be increased security measures in place for Wednesday's World Cup semi-final between England and Argentina in Atlanta."
     },
     {
-      "title": "These are unprecedented times - England should enjoy them",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c932rqverkvo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 05:25:22 GMT",
-      "description": "A record of four semi-finals in the past five international tournaments for England is outstanding. It is time to accept that this is where England belong."
+      "title": "Could it work if Verstappen wanted to go to McLaren? F1 Q&A",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c872v408y2xo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 09:01:47 GMT",
+      "description": "BBC Sport F1 correspondent Andrew Benson answers your latest questions before the Belgian Grand Prix at Spa-Francorchamps."
     },
     {
-      "title": "'Out of this world!' - Best shots of Wimbledon 2026",
-      "link": "https://www.bbc.co.uk/sport/tennis/videos/cx2k9v4957no?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 05:27:44 GMT",
-      "description": "Enjoy the best shots of Wimbledon 2026, featuring Great Britain's Arthur Fery, Novak Djokovic, Coco Gauff and more."
+      "title": "Why it's time for The Open to crown an English winner",
+      "link": "https://www.bbc.co.uk/sport/golf/articles/cpd3wwxp94vo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 08:00:05 GMT",
+      "description": "It is nearly 60 years since Tony Jacklin became the last Englishman to win The Open on English soil but there's every chance that drought may be broken this week, writes Iain Carter."
     },
     {
-      "title": "Borrowed shoes, no Golden Boot - the story of the World Cup's greatest scorer",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c621xndyd7no?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 06:57:04 GMT",
-      "description": "Just Fontaine's record of 13 goals in a single World Cup has stood for decades, but he never played in the tournament again after injury ended his career at the age of 28."
+      "title": "Timing took me to Chelsea rather than Liverpool - Alonso",
+      "link": "https://www.bbc.co.uk/sport/football/articles/czj8rzxrp88o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 13 Jul 2026 19:00:16 GMT",
+      "description": "Chelsea manager Xabi Alonso says his arrival at Stamford Bridge instead of Liverpool was \"about timings\"."
     }
   ]
 }
