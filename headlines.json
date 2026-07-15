@@ -1,163 +1,169 @@
 {
-  "scraped_at": "2026-07-14 09:42:04 UTC",
+  "scraped_at": "2026-07-15 09:45:56 UTC",
   "source": "BBC News RSS",
-  "total": 34,
+  "total": 37,
   "headlines": [
     {
-      "title": "Ann Widdecombe suspect not known to Prevent as counter terrorism police take over investigation",
-      "link": "https://www.bbc.co.uk/news/articles/c0mydjl12mwo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 21:26:28 GMT",
-      "description": "Home Secretary Shabana Mahmood confirmed the suspect was not known to the government's anti-terrorism programme in an update to MPs."
+      "title": "Midnight social media curfew proposed for UK teens aged 16 and 17 - but they can opt out",
+      "link": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Jul 2026 09:42:07 GMT",
+      "description": "The government also wants 'addictive' app features such as auto-play and infinite scroll to be set to be disabled."
     },
     {
-      "title": "Mason: Widdecombe's death renews debate over protection of politicians",
-      "link": "https://www.bbc.co.uk/news/articles/cvgdgx01y98o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 14 Jul 2026 05:10:25 GMT",
-      "description": "Many MPs blame social media for normalising violent language and abuse, the BBC's political editor writes."
+      "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
+      "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Jul 2026 09:06:52 GMT",
+      "description": "Trump's comments aired as the two countries exchanged fire for the fourth day in a row and the US resumed blockading Iranian ports."
     },
     {
-      "title": "No significant rain forecast for at least a week as UK heatwave continues",
-      "link": "https://www.bbc.co.uk/weather/articles/cvge2zq0zg3o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 23:02:25 GMT",
-      "description": "Heat has been this big story of the summer so far but there has also been a lack of wet weather, as Ben Rich explains."
+      "title": "I still feel pain of '98 but this can be different for England, says Shearer",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6212j5zw3ko?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Jul 2026 05:02:28 GMT",
+      "description": "England's defeat by Argentina at the 1998 World Cup still burns deep for Alan Shearer, but he explains why this team can take their chance to change their lives forever."
     },
     {
-      "title": "The mysterious crypto firm backed by Farage's biggest donor",
-      "link": "https://www.bbc.co.uk/news/articles/cg4w6wqye32o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 23:00:59 GMT",
-      "description": "Tether is a giant in crytocurrency, an industry that Nigel Farage believes the UK should be embracing."
+      "title": "Review of MP security needed after Widdecombe death, Burnham says",
+      "link": "https://www.bbc.co.uk/news/articles/c8e2eyg2p40o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Jul 2026 07:50:59 GMT",
+      "description": "The expected next prime minister says politics has \"darkened\" in the decade he has been away from Westminster."
     },
     {
-      "title": "Who will win the World Cup? The view from the semi-finalists' countries",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cjrgew3wv4xo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 14 Jul 2026 05:43:53 GMT",
-      "description": "BBC Sport speaks to journalists and fans from the World Cup's four semi-finalists to see who they think will win the tournament."
+      "title": "Briton's Iran jail sentence extended by two years, family says",
+      "link": "https://www.bbc.co.uk/news/articles/c4gygp4pk31o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Jul 2026 08:33:27 GMT",
+      "description": "Relatives of Craig Foreman say his punishment is being extended for talking to the media from jail."
     },
     {
-      "title": "Australian police reveal unseen photos 25 years after British backpacker murder",
-      "link": "https://www.bbc.co.uk/news/articles/crlwln0gkzlo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 14 Jul 2026 02:26:45 GMT",
-      "description": "Police hope the images could jog memories that will help them find the body of Peter Falconio."
+      "title": "After record heat, could the Atlantic make Britain's weather even more extreme?",
+      "link": "https://www.bbc.co.uk/news/articles/c992e8g10nmo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 23:08:13 GMT",
+      "description": "As temperatures rise, scientists are investigating whether a changing Atlantic could bring more volatile weather to the UK"
     },
     {
-      "title": "YouTube still recommending eating disorder videos to teens, research finds",
-      "link": "https://www.bbc.co.uk/news/articles/c5yzn2g0xw9o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 23:05:00 GMT",
-      "description": "The site is continuing to recommend harmful videos despite new rules meant to better protect teenagers in the UK, a study finds."
+      "title": "UK heatwave delivers exceptional sunshine and persistent 30C temperatures",
+      "link": "https://www.bbc.co.uk/weather/articles/cr474wzyl73o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Jul 2026 08:06:00 GMT",
+      "description": "The current heatwave has been hot, dry and exceptionally sunny with some locations seeing double the number of sunshine hours usually recorded at this point in the month, as Darren Bett explains."
     },
     {
-      "title": "Train crash driver died from traumatic injuries",
-      "link": "https://www.bbc.co.uk/news/articles/c9323k52n67o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 14 Jul 2026 09:36:08 GMT",
-      "description": "An inquest hears Shaun Burton died in the collision in which 102 people needed hospital treatment."
+      "title": "How will Buy Now Pay Later changes affect you?",
+      "link": "https://www.bbc.co.uk/news/articles/c9q283r9px3o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Jul 2026 08:43:15 GMT",
+      "description": "Consumers should be better protected as Buy Now Pay Later lenders now require authorisation to operate."
     },
     {
-      "title": "Free school meal pupils falling further behind their peers, report warns",
-      "link": "https://www.bbc.co.uk/news/articles/cr7xgx831exo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 14 Jul 2026 07:03:28 GMT",
-      "description": "The Education Policy Institute says the new prime minister should target the issue with \"laser-like focus\"."
+      "title": "Seven Britons among those killed in Spain wildfires",
+      "link": "https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Jul 2026 01:03:07 GMT",
+      "description": "Twelve of the 13 victims were foreign nationals, Spanish authorities said on Tuesday."
     },
     {
-      "title": "Dad who died helping two children in sea named",
-      "link": "https://www.bbc.co.uk/news/articles/c8626jpp0ewo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 14 Jul 2026 09:27:05 GMT",
-      "description": "A dad who died helping two children swimming at Seaton Carew beach is named locally as Wayne Taylor."
+      "title": "Police say Ann Widdecombe killed in 'targeted attack' as motive investigated",
+      "link": "https://www.bbc.co.uk/news/articles/c0ryr74zjzvo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 18:07:08 GMT",
+      "description": "Counter terror police say they have obtained a warrant to hold a 28-year-old suspect for up to seven days."
     },
     {
-      "title": "Lindsey Graham's sister, who he adopted as a child, to replace him as senator",
-      "link": "https://www.bbc.co.uk/news/articles/c05y3rlvp20o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 21:37:02 GMT",
-      "description": "The South Carolina governor chose the senator's little sister to serve out the rest of his term after Graham's death on Saturday."
+      "title": "England's biggest match since 1966 as Three Lions close in on immortality",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c20y0zzdx9go?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Jul 2026 05:02:16 GMT",
+      "description": "England face Argentina in the World Cup semi-finals on Wednesday - and BBC Sport's Phil McNulty explains why it is the Three Lions' biggest match since 1966."
     },
     {
-      "title": "England to make late call on Rice for semi-final",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ce8m996g9g1o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 21:30:05 GMT",
-      "description": "England will make a late decision on whether Declan Rice is fit to start Wednesday's World Cup semi-final against Argentina."
+      "title": "A special team beats brilliant individuals - how silky Spain flattened France",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cpv3v0gkw9vo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Jul 2026 00:28:35 GMT",
+      "description": "Spain have rather flown under the radar at the 2026 World Cup - but will they go all the way and win it?"
     },
     {
-      "title": "Time for Lamine Yamal to ignite? Or another Mbappe masterclass?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/clywep30z7jo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 14 Jul 2026 05:13:23 GMT",
-      "description": "France face Spain for a place in the World Cup final on Tuesday, meaning a showdown between Kylian Mbappe and Lamine Yamal. Who comes out on top?"
+      "title": "Mates, mate and freedom - how Argentina got the best out of Messi",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx2j24y9jzyo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Jul 2026 05:02:40 GMT",
+      "description": "Guillem Balague examines how the Argentina squad is built around Lionel Messi as they prepare to play against England in the World Cup semi-finals."
     },
     {
-      "title": "Increased security for England and Argentina tie",
-      "link": "https://www.bbc.co.uk/sport/football/articles/clyey5glv4ko?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 14 Jul 2026 07:14:16 GMT",
-      "description": "Authorities say there will be increased security measures in place for Wednesday's World Cup semi-final between England and Argentina in Atlanta."
+      "title": "I changed jobs 10 times in 10 years to get the career I wanted",
+      "link": "https://www.bbc.co.uk/news/articles/ce8kxgpe3kdo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 23:04:15 GMT",
+      "description": "The lily-padding trend sees young people repeatedly move jobs to try to advance in the workplace."
     },
     {
-      "title": "How my period is supercharging my ADHD",
-      "link": "https://www.bbc.co.uk/news/articles/czj8zp9e084o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 23:00:58 GMT",
-      "description": "A first-of-its-kind study by UK researchers is looking at the link between menstrual cycles and ADHD."
+      "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 23:17:27 GMT",
+      "description": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months."
     },
     {
-      "title": "How to navigate the awkward year-end teacher 'thank you' collection",
-      "link": "https://www.bbc.co.uk/news/articles/ckg8x4vk04vo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 23:02:11 GMT",
-      "description": "Collecting money for a joint present might overcome the competitive gift-giving, but it can still cause friction."
+      "title": "Hosepipe ban in force for millions of households - is your area affected?",
+      "link": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Jul 2026 05:08:23 GMT",
+      "description": "More than eight million households have been placed under hosepipe bans - which has raised questions about how effectively water resources are being managed."
     },
     {
-      "title": "Andy Serkis defends lack of diversity in Lord of the Rings cast",
-      "link": "https://www.bbc.co.uk/news/articles/c07y400jlngo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 23:03:02 GMT",
-      "description": "Kate Winslet, Jamie Dornan and Anya Taylor-Joy are among the stars who have been cast so far."
+      "title": "Xbox workers stunned after jobs 'bloodbath'",
+      "link": "https://www.bbc.co.uk/news/articles/c932eynvq1do?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Jul 2026 00:09:04 GMT",
+      "description": "The video game giant owned by Microsoft plans to let 3,200 workers go. Will it be a big reset or a system crash?"
     },
     {
-      "title": "I hunted the men who secretly film their wives and share footage online",
-      "link": "https://www.bbc.co.uk/news/articles/c621kprnd3jo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 14 Jul 2026 05:08:57 GMT",
-      "description": "What disturbed Jess the most was men sharing footage of wives, girlfriends and loved ones."
+      "title": "From Wimbledon towels to Scotch: What India-UK trade deal could mean for shoppers",
+      "link": "https://www.bbc.co.uk/news/articles/c0kymrz0vkgo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 22:17:43 GMT",
+      "description": "The free trade agreement between the world's fifth and sixth largest economies has come into effect - can it deliver?"
     },
     {
-      "title": "Hours each day in an iron lung kept her breathing, her will to live kept her alive",
-      "link": "https://www.bbc.co.uk/news/articles/cwyk4z3e2xlo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 14 Jul 2026 02:20:14 GMT",
-      "description": "The sister of the last known polio patient in the US to use the life-saving machine spoke to the BBC about her sister's life."
+      "title": "The Papers: 'You can do this' and 'Widdecombe suspect probed'",
+      "link": "https://www.bbc.co.uk/news/articles/cjdgdj3mmdyo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Jul 2026 04:48:42 GMT",
+      "description": "A nervous build-up for England in the World Cup semi-finals and the investigation into the death of Ann Widdecombe lead the papers."
     },
     {
-      "title": "Colombian national killed by ICE agent during operation in Maine",
-      "link": "https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 14 Jul 2026 01:50:48 GMT",
-      "description": "It comes less than a week after an undocumented migrant was fatally shot in Houston by an immigration agent."
+      "title": "What we know about fatal ICE shooting in Maine",
+      "link": "https://www.bbc.co.uk/news/videos/c0eyexw3z57o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 20:07:09 GMT",
+      "description": "An ICE officer shot and killed a man in Maine - BBC Verify has been examining video footage of the incident."
     },
     {
-      "title": "US judge voids Donald Trump's $1.8bn settlement with IRS that gave him immunity from tax audits",
-      "link": "https://www.bbc.co.uk/news/articles/cn8q0e8d4ego?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 18:52:46 GMT",
-      "description": "The judge said the suit was brought for 'improper purposes' and referred a Trump attorney for possible disciplinary action."
+      "title": "Dean McCullough and Melvin Odoom among presenters to leave BBC Radio 1 in schedule shake-up",
+      "link": "https://www.bbc.co.uk/news/articles/c9828053nr8o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Jul 2026 09:23:15 GMT",
+      "description": "Jeremiah Asiamah will join Charlie Hedges in the Live Lounge, among other changes."
     },
     {
-      "title": "Burnham cements Labour leadership with backing of 349 MPs",
-      "link": "https://www.bbc.co.uk/news/articles/c05y3rj09qqo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 21:11:08 GMT",
-      "description": "The MP for Makerfield is on track to become the prime minister next week after receiving the support of the vast majority of Labour MPs."
+      "title": "Thames Water returns to profit after raising bills",
+      "link": "https://www.bbc.co.uk/news/articles/c4gygy43103o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Jul 2026 09:31:07 GMT",
+      "description": "But the firm says it only has enough debt funding to keep the business going until the end of 2026."
     },
     {
-      "title": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
-      "link": "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 14 Jul 2026 05:00:03 GMT",
-      "description": "Simon Andriesz made the discovery about Howard Lutnick in publicly released Epstein files."
+      "title": "China detains US scientist who studied North Korea nuclear tests",
+      "link": "https://www.bbc.co.uk/news/articles/cqx1xdn3g4eo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Jul 2026 02:14:37 GMT",
+      "description": "Chen Youlin's family says he has been wrongfully detained for nearly two years on spying charges."
     },
     {
-      "title": "Bangkok fire investigation finds locked doors and flammable decor as deaths climb to 30",
-      "link": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 14 Jul 2026 03:47:41 GMT",
-      "description": "Survivors and first responders reported locked doors and a lack of signage marking emergency exits."
+      "title": "Firefighters could be at moorland blaze for 'days'",
+      "link": "https://www.bbc.co.uk/news/articles/c8x2x5wnll1o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Jul 2026 06:20:13 GMT",
+      "description": "The large fire engulfed land near Dove Stone Reservoir on Saturday and has been burning ever since."
     },
     {
-      "title": "Identity of Sydney daycare worker facing 329 child abuse offences revealed",
-      "link": "https://www.bbc.co.uk/news/articles/c5yzy0lpello?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 14 Jul 2026 01:43:57 GMT",
-      "description": "Hamish Tait is accused of abusing 136 children at five childcare facilities over a 16-year period."
+      "title": "Heating oil customers to get compensation after price hikes",
+      "link": "https://www.bbc.co.uk/news/articles/cy494yypnv3o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 23:00:41 GMT",
+      "description": "The cost of heating oil spiked following the US-Israel war with Iran which forced up crude prices."
     },
     {
-      "title": "Gang feud ended with 'resolution of differences' between rivals - police",
-      "link": "https://www.bbc.co.uk/news/articles/c20yqvrn0qvo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 14 Jul 2026 05:19:06 GMT",
-      "description": "Chief Constable Jo Farrell noted the feud - which spanned six months and involved 84 separate incidents - had ended for multiple reasons including dozens of arrests."
+      "title": "Kenyan court dismisses Rastafarians' bid to legalise cannabis",
+      "link": "https://www.bbc.co.uk/news/articles/c0lyl5ryyr4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Jul 2026 09:15:54 GMT",
+      "description": "The court acknowledged the need for a broader national debate on cannabis policy in Kenya."
+    },
+    {
+      "title": "Car flips and plunges off steep cliff after driver seen ploughing through walls and fences",
+      "link": "https://www.bbc.co.uk/news/articles/c8j2jm33dmgo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Jul 2026 09:11:14 GMT",
+      "description": "The man was taken to hospital after the car was driven through fields, fences and walls, police say."
     },
     {
       "title": "BBC News app",
@@ -166,10 +172,10 @@
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests"
     },
     {
-      "title": "Counter Terrorism Police Investigating Ann Widdecombe Death",
-      "link": "https://www.bbc.co.uk/sounds/play/p0nyjv74?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 15:24:00 GMT",
-      "description": "Counter terrorism police takeover the investigation into Ann Widdecombe’s death."
+      "title": "The £10bn wasted on Covid PPE",
+      "link": "https://www.bbc.co.uk/sounds/play/p0nyjv9j?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 15:50:00 GMT",
+      "description": "How did the government waste £10 billion on Covid PPE?"
     },
     {
       "title": "Americanswers… on 5 Live! Mitch McConnell breaks his silence, will it stop the conspiracy theories?",
@@ -178,34 +184,46 @@
       "description": "A photo of the US senator has gone viral after he hadn’t been seen for weeks"
     },
     {
-      "title": "Who will win the World Cup? The view from the semi-finalists",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cjrgew3wv4xo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 14 Jul 2026 05:43:53 GMT",
-      "description": "BBC Sport speaks to journalists and fans from the World Cup's four semi-finalists to see who they think will win the tournament."
+      "title": "Zendaya stars in this heated tennis love triangle",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m002p109?at_mid=CCbWDZltV1&at_campaign=Challengers&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002p109&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Challengers&at_bbc_team=BBC&at_creation=film",
+      "published": "Sun, 28 Jun 2026 22:05:22 GMT",
+      "description": "A love triangle forms between three tennis players."
     },
     {
-      "title": "Increased security for England v Argentina tie in Atlanta",
-      "link": "https://www.bbc.co.uk/sport/football/articles/clyey5glv4ko?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 14 Jul 2026 07:14:16 GMT",
-      "description": "Authorities say there will be increased security measures in place for Wednesday's World Cup semi-final between England and Argentina in Atlanta."
+      "title": "Get inside access to the new super-elite: The tech billionaires",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m002z1j2?at_mid=CPeN9Np5Nr&at_campaign=The_Tech_Billionaire_Takeover&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002z1j2&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Tech_Billionaire_Takeover&at_bbc_team=BBC",
+      "published": "Sat, 11 Jul 2026 23:01:00 GMT",
+      "description": "Matt Shea meets the new tech billionaires trying to reshape the world."
     },
     {
-      "title": "Could it work if Verstappen wanted to go to McLaren? F1 Q&A",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c872v408y2xo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 14 Jul 2026 09:01:47 GMT",
-      "description": "BBC Sport F1 correspondent Andrew Benson answers your latest questions before the Belgian Grand Prix at Spa-Francorchamps."
+      "title": "England's biggest match since 1966 as Three Lions close in on immortality",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c20y0zzdx9go?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Jul 2026 05:02:16 GMT",
+      "description": "England face Argentina in the World Cup semi-finals on Wednesday - and BBC Sport's Phil McNulty explains why it is the Three Lions' biggest match since 1966."
     },
     {
-      "title": "Why it's time for The Open to crown an English winner",
-      "link": "https://www.bbc.co.uk/sport/golf/articles/cpd3wwxp94vo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 14 Jul 2026 08:00:05 GMT",
-      "description": "It is nearly 60 years since Tony Jacklin became the last Englishman to win The Open on English soil but there's every chance that drought may be broken this week, writes Iain Carter."
+      "title": "We shouldn't confuse politics and football - Scaloni",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cn8q8n6973xo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Jul 2026 08:05:16 GMT",
+      "description": "Argentina manager Lionel Scaloni says he is \"not going to mix\" football and politics before his side's World Cup semi-final against England."
     },
     {
-      "title": "Timing took me to Chelsea rather than Liverpool - Alonso",
-      "link": "https://www.bbc.co.uk/sport/football/articles/czj8rzxrp88o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 13 Jul 2026 19:00:16 GMT",
-      "description": "Chelsea manager Xabi Alonso says his arrival at Stamford Bridge instead of Liverpool was \"about timings\"."
+      "title": "What happened to David Batty, who shook off penalty miss against Argentina?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cp9jn090kv2o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Jul 2026 05:59:56 GMT",
+      "description": "England midfielder David Batty quickly shook off his penalty miss against Argentina in 1998. As the two teams prepare to meet in the World Cup knockout stage again, BBC Sport asks: what happened to him?"
+    },
+    {
+      "title": "Stokes set for first game since England retirement",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c24y4jvqr9qo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 15 Jul 2026 09:03:00 GMT",
+      "description": "Former England captain Ben Stokes is set to play for Durham against Derbyshire in the One-Day Cup next week."
+    },
+    {
+      "title": "World Cup final half-time to last up to 25 minutes",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c1wyw9wx19yo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 14 Jul 2026 22:01:52 GMT",
+      "description": "The half-time break in Sunday's World Cup final is expected to last between 20 and 25 minutes."
     }
   ]
 }
