@@ -1,181 +1,151 @@
 {
-  "scraped_at": "2026-07-21 10:10:42 UTC",
+  "scraped_at": "2026-07-22 10:10:28 UTC",
   "source": "BBC News RSS",
-  "total": 40,
+  "total": 34,
   "headlines": [
     {
-      "title": "Chris Mason: Starmer ally takes swipe at Burnham's first big policy",
-      "link": "https://www.bbc.co.uk/news/articles/c62xzn3j1p2o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 09:00:36 GMT",
-      "description": "Sir Keir Starmer's former right hand man Darren Jones says Andy Burnham's VAT cut is unfunded."
+      "title": "Chris Mason: Another Starmer critic gets promotion as Sarwar joins Burnham government",
+      "link": "https://www.bbc.co.uk/news/articles/cx2rv14em3jo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 22 Jul 2026 05:22:32 GMT",
+      "description": "Months after calling on Keir Starmer to quit, the Scottish Labour leader is set to become a minister in Burnham's government, the BBC's political editor writes."
+    },
+    {
+      "title": "PC Harper killers' potential early release is an 'insult', says his mother",
+      "link": "https://www.bbc.co.uk/news/articles/c89nxj4d5pqo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 22 Jul 2026 07:50:39 GMT",
+      "description": "PC Harper, 28, sustained fatal injuries while responding to a quad bike theft in Berkshire in 2019."
+    },
+    {
+      "title": "Ukrainian drones hit more sites of Russian online retailer Wildberries",
+      "link": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 22 Jul 2026 10:00:04 GMT",
+      "description": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight."
+    },
+    {
+      "title": "Food prices have fallen – but inflation expected to rise from here",
+      "link": "https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 22 Jul 2026 10:10:01 GMT",
+      "description": "June's fall in inflation will be welcomed by the new prime minister but analysts warn the fall is temporary."
+    },
+    {
+      "title": "Rebel Wilson cleared in defamation case brought by actress in her own film",
+      "link": "https://www.bbc.co.uk/news/articles/c80nv4eevero?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 22 Jul 2026 05:33:04 GMT",
+      "description": "Wilson was accused of defaming young Australian actress Charlotte MacInnes, but cleared by a Sydney court."
+    },
+    {
+      "title": "Prince George poses in suit for new photo as he becomes a teenager",
+      "link": "https://www.bbc.co.uk/news/articles/cm2ge7z0708o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 22 Jul 2026 09:53:12 GMT",
+      "description": "It's a big year for the young prince, who will start secondary school at the elite Eton College in September."
+    },
+    {
+      "title": "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
+      "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 22 Jul 2026 03:05:08 GMT",
+      "description": "The US president's threat to target a key Iranian nuclear site came ahead of the 11th consecutive night of attacks."
+    },
+    {
+      "title": "Military kit still failing women, troops say",
+      "link": "https://www.bbc.co.uk/news/articles/cqj1jdgpzjlo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 22 Jul 2026 05:21:24 GMT",
+      "description": "Servicewomen still face shortages of properly fitting kit, five years after a landmark report."
+    },
+    {
+      "title": "Nottingham attacks NHS trust faces manslaughter probe",
+      "link": "https://www.bbc.co.uk/news/articles/cp8engx2xyeo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 22 Jul 2026 08:16:08 GMT",
+      "description": "The hospital trust treated Valdo Calocane before he killed three people in the city in 2023."
+    },
+    {
+      "title": "Streeting apologises after early prisoner release comments heard on mic",
+      "link": "https://www.bbc.co.uk/news/articles/cgk4x44mm50o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 22 Jul 2026 07:56:46 GMT",
+      "description": "The defence secretary and Mahmood were also heard making jokes about the new justice secretary."
+    },
+    {
+      "title": "Great Apes kiss and cuddle to keep the peace, says study",
+      "link": "https://www.bbc.co.uk/news/articles/c5y045vprg5o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Jul 2026 23:48:38 GMT",
+      "description": "Hugging before stressful events may be an ancient way of building trust, say scientists studying apes."
+    },
+    {
+      "title": "I've got a motorway in my garden - it's my shelter in hot weather",
+      "link": "https://www.bbc.co.uk/news/articles/c99l28kndr8o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 22 Jul 2026 05:13:07 GMT",
+      "description": "The road was built over people's homes 60 years ago, but what's it like to live in the shadow of the M4?"
+    },
+    {
+      "title": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
+      "link": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Jul 2026 22:26:19 GMT",
+      "description": "The Tokyo Metropolitan Government wants workers to ditch the suit and tie for t-shirts, trainers - and shorts."
+    },
+    {
+      "title": "Will your job be replaced by AI? Here are the roles most affected",
+      "link": "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 22 Jul 2026 07:40:33 GMT",
+      "description": "Artificial Intelligence companies make vast claims about their tools replacing human labour - our charts show what's happening."
+    },
+    {
+      "title": "'Play music loud to remember Ozzy' says Sharon on first anniversary of his death",
+      "link": "https://www.bbc.co.uk/news/articles/cd7lnl9jzgyo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 22 Jul 2026 10:06:03 GMT",
+      "description": "Sharon Osbourne shares with the BBC her memories and hopes for the future."
+    },
+    {
+      "title": "From singing in a bar to performing as an alien in new Supergirl film",
+      "link": "https://www.bbc.co.uk/news/articles/ce34yr1ppw3o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 22 Jul 2026 08:14:12 GMT",
+      "description": "Winnie Ama couldn't believe her luck when she had the chance to sing her original song in the new Supergirl movie - but there was a catch."
+    },
+    {
+      "title": "Why Iran is risking so much over the Strait of Hormuz",
+      "link": "https://www.bbc.co.uk/news/articles/cwymx3eevpjo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Jul 2026 14:36:47 GMT",
+      "description": "None of the choices facing Iran’s leaders offer a clear path to victory, as the conflict with the US continues."
     },
     {
       "title": "Who's in Andy Burnham's cabinet?",
       "link": "https://www.bbc.co.uk/news/articles/ckg4we9g58do?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 07:57:43 GMT",
+      "published": "Wed, 22 Jul 2026 08:23:51 GMT",
       "description": "An in-depth look at which Labour MPs have been appointed to cabinet roles by new Prime Minister Andy Burnham"
     },
     {
-      "title": "Cause of Ann Widdecombe's death yet to be established, inquest hears",
-      "link": "https://www.bbc.co.uk/news/articles/cq89q0yyqz4o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 09:56:49 GMT",
-      "description": "The 78-year-old was found with \"visible injuries\" at her home in Devon on 9 July."
+      "title": "Watch: Beluga whales flown from closed Canadian marine park to new US home",
+      "link": "https://www.bbc.co.uk/news/videos/ckg4x8lpe50o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 22 Jul 2026 05:03:42 GMT",
+      "description": "Six beluga whales have arrived in the US after being moved from a Canadian marine park that could no longer care for them."
     },
     {
-      "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
-      "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 09:16:21 GMT",
-      "description": "The duties mark a major escalation in trade tensions between the North American neighbours."
+      "title": "Zelensky sacks Ukraine's top army commander after days of protests",
+      "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 22 Jul 2026 05:37:43 GMT",
+      "description": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov."
     },
     {
-      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-      "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 09:48:20 GMT",
-      "description": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan."
+      "title": "More women in their 20s are getting type 2 diabetes, experts warn",
+      "link": "https://www.bbc.co.uk/news/articles/cdx8vw5k2x8o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 22 Jul 2026 00:03:43 GMT",
+      "description": "England is seeing \"a worrying increase\" in women in their 20s developing type 2 diabetes, say experts. Here's what to look out for."
     },
     {
-      "title": "Is UK facing drought for second summer in a row?",
-      "link": "https://www.bbc.co.uk/weather/articles/cjwx0xv571eo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 00:12:17 GMT",
-      "description": "The longest dry spell in over 30 years for central England raises concerns about drought and when it might rain."
+      "title": "Godzilla vs Kong actress Kaylee Hottle dies in crash at 18",
+      "link": "https://www.bbc.co.uk/news/articles/c62v7e2dw12o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Jul 2026 17:45:55 GMT",
+      "description": "She portrayed a young deaf orphan named Jia in the 2021 blockbuster and its 2024 sequel."
     },
     {
-      "title": "Watch: 'My flat was turned into a brothel,' landlord tells BBC Panorama",
-      "link": "https://www.bbc.co.uk/news/videos/ckg6zj89n3xo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Jul 2026 21:19:57 GMT",
-      "description": "A Panorama investigation uncovers how organised gangs are exploiting the UK's private rental market."
+      "title": "'We just need a bed': Baby with 'days to live' can't access lifesaving treatment",
+      "link": "https://www.bbc.co.uk/news/articles/c04k7g6epzwo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 22 Jul 2026 05:51:28 GMT",
+      "description": "Dylan and Catrin Green fear baby Macs has days to live and say he urgently needs a Berlin heart."
     },
     {
-      "title": "Russian warship carried out firing exercise off Plymouth coast",
-      "link": "https://www.bbc.co.uk/news/articles/ce970jryrk3o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Jul 2026 21:53:40 GMT",
-      "description": "The Neustrashimy's live-fire exercise took place in international waters and lasted for 30 minutes."
-    },
-    {
-      "title": "Thames Water lenders offer 'golden share' to head off nationalisation",
-      "link": "https://www.bbc.co.uk/news/articles/clyv43x372wo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 09:47:21 GMT",
-      "description": "The water supplier's lenders are trying to prevent the company from being taken over by the Burnham government"
-    },
-    {
-      "title": "Fifa opens investigation into Argentina post-final trouble",
-      "link": "https://www.bbc.co.uk/sport/football/articles/clyxjk0z5y7o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Jul 2026 19:32:37 GMT",
-      "description": "Argentina will face an investigation into the ugly scenes at the end of the World Cup final, Fifa has confirmed."
-    },
-    {
-      "title": "UK borrowing falls in June but public finances remain a challenge",
-      "link": "https://www.bbc.co.uk/news/articles/cx2vd3qgjy9o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 08:45:48 GMT",
-      "description": "Public finances for last month were better than expected but the UK is carrying major debt."
-    },
-    {
-      "title": "What does an Andy Burnham-led government mean for your money?",
-      "link": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 09:45:21 GMT",
-      "description": "The new PM says he will look at how much people can earn before paying tax but admitted changing it would be difficult."
-    },
-    {
-      "title": "Evan Davies: Why the new PM will find it so tricky to unite Britain",
-      "link": "https://www.bbc.co.uk/news/articles/c17y7r9yv1ro?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Jul 2026 23:49:02 GMT",
-      "description": "Is there any common ground left?"
-    },
-    {
-      "title": "Louise Haigh: Labour power broker behind PM's rise",
-      "link": "https://www.bbc.co.uk/news/articles/c87n0x974vjo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Jul 2026 20:15:48 GMT",
-      "description": "The Sheffield MP's return to the cabinet comes after she emerged as one of the PM's key political allies."
-    },
-    {
-      "title": "Key takeaways from Andy Burnham's first day as PM",
-      "link": "https://www.bbc.co.uk/news/articles/c80nln7zgp7o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Jul 2026 20:07:01 GMT",
-      "description": "The new Labour leader has formally taken office and set out his priorities for power in No 10."
-    },
-    {
-      "title": "Your tips on getting a fussy child to eat, and six recipes they might love",
-      "link": "https://www.bbc.co.uk/news/articles/c5yrjgj984qo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 00:16:08 GMT",
-      "description": "Want to avoid battles over broccoli and squabbles over spinach? We've asked you for your advice on how to cope at mealtimes over the summer holidays."
-    },
-    {
-      "title": "Does Scotland have the 'game changer' helicopters it needs to fight wildfires?",
-      "link": "https://www.bbc.co.uk/news/articles/cy8enzjdz0qo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 08:39:22 GMT",
-      "description": "A devastating wildfire burning in the Cairngorms has entered its seventh day, as helicopters battle to help stop the spread of the flames."
-    },
-    {
-      "title": "Bumblebees are struggling in UK heatwaves - but you can help them",
-      "link": "https://www.bbc.co.uk/news/articles/c141lymnl2yo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 00:01:32 GMT",
-      "description": "The furry bodies of UK bumblebees are specially adapted for cold weather - making heatwaves a struggle."
-    },
-    {
-      "title": "'I made £100,000 of TikTok sales in one day': The business of live shopping",
-      "link": "https://www.bbc.co.uk/news/articles/cm2j22w8k0po?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Jul 2026 23:06:04 GMT",
-      "description": "Buying on social media livestreams is fast becoming regular consumer behaviour for many."
-    },
-    {
-      "title": "Misleading posts about Trump at World Cup final viewed by millions",
-      "link": "https://www.bbc.co.uk/news/videos/cn5n4rxyz3wo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Jul 2026 20:07:15 GMT",
-      "description": "Some of the most viral posts focus on US President Donald Trump and Spain's wonderkid Lamine Yamal."
-    },
-    {
-      "title": "The 20-somethings betting big on tech stocks",
-      "link": "https://www.bbc.co.uk/news/articles/c20yz9v1llro?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Jul 2026 22:00:41 GMT",
-      "description": "The BBC hears from people about the risks and rewards of investing in technology shares."
-    },
-    {
-      "title": "Will the Tate brothers be extradited from the US to the UK?",
-      "link": "https://www.bbc.co.uk/news/articles/cjej0j0lzkno?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Jul 2026 23:25:44 GMT",
-      "description": "Andrew and Tristan Tate are set to face extradition proceedings in the US as British prosecutors issued 38 new charges against the brothers."
-    },
-    {
-      "title": "India's 'cockroach' protest continues a day after police crackdown",
-      "link": "https://www.bbc.co.uk/news/articles/c98v349r9lro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 08:44:43 GMT",
-      "description": "Delhi witnessed overwhelming violence on Monday, with at least 60 protesters wounded. Police said 118 of their men were also injured."
-    },
-    {
-      "title": "Monkey abandoned in laundry bag on London bus",
-      "link": "https://www.bbc.co.uk/news/articles/c70g8wez8r1o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 05:56:23 GMT",
-      "description": "A marmoset monkey is rescued by animal welfare officers on the 302 service in north-west London."
-    },
-    {
-      "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
-      "link": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 09:41:11 GMT",
-      "description": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah."
-    },
-    {
-      "title": "Thousands of websites taken down for illegal World Cup streams",
-      "link": "https://www.bbc.co.uk/news/articles/cqx7wx4vqv1o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Jul 2026 20:08:56 GMT",
-      "description": "More than 1,000 illegal streaming sites were shut down in the US during the tournament, with a similar amount blocked in Colombia."
-    },
-    {
-      "title": "Northern Ireland's deputy first minster was 'floored' by news of Donaldson arrest",
-      "link": "https://www.bbc.co.uk/news/articles/c87nx97zlyno?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 05:34:49 GMT",
-      "description": "The deputy first minister says people who worked alongside Jeffrey Donaldson are \"floored, shocked and utterly repulsed\"."
-    },
-    {
-      "title": "'Anti-ICE' army veteran started fire outside Manhattan federal building, say officials",
-      "link": "https://www.bbc.co.uk/news/articles/c1m1rr90dzxo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 02:16:05 GMT",
-      "description": "Andrew Arrabaca, 43, was armed with two axes, a machete, three knives and fireworks, says the FBI."
-    },
-    {
-      "title": "Tropical Storm Bertha threatens US Gulf coast",
-      "link": "https://www.bbc.co.uk/news/articles/cqjxzzdrl4lo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 02:42:44 GMT",
-      "description": "Storm surges up to 4ft are possible along parts of the Louisiana and Mississippi coasts, officials say."
+      "title": "Judge rules Trump must hand over records sought by BBC in defamation case",
+      "link": "https://www.bbc.co.uk/news/articles/c93487x97kyo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Jul 2026 23:45:16 GMT",
+      "description": "The judge grants a motion to compel the release of files held by the Donald J Trump Revocable Trust."
     },
     {
       "title": "BBC News app",
@@ -184,10 +154,10 @@
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests"
     },
     {
-      "title": "Newscast",
-      "link": "https://www.bbc.co.uk/sounds/play/p0nzs7bm?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Jul 2026 22:58:00 GMT",
-      "description": "Andy Burnham makes John Healey his chancellor as he assembles his cabinet."
+      "title": "Andy Burnham's (un)funded tax cut",
+      "link": "https://www.bbc.co.uk/sounds/play/p0nzs7d7?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Jul 2026 15:26:00 GMT",
+      "description": "Prime Minister Andy Burnham plans for a “cost of living government”."
     },
     {
       "title": "Who is the new PM?",
@@ -196,52 +166,46 @@
       "description": "From Manchester mayor to prime minister; who is he and what does stand for?"
     },
     {
-      "title": "Get inside access to the new super-elite: The tech billionaires",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m002z1j2?at_mid=CPeN9Np5Nr&at_campaign=The_Tech_Billionaire_Takeover&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002z1j2&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Tech_Billionaire_Takeover&at_bbc_team=BBC",
-      "published": "Sat, 11 Jul 2026 23:01:00 GMT",
-      "description": "Matt Shea meets the new tech billionaires trying to reshape the world."
+      "title": "Why Chelsea have signed so many Man City academy graduates",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cpd7nqnq2w6o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 22 Jul 2026 06:13:29 GMT",
+      "description": "Morgan Rogers is the latest ex-Man City academy player to join Chelsea and will be reunited with more former City team-mates."
     },
     {
-      "title": "Bournemouth midfielder Scott rejects new contract",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c0rdn1p2z45o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 08:10:01 GMT",
-      "description": "Bournemouth midfielder Alex Scott rejects a new contract amid growing Premier League interest in the England international."
+      "title": "Five big names to look out for at Commonwealth Games",
+      "link": "https://www.bbc.co.uk/sport/articles/c9w0r0k1n5qo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 22 Jul 2026 07:46:47 GMT",
+      "description": "These are the stars to look out for across the 10 sports at the 2026 Commonwealth Games in Glasgow."
     },
     {
-      "title": "Fifa opens investigation into Argentina post-final trouble - what happens next?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/clyxjk0z5y7o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Jul 2026 19:32:37 GMT",
-      "description": "Argentina will face an investigation into the ugly scenes at the end of the World Cup final, Fifa has confirmed."
+      "title": "Where are Newcastle in bid to be the best by 2030?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckg30v0llpxo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 22 Jul 2026 08:41:21 GMT",
+      "description": "As the fifth anniversary of Newcastle's takeover approaches, BBC Sport assesses whether the project to be \"the best\" is still on track."
     },
     {
-      "title": "Why was Hamilton penalised but not Leclerc? - F1 Q&A",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cn4n21ye3w2o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 07:00:48 GMT",
-      "description": "BBC Sport F1 correspondent Andrew Benson answers your latest questions before the Hungarian Grand Prix."
+      "title": "Chelsea sign £117m Rogers - what will he bring?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cy8enwn2xq4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Jul 2026 20:57:20 GMT",
+      "description": "Chelsea's £117m move for Aston Villa midfielder Morgan Rogers is a genuine transfer window shock - so how did they do it and what does it mean for the rest of the squad?"
     },
     {
-      "title": "The country that doesn't play football ... yet",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5y03dermmeo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 05:47:13 GMT",
-      "description": "Nauru is the only nation to have never played an official international football match and hardly anyone there plays the game. Is that about to change?"
+      "title": "Littler throws nine-darter in superb Matchplay win",
+      "link": "https://www.bbc.co.uk/sport/darts/articles/cn9nge10504o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Jul 2026 22:33:42 GMT",
+      "description": "World number one Luke Littler throws a thrilling nine-darter as he books his place in the quarter-finals of the World Matchplay with a 11-8 win over Nathan Aspinall."
     },
     {
-      "title": "Ex-Villa striker Duran joins seventh club aged 22",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c75gwl3n50qo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Jul 2026 23:11:08 GMT",
-      "description": "Former Aston Villa striker Jhon Duran joins Benfica on a season-long loan from Saudi Arabian side Al-Nassr."
+      "title": "Arsenal sign Spain goalkeeper Rodriguez on free",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cz7dq8wrzwjo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 22 Jul 2026 08:57:48 GMT",
+      "description": "Arsenal bring in Spain goalkeeper Misa Rodriguez on a free transfer - the Women's Super League side's sixth signing of the summer."
     },
     {
-      "title": "Earl wants changes to 'brutal' Nations Championship format",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c74g58vzjj4o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Jul 2026 22:16:19 GMT",
-      "description": "Ben Earl calls for a change to the Nations Championship format after England's \"brutal\" schedule in the summer leg of the inaugural competition."
-    },
-    {
-      "title": "Humphries suffers shock first-round exit at Matchplay",
-      "link": "https://www.bbc.co.uk/sport/darts/articles/cx2jn8p1v1yo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 20 Jul 2026 22:19:11 GMT",
-      "description": "World number two Luke Humphries is out of the World Matchplay after a shock first-round loss to Scotland's Cameron Menzies."
+      "title": "Adversity to history - Agyarko's world title dream",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/cyvly3l5l2zo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 22 Jul 2026 07:04:40 GMT",
+      "description": "Belfast's Caoimhin Agyarko's dream is to become Ireland's first black professional boxing champion and he can reach his goal when he challenges Josh Kelly for the IBF light-middleweight title on Saturday."
     }
   ]
 }
