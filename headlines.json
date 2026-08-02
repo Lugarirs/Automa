@@ -1,133 +1,145 @@
 {
-  "scraped_at": "2026-08-01 09:46:29 UTC",
+  "scraped_at": "2026-08-02 09:46:03 UTC",
   "source": "BBC News RSS",
-  "total": 30,
+  "total": 31,
   "headlines": [
     {
-      "title": "Fifa scraps World Cup investment plan after outcry",
-      "link": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 01 Aug 2026 05:42:31 GMT",
-      "description": "Fifa boss Gianni Infantino said the project to sell off stakes in its major competitions had \"created divisions\" and would not go ahead."
+      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+      "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 02 Aug 2026 09:10:51 GMT",
+      "description": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed."
     },
     {
-      "title": "Labour's Bev Craig elected Greater Manchester mayor, succeeding Andy Burnham",
-      "link": "https://www.bbc.co.uk/news/articles/cy74n1n1lnxo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 22:53:54 GMT",
-      "description": "Labour's Bev Craig secures nearly double the number of votes won by Reform UK's Sian Astley."
+      "title": "How a shadowy gang is recruiting teenage hitmen to kill across Europe",
+      "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 23:03:35 GMT",
+      "description": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics."
     },
     {
-      "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-      "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 01 Aug 2026 05:01:56 GMT",
-      "description": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand."
+      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+      "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 02 Aug 2026 05:40:42 GMT",
+      "description": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard."
     },
     {
-      "title": "Sir John Curtice: The \"Burnham bounce\" is real but it's not massive",
-      "link": "https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 01 Aug 2026 09:13:00 GMT",
-      "description": "The governing party's poll ratings have improved but they're only just ahead of Reform"
+      "title": "After a bruising 24 hours, what next for Fifa and under-pressure Infantino?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 22:23:20 GMT",
+      "description": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?"
     },
     {
-      "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
-      "link": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 01 Aug 2026 00:20:43 GMT",
-      "description": "President Donald Trump had blamed \"sick\" vandals, and a former Olympian had been charged, but prosecutors now say contractors caused the damage."
+      "title": "How Spain's migrant crisis created a political storm, whipped up by social media",
+      "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 02 Aug 2026 00:55:16 GMT",
+      "description": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes."
     },
     {
-      "title": "Police release Nancy Guthrie ransom notes in latest bid to find kidnappers",
-      "link": "https://www.bbc.co.uk/news/articles/ce973re9404o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 22:46:44 GMT",
-      "description": "Investigators hope the notes' \"distinct linguistic characteristics\" may be recognised by a member of the public."
+      "title": "Emotional Kerr delivers moment Glasgow 2026 has waited for with men's mile gold",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/ckge35ywjvyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 22:41:38 GMT",
+      "description": "There were no pacers and no wave lights. This was a Saturday night scrap - Glasgow rules - and Josh Kerr wasn't going to let anyone beat him in that fight."
     },
     {
-      "title": "He thought a fitness supplement was safe but it sent him into psychosis",
-      "link": "https://www.bbc.co.uk/news/articles/c4gd82vvvdno?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 23:42:03 GMT",
-      "description": "Daniel Murphy's mental health spiralled after he took missold drugs which had been mixed with steroids."
+      "title": "Love Island has a problem, say fans: 'There hasn't been much love'",
+      "link": "https://www.bbc.co.uk/news/articles/cy8edx4dp5qo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 23:46:48 GMT",
+      "description": "Fans, commentators and an ex-Islander reflect on what the dating series could do to draw in more viewers again."
     },
     {
-      "title": "The 40-year search for the elusive 'pink zebra' seaweed",
-      "link": "https://www.bbc.co.uk/news/articles/czrxepy3vn3o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 23:43:10 GMT",
-      "description": "An ancient algae first spotted four decades ago will now join the collection of the Natural History Museum."
+      "title": "Why I don't regret choosing a vasectomy in my 20s",
+      "link": "https://www.bbc.co.uk/news/articles/c04kdk9v590o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 23:35:28 GMT",
+      "description": "As the number of young men having vasectomies rises, BBC News spoke to two about why they chose to have the snip."
     },
     {
-      "title": "What is Iran's Pickaxe Mountain and why does Trump say he wants to bomb it?",
-      "link": "https://www.bbc.co.uk/news/articles/c9w0ygrwrn5o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 01 Aug 2026 05:01:19 GMT",
-      "description": "BBC Verify has spoken to experts and analysed satellite imagery to piece together what we know about the site, and the potential impact of a US strike."
+      "title": "Solitude as a new aspirational lifestyle: 'We are not lonely'",
+      "link": "https://www.bbc.co.uk/news/articles/c5y63dw2x3wo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 23:56:19 GMT",
+      "description": "A growing number of what the internet has dubbed \"loneliness influencers\" are spotlighting solo living without children or friends - and it's spurring debate."
     },
     {
-      "title": "Former workers fight for wages they say they're owed: 'It makes me sick'",
-      "link": "https://www.bbc.co.uk/news/articles/cx2rv3899g8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 01 Aug 2026 01:04:30 GMT",
-      "description": "Sonia Garcia Monuz is among ex-catering firm employees who claim they are owed unpaid wages."
+      "title": "Spider-Man fans hail Brand New Day as Holland's best yet",
+      "link": "https://www.bbc.co.uk/news/articles/cwyeq0wpn0go?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 23:40:17 GMT",
+      "description": "Spider-Man fans are full of praise for Tom Holland's latest web-slinging performance."
     },
     {
-      "title": "British girl band FLO 'want it all' - and they're confident they will get it",
-      "link": "https://www.bbc.co.uk/news/articles/c8rnpxyj762o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 23:56:55 GMT",
-      "description": "The rising stars say making their second album, Therapy at the Club, was a \"crash course\" in music."
+      "title": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
+      "link": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 02 Aug 2026 07:58:51 GMT",
+      "description": "For Kieran Dodds, photographing people with red hair has become something of an obsession over the past decade or more."
     },
     {
-      "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
-      "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 01 Aug 2026 08:24:09 GMT",
-      "description": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital."
+      "title": "Peak District's rebrand deal brings in cash but also criticism",
+      "link": "https://www.bbc.co.uk/news/articles/c235gykvjkjo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 23:52:58 GMT",
+      "description": "After the Peak District signed a brand deal with Skoda, could other national parks follow suit?"
     },
     {
-      "title": "The Papers: 'Spanish border crisis' and 'iron chancellor'",
-      "link": "https://www.bbc.co.uk/news/articles/cdrvkzdpynyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 01 Aug 2026 03:43:53 GMT",
-      "description": "The crossing of 60,000 migrants into the Spanish North African enclave of Ceuta from Morocco is featured prominently across Saturday's papers."
+      "title": "Son of Wicker Man maker dies just weeks before his sequel to film premieres",
+      "link": "https://www.bbc.co.uk/news/articles/cvgwj0wnyydo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 02 Aug 2026 01:14:22 GMT",
+      "description": "The British filmmaker died on Friday after suffering a heart attack, his family said in a statement."
     },
     {
-      "title": "Who is Greater Manchester's new Mayor Bev Craig?",
-      "link": "https://www.bbc.co.uk/news/articles/cly5nvj2d2jo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 23:02:20 GMT",
-      "description": "Bev Craig succeeds Andy Burnham as Greater Manchester's mayor, but what do we know about her?"
+      "title": "The Papers: Chancellor 'warns' supermarkets and 'own goal'",
+      "link": "https://www.bbc.co.uk/news/articles/crk5jd6r1rmo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 02 Aug 2026 04:36:03 GMT",
+      "description": "John Healey's vow to crackdown on grocery \"price gouging\" and the Fifa World Cup scandal dominate Sunday's front pages."
     },
     {
-      "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c80nkgdnl4no?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 23:41:10 GMT",
-      "description": "Dozens of Ethiopians are awaiting execution - some called the BBC to tell their stories."
+      "title": "How Australia combines modern tech and Indigenous knowledge to fight wildfires",
+      "link": "https://www.bbc.co.uk/news/articles/czdmvr984yyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 21:03:42 GMT",
+      "description": "As Europe faces its worst wildfires in decades, Australia offers lessons in disaster preparedness."
     },
     {
-      "title": "Stick to spending limits, PM and chancellor tell ministers in joint memo",
-      "link": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 01 Aug 2026 07:48:01 GMT",
-      "description": "The Chancellor said the Budget on 28 October would “meet our fiscal rules” and give families \"stability\" to plan for the future."
+      "title": "The Sopranos star Vincent Pastore dies aged 80",
+      "link": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 22:57:55 GMT",
+      "description": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report."
     },
     {
-      "title": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
-      "link": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 23:58:12 GMT",
-      "description": "Ballistic experts say the dozens of tiny round punctures are tell-tale signs of pellet gun injuries."
+      "title": "Ballot paper for Clacton by-election is longest in British electoral history",
+      "link": "https://www.bbc.co.uk/news/articles/clyem5lg78qo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 02 Aug 2026 04:49:31 GMT",
+      "description": "The list of 34 candidates standing in the Clacton by-election is nearly a metre long."
     },
     {
-      "title": "'I'm Mandy Burnham' - Quaker chaplain is lookalike for new prime minister",
-      "link": "https://www.bbc.co.uk/news/articles/cd7lg29gvjyo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 11:52:52 GMT",
-      "description": "Emma Roberts is is \"leaning into\" the comparisons and has changed her name to \"Mandy Burnham\" on TikTok."
+      "title": "Trust, grief and betrayal: Inside the Legacy funeral case",
+      "link": "https://www.bbc.co.uk/news/articles/ce3456dw32no?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 02 Aug 2026 06:55:52 GMT",
+      "description": "From a police tip-off to sentencing, a correspondent reflects on covering an unprecedented case."
     },
     {
-      "title": "Roman port dug up behind woman's home",
-      "link": "https://www.bbc.co.uk/news/articles/c3r085dwv8vo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 11:33:49 GMT",
-      "description": "The remains have been discovered beneath a paddock close to the Humber estuary in Brough."
+      "title": "Tourist plane crashes in Peru, killing 13",
+      "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 02 Aug 2026 00:29:55 GMT",
+      "description": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports."
     },
     {
-      "title": "Highland glen sees first wild-born beavers in 400 years",
-      "link": "https://www.bbc.co.uk/news/articles/c4g6k44yk2yo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Jul 2026 05:16:22 GMT",
-      "description": "Conservationists believe there are at least two kits in Glen Affric following a release of 11 beavers."
+      "title": "Woman, 86, orphaned as child opens prized garden to public to fulfill lifelong promise",
+      "link": "https://www.bbc.co.uk/news/articles/c2elzdyee3jo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Jul 2026 14:02:38 GMT",
+      "description": "Ann Lush made a promise to herself when she was nine to “help any child I could”."
     },
     {
-      "title": "'Don't wait until you want revenge' - why prenups are on the rise",
-      "link": "https://www.bbc.co.uk/news/articles/cgmkgvy3lv4o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 23:00:07 GMT",
-      "description": "More young couples are now signing prenups to set out who gets what in the event of divorce."
+      "title": "'Incredible' blue sea creatures appear on beaches",
+      "link": "https://www.bbc.co.uk/news/articles/c934kjkykkxo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 30 Jul 2026 12:17:32 GMT",
+      "description": "Hundreds of by-the-wind-sailors creatures wash up at St Bees in Cumbria due to strong onshore winds."
+    },
+    {
+      "title": "The 10 most overcrowded commuter trains revealed",
+      "link": "https://www.bbc.co.uk/news/articles/c20dxevjlvxo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Jul 2026 14:17:57 GMT",
+      "description": "Overall, overcrowding in England and Wales fell slightly last year due to increased capacity, the government says."
+    },
+    {
+      "title": "Would you choose £50,000 over the chance of £1m?",
+      "link": "https://www.bbc.co.uk/news/articles/cn0njd4e2evo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 26 Jul 2026 23:11:36 GMT",
+      "description": "The vast majority of people - particularly women - answer a survey saying they'd take the certainty over chance."
     },
     {
       "title": "BBC News app",
@@ -148,40 +160,34 @@
       "description": "A centrist and a left wing candidate go head to head in Michigan."
     },
     {
-      "title": "Fifa scraps controversial World Cup investment plan",
-      "link": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 01 Aug 2026 05:42:31 GMT",
-      "description": "Football's world governing body Fifa abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal."
+      "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 22:23:20 GMT",
+      "description": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?"
     },
     {
-      "title": "Infantino on the brink? Who might replace him if he goes?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 01 Aug 2026 00:04:26 GMT",
-      "description": "Fifa president Gianni Infantino is in the eye of a storm after scrapping his attempt to sell stakes in the World Cup. If he goes, who comes in?"
+      "title": "Emotional Kerr delivers moment Glasgow 2026 has waited for",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/ckge35ywjvyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 22:41:38 GMT",
+      "description": "There were no pacers and no wave lights. This was a Saturday night scrap - Glasgow rules - and Josh Kerr wasn't going to let anyone beat him in that fight."
     },
     {
-      "title": "Same start but different outlook at Rangers as McInnes era begins",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c04krgdvn3ro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 23:09:51 GMT",
-      "description": "Derek McInnes insists Rangers will improve after his team's Scottish Premiership draw at Dundee United."
+      "title": "What happened to star signings your club never made?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5y32lgr67no?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 02 Aug 2026 05:42:58 GMT",
+      "description": "BBC Sport takes a look at some star players who were close to moving to the Premier League, only for the deals to fall through."
     },
     {
-      "title": "Intensity, smiles & Lewandowski - inside Liverpool training under Iraola",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6290e063yno?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 01 Aug 2026 07:42:28 GMT",
-      "description": "Liverpool's pre-season under Andoni Iraola is ramping up - and here is what we learned from the first open training session under their new boss."
+      "title": "England beaten by Australia to netball bronze",
+      "link": "https://www.bbc.co.uk/sport/netball/articles/cm2gzyxv6vyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 02 Aug 2026 09:41:45 GMT",
+      "description": "England's netballers are outclassed 68-50 by Australia in their quest to win bronze medals at the Commonwealth Games."
     },
     {
-      "title": "England beaten by New Zealand in netball semi-final",
-      "link": "https://www.bbc.co.uk/sport/netball/articles/c151l288y9xo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 01 Aug 2026 09:41:15 GMT",
-      "description": "England's netballers miss out on a place in the Commonwealth Games gold-medal match after a 61-54 semi-final defeat by a powerful New Zealand side."
-    },
-    {
-      "title": "Hunter Bell eyes ambitious sweep after 800m gold in Glasgow",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/cj36lz1d2lno?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 22:15:15 GMT",
-      "description": "England's Georgia Hunter Bell eyes an ambitious sweep of gold medals in 2026 after winning the 800m Commonwealth Games title in Glasgow."
+      "title": "Shittu 'robbed' - are AI boxing judges the answer?",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/c4g42xk1l7vo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 01 Aug 2026 21:05:12 GMT",
+      "description": "After commentators claim England's Dimeji Shittu was \"robbed\" in the Commonwealth Games final, is judging helped by artificial intelligence the answer?"
     }
   ]
 }
