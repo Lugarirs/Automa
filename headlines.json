@@ -1,175 +1,163 @@
 {
-  "scraped_at": "2026-08-20 08:21:18 UTC",
+  "scraped_at": "2026-08-21 08:22:48 UTC",
   "source": "BBC News RSS",
-  "total": 37,
+  "total": 35,
   "headlines": [
     {
-      "title": "Prince Harry and Meghan moving back to UK later this month",
-      "link": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 07:21:03 GMT",
-      "description": "The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled to start at a school in September."
+      "title": "El Niño warming set to be 'strongest in living memory', warns Met Office",
+      "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 07:43:30 GMT",
+      "description": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record."
     },
     {
-      "title": "Harry and Meghan are experts in surprise - but is their UK return forever?",
-      "link": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 02:00:51 GMT",
-      "description": "The sudden decision to return leaves lots of questions for the Duke and Duchess of Sussex and Royal Family."
+      "title": "Meghan could return to acting once back in UK",
+      "link": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 02:52:29 GMT",
+      "description": "Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK."
     },
     {
-      "title": "Travelodge boss steps down after security issues in rooms",
-      "link": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 08:19:50 GMT",
-      "description": "Jo Boydell had been criticised for the company's handling of issues with its safety and security."
+      "title": "Will Harry's return heal deep-rooted rift with William?",
+      "link": "https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 04:07:22 GMT",
+      "description": "The Prince of Wales remains in no mood to forgive and forget. The hurt he feels lingers."
     },
     {
-      "title": "School 'deeply saddened' by death of family in sea off Shoreham",
-      "link": "https://www.bbc.co.uk/news/articles/c70gpggglllo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 08:03:16 GMT",
-      "description": "Ellen Wilkinson School for Girls in Ealing pays tribute to Sara El-Khawas, 14, and her family who died."
+      "title": "My life was changed by a terror attack - now survivors like me won't be forgotten",
+      "link": "https://www.bbc.co.uk/news/articles/cd0x91ym7veo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 00:11:18 GMT",
+      "description": "The UK's first national day for victims and survivors of terrorism takes place on Friday - and means more to this man than many."
     },
     {
-      "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
-      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 07:59:55 GMT",
-      "description": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say."
+      "title": "French becoming more effective in stopping small boat crossings, UK says",
+      "link": "https://www.bbc.co.uk/news/articles/c1d1v333ewxo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 20 Aug 2026 22:23:24 GMT",
+      "description": "The Home Office credits France with intercepting hundreds of potential crossings this summer using new tactics."
     },
     {
-      "title": "Giant whales move into Greenland waters as ice disappears",
-      "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 02:05:20 GMT",
-      "description": "Melting sea ice from climate change has opened up the region for giant whales to undertake \"feeding frenzies\"."
+      "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+      "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 05:00:57 GMT",
+      "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful."
     },
     {
-      "title": "Vapes could lead to health harms in children, doctors warn",
-      "link": "https://www.bbc.co.uk/news/articles/c0rdl0y8d4wo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 00:35:22 GMT",
-      "description": "A Royal College of Paediatrics and Child Health has published a report with concerns vaping is a gateway to smoking"
+      "title": "The town whose council wants migrants to move in",
+      "link": "https://www.bbc.co.uk/news/articles/ckgdpdk84d0o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 05:00:02 GMT",
+      "description": "Greenock wants to attract immigrants to settle in the town and reverse its declining population."
     },
     {
-      "title": "People smuggler exposed by BBC investigation arrested and charged",
-      "link": "https://www.bbc.co.uk/news/articles/cx2ldeg93njo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 19 Aug 2026 20:54:51 GMT",
-      "description": "Twana Jamal Khdir has been arrested and charged with immigration offences."
+      "title": "A split in the spectrum? The ongoing battle to define autism",
+      "link": "https://www.bbc.co.uk/news/articles/cdew81wd2y8o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 05:01:38 GMT",
+      "description": "There is a continuing row over whether it matters if such a broad spectrum of people are defined as having autism"
     },
     {
-      "title": "Rain to continue for UK with risk of flash flooding",
-      "link": "https://www.bbc.co.uk/weather/articles/cevm32j9pp3o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 19 Aug 2026 23:56:33 GMT",
-      "description": "The prolonged dry spell has come to an end with heavy, thundery showers continuing to sweep across the UK, as Ben Rich explains."
+      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+      "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 20 Aug 2026 23:16:45 GMT",
+      "description": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy."
     },
     {
-      "title": "The dangers of politicians being 'too online' - or not online enough",
-      "link": "https://www.bbc.co.uk/news/articles/cn5nvkdwy74o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 00:57:09 GMT",
-      "description": "In an era when reputations can be made or broken with a single post, getting the balance right is tricky."
+      "title": "Millennials are struggling to buy a home - but is it actually getting easier?",
+      "link": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 20 Aug 2026 23:10:58 GMT",
+      "description": "Twenty-somethings are much less likely to own a home than previous generations. But data suggests things may be turning a corner."
     },
     {
-      "title": "Vaccine breakthrough stops cancer returning in trial",
-      "link": "https://www.bbc.co.uk/news/articles/c79gpv7v190o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 08:10:33 GMT",
-      "description": "A new jab extended the length of time patients were cancer free, but it is unclear for how long."
+      "title": "UK borrows more than expected in July as Healey prepares for first Budget",
+      "link": "https://www.bbc.co.uk/news/articles/cly8kzkyvwgo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 07:45:13 GMT",
+      "description": "Chancellor John Healey said the government is 'committed to meeting our fiscal rules'"
     },
     {
-      "title": "From managing your nerves to collecting your results - everything you need to know",
-      "link": "https://www.bbc.co.uk/bitesize/articles/zjbn47h?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Aug 2024 06:00:00 GMT",
-      "description": "If you've taken your GCSE exams in the summer here is a guide to what you need to know about GCSE results day in 2026 and tips for your next steps after school."
+      "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
+      "link": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 20 Aug 2026 22:59:35 GMT",
+      "description": "Holidaymakers tell the BBC they paid for luxury breaks but faulty air conditioning left them in sweltering heat."
     },
     {
-      "title": "What to do if you're unhappy with your grades",
-      "link": "https://www.bbc.co.uk/news/articles/c1jxjk6g1l2o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 07:59:11 GMT",
-      "description": "Your full guide to this year's GCSE exams in England, Wales and Northern Ireland."
+      "title": "Wellness habits you can start now - at no (or little) cost",
+      "link": "https://www.bbc.co.uk/news/articles/c62vyz2x065o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 00:23:55 GMT",
+      "description": "Living a healthy life doesn't have to just be about pricey studio classes and luxury retreats."
     },
     {
-      "title": "How do the 9-1 GCSE grade boundaries work in England?",
-      "link": "https://www.bbc.co.uk/news/articles/czrynxzvjneo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 07:35:53 GMT",
-      "description": "The previous alphabetical system has been replaced in England, but is still used in Wales and Northern Ireland."
+      "title": "What happened to Harry and Meghan's American dream?",
+      "link": "https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 02:57:34 GMT",
+      "description": "Harry and Meghan enjoyed some showbusiness success, but their Hollywood reign proved short-lived."
     },
     {
-      "title": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
-      "link": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 05:01:24 GMT",
-      "description": "Men born in Ukraine who fought for Russia are tried for treason, but at a prisoner of war camp in western Ukraine, many believe they were defending their homeland."
+      "title": "Brandon Flowers: Is fame worth it? I'm not sure anymore",
+      "link": "https://www.bbc.co.uk/news/articles/c7vgple783go?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 00:26:57 GMT",
+      "description": "The Killers frontman asks big questions on his third solo album, which takes a detour into country."
     },
     {
-      "title": "'I can't do the things my friends do': Life as a teenage carer",
-      "link": "https://www.bbc.co.uk/news/articles/c4g355k8lg4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 00:49:25 GMT",
-      "description": "Young carers face huge disadvantages growing up - one teenager explains what life is like."
+      "title": "'I've caught one fish all season' - how a polluted river could end 300 years of coracle fishing",
+      "link": "https://www.bbc.co.uk/news/articles/cewr9evwdwko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 05:06:39 GMT",
+      "description": "The tradition on a Carmarthenshire river once fished by US President Jimmy Carter could be coming to an end."
     },
     {
-      "title": "Key moments from Harry and Meghan's years since leaving UK",
-      "link": "https://www.bbc.co.uk/news/videos/cn8ndp8m9ddo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 04:07:28 GMT",
-      "description": "The Duke and Duchess of Sussex are planning to move back to the UK, BBC News understands."
+      "title": "Newspaper review: 'King puts William first' and Harry security could cost public '£5m a year'",
+      "link": "https://www.bbc.co.uk/news/articles/cy4kjmmmxmlo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 04:44:20 GMT",
+      "description": "The return of the Duke and Duchess of Sussex to the UK continues to dominate Friday's front pages."
     },
     {
-      "title": "Premier League predictions 2026-27: BBC Sport pundits pick their top four",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cp8edryd7plo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 05:24:16 GMT",
-      "description": "We ask 26 BBC Sport football pundits to predict who will win the 2026-27 Premier League title, and which clubs will finish in the top four."
+      "title": "Weekly quiz: Where did builders find £7.6m worth of gold bars and coins?",
+      "link": "https://www.bbc.co.uk/news/articles/cm2gmnvj4dyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 20 Aug 2026 17:44:31 GMT",
+      "description": "How much attention did you pay to what happened in the world over the past seven days?"
     },
     {
-      "title": "Watch: What to know about Trump's trusted aide Natalie Harp",
-      "link": "https://www.bbc.co.uk/news/videos/cm2gdxlwmrvo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 19 Aug 2026 22:44:35 GMT",
-      "description": "The BBC's Bernd Debusmann explains who she is and how she came to hold such a prominent role in the US president's inner circle."
+      "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
+      "link": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 20 Aug 2026 22:01:26 GMT",
+      "description": "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength."
     },
     {
-      "title": "'Harry's coming home' and 'Day trip tragedy'",
-      "link": "https://www.bbc.co.uk/news/articles/c7vgp03rr15o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 04:26:45 GMT",
-      "description": "News of the Duke and Duchess of Sussex's plan to move back to the UK is prominent across Thursday's papers."
+      "title": "Bali jails Swiss tourist for insulting sacred Day of Silence",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 02:33:27 GMT",
+      "description": "The 26-year-old was jailed for a year after he sparked anger with an expletive-laden post about the sacred holiday."
     },
     {
-      "title": "I quit my £80,000 job to make ice cream - here's how",
-      "link": "https://www.bbc.co.uk/news/articles/cz97148eye0o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 19 Aug 2026 23:08:03 GMT",
-      "description": "The co-founder of Little Moons shares her advice for anyone thinking about starting a business of their own."
+      "title": "Starmer donates biography of himself to Downing Street library",
+      "link": "https://www.bbc.co.uk/news/articles/czdm6m939edo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 06:56:11 GMT",
+      "description": "The former PM and seven of his ministers have added to the collection, which began in 1931."
     },
     {
-      "title": "Burnham announces plans to clean up worst three illegal waste dumps",
-      "link": "https://www.bbc.co.uk/news/articles/cgk4vn0k3r5o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 07:37:45 GMT",
-      "description": "The government says the sites in Kent, Surrey and West Yorkshire contain 22,000 tonnes of waste."
+      "title": "Academic who accused Jason Arday of plagiarism suspended by university",
+      "link": "https://www.bbc.co.uk/news/articles/cevmrjd9lj1o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 06:22:36 GMT",
+      "description": "Nathan Cofnas says he is being investigated for discriminating against the late Cambridge professor."
     },
     {
-      "title": "Weekly type 2 diabetes jab could replace daily injections",
-      "link": "https://www.bbc.co.uk/news/articles/cn8nd1n54zxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 00:39:40 GMT",
-      "description": "Hundreds of thousands of people with type 2 diabetes could get access to a new weekly insulin jab to replace daily injections."
+      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
+      "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 04:27:13 GMT",
+      "description": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination."
     },
     {
-      "title": "Four workers dead after being hit by train in Japan",
-      "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 08:14:20 GMT",
-      "description": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say."
+      "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
+      "link": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 05:30:18 GMT",
+      "description": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others,"
     },
     {
-      "title": "Verstappen extends Red Bull deal to 2030",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c20j3j2mnpxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 07:09:34 GMT",
-      "description": "Four-time world champion Max Verstappen signs a contract extension with Red Bull, keeping him with the Formula One team until 2030."
+      "title": "Rain to stop in time for weekend as sun returns",
+      "link": "https://www.bbc.co.uk/weather/articles/c2el98pkd3po?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 00:14:00 GMT",
+      "description": "The heavy downpours that have caused flash flooding will ease during Friday with sunshine returning for the weekend. But there are some chilly nights in store, as Ben Rich explains."
     },
     {
-      "title": "Tenders open for highly-sensitive West Bank settlement project, Israel announces",
-      "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 00:53:20 GMT",
-      "description": "The UK's foreign secretary condemned the move as \"an unacceptable and destructive act\"."
-    },
-    {
-      "title": "Trump vows tougher economic measures on Iran and supporting countries",
-      "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 03:22:57 GMT",
-      "description": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict."
-    },
-    {
-      "title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
-      "link": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 07:08:35 GMT",
-      "description": "Prosecutors say Erin Patterson's sentence was \"manifestly inadequate\" as it allows for the possibility of parole."
+      "title": "Panama Canal to cut number of ships passing through due to El Niño",
+      "link": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 06:46:08 GMT",
+      "description": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision."
     },
     {
       "title": "BBC News app",
@@ -178,10 +166,10 @@
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests"
     },
     {
-      "title": "Russia Threatens The UK (Again)",
-      "link": "https://www.bbc.co.uk/sounds/play/p0p4z12v?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 18 Aug 2026 15:50:00 GMT",
-      "description": "Threat comes after British-made drones were used in recent Ukrainian strikes in Russia."
+      "title": "Can Andy Burnham End Rough Sleeping?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0p4z155?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 19 Aug 2026 15:06:00 GMT",
+      "description": "The PM says every rough sleeper in England will be offered accommodation this winter."
     },
     {
       "title": "Who is Trump aide Natalie Harp… and why are Democrats targeting her?",
@@ -190,40 +178,40 @@
       "description": "And, will Trump be forever dogged by his war with Iran?"
     },
     {
-      "title": "Premier League predictions 2026-27: BBC Sport pundits pick their top four",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cp8edryd7plo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 05:24:16 GMT",
-      "description": "We ask 26 BBC Sport football pundits to predict who will win the 2026-27 Premier League title, and which clubs will finish in the top four."
+      "title": "Spurs agree £75m deal to sign Man City's Savinho",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwyl0r8g4lwo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 06:30:48 GMT",
+      "description": "Tottenham agree a deal to sign Manchester City winger Savinho for £75m, with a further £10m in potential add-ons."
     },
     {
-      "title": "Verstappen extends Red Bull deal to 2030",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c20j3j2mnpxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 07:09:34 GMT",
-      "description": "Four-time world champion Max Verstappen signs a contract extension with Red Bull, keeping him with the Formula One team until 2030."
+      "title": "Brook as talented as Gower and Pietersen but not ready to be captain - Agnew",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c8rn7jx766go?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 20 Aug 2026 20:38:45 GMT",
+      "description": "England batsman Harry Brook was not ready to be Test captain but his knock at Headingley should be his batting blueprint for the future, writes Jonathan Agnew."
     },
     {
-      "title": "How Root brought welcome calm on return as England captain",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c36d944wlweo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 19 Aug 2026 19:49:23 GMT",
-      "description": "Joe Root took advice from Harry Brook and adopted a hands-off approach with his bowlers on his return as England Test skipper."
+      "title": "Break-up of Villa's Europa heroes leaves cracks for Emery to fill",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c20j3vjvy48o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 05:28:59 GMT",
+      "description": "Aston Villa have already sold three key players this summer, a figure that could potentially double by the end of the transfer window."
     },
     {
-      "title": "Aguero and Shearer star in best opening-round debuts",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cwyl718g865o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 05:22:10 GMT",
-      "description": "BBC Sport takes a look at some of the Premier League's greatest opening-day debuts, including Alan Shearer's Blackburn blinder and Michu's Swansea screamers."
+      "title": "Sutton's opening weekend predictions v Courteeners frontman Liam Fray",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cn9nqzny7n7o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 06:46:11 GMT",
+      "description": "BBC Sport football expert Chris Sutton takes on Courteeners frontman Liam Fray, plus the BBC readers and AI with his predictions for the fixtures on the opening weekend of the new Premier League season."
     },
     {
-      "title": "Which supplements do athletes take and why?",
-      "link": "https://www.bbc.co.uk/sport/articles/cpd7pwx0233o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 05:52:21 GMT",
-      "description": "There is a long list of supplements taken by elite athletes in the pursuit of marginal gains - what do they take and why?"
+      "title": "Headlining on TikTok & targeting KO record - Serrano eyes history",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/c2el98w4peyo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 07:20:49 GMT",
+      "description": "Seven-division champion Amanda Serrano talks to BBC Sport about fighting on TikTok, going for the women's boxing knockout record and retirement plans."
     },
     {
-      "title": "Celtic find value in 'special' Duran - but does ambition reach further still?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cn0n6k42803o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 19 Aug 2026 23:34:09 GMT",
-      "description": "Now that the Champions League money may be nigh, we will get to see the scale of Celtic's ambition, asks Tom English?"
+      "title": "Flex your football brain with our daily quizzes",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c4gxxyyn8yeo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 06:29:11 GMT",
+      "description": "Test your football knowledge with today's Who Am I?, Five in Five and Brainteaser quizzes."
     }
   ]
 }
