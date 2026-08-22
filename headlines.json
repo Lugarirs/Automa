@@ -1,163 +1,145 @@
 {
-  "scraped_at": "2026-08-21 08:22:48 UTC",
+  "scraped_at": "2026-08-22 08:14:13 UTC",
   "source": "BBC News RSS",
-  "total": 35,
+  "total": 34,
   "headlines": [
     {
-      "title": "El Niño warming set to be 'strongest in living memory', warns Met Office",
-      "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 07:43:30 GMT",
-      "description": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record."
+      "title": "'Multiple' deaths after collision between police vehicle and car",
+      "link": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 22 Aug 2026 08:11:06 GMT",
+      "description": "The collision involved a Volkswagen Passat on the A66 in South Bank, near Middlesbrough, police say."
     },
     {
-      "title": "Meghan could return to acting once back in UK",
-      "link": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 02:52:29 GMT",
-      "description": "Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK."
+      "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+      "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 22 Aug 2026 04:46:33 GMT",
+      "description": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks."
     },
     {
-      "title": "Will Harry's return heal deep-rooted rift with William?",
-      "link": "https://www.bbc.co.uk/news/articles/clyx410xxyko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 04:07:22 GMT",
-      "description": "The Prince of Wales remains in no mood to forgive and forget. The hurt he feels lingers."
+      "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+      "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 22:36:12 GMT",
+      "description": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13."
     },
     {
-      "title": "My life was changed by a terror attack - now survivors like me won't be forgotten",
-      "link": "https://www.bbc.co.uk/news/articles/cd0x91ym7veo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 00:11:18 GMT",
-      "description": "The UK's first national day for victims and survivors of terrorism takes place on Friday - and means more to this man than many."
+      "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
+      "link": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 22:28:37 GMT",
+      "description": "Saja El-Khawas is the fourth person to die after her family got into difficulty in water off West Sussex."
     },
     {
-      "title": "French becoming more effective in stopping small boat crossings, UK says",
-      "link": "https://www.bbc.co.uk/news/articles/c1d1v333ewxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 22:23:24 GMT",
-      "description": "The Home Office credits France with intercepting hundreds of potential crossings this summer using new tactics."
+      "title": "More students planning to live at home for university over 'insane' living costs",
+      "link": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 23:01:58 GMT",
+      "description": "Students like Jessica say they worry about missing out on student life, but feel they have no choice but to stay at home."
     },
     {
-      "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-      "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 05:00:57 GMT",
-      "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful."
+      "title": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
+      "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 22 Aug 2026 06:40:30 GMT",
+      "description": "Nine people are still missing after the attack which left 130 injured, including a number of children."
     },
     {
-      "title": "The town whose council wants migrants to move in",
-      "link": "https://www.bbc.co.uk/news/articles/ckgdpdk84d0o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 05:00:02 GMT",
-      "description": "Greenock wants to attract immigrants to settle in the town and reverse its declining population."
+      "title": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
+      "link": "https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 18:29:31 GMT",
+      "description": "This would be Meghan's first significant acting role since her marriage to Prince Harry."
     },
     {
-      "title": "A split in the spectrum? The ongoing battle to define autism",
-      "link": "https://www.bbc.co.uk/news/articles/cdew81wd2y8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 05:01:38 GMT",
-      "description": "There is a continuing row over whether it matters if such a broad spectrum of people are defined as having autism"
+      "title": "How this 1960s ex-council house is managing to stay cool without air con",
+      "link": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 23:56:48 GMT",
+      "description": "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures."
     },
     {
-      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
-      "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 23:16:45 GMT",
-      "description": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy."
+      "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
+      "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 22 Aug 2026 00:03:10 GMT",
+      "description": "They will not be working royals when they come back. So what could they be doing instead?"
     },
     {
-      "title": "Millennials are struggling to buy a home - but is it actually getting easier?",
-      "link": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 23:10:58 GMT",
-      "description": "Twenty-somethings are much less likely to own a home than previous generations. But data suggests things may be turning a corner."
+      "title": "GTA 6 leaks - a nightmare or a blip for the biggest video game of the year?",
+      "link": "https://www.bbc.co.uk/news/articles/c07r3183gn3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 23:13:00 GMT",
+      "description": "Clips appearing to show the highly anticipated game have appeared online, but will they really hurt it?"
     },
     {
-      "title": "UK borrows more than expected in July as Healey prepares for first Budget",
-      "link": "https://www.bbc.co.uk/news/articles/cly8kzkyvwgo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 07:45:13 GMT",
-      "description": "Chancellor John Healey said the government is 'committed to meeting our fiscal rules'"
+      "title": "Drugs at their fingertips, intense pressure: Why child stars fall into addiction",
+      "link": "https://www.bbc.co.uk/news/articles/cq56x3910jwo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 23:41:33 GMT",
+      "description": "Experts told the BBC the pressures of childhood stardom can put actors at an unusually higher risk of substance abuse issues."
     },
     {
-      "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
-      "link": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 22:59:35 GMT",
-      "description": "Holidaymakers tell the BBC they paid for luxury breaks but faulty air conditioning left them in sweltering heat."
+      "title": "These bookshops let Chinese readers question their country, now the doors are closing",
+      "link": "https://www.bbc.co.uk/news/articles/cj0338l6yg4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 22:26:25 GMT",
+      "description": "For some mainlanders, Hong Kong's independent bookstores are a window into a different, freer world."
     },
     {
-      "title": "Wellness habits you can start now - at no (or little) cost",
-      "link": "https://www.bbc.co.uk/news/articles/c62vyz2x065o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 00:23:55 GMT",
-      "description": "Living a healthy life doesn't have to just be about pricey studio classes and luxury retreats."
+      "title": "'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?",
+      "link": "https://www.bbc.co.uk/news/videos/c235j22d85ro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 22 Aug 2026 02:39:10 GMT",
+      "description": "As the US president insults a journalist again, the BBC looks at the questions he does not like to answer."
     },
     {
-      "title": "What happened to Harry and Meghan's American dream?",
-      "link": "https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 02:57:34 GMT",
-      "description": "Harry and Meghan enjoyed some showbusiness success, but their Hollywood reign proved short-lived."
+      "title": "Burnham economic adviser O'Neill rules out government job",
+      "link": "https://www.bbc.co.uk/news/articles/cwym4m4j848o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 22 Aug 2026 02:53:22 GMT",
+      "description": "Lord O'Neill, former chief economist at Goldman Sachs, was tipped to become Andy Burnham's chief economic adviser."
     },
     {
-      "title": "Brandon Flowers: Is fame worth it? I'm not sure anymore",
-      "link": "https://www.bbc.co.uk/news/articles/c7vgple783go?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 00:26:57 GMT",
-      "description": "The Killers frontman asks big questions on his third solo album, which takes a detour into country."
+      "title": "The Papers: 'Fiscal worries mount' and 'Meghan in Guy Ritchie talks'",
+      "link": "https://www.bbc.co.uk/news/articles/c935r6vr135o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 22 Aug 2026 04:40:02 GMT",
+      "description": "Financial concerns and the Duchess of Sussex's possible return to television acting lead Saturday's papers."
     },
     {
-      "title": "'I've caught one fish all season' - how a polluted river could end 300 years of coracle fishing",
-      "link": "https://www.bbc.co.uk/news/articles/cewr9evwdwko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 05:06:39 GMT",
-      "description": "The tradition on a Carmarthenshire river once fished by US President Jimmy Carter could be coming to an end."
+      "title": "How Israel is expanding settlements in drive to reshape West Bank",
+      "link": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 19:31:47 GMT",
+      "description": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years."
     },
     {
-      "title": "Newspaper review: 'King puts William first' and Harry security could cost public '£5m a year'",
-      "link": "https://www.bbc.co.uk/news/articles/cy4kjmmmxmlo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 04:44:20 GMT",
-      "description": "The return of the Duke and Duchess of Sussex to the UK continues to dominate Friday's front pages."
+      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+      "link": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 22 Aug 2026 07:53:57 GMT",
+      "description": "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal."
     },
     {
-      "title": "Weekly quiz: Where did builders find £7.6m worth of gold bars and coins?",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gmnvj4dyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 17:44:31 GMT",
-      "description": "How much attention did you pay to what happened in the world over the past seven days?"
+      "title": "Brief break from rain as sunshine returns for weekend",
+      "link": "https://www.bbc.co.uk/weather/articles/clyx4ve0x0jo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 22 Aug 2026 01:11:29 GMT",
+      "description": "There will be a break in the rain this weekend as high pressure returns, but more wet weather is in store next week."
     },
     {
-      "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
-      "link": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 22:01:26 GMT",
-      "description": "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength."
+      "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
+      "link": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 22 Aug 2026 03:43:26 GMT",
+      "description": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis."
     },
     {
-      "title": "Bali jails Swiss tourist for insulting sacred Day of Silence",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 02:33:27 GMT",
-      "description": "The 26-year-old was jailed for a year after he sparked anger with an expletive-laden post about the sacred holiday."
+      "title": "'Mum still believes she was right to fake my illness'",
+      "link": "https://www.bbc.co.uk/news/articles/ce8lrz02rjyo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 19 Aug 2026 15:33:09 GMT",
+      "description": "Ahead of a Channel 4 documentary, Lisa Hayden-Johnson's son Matthew reflects on her actions."
     },
     {
-      "title": "Starmer donates biography of himself to Downing Street library",
-      "link": "https://www.bbc.co.uk/news/articles/czdm6m939edo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 06:56:11 GMT",
-      "description": "The former PM and seven of his ministers have added to the collection, which began in 1931."
+      "title": "'I can't do the things my friends do': Life as a teenage carer",
+      "link": "https://www.bbc.co.uk/news/articles/c4g355k8lg4o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 20 Aug 2026 00:49:25 GMT",
+      "description": "Young carers face huge disadvantages growing up - one teenager explains what life is like."
     },
     {
-      "title": "Academic who accused Jason Arday of plagiarism suspended by university",
-      "link": "https://www.bbc.co.uk/news/articles/cevmrjd9lj1o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 06:22:36 GMT",
-      "description": "Nathan Cofnas says he is being investigated for discriminating against the late Cambridge professor."
+      "title": "Watch: Fishermen rescued after five days adrift in cool box",
+      "link": "https://www.bbc.co.uk/news/videos/c1l10g94yg1o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 20 Aug 2026 20:41:31 GMT",
+      "description": "The men, aged 53 and 32, lost contact with their fishing cooperative on 14 August, 75 miles off the coast of Mexico."
     },
     {
-      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
-      "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 04:27:13 GMT",
-      "description": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination."
-    },
-    {
-      "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
-      "link": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 05:30:18 GMT",
-      "description": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others,"
-    },
-    {
-      "title": "Rain to stop in time for weekend as sun returns",
-      "link": "https://www.bbc.co.uk/weather/articles/c2el98pkd3po?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 00:14:00 GMT",
-      "description": "The heavy downpours that have caused flash flooding will ease during Friday with sunshine returning for the weekend. But there are some chilly nights in store, as Ben Rich explains."
-    },
-    {
-      "title": "Panama Canal to cut number of ships passing through due to El Niño",
-      "link": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 06:46:08 GMT",
-      "description": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision."
+      "title": "Missing cat found 100 miles away in feral colony",
+      "link": "https://www.bbc.co.uk/news/articles/cddjlmm28l9o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 14 Aug 2026 13:26:39 GMT",
+      "description": "Ginge the cat was found in Leeds almost a year after going missing from his home in Sunderland."
     },
     {
       "title": "BBC News app",
@@ -166,52 +148,64 @@
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests"
     },
     {
-      "title": "Can Andy Burnham End Rough Sleeping?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0p4z155?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 19 Aug 2026 15:06:00 GMT",
-      "description": "The PM says every rough sleeper in England will be offered accommodation this winter."
+      "title": "Is Andy Burnham Actually Popular Or Just New?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0p4z216?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 14:35:00 GMT",
+      "description": "And, Sue Gray gives her first interview since leaving Downing Street."
     },
     {
-      "title": "Who is Trump aide Natalie Harp… and why are Democrats targeting her?",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8lzj?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 19 Aug 2026 16:42:00 GMT",
-      "description": "And, will Trump be forever dogged by his war with Iran?"
+      "title": "Harry & Meghan: Why Are They Moving Back?",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m00314c0?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 20 Aug 2026 16:00:00 GMT",
+      "description": "The Sussexes love a surprise – but why have they decided to make a return to the UK?"
     },
     {
-      "title": "Spurs agree £75m deal to sign Man City's Savinho",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwyl0r8g4lwo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 06:30:48 GMT",
-      "description": "Tottenham agree a deal to sign Manchester City winger Savinho for £75m, with a further £10m in potential add-ons."
+      "title": "An intense psychological thriller with Zoë Kravitz and Channing Tatum",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m002ydz2?at_mid=vJxOQwqmAJ&at_campaign=Blink_Twice&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002ydz2&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Blink_Twice&at_bbc_team=BBC",
+      "published": "Wed, 01 Jul 2026 23:20:41 GMT",
+      "description": "Having fun? Nothing as as it seems on a private party island, and leaving's not an option"
     },
     {
-      "title": "Brook as talented as Gower and Pietersen but not ready to be captain - Agnew",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c8rn7jx766go?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 20:38:45 GMT",
-      "description": "England batsman Harry Brook was not ready to be Test captain but his knock at Headingley should be his batting blueprint for the future, writes Jonathan Agnew."
+      "title": "Swaggering Arsenal want title attack, not defence",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cpw94evj1q7o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 22:55:40 GMT",
+      "description": "Arsenal started last season as nearly men but their title win has given them a swagger - as Coventry discovered on the Premier League's opening night."
     },
     {
-      "title": "Break-up of Villa's Europa heroes leaves cracks for Emery to fill",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c20j3vjvy48o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 05:28:59 GMT",
-      "description": "Aston Villa have already sold three key players this summer, a figure that could potentially double by the end of the transfer window."
+      "title": "Second set of twins a good distraction from injury - Maddison",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c20j3vx6ne4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 22 Aug 2026 05:28:50 GMT",
+      "description": "Tottenham midfielder James Maddison says having five children aged four and under - including a second set of twins - helpfully distracted him from his ACL injury last season."
     },
     {
-      "title": "Sutton's opening weekend predictions v Courteeners frontman Liam Fray",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cn9nqzny7n7o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 06:46:11 GMT",
-      "description": "BBC Sport football expert Chris Sutton takes on Courteeners frontman Liam Fray, plus the BBC readers and AI with his predictions for the fixtures on the opening weekend of the new Premier League season."
+      "title": "Lessons learned, but Coventry's top-flight return about more than result",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cp8e37mpp0eo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 23:13:13 GMT",
+      "description": "Twenty-five years, 94 days and countless twists later, Coventry City have started life back in the Premier League, but it was a tough baptism of fire with a 3-0 loss at defending champions Arsenal."
     },
     {
-      "title": "Headlining on TikTok & targeting KO record - Serrano eyes history",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/c2el98w4peyo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 07:20:49 GMT",
-      "description": "Seven-division champion Amanda Serrano talks to BBC Sport about fighting on TikTok, going for the women's boxing knockout record and retirement plans."
+      "title": "Arsenal start title defence with comfortable win over Coventry",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cgr7e17010go?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 21:35:28 GMT",
+      "description": "Goals from Kai Havertz, Bukayo Saka and Martin Odegaard give champions Arsenal a comfortable 3-0 win over newcomers Coventry City, in the opening game of the Premier League campaign at the Emirates Stadium."
     },
     {
-      "title": "Flex your football brain with our daily quizzes",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c4gxxyyn8yeo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 06:29:11 GMT",
-      "description": "Test your football knowledge with today's Who Am I?, Five in Five and Brainteaser quizzes."
+      "title": "Fab Four and Fleming on the phone - England's first-Test takeaways",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c5yr18gp9j9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 22 Aug 2026 05:47:00 GMT",
+      "description": "Have England improved or were Pakistan really poor? BBC cricket correspondent Stephan Shemilt analyses the first-Test talking points from Headingley."
+    },
+    {
+      "title": "Serrano draws 3.4m views on TikTok for 50th win",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/ce97kk98ey4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 22 Aug 2026 08:13:16 GMT",
+      "description": "Amanda Serrano is made to work for her 50th career win against Lucrecia Manzur., which draws over three million views on TikTok."
+    },
+    {
+      "title": "Messi fined for slapping opponent in MLS game",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cz05k0j72p5o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 22 Aug 2026 08:05:09 GMT",
+      "description": "Lionel Messi is fined by Major League Soccer after slapping Philadelphia Union's Quinn during Inter Miami's draw on Wednesday."
     }
   ]
 }
