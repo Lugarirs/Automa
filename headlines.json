@@ -1,145 +1,133 @@
 {
-  "scraped_at": "2026-08-23 08:14:46 UTC",
+  "scraped_at": "2026-08-24 08:32:51 UTC",
   "source": "BBC News RSS",
-  "total": 33,
+  "total": 32,
   "headlines": [
     {
-      "title": "Police officers killed in wrong-way crash mourned in 'unimaginable loss'",
-      "link": "https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 23 Aug 2026 07:24:25 GMT",
-      "description": "PC Matthew Blades, PC Tom Clough and five young people were killed when a car drove the wrong way on the A66 and struck the police vehicle."
+      "title": "Families of two police officers killed in crash say they were heroes",
+      "link": "https://www.bbc.co.uk/news/articles/c4gvgy3de37o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 24 Aug 2026 07:18:06 GMT",
+      "description": "PC Matthew Blades and PC Tom Clough died after a car, whose five occupants were also killed, collided with their vehicle."
     },
     {
-      "title": "Mayors to get powers to overrule local councils on planning decisions",
-      "link": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 23 Aug 2026 03:10:51 GMT",
-      "description": "Housing minister Matthew Pennycook said the change was \"essential\" for helping mayors \"effectively deliver new homes\"."
+      "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
+      "link": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 24 Aug 2026 05:00:22 GMT",
+      "description": "Five years after the Taliban’s return, the BBC follows senior figures as the group reshapes the country."
     },
     {
-      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 23 Aug 2026 05:46:43 GMT",
-      "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war."
+      "title": "Nearly three million Teslas recalled in China over hidden door handles",
+      "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 24 Aug 2026 05:01:17 GMT",
+      "description": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely."
     },
     {
-      "title": "Plan to restrict violent and sex offenders to certain areas to start in October",
-      "link": "https://www.bbc.co.uk/news/articles/cy8e8jx0x5wo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 23 Aug 2026 02:37:03 GMT",
-      "description": "Serious violent and sexual offenders may be confined to areas of just a few miles after leaving prison on probation."
+      "title": "'It's not Alton Towers' - rows break out over queuing at Wales' highest mountain",
+      "link": "https://www.bbc.co.uk/news/articles/c1714xg2vr9o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 24 Aug 2026 05:15:25 GMT",
+      "description": "There has been disagreement between queuers and others skipping the line to reach the top of Yr Wyddfa."
     },
     {
-      "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister says",
-      "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 23 Aug 2026 08:02:22 GMT",
-      "description": "The sacked former defence minister has also called for elections to be held in Ukraine."
+      "title": "How easy is it to find an NHS dentist? It depends where you live",
+      "link": "https://www.bbc.co.uk/news/articles/c9v4w77d9m8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 23 Aug 2026 23:10:18 GMT",
+      "description": "Nearly 600 practices in England have withdrawn from NHS dentistry over the last 10 years, as the service heads towards a two-tier system."
     },
     {
-      "title": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
-      "link": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 23 Aug 2026 02:48:41 GMT",
-      "description": "The government says at no point was there a risk to the UK's energy system during the attack in July."
+      "title": "Australian shark attack victim grateful for 'second chance at life'",
+      "link": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 24 Aug 2026 05:31:53 GMT",
+      "description": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs."
     },
     {
-      "title": "Lucy Davis 'grateful' for support over cancer diagnosis",
-      "link": "https://www.bbc.co.uk/news/articles/cd9w9l9v8w8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 22 Aug 2026 21:50:29 GMT",
-      "description": "The Office star was appearing at convention in London, less than two weeks after announcing her condition."
+      "title": "Pubs and hotels could see business rates reformed after review",
+      "link": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 24 Aug 2026 07:32:06 GMT",
+      "description": "The review of how rates are calculated in England and Wales could lead to reform of the system."
     },
     {
-      "title": "The hotel booking mix-up that could free mushroom murderer",
-      "link": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 22 Aug 2026 19:03:03 GMT",
-      "description": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions."
+      "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 24 Aug 2026 03:55:35 GMT",
+      "description": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment."
     },
     {
-      "title": "How a new era of heatwaves could shake up the school calendar",
-      "link": "https://www.bbc.co.uk/news/articles/cp872m0grgyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 22 Aug 2026 23:16:43 GMT",
-      "description": "Teachers warn it could be increasingly difficult for classrooms to function during the hottest months."
+      "title": "Reform says it will prioritise young British-born workers for social housing",
+      "link": "https://www.bbc.co.uk/news/articles/cvgjgyg1rngo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 23 Aug 2026 21:07:47 GMT",
+      "description": "Labour called the plan \"unserious and unworkable\" and accused Reform of pushing \"gimmicks and division\"."
     },
     {
-      "title": "Why we can't look away from hoarder home clean-ups",
-      "link": "https://www.bbc.co.uk/news/articles/cy743vpj3dlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 22 Aug 2026 23:22:10 GMT",
-      "description": "Videos of extreme cleaning posted on social media often go viral and are watched millions of times."
+      "title": "Maradona's 'Hand of God' ball sells for £2.5m",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 24 Aug 2026 06:55:06 GMT",
+      "description": "The football with which Diego Maradona scored his famous 'hand of God' goal in the 1986 World Cup quarter-final victory over England is sold at auction."
     },
     {
-      "title": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
-      "link": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 22 Aug 2026 23:45:01 GMT",
-      "description": "BBC Verify tracks the changes in design, spec, manufacture and release date of the T1 phone from Trump Mobile."
+      "title": "Trump waves green flag to start IndyCar race through Washington streets",
+      "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 23 Aug 2026 20:19:36 GMT",
+      "description": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday."
     },
     {
-      "title": "Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?",
-      "link": "https://www.bbc.co.uk/news/articles/clyjmnvdr95o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 22 Aug 2026 23:22:02 GMT",
-      "description": "Prospectors have come to West Pokot county in the hope a gram of the precious metal can change their lives."
+      "title": "Doctors said I was too young to have endometriosis at 13 - I had to take morphine to cope",
+      "link": "https://www.bbc.co.uk/news/articles/ceqe8exvwwwo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 23 Aug 2026 23:14:04 GMT",
+      "description": "Grace, 14, feels doctors were dismissive of her pain. She wants others to know the symptoms."
     },
     {
-      "title": "Struggling households need more help with bills, energy industry says",
-      "link": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 23 Aug 2026 08:03:52 GMT",
-      "description": "Industry body Energy UK says the current support for households most in need does not go far enough."
+      "title": "How to get £2,000 to play computer games at university",
+      "link": "https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 23 Aug 2026 23:23:55 GMT",
+      "description": "Roehampton University offers students a year;y scholarship to play esports alongside their studies."
     },
     {
-      "title": "Fear and fallout three months on from Northern Ireland's race riots",
-      "link": "https://www.bbc.co.uk/news/articles/c0ej0edzddjo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 22 Aug 2026 23:01:54 GMT",
-      "description": "Northern Ireland saw consecutive nights of violence following a knife attack - but how are victims faring now?"
+      "title": "'I didn't speak the Queen's English': Why people worry about their accents",
+      "link": "https://www.bbc.co.uk/news/articles/c05q318501yo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 23 Aug 2026 23:25:44 GMT",
+      "description": "A survey on attitudes towards accents suggests that so-called \"accent bias\" is still an issue in many workplaces."
     },
     {
-      "title": "The Papers:  'Power to block nimby protests' and Meghan 'deal could be off'",
-      "link": "https://www.bbc.co.uk/news/articles/cy070jv944po?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 23 Aug 2026 05:07:23 GMT",
-      "description": "New mayoral powers and continued reporting on the Duchess of Sussex's television role lead Sunday's papers."
+      "title": "Rumours swirled after a Vietnamese teen was run over - then came a stunning admission",
+      "link": "https://www.bbc.co.uk/news/articles/c3ekgzwex05o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 23 Aug 2026 22:05:49 GMT",
+      "description": "Confirmation of the circumstances around Do Ngoc Phuong Thuy's death have only spurred more questions."
     },
     {
-      "title": "Baby whose parents feared had just days to live is 'thriving' after life-saving heart operation",
-      "link": "https://www.bbc.co.uk/news/articles/c5y6npz7zy0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 23 Aug 2026 06:13:45 GMT",
-      "description": "Doctors have told mum and dad Catrin and Dylan it could take years for a donor to materialise."
+      "title": "The Papers: 'Pain beyond words' and 'Graduates face worst job market'",
+      "link": "https://www.bbc.co.uk/news/articles/cgr7reynpdyo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 24 Aug 2026 04:17:48 GMT",
+      "description": "Photographs of the two police officers killed in a crash on Saturday morning lead several front pages on Monday."
     },
     {
-      "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
-      "link": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 23 Aug 2026 03:44:19 GMT",
-      "description": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium."
+      "title": "Shein aims for almost $27bn valuation in stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 24 Aug 2026 07:00:53 GMT",
+      "description": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September."
     },
     {
-      "title": "Girl, 17, killed in Swedish sword attack, police say",
-      "link": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 23 Aug 2026 01:34:15 GMT",
-      "description": "Two boys aged 12 and 17 were also injured, while an 18-year-old suspect has been detained."
+      "title": "Rain to return this week with chance of thunderstorms and flooding",
+      "link": "https://www.bbc.co.uk/weather/articles/czxex6xg75ro?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 24 Aug 2026 00:05:28 GMT",
+      "description": "Some much-needed rainfall is forecast through the coming week and will be welcome for places that have seen exceptionally dry and hot weather for much of the summer."
     },
     {
-      "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
-      "link": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 22 Aug 2026 17:02:06 GMT",
-      "description": "The robot ran the distance in 9.39 seconds at the World Humanoid Robot Games in Beijing."
+      "title": "China probes use of formaldehyde to keep cabbages fresh",
+      "link": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 24 Aug 2026 05:40:48 GMT",
+      "description": "Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages."
     },
     {
-      "title": "The rapper turning council jargon into poetry",
-      "link": "https://www.bbc.co.uk/news/articles/c7vg9pz5ll9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 16 Aug 2026 07:15:32 GMT",
-      "description": "A former council worker is using poetry and spoken word to explain council policy to young people."
+      "title": "CrossCountry to run full train service after power outage causes major disruption",
+      "link": "https://www.bbc.co.uk/news/articles/cp8x8xglp27o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 24 Aug 2026 06:41:05 GMT",
+      "description": "It follows major national rail disruption at the weekend."
     },
     {
-      "title": "'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted",
-      "link": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 18 Aug 2026 23:14:49 GMT",
-      "description": "Several thousands of Vinted users say they have been wrongly suspended or permanently banned from the preloved app."
-    },
-    {
-      "title": "Collapsed owl saved by soldiers 70 miles out at sea",
-      "link": "https://www.bbc.co.uk/news/articles/c4gv11nx3j8o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 20 Aug 2026 18:05:28 GMT",
-      "description": "\"It's very unusual... barn owls shouldn't be 70 miles off Newcastle,\" a wildlife rescuer says."
-    },
-    {
-      "title": "The Polygamist's author says women see themselves reflected in her Netflix hit",
-      "link": "https://www.bbc.co.uk/news/articles/cd0xk82mrpyo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 14 Aug 2026 23:17:22 GMT",
-      "description": "Zimbabwean novelist Sue Nyathi self-funded her debut novel and now asks who can afford to write at all."
+      "title": "Viral 'Cat in the Hat' TikTok trend sparks fun fake videos but also real fear",
+      "link": "https://www.bbc.co.uk/news/articles/cwyqy29jn74o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 23 Aug 2026 18:38:36 GMT",
+      "description": "The social media posts have prompted police forces in Ireland and the UK to issue statements that the images are fake."
     },
     {
       "title": "BBC News app",
@@ -166,40 +154,46 @@
       "description": "Having fun? Nothing as as it seems on a private party island, and leaving's not an option"
     },
     {
-      "title": "De Zerbi learns cash alone cannot fix Spurs' losing mentality",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cd696j44jqyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 22 Aug 2026 20:16:00 GMT",
-      "description": "Spurs head coach Roberto De Zerbi discovers cash is no cure for a losing mentality as they crash to a heavy defeat at Brentford, says chief football writer Phil McNulty."
+      "title": "Relief for Iraola but Liverpool have work to do after snatching draw at Newcastle",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cdrvr73egnlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 23 Aug 2026 19:27:12 GMT",
+      "description": "Dominik Szoboszlai's injury-time penalty rescues a point at the start of the Andoni Iraola era - but Liverpool need to improve after below-par display."
     },
     {
-      "title": "Australia beat Bangladesh in two days",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c9989723r7xo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 23 Aug 2026 07:39:21 GMT",
-      "description": "Mitchell Starc takes 10 wickets in the match as Australia bounce back to win the second Test against Bangladesh by an innings and 51 runs and draw the series."
+      "title": "What will it take to stop the England hangovers?",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/clyey486g4eo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 23 Aug 2026 21:31:03 GMT",
+      "description": "Yet again, England are dealing with a player involved in a late-night incident. Only strong action will ensure there are no more, writes Stephan Shemilt."
     },
     {
-      "title": "Heroic effort needed to catch Clark - McIlroy",
-      "link": "https://www.bbc.co.uk/sport/golf/articles/c0m7mrp9pd7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 23 Aug 2026 07:07:11 GMT",
-      "description": "Rory McIlroy shoots a five-under-par 65 to move into a share of second place after three rounds of the BMW Championship in St Louis."
+      "title": "Norris and McLaren 'don't have car' to fight for title despite Dutch GP win",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c1e1e56q4w5o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 23 Aug 2026 19:23:43 GMT",
+      "description": "Lando Norris says he and McLaren \"don't have the car I need to fight for a championship\", despite a second consecutive win of the season at the Dutch Grand Prix."
     },
     {
-      "title": "Mateta claims final year of Palace deal is invalid",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cdx7x90dxywo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 22 Aug 2026 17:49:41 GMT",
-      "description": "Jean-Philippe Mateta is challenging the validity of the final 10 months on his Crystal Palace contract."
+      "title": "Uefa chief Ceferin rules out Fifa presidency bid",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cp878rp71v2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 23 Aug 2026 23:20:31 GMT",
+      "description": "Uefa president Aleksander Ceferin rules himself out of the running to replace Gianni Infantino, but expects a candidate to challenge the Fifa president's leadership in March."
     },
     {
-      "title": "Norris expects challenge after back-to-back poles",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cy4548x20y5o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 22 Aug 2026 17:43:01 GMT",
-      "description": "World champion Lando Norris says he expects other teams to challenge for victory after securing pole position for Sunday's final Dutch Grand Prix."
+      "title": "Maradona's 'Hand of God' ball sells for £2.5m",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 24 Aug 2026 06:55:06 GMT",
+      "description": "The football with which Diego Maradona scored his famous 'hand of God' goal in the 1986 World Cup quarter-final victory over England is sold at auction."
     },
     {
-      "title": "What does Savinho's £75m move reveal about Man City's multi-club model?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c3w0wpy86z7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 23 Aug 2026 07:43:38 GMT",
-      "description": "Does Savinho's £75m move from Manchester City to Tottenham represent a sporting success for the Abu Dhabi-owned club?"
+      "title": "Clark holds off McIlroy fightback to win BMW Championship",
+      "link": "https://www.bbc.co.uk/sport/golf/articles/cdrvr8nkm5mo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 23 Aug 2026 22:30:22 GMT",
+      "description": "Wyndham Clark says he is \"one of the best players in the world\" after he survives a  fightback from Rory McIlroy to win the BMW Championship."
+    },
+    {
+      "title": "'A win at home in the first game was beyond anyone's dreams' - Holden on MOTD",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c0kmk6rd30no?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 23 Aug 2026 23:37:29 GMT",
+      "description": "Following their huge win against Manchester United, Hull City assistant head coach Dean Holden joins Gabby Logan, Danny Murphy and Joe Hart in the Match of the Day studio."
     }
   ]
 }
