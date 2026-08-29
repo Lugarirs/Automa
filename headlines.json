@@ -1,73 +1,49 @@
 {
-  "scraped_at": "2026-08-28 19:40:20 UTC",
+  "scraped_at": "2026-08-29 13:25:42 UTC",
   "source": "BBC News RSS",
-  "total": 37,
+  "total": 32,
   "headlines": [
     {
-      "title": "Videos show people survive floodwaters on balcony in Nepal",
-      "link": "https://www.bbc.co.uk/news/videos/cx2z81kmeggo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 17:32:02 GMT",
-      "description": "BBC Verify has located several videos from disaster-struck areas of the Trishuli river after deadly floods swept through."
+      "title": "Christian festival 'devastated' as man dies after sign falls",
+      "link": "https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 13:06:03 GMT",
+      "description": "Police say at least six other people were also injured in the incident at the Big Church Festival."
     },
     {
-      "title": "What we know about the 33 British nationals missing in Nepal",
-      "link": "https://www.bbc.co.uk/news/articles/c93v70w79gxo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 19:21:57 GMT",
-      "description": "Among those reported missing after deadly floods are a 13-year-old girl and 14-year-old boy."
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 12:55:39 GMT",
+      "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area."
     },
     {
-      "title": "Norway's 'grandfather': King Harald remembered as son Haakon takes the throne",
-      "link": "https://www.bbc.co.uk/news/videos/c05rzd115y5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 18:11:13 GMT",
-      "description": "Norwegians paid their respects to the late King Harld after his death on Friday morning."
+      "title": "Burnham's summer tour is over - now he has to prove himself in Parliament",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy48r1nr4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 10:31:18 GMT",
+      "description": "The imminent return of Parliament will put the new prime minister under real scrutiny, with MPs finally getting a chance to grill him."
     },
     {
-      "title": "BBC tracks one week of Israeli settler violence in occupied West Bank",
-      "link": "https://www.bbc.co.uk/news/videos/c3wjq1188g9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 14:06:13 GMT",
-      "description": "The BBC's Lucy Williamson reports on settler attacks on Palestinians, which have been observed over the last week alone."
+      "title": "Football fans pay tribute to crash death officers at Middlesbrough match",
+      "link": "https://www.bbc.co.uk/news/articles/c5y5727d02xo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 13:02:27 GMT",
+      "description": "PC Matthew Blades and PC Tom Clough died in a head-on collision on the A66 near Middlesbrough."
     },
     {
-      "title": "Wife of man who died after turbulence sues Singapore Airlines",
-      "link": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 17:47:00 GMT",
-      "description": "Lawyers for Linda Kitchen say her husband was \"fatally injured\" after the flight dropped 6,000 ft."
+      "title": "Sarah Ferguson expected back in the UK 'shortly', source says",
+      "link": "https://www.bbc.co.uk/news/articles/ce8xn9ge6xeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 10:43:25 GMT",
+      "description": "The former Duchess of York is renting a six-bed house in the Home Counties, reports say."
     },
     {
-      "title": "Paul Heaton scores first number one album as Dolly Parton's 9 to 5 finally reaches top 40",
-      "link": "https://www.bbc.co.uk/news/articles/c8d3ml106j8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 16:48:36 GMT",
-      "description": "Heaton's solo album tops the chart, while Parton's 1980 US hit reaches the UK top 40 at last."
+      "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
+      "link": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 28 Aug 2026 21:17:54 GMT",
+      "description": "A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator."
     },
     {
-      "title": "Disorder at balloon release for man who died in A66 car crash 'put lives at risk', MP says",
-      "link": "https://www.bbc.co.uk/news/articles/cdj43zkjweyo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 19:38:35 GMT",
-      "description": "Police now say they are not currently linking a deadly crash on the A66 to a fatal house fire."
-    },
-    {
-      "title": "Four plead guilty to arson attack on Jewish community ambulances",
-      "link": "https://www.bbc.co.uk/news/articles/c1j4rkywx3lo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 18:41:35 GMT",
-      "description": "Four vehicles run by a charity were set alight in Golders Green, north-west London, causing explosions in March."
-    },
-    {
-      "title": "More British athletes convicted in connection with Baptiste case",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/c5yenn85dqgo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 17:54:59 GMT",
-      "description": "BBC Sport reveals that Will Sharman, Richard Sharman and Lamin Deen were also convicted in the case which led to Leon Baptiste's imprisonment."
-    },
-    {
-      "title": "Six people injured after sign falls at Christian festival",
-      "link": "https://www.bbc.co.uk/news/articles/cwyz52x45jxo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 19:28:26 GMT",
-      "description": "Emergency services were called to reports of people in need of medical attention at Wiston Park."
-    },
-    {
-      "title": "'Terrorist connection' included in charges over vandalism at Trump's Scottish golf resort",
-      "link": "https://www.bbc.co.uk/news/articles/c4gk2lqgkeno?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 16:04:25 GMT",
-      "description": "Seven people accused of causing damage at Trump's resort could receive longer sentences if convicted."
+      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 03:54:11 GMT",
+      "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China."
     },
     {
       "title": "Satellite images reveal scale of flood devastation in Nepal villages",
@@ -76,106 +52,106 @@
       "description": "Before-and-after images show villages, bridges and a key Nepal-Tibet border crossing washed away by devastating floodwaters."
     },
     {
-      "title": "This Indian pilgrim was about to enter Tibet for her dream tour - then her WhatsApp messages stopped",
-      "link": "https://www.bbc.co.uk/news/articles/c70d41g40njo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 09:31:42 GMT",
-      "description": "Her family is among hundreds anxiously waiting for news after the deadly flash floods."
+      "title": "What we know about the 33 British nationals missing in Nepal",
+      "link": "https://www.bbc.co.uk/news/articles/c93v70w79gxo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 28 Aug 2026 19:21:57 GMT",
+      "description": "Among those reported missing after deadly floods are a 13-year-old girl and 14-year-old boy."
     },
     {
-      "title": "Watch: Why rescuers fear new barrier lake could cause another Nepal-Tibet flood",
-      "link": "https://www.bbc.co.uk/news/videos/cj06j16vpr5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 10:35:06 GMT",
-      "description": "Laura Bicker explains how a lake which formed after the recent landslide near the Nepal-Tibet border is raising fears of a second flood."
+      "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
+      "link": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 00:32:17 GMT",
+      "description": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC."
     },
     {
-      "title": "What we know about deadly Nepal-Tibet floods",
-      "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 15:58:02 GMT",
-      "description": "Hundreds have died and thousands are missing after Wednesday's flooding and landslides on the border of Nepal and Tibet."
+      "title": "We're behind UK's emergency phone alerts - but question how they're being used",
+      "link": "https://www.bbc.co.uk/news/articles/ckgw7xj698lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 01:37:08 GMT",
+      "description": "Millions across England and Wales received a wildfire alert on their phones earlier this month, but it partly backfired."
     },
     {
-      "title": "Reading and Leeds Festival unveils major overhaul - can it shake its under-18 image?",
-      "link": "https://www.bbc.co.uk/news/articles/ckgw5el7n9lo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 06:33:21 GMT",
-      "description": "BBC Newsbeat has spoken with festival-goers to see whether they feel the changes will attract a wider demographic."
+      "title": "How one of the 'most powerful hacks' to control stress actually works",
+      "link": "https://www.bbc.co.uk/news/articles/c5y5jqly153o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 01:24:36 GMT",
+      "description": "We spoke to experts about how the breathing technique used by soldiers and influencers works."
     },
     {
-      "title": "Norway's King Haakon begins reign after turbulent year",
-      "link": "https://www.bbc.co.uk/news/articles/cp841114eg6o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 10:37:21 GMT",
-      "description": "Haakon becomes the king at a turbulent time for Norway's monarchy."
+      "title": "The race to stop England running out of water",
+      "link": "https://www.bbc.co.uk/news/articles/clyrv84yd9ko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 00:46:00 GMT",
+      "description": "Who is to blame for the summer drought, and can England future-proof its water supplies?"
     },
     {
-      "title": "Hypermobility - the little-known 'bendy disease' that causes pain and fatigue",
-      "link": "https://www.bbc.co.uk/news/articles/clyx0gzynneo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 27 Aug 2026 23:13:52 GMT",
-      "description": "The disorder may affect hundreds of thousands in the UK, but many face delays in getting a diagnosis."
+      "title": "Sweetcorn ice creams and pastries: The latest 'swavoury' trend taking over your feed",
+      "link": "https://www.bbc.co.uk/news/articles/c4gdvvp07dzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 01:13:14 GMT",
+      "description": "From lattes to pastries, UK foodies are embracing the humble sweetcorn as more than a pizza topping."
     },
     {
-      "title": "Division, drama and power - what next for Infantino and Uefa?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c4gmx03npxmo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 15:00:20 GMT",
-      "description": "Explosive court documents reveal the growing bitterness of Uefa's feud with Fifa president Gianni Infantino, Dan Roan reports."
+      "title": "Strong winds and thunderstorms kick off the bank holiday weekend",
+      "link": "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 10:51:21 GMT",
+      "description": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylor explains."
     },
     {
-      "title": "What we know after the big Grand Theft Auto 6 preview",
-      "link": "https://www.bbc.co.uk/news/articles/c3d7exngd5no?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 11:04:11 GMT",
-      "description": "The official look at the blockbuster video game leaves fans and critics impressed."
+      "title": "Charli XCX electrifies Reading Festival with era-spanning set",
+      "link": "https://www.bbc.co.uk/news/articles/c750ng9grk0o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 28 Aug 2026 23:34:34 GMT",
+      "description": "The British singer and Irish rock band Fontaines DC both headlined the first night of Reading for 2026."
     },
     {
-      "title": "I was spending £700 a month: How I beat my late-night shopping addiction",
-      "link": "https://www.bbc.co.uk/news/articles/czxqk1gwxn7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 27 Aug 2026 23:04:21 GMT",
-      "description": "Younger generations are thought to be more susceptible to impulse spending. The BBC looks at ways to get it under control."
+      "title": "Royal Navy warships track Russian vessels for three days in UK waters",
+      "link": "https://www.bbc.co.uk/news/articles/c93e88jzn54o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 12:05:03 GMT",
+      "description": "HMS Duncan, HMS St Albans and HMS Severn used radars to monitor four vessels as they passed through the North Sea and English Channel last week."
     },
     {
-      "title": "Weekly quiz: Who is taking over as Gilderoy Lockhart in HBO's Harry Potter series?",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z4np5pnyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 27 Aug 2026 17:04:46 GMT",
-      "description": "How much attention did you pay to what happened in the world over the past seven days?"
+      "title": "Wales NHS gender surgeries paused for review into referral numbers",
+      "link": "https://www.bbc.co.uk/news/articles/c23xvv42rp1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 11:38:45 GMT",
+      "description": "Data suggests \"significantly higher\" rates of referral for gender-affirming surgery compared with English services, according to the health board."
     },
     {
-      "title": "Violence breaks out in Ceuta as migrant crisis continues",
-      "link": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 16:30:59 GMT",
-      "description": "A group of migrants is accused of throwing stones at a military vehicle, while some locals set fire to their camps on the beach."
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 13:16:43 GMT",
+      "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy."
     },
     {
-      "title": "Burnham says he will not vote on assisted dying unlike Starmer",
-      "link": "https://www.bbc.co.uk/news/articles/c1dlp27gre5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 17:04:28 GMT",
-      "description": "Burnham has called for all views to be respected as MPs vote in two weeks on legalising assisted dying in England and Wales."
+      "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
+      "link": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 00:46:02 GMT",
+      "description": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past."
     },
     {
-      "title": "Thieves steal 600-diamond necklace from Vienna museum in broad daylight",
-      "link": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 17:29:16 GMT",
-      "description": "Police are hunting two suspects they believe bought a ticket for the exhibition to get at the jewellery."
+      "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
+      "link": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 07:11:04 GMT",
+      "description": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets."
     },
     {
-      "title": "World's youngest reigning traditional monarch dies aged 34",
-      "link": "https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 11:13:24 GMT",
-      "description": "King Oyo ascended to the throne of Uganda's Tooro kingdom when he was just three years old."
+      "title": "How to get £2,000 to play computer games at university",
+      "link": "https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 23 Aug 2026 23:23:55 GMT",
+      "description": "Roehampton University offers students a year;y scholarship to play esports alongside their studies."
     },
     {
-      "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
-      "link": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 13:50:34 GMT",
-      "description": "Anne Lindboe, the mayor of Norway's capital, had planned to marry her fiance on Friday."
+      "title": "Man tracks down siblings who sent him Christmas present as he fled war 33 years ago",
+      "link": "https://www.bbc.co.uk/news/articles/c3w08px9v6do?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 21:31:03 GMT",
+      "description": "Dalibor Sentic was 10 when in the early 1990s his family fled Croatia for Sweden."
     },
     {
-      "title": "Hundreds of migrants enter UK after 10-day lull",
-      "link": "https://www.bbc.co.uk/news/articles/cpvez80v1pno?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 13:39:31 GMT",
-      "description": "Nearly 500 people crossed the Channel in seven boats on Thursday - the first since 17 August."
+      "title": "'Keep walking': 100-year-old still does mile a day",
+      "link": "https://www.bbc.co.uk/news/articles/cdj0v1dr8pxo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 21 Aug 2026 05:02:44 GMT",
+      "description": "Peter Byers says he walks into Pocklington town centre \"to make sure people know I'm still alive\"."
     },
     {
-      "title": "NHS bosses warn of chaos in ADHD and autism care",
-      "link": "https://www.bbc.co.uk/news/articles/cy4zgpynwdjo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 01:23:09 GMT",
-      "description": "Costs are spiralling out of control as unregulated private providers capitalise on demand, say managers."
+      "title": "How a seaside town realised it needed public loos",
+      "link": "https://www.bbc.co.uk/news/articles/c2el8kkz1xxo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 23 Aug 2026 06:19:23 GMT",
+      "description": "Eastbourne Borough Council did not install the first public toilets for ladies until 1900."
     },
     {
       "title": "BBC News app",
@@ -202,28 +178,22 @@
       "description": "BBC Sport travels to Nuuk for the Greenlandic Football Championship."
     },
     {
-      "title": "How England are building an attack to trouble Australia",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cvgy0zdex14o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 19:11:13 GMT",
-      "description": "Former England captain Michael Vaughan predicts England's new pace quartet will trouble Australia - so what is making them effective against Pakistan?"
+      "title": "Liverpool agree £123m deal for PSG's Barcola",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5ywgjnnn74o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 08:03:53 GMT",
+      "description": "Liverpool are closing in on a deal to sign forward Bradley Barcola, which will increase doubts over Cody Gakpo's future."
     },
     {
-      "title": "More British athletes convicted in connection with Baptiste case",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/c5yenn85dqgo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 17:54:59 GMT",
-      "description": "BBC Sport reveals that Will Sharman, Richard Sharman and Lamin Deen were also convicted in the case which led to Leon Baptiste's imprisonment."
+      "title": "Forest to bid £40m for Everton teenager Armstrong",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cy0znn7lg51o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 12:41:06 GMT",
+      "description": "Nottingham Forest launch an ambitious bid to sign Everton's teenage midfielder Harrison Armstrong."
     },
     {
-      "title": "What will Jackson bring to Villa with Watkins set for exit?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/czjz9j3r8p8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 19:14:48 GMT",
-      "description": "BBC Sport examines what new striker Nicolas Jackson will bring to Aston Villa, with Ollie Watkins looking set to join Al-Hilal."
-    },
-    {
-      "title": "England enjoy dominant day at Lord's to close in on series win",
-      "link": "https://www.bbc.co.uk/sport/cricket/videos/cwyz10x20p3o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 18:29:17 GMT",
-      "description": "England enjoy day of dominance with both bat and ball to put themselves in complete control of the second Test against Pakistan, closing day two on 81-3, giving the hosts a lead of 261 at Lord's."
+      "title": "Cannabis smell at US Open is distracting - Boulter",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c74exxnd7r3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 11:07:31 GMT",
+      "description": "British number one Katie Boulter complains that the smell of cannabis is putting her off her game at the US Open."
     }
   ]
 }
