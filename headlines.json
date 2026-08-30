@@ -1,37 +1,43 @@
 {
-  "scraped_at": "2026-08-29 13:25:42 UTC",
+  "scraped_at": "2026-08-30 13:21:59 UTC",
   "source": "BBC News RSS",
   "total": 32,
   "headlines": [
     {
-      "title": "Christian festival 'devastated' as man dies after sign falls",
-      "link": "https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 13:06:03 GMT",
-      "description": "Police say at least six other people were also injured in the incident at the Big Church Festival."
+      "title": "PC Harper's killers to stay in jail as PM announces changes to early release scheme",
+      "link": "https://www.bbc.co.uk/news/articles/crr4wd81pdpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 08:59:58 GMT",
+      "description": "Andy Burnham tells BBC Breakfast anyone convicted of manslaughter will be excluded from the early release scheme in the Sentencing Act."
     },
     {
-      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-      "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 12:55:39 GMT",
-      "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area."
+      "title": "Burnham gets the early prison release changes he wanted - but at what cost?",
+      "link": "https://www.bbc.co.uk/news/articles/cdx5zw4e2x9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 07:58:31 GMT",
+      "description": "The prime minister says he will keep hundreds more criminals behind bars but doing so requires complex changes."
     },
     {
-      "title": "Burnham's summer tour is over - now he has to prove himself in Parliament",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy48r1nr4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 10:31:18 GMT",
-      "description": "The imminent return of Parliament will put the new prime minister under real scrutiny, with MPs finally getting a chance to grill him."
+      "title": "British woman killed in stabbing at German railway station",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 11:34:48 GMT",
+      "description": "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria."
     },
     {
-      "title": "Football fans pay tribute to crash death officers at Middlesbrough match",
-      "link": "https://www.bbc.co.uk/news/articles/c5y5727d02xo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 13:02:27 GMT",
-      "description": "PC Matthew Blades and PC Tom Clough died in a head-on collision on the A66 near Middlesbrough."
+      "title": "Church names pastor killed by falling sign at Christian festival",
+      "link": "https://www.bbc.co.uk/news/articles/clyk7rz1pllo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 11:46:07 GMT",
+      "description": "Robert Guanco, 41, was a pastor at Jesus the Living Water Church in Eastbourne, East Sussex."
     },
     {
-      "title": "Sarah Ferguson expected back in the UK 'shortly', source says",
-      "link": "https://www.bbc.co.uk/news/articles/ce8xn9ge6xeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 10:43:25 GMT",
-      "description": "The former Duchess of York is renting a six-bed house in the Home Counties, reports say."
+      "title": "Iceland votes against restarting talks on joining EU",
+      "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 10:49:11 GMT",
+      "description": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks."
+    },
+    {
+      "title": "China censors videos showing deadly flash floods on the Nepal-Tibet border",
+      "link": "https://www.bbc.co.uk/news/videos/c89jxgd93qyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 17:42:41 GMT",
+      "description": "Footage of the flash floods have become almost impossible to find on China’s heavily censored internet."
     },
     {
       "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
@@ -46,112 +52,100 @@
       "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China."
     },
     {
-      "title": "Satellite images reveal scale of flood devastation in Nepal villages",
-      "link": "https://www.bbc.co.uk/news/articles/cd68vpjv21do?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 17:36:54 GMT",
-      "description": "Before-and-after images show villages, bridges and a key Nepal-Tibet border crossing washed away by devastating floodwaters."
-    },
-    {
       "title": "What we know about the 33 British nationals missing in Nepal",
       "link": "https://www.bbc.co.uk/news/articles/c93v70w79gxo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 28 Aug 2026 19:21:57 GMT",
       "description": "Among those reported missing after deadly floods are a 13-year-old girl and 14-year-old boy."
     },
     {
-      "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
-      "link": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 00:32:17 GMT",
-      "description": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC."
+      "title": "We all share a 15-acre Georgian mansion for the price of a two-bed house",
+      "link": "https://www.bbc.co.uk/news/articles/cg7mglglvmgo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 06:04:28 GMT",
+      "description": "Co-housing residents live in a Grade II listed mansion for the same price as a two-bed house."
     },
     {
-      "title": "We're behind UK's emergency phone alerts - but question how they're being used",
-      "link": "https://www.bbc.co.uk/news/articles/ckgw7xj698lo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 01:37:08 GMT",
-      "description": "Millions across England and Wales received a wildfire alert on their phones earlier this month, but it partly backfired."
+      "title": "WhatsApp group chat used to send millions in cash, funding crime and extremism",
+      "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 04:59:56 GMT",
+      "description": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail."
     },
     {
-      "title": "How one of the 'most powerful hacks' to control stress actually works",
-      "link": "https://www.bbc.co.uk/news/articles/c5y5jqly153o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 01:24:36 GMT",
-      "description": "We spoke to experts about how the breathing technique used by soldiers and influencers works."
+      "title": "I was told I was unworthy to be a mother, then they stole my baby",
+      "link": "https://www.bbc.co.uk/news/articles/c2el0l0d38zo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 00:52:50 GMT",
+      "description": "Marion McMillan was one of about 250,000 women who were forced to have their babies adopted between 1949 and 1976."
     },
     {
-      "title": "The race to stop England running out of water",
-      "link": "https://www.bbc.co.uk/news/articles/clyrv84yd9ko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 00:46:00 GMT",
-      "description": "Who is to blame for the summer drought, and can England future-proof its water supplies?"
+      "title": "They fell in love - then had to check they weren't brother and sister",
+      "link": "https://www.bbc.co.uk/news/articles/c8en3n29wdro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 23:03:51 GMT",
+      "description": "A French couple - both conceived by sperm donors - wanted children. But with home DNA tests illegal, how could they be sure they were not related?"
     },
     {
-      "title": "Sweetcorn ice creams and pastries: The latest 'swavoury' trend taking over your feed",
-      "link": "https://www.bbc.co.uk/news/articles/c4gdvvp07dzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 01:13:14 GMT",
-      "description": "From lattes to pastries, UK foodies are embracing the humble sweetcorn as more than a pizza topping."
+      "title": "Mount Fuji pics, life-changing ramen and a weak yen - why young Brits are going to Japan",
+      "link": "https://www.bbc.co.uk/news/articles/c7704l1ypjgo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 29 Aug 2026 23:04:22 GMT",
+      "description": "Photos of Mount Fuji, bowls of ramen and the bustle of Shibuya Crossing are filling up social media feeds."
     },
     {
-      "title": "Strong winds and thunderstorms kick off the bank holiday weekend",
-      "link": "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 10:51:21 GMT",
-      "description": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylor explains."
+      "title": "Three rescued, two still missing as French fishing vessel sinks in Channel",
+      "link": "https://www.bbc.co.uk/news/articles/cjrx2qjv3e3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 09:46:58 GMT",
+      "description": "Three of the five crew members were rescued and taken to hospital, the coastguard says."
     },
     {
-      "title": "Charli XCX electrifies Reading Festival with era-spanning set",
-      "link": "https://www.bbc.co.uk/news/articles/c750ng9grk0o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 23:34:34 GMT",
-      "description": "The British singer and Irish rock band Fontaines DC both headlined the first night of Reading for 2026."
+      "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+      "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 12:44:08 GMT",
+      "description": "Five others in their twenties were injured after shots were fired at a techno event near Zurich."
     },
     {
-      "title": "Royal Navy warships track Russian vessels for three days in UK waters",
-      "link": "https://www.bbc.co.uk/news/articles/c93e88jzn54o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 12:05:03 GMT",
-      "description": "HMS Duncan, HMS St Albans and HMS Severn used radars to monitor four vessels as they passed through the North Sea and English Channel last week."
+      "title": "Large Lake Ontario sign installed in Canada in latest jab at US",
+      "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 00:17:25 GMT",
+      "description": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\""
     },
     {
-      "title": "Wales NHS gender surgeries paused for review into referral numbers",
-      "link": "https://www.bbc.co.uk/news/articles/c23xvv42rp1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 11:38:45 GMT",
-      "description": "Data suggests \"significantly higher\" rates of referral for gender-affirming surgery compared with English services, according to the health board."
+      "title": "Man Utd pay tribute to 'proud Red' officer who died in A66 crash",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckg8x0ex8gno?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 12:46:10 GMT",
+      "description": "The widow and two children of PC Matthew Blades will be at Old Trafford for Manchester United's Premier League game with Ipswich."
     },
     {
-      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 13:16:43 GMT",
-      "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy."
+      "title": "Six ways parents could make the return to school a little easier",
+      "link": "https://www.bbc.co.uk/news/articles/c8rnp5m85jlo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 00:26:33 GMT",
+      "description": "Parenting experts give their top tips on how to make sure back-to-school runs as smoothly as possible."
     },
     {
-      "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
-      "link": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 00:46:02 GMT",
-      "description": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past."
+      "title": "Dementia patient's deportation from Sweden delayed",
+      "link": "https://www.bbc.co.uk/news/articles/c1wx7rjpjz4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 06:12:45 GMT",
+      "description": "George Mason, originally from Hinckley in Leicestershire, is facing deportation from Sweden."
     },
     {
-      "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
-      "link": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 07:11:04 GMT",
-      "description": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets."
+      "title": "Former railway line named Britain's favourite path",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyl2mpnjjo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 27 Aug 2026 11:30:46 GMT",
+      "description": "The traffic-free route has been maintained by volunteers since the railway closed in the late 1960s."
     },
     {
-      "title": "How to get £2,000 to play computer games at university",
-      "link": "https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 23 Aug 2026 23:23:55 GMT",
-      "description": "Roehampton University offers students a year;y scholarship to play esports alongside their studies."
+      "title": "Some parents 'unaware' summer-born children can defer school",
+      "link": "https://www.bbc.co.uk/news/articles/c802g5dm29jo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 23 Aug 2026 06:17:06 GMT",
+      "description": "Parents say misinformation means many families do not realise summer-born children can delay school."
     },
     {
-      "title": "Man tracks down siblings who sent him Christmas present as he fled war 33 years ago",
-      "link": "https://www.bbc.co.uk/news/articles/c3w08px9v6do?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 21:31:03 GMT",
-      "description": "Dalibor Sentic was 10 when in the early 1990s his family fled Croatia for Sweden."
+      "title": "'What you see is what you pay' - why some US restaurants are banning tips",
+      "link": "https://www.bbc.co.uk/news/articles/c4g36yze692o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 24 Aug 2026 23:04:17 GMT",
+      "description": "Tips are central to US dining culture but some eateries think that they are unfair."
     },
     {
-      "title": "'Keep walking': 100-year-old still does mile a day",
-      "link": "https://www.bbc.co.uk/news/articles/cdj0v1dr8pxo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 21 Aug 2026 05:02:44 GMT",
-      "description": "Peter Byers says he walks into Pocklington town centre \"to make sure people know I'm still alive\"."
-    },
-    {
-      "title": "How a seaside town realised it needed public loos",
-      "link": "https://www.bbc.co.uk/news/articles/c2el8kkz1xxo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 23 Aug 2026 06:19:23 GMT",
-      "description": "Eastbourne Borough Council did not install the first public toilets for ladies until 1900."
+      "title": "Hidden museum gallery to reopen after 83 years",
+      "link": "https://www.bbc.co.uk/news/articles/cr59grpzqgeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 22 Aug 2026 07:00:07 GMT",
+      "description": "The gallery, which has been closed since 1943, will reopen from 16 September."
     },
     {
       "title": "BBC News app",
@@ -178,22 +172,28 @@
       "description": "BBC Sport travels to Nuuk for the Greenlandic Football Championship."
     },
     {
-      "title": "Liverpool agree £123m deal for PSG's Barcola",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5ywgjnnn74o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 08:03:53 GMT",
-      "description": "Liverpool are closing in on a deal to sign forward Bradley Barcola, which will increase doubts over Cody Gakpo's future."
+      "title": "Barcelona close to deal for Arsenal's Jesus",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9qr79jr1qqo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 13:09:39 GMT",
+      "description": "Barcelona are closing in on a move for Arsenal striker Gabriel Jesus in a deal worth £8.6m."
     },
     {
-      "title": "Forest to bid £40m for Everton teenager Armstrong",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cy0znn7lg51o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 12:41:06 GMT",
-      "description": "Nottingham Forest launch an ambitious bid to sign Everton's teenage midfielder Harrison Armstrong."
+      "title": "Everton call off Armstrong sale after fan backlash",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c0lrge3dwklo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 08:58:28 GMT",
+      "description": "Everton have called off a proposed deal to sell midfielder Harrison Armstrong to Nottingham Forest following a backlash from the club's supporters."
     },
     {
-      "title": "Cannabis smell at US Open is distracting - Boulter",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/c74exxnd7r3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 11:07:31 GMT",
-      "description": "British number one Katie Boulter complains that the smell of cannabis is putting her off her game at the US Open."
+      "title": "Tottenham make Ndiaye move with Richarlison set for Everton",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crl631pgxj7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 10:39:54 GMT",
+      "description": "Tottenham are in advanced talks to sign Iliman Ndiaye from Everton, with Richarlison set to move in the opposite direction as part of separate negotiations."
+    },
+    {
+      "title": "How Sabalenka could lose No 1 ranking at US Open",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c4glzvq3pzno?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 05:06:28 GMT",
+      "description": "Will Aryna Sabalenka rediscover her mojo? How will Carlos Alcaraz's comeback go? And can Novak Djokovic win? It's time for the 2026 US Open singles."
     }
   ]
 }
