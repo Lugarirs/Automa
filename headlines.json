@@ -1,151 +1,139 @@
 {
-  "scraped_at": "2026-09-04 12:18:01 UTC",
+  "scraped_at": "2026-09-05 11:25:38 UTC",
   "source": "BBC News RSS",
-  "total": 34,
+  "total": 30,
   "headlines": [
     {
-      "title": "Chris Mason: 'This is not what Farage wanted today to look like'",
-      "link": "https://www.bbc.co.uk/news/videos/c86xjeqn4qyo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 11:20:21 GMT",
-      "description": "Chris Mason speaks from the Reform UK conference as two of its senior officials step down following a Channel 4 investigation."
+      "title": "Cleveland police chief proud of force but being 'let down' by funding",
+      "link": "https://www.bbc.co.uk/news/articles/cqlw67ngpp1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 05:40:03 GMT",
+      "description": "Victoria Fuller tells the BBC the force's resources need a rethink, speaking after the A66 crash in Middlesbrough which killed seven including two officers."
     },
     {
-      "title": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
-      "link": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 08:23:05 GMT",
-      "description": "From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors."
+      "title": "'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash",
+      "link": "https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 19:50:01 GMT",
+      "description": "BBC News visits town where violence has escalated after the fatal crash and residents say they are living in fear."
     },
     {
-      "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
-      "link": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 11:54:51 GMT",
-      "description": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory."
+      "title": "Reform promises to increase tax-free personal allowance to £15,000",
+      "link": "https://www.bbc.co.uk/news/articles/cgk5g51xk57o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 11:16:11 GMT",
+      "description": "The party says the tax cut will be paid for by reducing public spending by £80bn."
     },
     {
-      "title": "Stock up on food to prepare for extreme weather, minister warns",
-      "link": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 10:40:23 GMT",
-      "description": "Dame Angela Eagle warns the weather event could lead to extreme storms this winter."
+      "title": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 10:02:29 GMT",
+      "description": "Some say the case shed light on the mental health struggles of mothers, while others argue it's no excuse for murder."
     },
     {
-      "title": "Woman whose XL bully dog killed her cousin given suspended prison sentence",
-      "link": "https://www.bbc.co.uk/news/articles/cn45jvgk97xo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 11:06:57 GMT",
-      "description": "Kelcie Reed admitted being in control of a dangerous dog which killed 19-year-old Morgan Dorsett."
+      "title": "Trump's response is key as Argentina's Falklands demands get louder",
+      "link": "https://www.bbc.co.uk/news/articles/c980g0g7yyjo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 06:20:04 GMT",
+      "description": "With Argentina's President Milei promising \"winds of change\" over the Falklands, will Donald Trump shift his stance on British rule?"
     },
     {
-      "title": "Watch: Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
-      "link": "https://www.bbc.co.uk/news/videos/c36l7jwjg1no?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 00:55:45 GMT",
-      "description": "The jury now faces a seventh day of deliberations in the triple-murder trial."
+      "title": "Michael Owen doesn't tell his children he loves them - how big a deal is that?",
+      "link": "https://www.bbc.co.uk/news/articles/cddvep5vj7mo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 00:19:32 GMT",
+      "description": "His comments sparked discussions around parenting, gender and culture, and just how important those three simple words are."
     },
     {
-      "title": "Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect",
-      "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 10:00:18 GMT",
-      "description": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere."
+      "title": "Police say these cameras make US safer - so why are they being sabotaged?",
+      "link": "https://www.bbc.co.uk/news/articles/cew9kz1kxpvo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 01:16:27 GMT",
+      "description": "The AI-powered cameras have been vandalised across the US, as citizens object to the growing surveillance network."
     },
     {
-      "title": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers",
-      "link": "https://www.bbc.co.uk/news/articles/cj06zd4l99lo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 11:48:24 GMT",
-      "description": "Xbox said the limits were due to the rising cost of cloud gaming, and would allow it to invest more in its performance"
+      "title": "Counterfeit copies of experimental weight-loss jab flood black market",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz7lrwqdyo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 23:47:40 GMT",
+      "description": "Counterfeit versions of a drug which is still in clinical trials are flooding the black market."
     },
     {
-      "title": "Schools to close early for A66 crash funeral",
-      "link": "https://www.bbc.co.uk/news/articles/c2kwv0dypnwo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 11:04:59 GMT",
-      "description": "The funeral of one of five young men killed in the crash with a police car will take place on Friday."
+      "title": "Recipe for success - the Chicken Shop Date moments that created a YouTube star",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyqpmy01po?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 00:14:08 GMT",
+      "description": "After more than 10 years, Amelia Dimoldenberg announced Chicken Shop Date was shutting up shop."
     },
     {
-      "title": "Russell Howard 'devastated' after his baby son died hours after birth",
-      "link": "https://www.bbc.co.uk/news/articles/cg491g7rnqqo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 11:26:32 GMT",
-      "description": "The comedian says his son Felix died earlier this year shortly after his wife Cerys had given birth."
+      "title": "Why are European countries moving their gold out of North America?",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 01:42:09 GMT",
+      "description": "The Netherlands has relocated 86 tonnes of the shiny stuff - what's going on?"
     },
     {
-      "title": "How could US-Iran conflict end? Three experts give their views",
-      "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 09:14:57 GMT",
-      "description": "After renewed strikes this week, does either side have an exit strategy?"
+      "title": "The Grand Tour's new presenters: 'I hope we prove the critics wrong'",
+      "link": "https://www.bbc.co.uk/news/articles/c9865dyrjrwo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 00:44:24 GMT",
+      "description": "A new trio has taken the wheel of the motoring TV show from Jeremy Clarkson, Richard Hammond and James May."
     },
     {
-      "title": "100 influencers invited to US Open spark debate on 'tennis etiquette'",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/cy8zqd4zg14o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 07:16:07 GMT",
-      "description": "The behaviour of influencers and content creators has become a major talking point at this year's US Open amid incidents of matches being disrupted."
+      "title": "Heat exceeds 40C in parts of Europe  - is a September heatwave in store for the UK?",
+      "link": "https://www.bbc.co.uk/weather/articles/cyvzq94g604o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 00:30:26 GMT",
+      "description": "Parts of central and southern Europe have seen temperatures above 40C this week. As things warm up in the UK, is there a heatwave on the way?"
     },
     {
-      "title": "Families move out of 'nightmare' new-build homes plagued by defects, damp and mould",
-      "link": "https://www.bbc.co.uk/news/articles/c7708k363dyo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 05:07:08 GMT",
-      "description": "Dozens have contacted BBC Your Voice as complaints to ombudsman have tripled in a year."
+      "title": "US envoys arrive in Moscow ahead of Ukraine talks",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 11:07:08 GMT",
+      "description": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday."
     },
     {
-      "title": "Could robots be the future of theme parks?",
-      "link": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 02:02:02 GMT",
-      "description": "Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits."
+      "title": "Tate brothers officially indicted with trafficking and sex crimes in Romania",
+      "link": "https://www.bbc.co.uk/news/articles/c7v4npv1m22o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 07:20:17 GMT",
+      "description": "Andrew and Tristan Tate are currently in a Miami jail fighting extradition to the UK over separate charges and deny all the allegations."
     },
     {
-      "title": "Prosecco, cakes and beauty products - how to get birthday freebies and why there's a catch",
-      "link": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 07:19:06 GMT",
-      "description": "Cake, coffee, make-up and burgers are just some of the free things you can get on your birthday."
+      "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
+      "link": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 23:07:23 GMT",
+      "description": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two."
     },
     {
-      "title": "Weekly quiz: What has been named TikTok's song of the summer in the UK?",
-      "link": "https://www.bbc.co.uk/news/articles/cr4v2d2q4w5o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 16:20:31 GMT",
-      "description": "How much attention did you pay to what happened in the world over the past seven days?"
+      "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zx368prno?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 22:02:52 GMT",
+      "description": "More than 10% of Nepal's energy generation capacity was knocked out by last week's floods."
     },
     {
-      "title": "'Gromit was nearly a cat!': Secrets from 50 years of Aardman",
-      "link": "https://www.bbc.co.uk/news/articles/cn8ell3dngno?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 00:34:18 GMT",
-      "description": "Aardman turns 50 with stories of cat-like Gromit, silent Shaun and Chicken Run's Oscar legacy."
+      "title": "Flight price rises due to 'foolish leaders' starting wars, Virgin's Branson says",
+      "link": "https://www.bbc.co.uk/news/articles/cje8wx2qw9vo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 01:03:35 GMT",
+      "description": "Middle East tensions have choked the production and transportation of oil, causing a surge in the price of car and jet fuels."
     },
     {
-      "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
-      "link": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 05:59:10 GMT",
-      "description": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands."
+      "title": "Lauryn Hill, Wyclef and Giggs among surprise guests at Jay-Z's long-awaited UK show",
+      "link": "https://www.bbc.co.uk/news/articles/c4g7rxgvkgdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 01:53:45 GMT",
+      "description": "The US rapper rolled back the years for more than two hours at the first of his two shows in London."
     },
     {
-      "title": "Volkswagen board approves plan to cut another 50,000 jobs",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 07:00:10 GMT",
-      "description": "The group - which includes Audi, Porsche, Skoda as well as the VW brand - plans to cut a total of 100,000 posts by 2030."
+      "title": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
+      "link": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 30 Aug 2026 23:22:24 GMT",
+      "description": "So-called financial favouritism can cause jealousy and resentment long into adulthood. Here is how experts say you can avoid it"
     },
     {
-      "title": "Warning after jobseekers targeted in interviews scam",
-      "link": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 23:41:49 GMT",
-      "description": "Jobseekers, especially Gen Z, are being targeted with fake, booby-trapped recruitment apps."
+      "title": "Thieves steal 70,000 pints of Guinness in two lorries",
+      "link": "https://www.bbc.co.uk/news/articles/c5yjred1dleo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 16:46:23 GMT",
+      "description": "More than 800 barrels of the stout have been stolen from a depot in Runcorn, Cheshire, say police."
     },
     {
-      "title": "AI tools that take notes for GPs could miss vital information, study suggests",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zylpdveqo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 22:32:09 GMT",
-      "description": "Researchers said the tools - which record consultations - could miss vital things like a patient's facial expressions or emotional state."
+      "title": "US man struck by lightning describes 'horrific' experience",
+      "link": "https://www.bbc.co.uk/news/videos/cz7z93zde3po?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 03 Sep 2026 10:01:33 GMT",
+      "description": "Thomas Fahmy says he saw \"a bright white flash\" and instantly fell to the ground."
     },
     {
-      "title": "Transplanted pig kidney works in US man's body for record 271 days",
-      "link": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 22:31:23 GMT",
-      "description": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant."
-    },
-    {
-      "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
-      "link": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 04:06:41 GMT",
-      "description": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming."
-    },
-    {
-      "title": "'Miracle' eagle with broken wing spotted back above Scottish coast",
-      "link": "https://www.bbc.co.uk/news/articles/crerw2nj81zo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 00:46:54 GMT",
-      "description": "A sea eagle that confounded experts by surviving with a broken wing has been spotted back above Scotland's west coast."
+      "title": "Prue Leith: 'You come into your own growing old'",
+      "link": "https://www.bbc.co.uk/news/articles/cy5zryk1lwyo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 05:23:14 GMT",
+      "description": "The former Great British Bake Off star says ageing is something to celebrate."
     },
     {
       "title": "BBC News app",
@@ -154,10 +142,10 @@
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests"
     },
     {
-      "title": "Burnham’s Big Economic Choices",
-      "link": "https://www.bbc.co.uk/sounds/play/p0p64vwb?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 16:39:00 GMT",
-      "description": "How is the global economic picture shaping Andy Burnham’s first budget?"
+      "title": "Newscast",
+      "link": "https://www.bbc.co.uk/sounds/play/p0p64vx5?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 12:23:00 GMT",
+      "description": "Two senior Reform UK officials step down after undercover donations report."
     },
     {
       "title": "Has Pete Hegseth lost control of the Pentagon?",
@@ -178,34 +166,22 @@
       "description": "An unsuccessful singer-songwriter wakes up in a world where no-one remembers The Beatles."
     },
     {
-      "title": "73 goals from dropping deep - we ask Kane to break down how he did it",
-      "link": "https://www.bbc.co.uk/sport/articles/cx2z7rjn2p2o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 09:31:21 GMT",
-      "description": "Harry Kane was the highest goalscorer in Europe last season, yet he plays like a midfielder. We ask him to break down his game."
+      "title": "I've never spoken to Everton owner Friedkin - Moyes",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c4gl3wx8g64o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 08:40:13 GMT",
+      "description": "Everton manager David Moyes says he has never met or spoken to the club's owner Dan Friedkin."
     },
     {
-      "title": "Gasly loses Monaco podium after McLaren and Red Bull win appeals",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c4gq26zglpzo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 11:46:05 GMT",
-      "description": "McLaren and Red Bull win their appeals against the result of the Monaco Grand Prix after a controversy over multiple incorrect pit-lane speeding penalties."
+      "title": "'Best bend I've ever run' - Hunt's strong season continues in Brussels",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/cwyzn491wldo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 04 Sep 2026 21:32:46 GMT",
+      "description": "Amy Hunt's strong late-season form showed no signs of letting up as she clocked a season's best to finish third in the 200m at the Diamond League final in Brussels."
     },
     {
-      "title": "Former Olympic champion Jonny Brownlee retires",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/cwyzqejdvgko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 11:00:44 GMT",
-      "description": "Jonny Brownlee, a former Olympic triathlon champion and six-time world champion, says \"it's over for professional sport\"."
-    },
-    {
-      "title": "100 influencers invited to US Open spark debate on 'tennis etiquette'",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/cy8zqd4zg14o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 07:16:07 GMT",
-      "description": "The behaviour of influencers and content creators has become a major talking point at this year's US Open amid incidents of matches being disrupted."
-    },
-    {
-      "title": "Arsenal to face Barca and Lyon in Women's Champions League",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c05rnv2rq85o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 04 Sep 2026 11:29:33 GMT",
-      "description": "Arsenal will face holders Barcelona and record winners Lyon in the Women's Champions League, while Chelsea will travel to Lyon and Man City will take on Bayern Munich."
+      "title": "Antonelli 'disrupting rules of fandom' in Ferrari's Italy",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cj03m124lp3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 05 Sep 2026 10:37:00 GMT",
+      "description": "BBC Sport heads to Monza to find out if Italians want Kimi Antonelli to win the F1 title or if it is all about Ferrari."
     }
   ]
 }
