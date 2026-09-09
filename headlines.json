@@ -1,151 +1,139 @@
 {
-  "scraped_at": "2026-09-08 12:19:38 UTC",
+  "scraped_at": "2026-09-09 12:31:06 UTC",
   "source": "BBC News RSS",
-  "total": 33,
+  "total": 32,
   "headlines": [
     {
-      "title": "Harry and Meghan 'surprised' by King's letter making clear they remain non-working royals",
-      "link": "https://www.bbc.co.uk/news/articles/cp30kv53qvdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 09:43:53 GMT",
-      "description": "A spokesman says they were not told in advance about the letter sent on behalf of the king, although palace sources deny this."
+      "title": "Miliband rejects chief rabbi's claim British Jews in greater danger after sanctions move",
+      "link": "https://www.bbc.co.uk/news/articles/ce9e3djdz94o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 11:54:41 GMT",
+      "description": "The foreign secretary disagrees with the UK's chief rabbi who warns sanctions on Israeli settlements could put British Jews at greater risk."
     },
     {
-      "title": "Nottingham attacks victim's death 'potentially preventable'",
-      "link": "https://www.bbc.co.uk/news/articles/cddvz1mz09zo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 11:34:26 GMT",
-      "description": "The Nottingham Inquiry hears there was a chance one of Valdo Calocane's victims may have survived."
+      "title": "Drug gangs exploited and raped us as teens, then police failed us, women tell BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 04:59:08 GMT",
+      "description": "Four victims describe being targeted by criminals and then not being taken seriously by the authorities."
     },
     {
-      "title": "Monty Don to leave Gardeners' World after more than 20 years",
-      "link": "https://www.bbc.co.uk/news/articles/c74ew4402kxo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 11:43:32 GMT",
-      "description": "The presenter said it had been \"deeply rewarding\" but added that \"now is the right time for a change\"."
+      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+      "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 11:24:10 GMT",
+      "description": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers."
     },
     {
-      "title": "Prince George begins first day at a rainy Eton College",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzel3qjvzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 11:52:40 GMT",
-      "description": "The 13-year-old will follow in the footsteps of his father, the Prince of Wales, by attending the elite private school."
+      "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+      "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 12:25:35 GMT",
+      "description": "It is the latest in a series of increasing warnings about the safety threat posed by artificial intelligence."
     },
     {
-      "title": "Argentina to file criminal case against oil company operating in Falklands",
-      "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 11:09:54 GMT",
-      "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands."
+      "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+      "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 09:47:39 GMT",
+      "description": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday"
     },
     {
-      "title": "Canadian counter-tariffs come into force as US trade dispute escalates",
-      "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 04:39:14 GMT",
-      "description": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship."
+      "title": "Channel 4 to cut 340 jobs by the end of the year in major shake-up",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzprn3gkgo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 12:09:50 GMT",
+      "description": "It comes after the network conducted a review amid a \"rapidly changing media landscape\"."
     },
     {
-      "title": "At least two people dead after Russian strikes on Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 10:23:01 GMT",
-      "description": "Air raid alerts and sounds of explosions rang out in Ukraine's capital as Russian forces launched drone strikes early on Tuesday."
+      "title": "Learner drivers still forced to wait months to book tests",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 11:57:34 GMT",
+      "description": "The Driver and Vehicle Standards Agency had been given a target to reduce average wait times to seven weeks."
     },
     {
-      "title": "English pupils ahead of rest of UK in international school tests",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy6n0l4rdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 11:28:31 GMT",
-      "description": "The latest Pisa report also warned of a global decline in teenagers' reading skills."
+      "title": "Very hot drinks may damage the food pipe and increase cancer risk",
+      "link": "https://www.bbc.co.uk/news/articles/ce3r77d9n90o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 23:30:39 GMT",
+      "description": "Steaming hot liquid can damage the cell lining on the way down to the stomach, experts say."
     },
     {
-      "title": "Borrowers expecting mortgage rates to drop have hopes dashed",
-      "link": "https://www.bbc.co.uk/news/articles/c770v7y63r0o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 11:59:02 GMT",
-      "description": "Major lenders have raised rates on new deals in recent days, leaving many borrowers needing to make a decision."
+      "title": "Watch: Emotional moment as Alan Carr honoured at National Television Awards",
+      "link": "https://www.bbc.co.uk/news/videos/c8xk5rwvk74o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 09:34:44 GMT",
+      "description": "The comedian received the Special Recognition prize at Tuesday night's awards."
     },
     {
-      "title": "UK's third-biggest taxpayer to leave for Greece",
-      "link": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 09:33:35 GMT",
-      "description": "Chris Rokos plans to open an office in Athens, reports say, and was ranked third in the Sunday Times's list of the UK's top taxpayers."
+      "title": "'Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on",
+      "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 23:11:32 GMT",
+      "description": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on."
     },
     {
-      "title": "Charli XCX says bye to Brat and Liam Gallagher's tambourine grin - Music Photography Awards 2026 shortlist",
-      "link": "https://www.bbc.co.uk/news/articles/c3re99gp4pro?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 23:01:22 GMT",
-      "description": "Nominees for the Abbey Road awards captured some of the past year's best moments in music."
+      "title": "Are women better than men at endurance running?",
+      "link": "https://www.bbc.co.uk/sport/articles/cwyzx1gxwqlo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 06:27:02 GMT",
+      "description": "Women have beaten men in some high-profile endurance events in recent months - are they better suited to these challenges?"
     },
     {
-      "title": "Forget the Mediterranean diet, I'm eating only food from Shetland for a month",
-      "link": "https://www.bbc.co.uk/news/articles/c74ewj1kdyro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 09:02:46 GMT",
-      "description": "Dr Alex Armitage is eating only food grown, reared or caught locally during September."
+      "title": "What are my rights if my flight is cancelled or delayed?",
+      "link": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 08:04:14 GMT",
+      "description": "Flights are cancelled owing to air traffic control problems, so what are your rights if you're affected?"
     },
     {
-      "title": "The firms turning recruitment into X Factor-style competitions",
-      "link": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 07:43:15 GMT",
-      "description": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience. But is this exciting or unfair?"
+      "title": "Cowboy builder tore my home apart and disappeared off the face of the Earth with £14k",
+      "link": "https://www.bbc.co.uk/news/articles/clykjmjm6m0o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 05:00:30 GMT",
+      "description": "Victims of cowboy builders describe how they were exploited with one couple left \"scarred for life\"."
     },
     {
-      "title": "How colourful stripes (and rubber chickens) helped Paul Smith conquer the fashion world",
-      "link": "https://www.bbc.co.uk/news/articles/cd08vvnp9geo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 01:14:17 GMT",
-      "description": "As he publishes his autobiography, Sir Paul Smith takes BBC News on a tour of his London headquarters."
+      "title": "Hegseth is shaking up the Pentagon as the US wages war - but it comes at a cost",
+      "link": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 23:11:41 GMT",
+      "description": "The upheaval in the military could shape the legacy of Trump's second term, writes the BBC's Tom Bateman."
     },
     {
-      "title": "A&E did not get the basics right - my son's life was ruined at 32",
-      "link": "https://www.bbc.co.uk/news/articles/cqlw0ke2v97o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 03:49:39 GMT",
-      "description": "Oli's experience is one of a growing number of clinical negligence claims being made in England, BBC analysis shows."
+      "title": "I'm 27 and I've already written my will - here's why",
+      "link": "https://www.bbc.co.uk/news/articles/cn8np9wwe35o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 23:04:17 GMT",
+      "description": "For many young people making a will may not seem necessary, but here's why you shouldn't put it off."
     },
     {
-      "title": "Watch: Pupils return to West Bank school behind barbed wire to protect against settlers",
-      "link": "https://www.bbc.co.uk/news/videos/c62jdyld8myo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 06:58:02 GMT",
-      "description": "Six people, including three pupils at the Palestinian school, have been killed in al-Mughayyir this year, in a surge of Israeli settler-related violence."
+      "title": "The trail of clues that suggest our planet might be heating faster than we realised",
+      "link": "https://www.bbc.co.uk/news/articles/c20917w25n4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 23:11:52 GMT",
+      "description": "A curious online row over this summer's heatwaves points to a wider - and worrying - shift in climate science."
     },
     {
-      "title": "Champions League returns - who are favourites and players to watch?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c17j5lr8kkqo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 20:30:53 GMT",
-      "description": "The Champions League is back and BBC Sport takes a look at who the favourites are to win the title plus predictions from the experts."
+      "title": "Petrol prices rise by 5p over a week as Iran war sends oil higher",
+      "link": "https://www.bbc.co.uk/news/articles/cj4jwlx77lro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 12:20:40 GMT",
+      "description": "A litre of unleaded now costs 167.17p which is the biggest weekly increase since April, data shows."
     },
     {
-      "title": "Investigation after female staff at Eiffel Tower replaced by men for religious visit",
-      "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 11:38:07 GMT",
-      "description": "The move saw outraged staff walk off the job on Monday, closing the French landmark for a day."
+      "title": "Divorcing abusive husband cost woman £105k",
+      "link": "https://www.bbc.co.uk/news/articles/c70lqll4zk2o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 05:24:31 GMT",
+      "description": "Annabelle Boucher wants the law changed after she paid thousands to divorce her coercive ex-husband."
     },
     {
-      "title": "Shetland spaceport project secures £30m of UK government investment",
-      "link": "https://www.bbc.co.uk/news/articles/cwyze8ed774o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 08:48:33 GMT",
-      "description": "Several companies hope to use SaxaVord in Unst, the northernmost point in the UK, as a launch site for small commercial rockets."
+      "title": "Police say Nottingham attacks were 'not preventable'",
+      "link": "https://www.bbc.co.uk/news/articles/c5yw39nvy97o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 11:58:48 GMT",
+      "description": "Police say any mistakes were not missed opportunities to prevent the 2023 Nottingham attacks."
     },
     {
-      "title": "Some veterans to be called up to test UK's war resilience",
-      "link": "https://www.bbc.co.uk/news/articles/crr4qr2wg8do?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 11:01:19 GMT",
-      "description": "An exercise next year on a scale not seen for a \"very long time\" will test the UK's preparedness, a minister says."
+      "title": "Russia and Ukraine exchange strikes as two killed at Moldova border",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 10:59:18 GMT",
+      "description": "Meanwhile, four people, including a child, were killed in the southern Russian city of Novorossiysk."
     },
     {
-      "title": "'Good to have choice': Australians on opting out of social media algorithms",
-      "link": "https://www.bbc.co.uk/news/videos/clyl2dnjgkro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 06:20:10 GMT",
-      "description": "The BBC spoke to people in Sydney about Australia's plans to force social media companies to allow users to easily opt in or out of personalised algorithms."
+      "title": "Family of killed teen call for death penalty in D4vd trial",
+      "link": "https://www.bbc.co.uk/news/articles/c62mn90ppnro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 09:58:48 GMT",
+      "description": "The parents of Celeste Rivas Hernandez say execution \"would be perfect\" if D4vd is found guilty."
     },
     {
-      "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
-      "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 09:17:48 GMT",
-      "description": "Arm Holding's chief executive Rene Haas says artificial intelligence will find a solution to the disease."
-    },
-    {
-      "title": "Highest paid world leader to get salary increase of $1 million",
-      "link": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 09:20:05 GMT",
-      "description": "Singapore's prime minister Lawrence Wong will see his annual pay rise to 3.6 million Singapore dollars ($2.8m; £2.1m)."
-    },
-    {
-      "title": "Man accused of triple murder admits gun charges",
-      "link": "https://www.bbc.co.uk/news/articles/c93ek02xkvlo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 11:28:14 GMT",
-      "description": "A man is in court in South Africa two months after his wife and daughters are found dead in the UK."
+      "title": "Watch: Sinkhole at Nicolas Cage's Malibu house swallows driveway",
+      "link": "https://www.bbc.co.uk/news/videos/czezr8g1n3eo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 09:49:08 GMT",
+      "description": "The driveway of the beach-front house collapsed on Tuesday morning, according to local authorities."
     },
     {
       "title": "BBC News app",
@@ -154,10 +142,10 @@
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests"
     },
     {
-      "title": "Can The Chancellor's Positive Vibes Limit Tax Rises?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0p650y7?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 16:26:00 GMT",
-      "description": "Chancellor John Healey aims for ‘vibes boost’ in first major economic speech."
+      "title": "Why Has The UK Government Changed Its Approach to Israel?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0p8l9mf?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 15:55:00 GMT",
+      "description": "UK imposes sanctions on Israeli settlements in the West Bank."
     },
     {
       "title": "Americanswers… on 5 Live! Why is Lindsay Clancy’s mistrial dividing America?",
@@ -166,40 +154,46 @@
       "description": "And will Trump succeed in limiting mail-in voting before the midterms?"
     },
     {
-      "title": "The extraordinary life and music of Dolly Parton",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m000crhq?at_mid=KSiVwFJcTF&at_campaign=Dolly_Parton_Here_I_Am&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m000crhq&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Dolly_Parton_Here_I_Am&at_bbc_team=BBC",
-      "published": "Tue, 31 Mar 2026 05:00:00 GMT",
-      "description": "Creating an icon. How a girl from the Smoky Mountains conquered Nashville – and the world"
+      "title": "Why Dolly Parton meant so much to so many around the world",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0031m18?at_mid=wi7jBmuk7I&at_campaign=BBC_News_Why_The_World_Loved_Dolly&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=b006mgyl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=BBC_News_Why_The_World_Loved_Dolly&at_bbc_team=BBC&at_creation=News",
+      "published": "Fri, 04 Sep 2026 12:00:00 GMT",
+      "description": "Dolly Parton's death sparked an huge outpouring of love - why did she mean so much?"
     },
     {
-      "title": "Alcaraz can single-handedly end American dreams",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/c86xgxenyz9o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 09:56:43 GMT",
-      "description": "Three Americans have the chance to become the first home US Open men's champion since 2003. But Carlos Alcaraz stands in the way."
+      "title": "A vivid account of WHAM!'s legendary 1985 tour in China",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m00311qb?at_mid=nZC3RIewUU&at_campaign=Wham_10_Days_in_China&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m00311qb&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Wham_10_Days_in_China&at_bbc_team=BBC",
+      "published": "Sat, 29 Aug 2026 21:28:09 GMT",
+      "description": "Making pop history. Priceless footage tells the true story of a real 80s culture shock"
     },
     {
-      "title": "Who are Champions League favourites and players to watch?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c17j5lr8kkqo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 20:30:53 GMT",
-      "description": "The Champions League is back and BBC Sport takes a look at who the favourites are to win the title plus predictions from the experts."
+      "title": "Shelton beats Alcaraz in latest-ever US Open finish to reach semis",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c20v6pgz7nmo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 09:03:44 GMT",
+      "description": "Carlos Alcaraz's US Open title defence is over after a dramatic five-set quarter-final loss to Ben Shelton which ends at 03:34 local time."
     },
     {
-      "title": "Newcastle were 'preparing for months' for Howe departure",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cly4lngg6npo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 06:21:00 GMT",
-      "description": "Newcastle United sporting director Ross Wilson says the club were preparing for former head coach Eddie Howe's departure for up to nine months."
+      "title": "LIV files for bankruptcy protection with over $45m owed to players",
+      "link": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 08 Sep 2026 21:20:22 GMT",
+      "description": "LIV Golf has filed for bankruptcy protection with at least $45m (£33m) owed to players, who will now have the option to leave."
     },
     {
-      "title": "Rahm unaffected by LIV 'turbulence'",
-      "link": "https://www.bbc.co.uk/sport/golf/articles/cd68g60810do?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 11:21:01 GMT",
-      "description": "Jon Rahm says he has become \"pretty good at dealing with turbulence\" as he remains tight-lipped on his LIV Golf future before this week's Irish Open."
+      "title": "England to extend head coach Borthwick's contract",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c5ydlq5n0zwo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 06:23:43 GMT",
+      "description": "England head coach Steve Borthwick will have his contract extended past the 2028 Six Nations in a bid to avoid uncertainty over his future before and during next year's Rugby World Cup."
     },
     {
-      "title": "Gauff's dominant win completes stacked US Open last eight",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/crk368k4e42o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 02:59:35 GMT",
-      "description": "Coco Gauff powers past teenage star Iva Jovic as the top six seeds reach the US Open women's quarter-finals for the first time in 28 years."
+      "title": "Messi agrees to buy second Spanish club",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c99dmky78d3o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 11:56:09 GMT",
+      "description": "Spanish second-division side Eldense say Argentina great Lionel Messi has reached a \"preliminary agreement\" to become the club's majority shareholder."
+    },
+    {
+      "title": "Pakistan in 'disarray' as England take seven wickets in first session",
+      "link": "https://www.bbc.co.uk/sport/cricket/videos/cevw2n88r8wo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 12:20:19 GMT",
+      "description": "England make stunning start to their third and final Test against Pakistan by taking seven wickets in the opening session on the first day at Edgbaston, leaving the tourists 100-7 at lunch."
     }
   ]
 }
