@@ -1,139 +1,151 @@
 {
-  "scraped_at": "2026-09-13 12:52:55 UTC",
+  "scraped_at": "2026-09-14 14:29:13 UTC",
   "source": "BBC News RSS",
-  "total": 26,
+  "total": 34,
   "headlines": [
     {
-      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 11:13:07 GMT",
-      "description": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks."
+      "title": "Burnham cancels engagements after death of his father",
+      "link": "https://www.bbc.co.uk/news/articles/c68xkddgnd47o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 14:24:10 GMT",
+      "description": "Burnham has previously said his father did not know he had become prime minister due to his Alzheimer's."
     },
     {
-      "title": "Reform's £72m donations 'entirely in line with law', Jenrick says",
-      "link": "https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 12:05:43 GMT",
-      "description": "The government is trying to change the law on donations to UK political parties from British expats."
+      "title": "What you need to know about the latest donations to Reform UK",
+      "link": "https://www.bbc.co.uk/news/videos/c6n4kdj3xzz2o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 11:07:25 GMT",
+      "description": "Chief political correspondent Henry Zeffman explains who's behind Reform UK's £72m in donations."
     },
     {
-      "title": "'Slim chance' government will hit 1.5m new homes target, Rayner tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cgqdlw0x092o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 11:16:06 GMT",
-      "description": "High construction costs and the Iran war are threatening the key manifesto pledge, the housing secretary says."
+      "title": "Member of UK armed forces dies in road traffic incident in Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cmy5zggx3l2vo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 14:14:47 GMT",
+      "description": "The incident is not the result of hostile action, the BBC understands."
     },
     {
-      "title": "Tom Felton: I'm so excited to see Rupert Grint play Ron Weasley again",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zv4j24zgo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 23:41:52 GMT",
-      "description": "The Harry Potter actor talks about taking on Broadway and his friendship with former co-stars"
+      "title": "Westminster's time is coming to an end, Welsh, Scottish, Northern Irish leaders say",
+      "link": "https://www.bbc.co.uk/news/articles/c62enegxyl9o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 13:29:44 GMT",
+      "description": "The leaders of Plaid Cymru, SNP and Sinn Fein say the UK government should prepare for constitutional change."
     },
     {
-      "title": "Europe must endure winter of hardship to keep pressure on Putin, says PM's security adviser",
-      "link": "https://www.bbc.co.uk/news/articles/crr4en2ylz8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 06:21:12 GMT",
-      "description": "In rare public remarks, Jonathan Powell said now was not the time for European nations to take their \"foot off the gas\"."
+      "title": "Amy Hunt tells Sydney Sweeney 'this is what women in sport look like' after controversial ad",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 13:17:47 GMT",
+      "description": "British sprinter Amy Hunt is among the female athletes to criticise the controversial betting advert starring actress Sydney Sweeney."
     },
     {
-      "title": "Flattened molars and facial pain: Why are more young people grinding their teeth?",
-      "link": "https://www.bbc.co.uk/news/articles/ckgwe8dk6z6o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 05:55:19 GMT",
-      "description": "Millions of us do it, though few of us realise we do - but getting the right treatment can be life-changing."
+      "title": "London musical cancelled after Ariana Grande and Jonathan Bailey pull out",
+      "link": "https://www.bbc.co.uk/news/articles/cqpved1p2j4zo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 12:28:44 GMT",
+      "description": "Sunday in the Park With George was supposed to make its debut next year at the Barbican."
     },
     {
-      "title": "Will the Thirlwall report change the debate about Lucy Letby?",
-      "link": "https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 23:15:54 GMT",
-      "description": "The inquiry into the former nurse is expected to find failures by her hospital to ensure patient safety."
+      "title": "Steep rise in young UK nationals detained for smuggling drugs from Asia",
+      "link": "https://www.bbc.co.uk/news/articles/c750vqkgeero?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 12:14:10 GMT",
+      "description": "Hundreds of Britons have been detained in Thailand on suspicion of attempting to smuggle cannabis to the UK."
     },
     {
-      "title": "Diljit Dosanjh makes history under the famous Wembley arch",
-      "link": "https://www.bbc.co.uk/news/articles/c780zvq7xlvo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 23:06:08 GMT",
-      "description": "Wembley Stadium billed Diljit Dosanjh as the first Punjabi singer to headline the iconic music venue."
+      "title": "No collusion in sectarian killing but 'wrongful omissions' in police inquiry",
+      "link": "https://www.bbc.co.uk/news/articles/cmpwlkk9dgr7o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 14:08:03 GMT",
+      "description": "Robert Hamill died after he was beaten by loyalists in Portadown, County Armagh."
     },
     {
-      "title": "'Queer culture is vulnerable': Drag Race co-creator fears impact as BBC axes show",
-      "link": "https://www.bbc.co.uk/news/articles/c86x4pd720xo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 23:49:23 GMT",
-      "description": "The BBC is cutting the show because of financial pressures, sparking discussion about LGBTQ+ representation on TV."
+      "title": "Buckingham Palace works uncover trove of everyday items dating back to 1800s",
+      "link": "https://www.bbc.co.uk/news/articles/c2095wyqvx2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 23:20:03 GMT",
+      "description": "A collection of historic, forgotten items have been found during the restoration of the London royal residence."
     },
     {
-      "title": "Best friends for decades - until a DNA test revealed they were sisters",
-      "link": "https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 22:00:28 GMT",
-      "description": "Meena Geltink and Minal Tijssen were adopted from orphanages in Mumbai in the 1980s and grew up in the Netherlands."
+      "title": "Speedboat killer jailed for attack on girlfriend",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zvkglvm8o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 11:37:31 GMT",
+      "description": "Jack Shepherd was sentenced at Isleworth Crown Court after previously admitting the violent assault."
     },
     {
-      "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
-      "link": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 00:49:08 GMT",
-      "description": "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch."
+      "title": "Why I'm doing a September reset and how you can create a new routine",
+      "link": "https://www.bbc.co.uk/news/articles/c770drlkzkpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 23:12:32 GMT",
+      "description": "It's the month when many of us embark on a new chapter so here's how to start strong and keep the good habits."
     },
     {
-      "title": "Student loan terms to be made clearer in England following repayment row",
-      "link": "https://www.bbc.co.uk/news/articles/cr4vq7rw27qo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 23:20:29 GMT",
-      "description": "Changes will spell out that governments can change rules and that career choices affect repayments."
+      "title": "Why are there concerns AI could threaten humanity, and how real are they?",
+      "link": "https://www.bbc.co.uk/news/articles/c790xvnzgnno?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 12:00:08 GMT",
+      "description": "Existential fears about AI have once again reared their head - here's what you need to know."
     },
     {
-      "title": "From struggling to walk to lifting trophy - how Rybakina triumphed",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/cp3kdzlnzneo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 07:33:44 GMT",
-      "description": "Elena Rybakina arrived in New York unable to walk without pain after injuring her foot. She leaves the city as the US Open champion and new world number one."
+      "title": "The Pitt is up for 25 Emmys - here's what real doctors think of it",
+      "link": "https://www.bbc.co.uk/news/articles/clyqx0e175ko?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 23:18:39 GMT",
+      "description": "Those in the medical profession say the HBO Max show about a US hospital emergency room is the most realistic medical drama yet."
     },
     {
-      "title": "Man charged with concealing identity at protest",
-      "link": "https://www.bbc.co.uk/news/articles/c5yjln213jeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 10:44:52 GMT",
-      "description": "Anti-migrant demonstrators marched in Portsmouth on Saturday, and a counter-protest was also held."
+      "title": "I had 11 years of chemotherapy for a cancer I didn't have",
+      "link": "https://www.bbc.co.uk/news/articles/c74e0zwkk18o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 23:11:37 GMT",
+      "description": "Becky Jones is among more than 40 people taking legal action against a hospital trust."
     },
     {
-      "title": "Iran war reshapes Brics ties but also exposes divisions",
-      "link": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 11:23:42 GMT",
-      "description": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there."
+      "title": "Why a fresh wave of North Korean soldiers may fight in Russia's war in Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cgl7zrnxxy6o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 23:16:33 GMT",
+      "description": "North Korea will continue to send its soldiers to fight in Russia's war, but only for as long as it is profitable to do so, writes the BBC's Quentin Sommerville."
     },
     {
-      "title": "Major fire at derelict mill featured in Peaky Blinders and Downton Abbey",
-      "link": "https://www.bbc.co.uk/news/articles/c8jdrnw8zvyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 08:59:36 GMT",
-      "description": "The mill, where Peaky Blinders was filmed, is already derelict after large fire in 2022."
+      "title": "Heading off to uni? Here's what to insure against theft",
+      "link": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 08:13:56 GMT",
+      "description": "What should new students consider to keep your belongings safe and covered by insurance?"
     },
     {
-      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-      "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 09:05:10 GMT",
-      "description": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors."
+      "title": "The Himalayas are melting faster - and India's economy is 'at risk'",
+      "link": "https://www.bbc.co.uk/news/articles/crm9ezvwjpno?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 22:07:22 GMT",
+      "description": "A new report warns Himalayan glaciers are melting faster, threatening India’s water, economy and communities."
     },
     {
-      "title": "Five night sky events to look out for this autumn",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy4w3mnpvo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 23:53:07 GMT",
-      "description": "From meteor showers to a November supermoon, there are a number of impressive sights to behold in the autumn night sky."
+      "title": "Wild dogs record 2,500-mile trek across Africa in search of a mate",
+      "link": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 14:08:12 GMT",
+      "description": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures."
     },
     {
-      "title": "My new job as a tour guide turned out to be fake",
-      "link": "https://www.bbc.co.uk/news/articles/cgewg29qpx1o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 05:15:57 GMT",
-      "description": "Ella was given the role after going to a job fair, but the group's \"head office\" is an empty property and claims on its website are false."
+      "title": "Driver who killed Team GB triathlete to be deported",
+      "link": "https://www.bbc.co.uk/news/articles/cr89j81de1edo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 11:27:01 GMT",
+      "description": "Romanian van driver Visile Barbu's appeal against deportation was dismissed by a judge."
     },
     {
-      "title": "Menstrual fitness: Why some women are 'cycle-syncing' their workouts",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzj89k4wyo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 23:22:05 GMT",
-      "description": "Menstrual cycles are highly individual, making blanket advice found on social media difficult to apply, researchers say."
+      "title": "Uganda will now take part in Harry's Invictus Games after King's reassurance",
+      "link": "https://www.bbc.co.uk/news/articles/cq8r6330drkzo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 14:07:10 GMT",
+      "description": "After a phone call with Buckingham Palace, Uganda now says it will take part in the Invictus Games."
     },
     {
-      "title": "'Everywoman' statue unveiled in Trafalgar Square",
-      "link": "https://www.bbc.co.uk/news/articles/cvgypqnpvl4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 10:40:38 GMT",
-      "description": "Tschabalala Self's Lady in Blue will sit atop the Fourth Plinth in Trafalgar Square for the next two years."
+      "title": "Removal of US Embassy staffer from UK 'unforgivable'",
+      "link": "https://www.bbc.co.uk/news/articles/cj1dlz00g2lxo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 12:26:32 GMT",
+      "description": "Charlotte Charles says the situation has \"all the hallmarks\" of her son's case."
     },
     {
-      "title": "I should be dead or in prison - now I'm reunited with the teacher who changed my life",
-      "link": "https://www.bbc.co.uk/news/articles/ckg8575ex57o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 10:41:24 GMT",
-      "description": "Sam Gardner was in foster care when he met a teacher who made him believe in himself."
+      "title": "Two runners died during Great North Run",
+      "link": "https://www.bbc.co.uk/news/articles/crje8zz1kdldo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 14:15:40 GMT",
+      "description": "The men, both aged 25, collapsed on the course on Sunday, the Great Run Company says."
+    },
+    {
+      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+      "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 12:18:13 GMT",
+      "description": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\"."
+    },
+    {
+      "title": "Hyrox apologises for allowing race to continue after athlete soils herself",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 11:20:07 GMT",
+      "description": "Some raised concerns around hygiene while others praised the competitor's resolve to finish the race and push through adversity."
     },
     {
       "title": "BBC News app",
@@ -154,10 +166,46 @@
       "description": "Trump made the pledge at the Republicans’ first ever midterm convention."
     },
     {
-      "title": "Star-studded, iconic, Oscar-winning mafia epic",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m000qf0f/the-godfather?at_mid=DhnFk1hhg0&at_campaign=The_Godfather&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m000qf0f&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Godfather&at_bbc_team=BBC&at_creation=Film",
-      "published": "Sun, 30 Aug 2026 23:51:30 GMT",
-      "description": "Directed by Francis Ford Coppola and starring Al Pacino, Marlon Brando and Diane Keaton"
+      "title": "'This is what women in sport look like' - Hunt responds to controversial Sweeney advert",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/c9dw905jw5no?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 13:17:47 GMT",
+      "description": "British sprinter Amy Hunt is among the female athletes to criticise the controversial betting advert starring actress Sydney Sweeney."
+    },
+    {
+      "title": "Familiar questions for Man Utd, now Carrick must find answers",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cddv5mqjgvlo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 11:25:35 GMT",
+      "description": "After one win in four Premier League games, the problems are mounting for Manchester United and manager Michael Carrick."
+    },
+    {
+      "title": "Brands v country - Kerr ramps up kit battle after latest victory",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/cr2kw4p3yxy7o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 13:22:44 GMT",
+      "description": "Josh Kerr celebrated becoming Great Britain's first Ultimate Champion by making a clear point about funding in athletics - BBC Sport explains what the issue is."
+    },
+    {
+      "title": "McCullum wants Pietersen to challenge methods",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/crpd066l0yl9o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 13:09:06 GMT",
+      "description": "Former batter Kevin Pietersen accused England players of not trying on last year's tour of India."
+    },
+    {
+      "title": "Arsenal to contact Pro Ref over Konsa penalty",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmg49n3g7exlo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 11:31:00 GMT",
+      "description": "Arsenal will contact refereeing body Pro Ref over the incident that saw Ezri Konsa concede a penalty in Saturday's win over Sunderland."
+    },
+    {
+      "title": "Madrid F1 circuit set for changes after criticism",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/ckwyzllzdq43o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 14:11:04 GMT",
+      "description": "Spanish Grand Prix organisers are set to make changes to the new Madrid circuit after criticism of its inaugural race at the weekend."
+    },
+    {
+      "title": "Trailblazing keeper who became West Ham cult figure - Miklosko dies aged 64",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cd620083wp0o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 14 Sep 2026 08:59:06 GMT",
+      "description": "Ludek Miklosko, who has died aged 64, was a cult figure with West Ham supporters after his move to London in 1990."
     }
   ]
 }
