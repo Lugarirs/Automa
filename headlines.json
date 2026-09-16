@@ -1,163 +1,145 @@
 {
-  "scraped_at": "2026-09-15 12:55:42 UTC",
+  "scraped_at": "2026-09-16 12:52:50 UTC",
   "source": "BBC News RSS",
-  "total": 35,
+  "total": 31,
   "headlines": [
     {
-      "title": "Key findings from Lucy Letby Thirlwall Inquiry",
-      "link": "https://www.bbc.co.uk/news/articles/c64g7wl30wygo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 12:37:11 GMT",
-      "description": "The inquiry found a \"complete failure to protect babies on the neonatal unit\" where the nurse worked."
+      "title": "Petrol and diesel price rises push UK inflation higher",
+      "link": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 12:16:56 GMT",
+      "description": "Summer holidays and disruption to global oil supplies by the Middle East conflict stoked price growth."
     },
     {
-      "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
-      "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 11:05:42 GMT",
-      "description": "The increase has reignited the debate about the state pension's long-term affordability and generational fairness."
+      "title": "EU chief backs plan for Canada to become 'associate member'",
+      "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 12:36:51 GMT",
+      "description": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump."
     },
     {
-      "title": "Denmark says Russian warship fired flares at military helicopter",
-      "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 11:40:00 GMT",
-      "description": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment."
+      "title": "How being music's Mr Nice Guy contributed to biggest crisis of Ed Sheeran's career",
+      "link": "https://www.bbc.co.uk/news/articles/cm17jz89rxevo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 11:50:12 GMT",
+      "description": "Sheeran tries to stay away from politics and controversy, but that stance has come in for criticism."
     },
     {
-      "title": "Five things you may not know about Emmy history-maker Matthew Rhys",
-      "link": "https://www.bbc.co.uk/news/articles/ck790x9d74vvo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 12:06:19 GMT",
-      "description": "The Welsh actor became the first person to win two lead acting prizes in one night at the Emmy Awards."
+      "title": "Village votes to leave UK over asylum housing plan in symbolic referendum",
+      "link": "https://www.bbc.co.uk/news/articles/ckz7zyn1lwypo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 12:25:24 GMT",
+      "description": "Piddington residents vote over proposals to house up to 1,256 male asylum seekers nearby."
     },
     {
-      "title": "Political donors could face tougher residency rules",
-      "link": "https://www.bbc.co.uk/news/articles/cw3d7mv5v72ro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 10:55:38 GMT",
-      "description": "It comes after Reform received donations totalling £72m from two British crypto-billionaires who have both recently lived abroad."
+      "title": "Author and critic Bonnie Greer dies aged 77",
+      "link": "https://www.bbc.co.uk/news/articles/c39w4xqw4r2jo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 12:41:03 GMT",
+      "description": "Her husband says the playwright and cultural and political commentator died after a brief illness."
     },
     {
-      "title": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
-      "link": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 11:49:33 GMT",
-      "description": "The Trump administration had asked the court to lift a federal judge's temporary block on new rules for mail-in ballots."
+      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+      "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 12:26:16 GMT",
+      "description": "Dozens of people are missing beneath the rubble of a building hit by an Israeli strike last year, where some 10 families had been living."
     },
     {
-      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-      "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 08:49:31 GMT",
-      "description": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory."
+      "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 10:02:05 GMT",
+      "description": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity."
     },
     {
-      "title": "Two dead after car hits group of pedestrians",
-      "link": "https://www.bbc.co.uk/news/articles/cv8e35rzy486o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 11:38:58 GMT",
-      "description": "A vehicle hit four people before colliding with two cars on White Rose Way in Doncaster, police say."
+      "title": "Lucy Letby: Families' solicitor blames hospital bosses for police delay",
+      "link": "https://www.bbc.co.uk/news/articles/cw4gmllp86mmo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 11:41:29 GMT",
+      "description": "The Thirlwall Inquiry found repeated failures by hospital leaders to act on concerns."
     },
     {
-      "title": "Fall in small boat Channel crossings down to law enforcement, agency says",
-      "link": "https://www.bbc.co.uk/news/articles/cjvgy1g932xro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 09:00:14 GMT",
-      "description": "But other factors, including developments in the Middle East, may also be playing a role."
+      "title": "Kosovo's former president sentenced to 25 years for war crimes",
+      "link": "https://www.bbc.co.uk/news/articles/cmd79z0pdzgjo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 11:42:50 GMT",
+      "description": "Hashim Thaci has been jailed for crimes including torture and murder during Kosovo's independence war with Serbia."
     },
     {
-      "title": "Harry and Meghan change children's school over security concerns due to traffic",
-      "link": "https://www.bbc.co.uk/news/articles/cwg7kv373z4eo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 10:24:09 GMT",
-      "description": "It is understood that the couple's private security team had cited concerns about difficulties in making the school run route secure."
+      "title": "Burnham thanks well-wishers following his father's death",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgy53k49lgo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 11:21:21 GMT",
+      "description": "All opposition leaders sent condolences to Burnham as he cancelled engagements earlier this week."
     },
     {
-      "title": "The winners and nominees in full",
-      "link": "https://www.bbc.co.uk/news/articles/ce8l9pnkn62o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 05:31:34 GMT",
-      "description": "Zendaya, Noah Wyle, Sarah Snook and Colman Domingo are among the stars nominated for acting prizes."
+      "title": "Watch: Will Ed Sheeran cancel his tour as support acts quit?",
+      "link": "https://www.bbc.co.uk/news/videos/ck7v40jjv367o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 10:10:41 GMT",
+      "description": "Sheeran's backing band and all of his support acts pulled out of his US tour, so what happens now?"
     },
     {
-      "title": "Home Alone and Schitt's Creek stars pay tribute to late Catherine O'Hara",
-      "link": "https://www.bbc.co.uk/news/articles/cqkgvkn6yyxyo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 12:00:35 GMT",
-      "description": "Tributes were also paid to Dolly Parton, James Van Der Beek and Tim Curry."
+      "title": "A backlash over data centres is another threat to the AI juggernaut",
+      "link": "https://www.bbc.co.uk/news/articles/cv986j48l66ko?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 23:39:55 GMT",
+      "description": "The global AI race is being hit by very localised political and environmental concerns"
     },
     {
-      "title": "Watch: Superstars and broken records at the 2026 ceremony",
-      "link": "https://www.bbc.co.uk/news/videos/c6j9xym8zjy3o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 05:14:24 GMT",
-      "description": "The 78th Primetime Emmy Awards were hosted by Law & Order star Mariska Hargitay at the Peacock Theatre in Los Angeles."
+      "title": "Do you feel guilty when calling in sick at work? This might be why",
+      "link": "https://www.bbc.co.uk/news/articles/ce8e70x3pjzo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 23:40:07 GMT",
+      "description": "As many as half of people report working when sick. The reasons for this are complex, experts say."
     },
     {
-      "title": "In pictures: Zendaya, Selena Gomez and other stars light up red carpet",
-      "link": "https://www.bbc.co.uk/news/articles/c98r632g6p76o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 02:56:19 GMT",
-      "description": "Stars from the latest hit TV shows turn out at the biggest night in the US TV calendar."
+      "title": "Carney's new love-in with EU has everything to do with Trump",
+      "link": "https://www.bbc.co.uk/news/articles/ck0e3rnxev27o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 11:08:01 GMT",
+      "description": "The Canadian PM is in Strasbourg this week seeking a \"unique alliance\" - and there is one clear catalyst."
     },
     {
-      "title": "I was paid thousands to start a new life in small town America",
-      "link": "https://www.bbc.co.uk/news/articles/c3eq7485kewo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 23:08:28 GMT",
-      "description": "Relocation schemes offer support for people who want to swap big cities for a cheaper, quieter life."
+      "title": "Why Trump is all-in on AI despite the warnings",
+      "link": "https://www.bbc.co.uk/news/articles/c34gd48x5rlwo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 08:41:44 GMT",
+      "description": "The US president has pushed the issue to the forefront of American politics - even at the risk of losing supporters."
     },
     {
-      "title": "Watch: What's behind the decision to review Harry and Meghan's UK security?",
-      "link": "https://www.bbc.co.uk/news/videos/cq98692g6xxdo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 22:15:33 GMT",
-      "description": "The Duke and Duchess of Sussex are going to be given a review of their publicly-funded security after their return to live in the UK."
+      "title": "We managed to get jobs after uni - here's how we're keeping them",
+      "link": "https://www.bbc.co.uk/news/articles/cm2qn163053o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 08:36:37 GMT",
+      "description": "Four recent job starters share their tips on what helped them have a smooth transition and survive their first few days."
     },
     {
-      "title": "Ukraine's postal workers deliver lifeline under Russian fire",
-      "link": "https://www.bbc.co.uk/news/articles/c33kmred368o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 05:01:46 GMT",
-      "description": "The state post service delivers pensions, medicine and letters to people just miles from the front."
+      "title": "Our shop doors are locked during opening hours after theft",
+      "link": "https://www.bbc.co.uk/news/articles/c3v45r3g7dro?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 05:06:05 GMT",
+      "description": "Businesses reveal the impact of shoplifting with recorded offences still above pre-pandemic levels."
     },
     {
-      "title": "From Marilyn Monroe to Sabrina Carpenter - Bob Mackie's designs in pictures",
-      "link": "https://www.bbc.co.uk/news/articles/c9e8enjrn3dyo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 02:53:39 GMT",
-      "description": "Beyoncé, Cher, Elton John and Miley Cyrus have all worn Mackie's glittery ensembles."
+      "title": "Judge explains compassionate release of murderer who failed to return to NI jail",
+      "link": "https://www.bbc.co.uk/news/articles/cw3d7mmj3jz2o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 12:02:47 GMT",
+      "description": "Gary Anderson, who is serving 15 years for the murder of Karol Kelly in Londonderry in 2018, remains on the run on Wednesday."
     },
     {
-      "title": "Pokémon fans prepare for 'biggest day in a decade'",
-      "link": "https://www.bbc.co.uk/news/articles/c3v4z2vwrkpo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 11:45:04 GMT",
-      "description": "Collectors are eagerly awaiting the first release of the 30th anniversary Pokémon trading cards."
+      "title": "US accuses Russia of trying to kill Ukrainian allies overseas",
+      "link": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 12:26:00 GMT",
+      "description": "The FBI says five men \"conspired to intimidate, threaten, or murder people on US soil and around the world\"."
     },
     {
-      "title": "US confirms for first time it has deployed space weapons",
-      "link": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 08:48:28 GMT",
-      "description": "The US Air Force Secretary says the weapons are necessary to defend the country against enemy action."
+      "title": "Letby doctor says inquiry 'grim reading' and he wishes 'we had been brave enough to follow suspicions'",
+      "link": "https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 00:25:34 GMT",
+      "description": "Consultant Dr John Gibbs worked at the hospital during the period in 2015 to 2016 when Letby murdered seven babies."
     },
     {
-      "title": "Sweeney ad a barrier for girls in sport, sprinter Hunt says",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/cr780v5361j0o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 09:22:10 GMT",
-      "description": "British sprinter Amy Hunt says she is concerned the controversial advert starring Sydney Sweeney is a part of a \"barrier\" to girls' participation in sport."
+      "title": "Parents of Southport attack victim 'devastated' by data breach",
+      "link": "https://www.bbc.co.uk/news/articles/c6n4523y5490o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 11:15:44 GMT",
+      "description": "The Ministry of Justice says an urgent investigation has been launched after court files were accessed."
     },
     {
-      "title": "Mother sentenced for killing son and attempting to murder daughter",
-      "link": "https://www.bbc.co.uk/news/articles/c36lxgr19g1o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 11:32:14 GMT",
-      "description": "The woman was convicted and jailed in 2023 but in 2025 senior judges ruled those convictions were unsafe."
+      "title": "Tall athletes can't stretch their legs in container beds at Asian Games, official says",
+      "link": "https://www.bbc.co.uk/news/articles/c620lg854v45o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 09:33:40 GMT",
+      "description": "South Korea's delegation slams the wooden containers housing its athletes at the Asian Games in Nagoya city."
     },
     {
-      "title": "Suspected sabotage causes major Netherlands rail disruption",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 12:32:30 GMT",
-      "description": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations."
-    },
-    {
-      "title": "UK set to turn cooler as unsettled weather continues",
-      "link": "https://www.bbc.co.uk/weather/articles/c98r630jejdyo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 00:24:53 GMT",
-      "description": "As temperatures drop through the week and it starts to feel more autumnal, is it now time to put the summer clothes away?"
-    },
-    {
-      "title": "London misses out to Nairobi in World Athletics bid",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/crwyzvyn0p3go?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 12:39:22 GMT",
-      "description": "London has lost to Nairobi in its bid to host the World Athletics Championships in 2029, while the 2031 event will be held in Munich."
-    },
-    {
-      "title": "Lost oyster beds rediscovered thanks to Gaelic and Scots language",
-      "link": "https://www.bbc.co.uk/news/articles/ck4gl6e0737wo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 05:09:44 GMT",
-      "description": "Scientists searched for the inclusion of the Gaelic and Scots words for oyster or oysters in place-names around Scotland's coast."
+      "title": "Baby born during Harry Potter screening has 'Cineworld' on birth certificate",
+      "link": "https://www.bbc.co.uk/news/articles/cmn9wzxjj5rpo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 09:04:17 GMT",
+      "description": "Elsie Lamb was born in the Cineworld at Broughton, Flintshire, about 40 minutes into the film."
     },
     {
       "title": "BBC News app",
@@ -166,52 +148,46 @@
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests"
     },
     {
-      "title": "Newscast",
-      "link": "https://www.bbc.co.uk/sounds/play/p0p9l053?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 16:01:00 GMT",
-      "description": "President Trump dismisses need for AI guardrails, saying “whoever wins AI, wins”"
+      "title": "The full scale of the UK's forced adoption scandal revealed",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m00311vw?at_mid=C8UbY1eqgg&at_campaign=Stolen_Babies&at_medium=display_ad&at_campaign_type=owned&at_nation=SCT&at_audience_id=SS&at_product=iplayer&at_brand=m00311vw&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Stolen_Babies&at_bbc_team=BBC",
+      "published": "Mon, 31 Aug 2026 05:00:00 GMT",
+      "description": "Exposing a British scandal.  The women forced by the state to give up their newborns"
     },
     {
-      "title": "Americast",
-      "link": "https://www.bbc.co.uk/sounds/play/p0p9m9vz?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 18:26:00 GMT",
-      "description": "And which songs have made it onto Trump’s Air Force One playlist?"
+      "title": "Ranking the greatest all-time fantasy football icons",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq70dl3pn8xjo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 10:14:45 GMT",
+      "description": "There's nothing quite like the satisfaction of unearthing an absolute Fantasy Premier League bargain - so who are the most iconic picks ever?"
     },
     {
-      "title": "London loses bid to host 2029 World Athletics as Nairobi named host",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/crwyzvyn0p3go?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 12:39:22 GMT",
-      "description": "London has lost to Nairobi in its bid to host the World Athletics Championships in 2029, while the 2031 event will be held in Munich."
+      "title": "Maresca criticises focus on controversial Manchester derby winner",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmx2zyjylee1o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 11:07:00 GMT",
+      "description": "Manchester City manager Enzo Maresca says it is \"quite poor\" that the controversy surrounding Erling Haaland's winner has overshadowed his side's win at Manchester United."
     },
     {
-      "title": "Sweeney ad a barrier for girls in sport - Hunt",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/cr780v5361j0o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 09:22:10 GMT",
-      "description": "British sprinter Amy Hunt says she is concerned about the controversial advert starring Sydney Sweeney being part of a \"barrier\" to girls' participation in sport."
+      "title": "Mbappe, Vini and Konate cover up Real's message of support for Ceuta",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cxm2qyr5r009o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 10:55:00 GMT",
+      "description": "Vini Jnr, Mbappe and Konate cover up Ceuta message of support ahead of Real Madrid's match against Elche."
     },
     {
-      "title": "Spurs' Richarlison posts crying emoji after being left out of Liverpool tie",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmrl6errl1p6o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 09:12:53 GMT",
-      "description": "Richarlison publicly expresses his displeasure at Roberto de Zerbi's decision to leave him out of Tottenham's squad for Tuesday's Carabao Cup tie against Liverpool."
+      "title": "F1 to have 10 sprint races in 2027, including Monaco",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/crz9zvn5lzzpo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 09:01:21 GMT",
+      "description": "Formula 1 increases the number of sprint races from six to 10 for the 2027 World Championship."
     },
     {
-      "title": "How did they get the Madring track so wrong? - F1 Q&A",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c4g7pljy4neo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 06:49:52 GMT",
-      "description": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Spanish Grand Prix."
+      "title": "'He's an idiot, but he's our idiot' - Saints fans on Pollock contract stand-off",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6d08yve0n8no?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 06:49:45 GMT",
+      "description": "How has a drawn-out and public contract negotiation affected the relationship between Henry Pollock and Northampton Saints fans?"
     },
     {
-      "title": "Pidcock and Backstedt lead GB at Road Worlds",
-      "link": "https://www.bbc.co.uk/sport/cycling/articles/cvkgw997kwgwo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 12:31:04 GMT",
-      "description": "Great Britain's best cycling talents including Tom Pidcock and Zoe Backstedt will lead the charge at the Road World Championships - live on the BBC."
-    },
-    {
-      "title": "McBurnie & seven uncapped players in Scotland squad",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq770klrzmvyo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 11:23:30 GMT",
-      "description": "Hull City forward Oli McBurnie is called up to the Scotland squad for the first time in five years while seven uncapped make new head coach Sebastien Pocognoli's first selection."
+      "title": "Fernandez signs new London City contract",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq39m44d8ypvo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 08:30:56 GMT",
+      "description": "London City Lionesses defender Jana Fernandez signs a new contract, keeping her at the club until 2029."
     }
   ]
 }
