@@ -1,163 +1,145 @@
 {
-  "scraped_at": "2026-09-18 12:24:23 UTC",
+  "scraped_at": "2026-09-19 12:05:41 UTC",
   "source": "BBC News RSS",
-  "total": 33,
+  "total": 25,
   "headlines": [
     {
-      "title": "MI5 accepts it gave evidence based on lies in neo-Nazi spy case",
-      "link": "https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 11:39:50 GMT",
-      "description": "It is the first time MI5 has confirmed the BBC's revelation that it gave evidence based on lies in court while defending the violent informant."
+      "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+      "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 11:36:55 GMT",
+      "description": "Denmark and Greenland have welcomed the deal, which Trump claims will give the US \"permanent control over security and all other needs\" in the Danish territory."
     },
     {
-      "title": "Women told breasts removed needlessly as NHS trust finds more than 300 suffered harm",
-      "link": "https://www.bbc.co.uk/news/articles/c9qrn3y72dxo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 09:46:17 GMT",
-      "description": "The trust's new chief executive says he apologises unreservedly - \"What happened was utterly unacceptable.\""
+      "title": "'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview",
+      "link": "https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 15:59:59 GMT",
+      "description": "Princess Diana's brother tells the BBC's Laura Kuenssberg that \"we'll forget her soon enough\" were \"exactly\" the words used by the then-Prince of Wales."
     },
     {
-      "title": "Sisters of 'Putney pusher' suspect say DNA will clear his name",
-      "link": "https://www.bbc.co.uk/news/articles/cxnvl6pp1609o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 11:59:13 GMT",
-      "description": "Nicholas Brandram's sisters tell the BBC he did a DNA test to speed up the inquiry but never got the results."
+      "title": "Watch: Diana's brother says Charles 'went ballistic' in phone call after her death",
+      "link": "https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 15:59:21 GMT",
+      "description": "Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he has made in a new book."
     },
     {
-      "title": "War may be coming. Are we psychologically ready?",
-      "link": "https://www.bbc.co.uk/news/articles/cmn0jke547r5o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 23:22:17 GMT",
-      "description": "The military and government say the risk of conflict is growing, but we may not be mentally ready for it"
+      "title": "Billionaire Man United owner says he has lost confidence in the UK",
+      "link": "https://www.bbc.co.uk/news/articles/cm0463619r1no?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 23:06:16 GMT",
+      "description": "Ineos founder Sir Jim Ratcliffe tells the BBC he thinks the country is \"on the slide\" and calls for more investment in the North Sea."
     },
     {
-      "title": "Council staff refused anonymity for Sara Sharif inquest",
-      "link": "https://www.bbc.co.uk/news/articles/c6z0zg53vp4lo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 10:21:25 GMT",
-      "description": "A coroner rejects an application for three workers after the media, including the BBC, opposed it."
+      "title": "'How many more bodies?' Grief and fear in South Africa as nine women found dead in two months",
+      "link": "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 23:04:41 GMT",
+      "description": "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women."
     },
     {
-      "title": "Brewdog's unpaid workers to receive nothing after takeover deal",
-      "link": "https://www.bbc.co.uk/news/articles/cw1mvjyv937eo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 11:49:07 GMT",
-      "description": "Administrators say about £489,000 was owed for staff wages and holiday pay and £2.4m was owed to HMRC for unpaid VAT."
+      "title": "Parents could lose benefits or face prison for child's crimes, minister says",
+      "link": "https://www.bbc.co.uk/news/articles/c6lye7200g7vo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 07:19:48 GMT",
+      "description": "The reforms to Parenting Orders could also see parents losing benefits, Jake Richards MP told the Times."
     },
     {
-      "title": "British rapper Sway dies aged 44",
-      "link": "https://www.bbc.co.uk/news/articles/c6y9zgx5vy2go?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 11:03:29 GMT",
-      "description": "Sway, whose hits included Still Speedin' and Level Up, was living in Ghana at the time of his death."
+      "title": "Daisy Edgar-Jones: I try and bury my emotion when it comes to love",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgvlkg0z3xo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 23:01:34 GMT",
+      "description": "In real life the actress says she is just like the character she's playing in Sense and Sensibility."
     },
     {
-      "title": "Lindsay Clancy holdout juror had no doubt she deliberately killed her children",
-      "link": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 11:49:46 GMT",
-      "description": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision."
+      "title": "Bitter row over Diana book brings back unhappy times for royals",
+      "link": "https://www.bbc.co.uk/news/articles/cr86xyne8xp2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 09:37:35 GMT",
+      "description": "Many of the Royal Family's current troubles can be traced back to the aftermath of the then-Princess of Wales' death."
     },
     {
-      "title": "British woman rescued in Malawi shootout that left four suspected kidnappers dead",
-      "link": "https://www.bbc.co.uk/news/articles/cmlyrzz2gpw4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 03:59:17 GMT",
-      "description": "The mother of two young children was kidnapped last week in the middle of the day in the main city, Blantyre."
+      "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
+      "link": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 23:03:38 GMT",
+      "description": "Increasingly frequent and ferocious attacks on the Ukrainian capital have left many on edge."
     },
     {
-      "title": "At least 16 killed after vehicle loaded with explosives rams into Pakistan mosque",
-      "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 11:39:11 GMT",
-      "description": "A vehicle loaded with explosives rammed into a mosque building during Friday prayers, a senior police official says."
+      "title": "When a beloved tree began withering away, locals suspected a killer in their midst",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yl228lvzlo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 22:03:40 GMT",
+      "description": "A neighbourhood’s fight to save a cherished ginkgo pits them against an unlikely foe."
     },
     {
-      "title": "Move faster to solve climate challenges, Prince William says",
-      "link": "https://www.bbc.co.uk/news/articles/cwe8e2j5xxy3o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 10:12:32 GMT",
-      "description": "The Prince of Wales tells the BBC we need to \"accelerate\" in finding solutions to climate challenges as Earthshot nominees are unveiled."
+      "title": "I found love at an Irish matchmaking festival - and I want others to do the same",
+      "link": "https://www.bbc.co.uk/news/articles/cw5y4jz6k2p3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 23:18:02 GMT",
+      "description": "Mary Timby flew to Ireland on a whim last year and met her boyfriend at a matchmaking festival."
     },
     {
-      "title": "Oasis will not headline Glastonbury 2027, organiser Emily Eavis confirms",
-      "link": "https://www.bbc.co.uk/news/articles/cw1mvj19yvk4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 10:40:55 GMT",
-      "description": "The rock band will not be stopping at Worthy Farm despite being on tour at that time next summer."
+      "title": "From 'fusty' to fashionable - is it cool to wear M&S clothes now?",
+      "link": "https://www.bbc.co.uk/news/articles/cje3rk4p39zwo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 10:52:33 GMT",
+      "description": "The retailer hosted its first-ever London Fashion Week show this week, celebrating 100 years of producing clothing."
     },
     {
-      "title": "Tailgate parties, marching bands... and Ted Lasso? Wembley hosts US college game",
-      "link": "https://www.bbc.co.uk/sport/american-football/articles/cm62kg82yw5ro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 07:41:13 GMT",
-      "description": "Wembley will host its first American college football game on Saturday and one of Kansas' most famous fans could be among the 60,000 crowd."
+      "title": "'Enough is enough': Vigils held for murdered women in South Africa",
+      "link": "https://www.bbc.co.uk/news/videos/cm4gjxq1dx2eo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 11:50:50 GMT",
+      "description": "The police have since set up a task team to investigate the murders and have urged women in the Kempton Park area to avoid walking or running alone \"particularly in isolated areas\"."
     },
     {
-      "title": "US fans with Ed Sheeran tickets left torn over Macklemore controversy",
-      "link": "https://www.bbc.co.uk/news/articles/c6rer05nqlx5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 00:38:03 GMT",
-      "description": "With Sheeran's next gig this weekend, some ticket holders said they were in two minds about going."
+      "title": "Shark attack prompts rare kill order in Western Australia as victim named",
+      "link": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 11:50:22 GMT",
+      "description": "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him."
     },
     {
-      "title": "We bought our £242,000 home without a deposit - here's how",
-      "link": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 10:43:03 GMT",
-      "description": "The share of UK mortgages with smaller deposits is the highest it's been since 2008. The BBC spoke to borrowers about how they manage the risks."
+      "title": "Millions without power as Cuba hit by latest major blackout",
+      "link": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 10:27:37 GMT",
+      "description": "Widespread power outages have become increasingly common due to fuel shortages made worse by a US blockade."
     },
     {
-      "title": "'Complete despair': Afghan female medical students fear being sent home from Pakistan",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0z3kez6xno?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 23:31:43 GMT",
-      "description": "Since 2023, hundreds of thousands of Afghans have been deported from Pakistan and over two million have left."
+      "title": "Michael Marra announced as new Scottish Labour leader",
+      "link": "https://www.bbc.co.uk/news/articles/cvrl64773g58o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 10:59:55 GMT",
+      "description": "Anas Sarwar's replacement has been announced as the MSP for the North East region."
     },
     {
-      "title": "Learner drivers turn to YouTube and TikTok to cut costs - but instructors warn of risks",
-      "link": "https://www.bbc.co.uk/news/articles/cvgjnz7md4lo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 05:03:27 GMT",
-      "description": "One learner says social media clips saved her money, but there was also misinformation online."
+      "title": "Google's Gemini AI hacked three companies in security test",
+      "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 04:27:11 GMT",
+      "description": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC."
     },
     {
-      "title": "Not just 'Nice Guy Eddie': Lib Dems eager for leader to show radical side at party conference",
-      "link": "https://www.bbc.co.uk/news/articles/cq4grjdz8xv5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 00:18:23 GMT",
-      "description": "There is a sizeable group of Lib Dem MPs who openly question whether the party's problem is with its leader, while others support his stance."
+      "title": "Trump signs sweeping Russia sanctions bill",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 22:05:47 GMT",
+      "description": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine."
     },
     {
-      "title": "Weekly quiz: Why did women's sports stars criticise actress Sydney Sweeney?",
-      "link": "https://www.bbc.co.uk/news/articles/cmgrvdyxwz0go?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 18:52:26 GMT",
-      "description": "How much attention did you pay to what happened in the world over the past seven days?"
+      "title": "Temperatures could peak at 26C as summerlike warmth returns next week",
+      "link": "https://www.bbc.co.uk/weather/articles/cqlym1m2kllgo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 23:01:53 GMT",
+      "description": "After a changeable week, drier and warmer conditions will dominate for some next week, but with little rain for those who need it."
     },
     {
-      "title": "New wild cat species discovered - with only one known living member",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 23:15:55 GMT",
-      "description": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia."
+      "title": "AI not a threat to films, say Shaun the Sheep creators",
+      "link": "https://www.bbc.co.uk/news/articles/c8y5z7d37yzzo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 18 Sep 2026 11:51:22 GMT",
+      "description": "The Bristol-based institution have released the third feature film in the Shaun the Sheep franchise."
     },
     {
-      "title": "Police begin operation to move migrants from Ceuta beaches",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 11:59:42 GMT",
-      "description": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site."
+      "title": "Why I'm doing a September reset and how you can create a new routine",
+      "link": "https://www.bbc.co.uk/news/articles/c770drlkzkpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 23:12:32 GMT",
+      "description": "It's the month when many of us embark on a new chapter so here's how to start strong and keep the good habits."
     },
     {
-      "title": "Three dead and eight injured in Philippines school shooting",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 11:01:46 GMT",
-      "description": "The gunman is among the dead in what is the third school shooting in the country since June."
+      "title": "Nepo baby is a horrific term, says Zeta-Jones",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz5yvye90o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 13 Sep 2026 15:40:51 GMT",
+      "description": "The Chicago star's children Dylan and Carys have both gone into showbiz, following in her footsteps."
     },
     {
-      "title": "UK's 'dismal' Eurovision song choices to be examined by MPs",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgy3pdv612o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 04:29:27 GMT",
-      "description": "It comes after the UK's entry Look Mum No Computer came last in May's final, scoring just one point."
-    },
-    {
-      "title": "Olympic rowing river has 500 crocodiles in it - but that's not the main concern",
-      "link": "https://www.bbc.co.uk/news/articles/c68xkypqyxw7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 23:29:17 GMT",
-      "description": "Queensland's Fitzroy River has been selected for the 2032 Games, despite concerns over the course - and its inhabitants."
-    },
-    {
-      "title": "Badenoch says she is instructing lawyers to challenge government after Tory-run council's 94% tax hike",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gq87ed6n3o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 10:37:06 GMT",
-      "description": "A row is growing over Wandsworth Council's rise, which the local authority is blaming on government funding cuts."
-    },
-    {
-      "title": "Food festivals across UK exploited in AI-powered scam, BBC finds",
-      "link": "https://www.bbc.co.uk/news/articles/cm207d6qy0d1o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 09:15:43 GMT",
-      "description": "One trader says her \"heart sank\" after discovering she had lost money through a scam festival invitation."
+      "title": "Runaway horse captured by police on motorbikes",
+      "link": "https://www.bbc.co.uk/news/videos/cmzezj8gr224o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 05:57:23 GMT",
+      "description": "The unharmed horse escaped from its owner before the start of a parade in New Mexico"
     },
     {
       "title": "BBC News app",
@@ -166,40 +148,10 @@
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests"
     },
     {
-      "title": "Tuchel recalls Alexander-Arnold and Palmer with warning",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmly4gpnwk2go?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 12:12:15 GMT",
-      "description": "England boss Thomas Tuchel recalls Trent Alexander-Arnold and Cole Palmer but says players have to \"perform\"."
-    },
-    {
-      "title": "How the race they said women couldn't run took centre stage",
-      "link": "https://www.bbc.co.uk/sport/olympics/articles/clyk12vrv21o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 06:02:52 GMT",
-      "description": "After making its debut at the 1928 Olympics, the women's 800m was cut from the programme. Now, it's often billed as the must-see event of major athletics championships. So, how did we get here?"
-    },
-    {
-      "title": "From depression after Chelsea injury to playing non-league at 37",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm89jqxpvy3xo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 07:10:13 GMT",
-      "description": "Sam Hutchinson is getting ready to play for Farnham Town in the second qualifying round of the FA Cup - 19 years after making his Chelsea debut under Jose Mourinho."
-    },
-    {
-      "title": "Poor imitation of Ange team - where do Celtic & O'Neill go from here?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6dj4mrmd27ko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 23:51:07 GMT",
-      "description": "After another defeat, keeping the faith is surely becoming more testing for Celtic's fans, writes Tom English."
-    },
-    {
-      "title": "Canada captain loses sleep 'four to five nights a week' over England's World Cup win",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cv70dngn8pl3o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 10:45:25 GMT",
-      "description": "Canada captain Sophie de Goede says she still loses sleep over their World Cup final loss to England last year."
-    },
-    {
-      "title": "Sutton's predictions v legendary guitarist Johnny Marr",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c62j06np0gpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 17 Sep 2026 15:10:03 GMT",
-      "description": "BBC Sport football expert Chris Sutton takes on legendary guitarist and Man City fan Johnny Marr, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures."
+      "title": "The man who would be king - the rise and fall of 'the next Prince Naseem'",
+      "link": "https://www.bbc.co.uk/news/articles/c5ye0l17dnjo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 06:35:46 GMT",
+      "description": "Touted as the king to Naseem Hamed's prince, Daniel Teasdale's story is instead a cautionary tale."
     }
   ]
 }
