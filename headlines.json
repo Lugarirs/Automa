@@ -1,139 +1,157 @@
 {
-  "scraped_at": "2026-09-20 12:41:07 UTC",
+  "scraped_at": "2026-09-21 14:36:35 UTC",
   "source": "BBC News RSS",
-  "total": 24,
+  "total": 33,
   "headlines": [
     {
-      "title": "Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 12:23:05 GMT",
-      "description": "Princess Diana's brother describes press coverage of Prince Harry and Meghan as a \"cancerous influence in their life\" and says he saw his sister cry \"tears of despair\" over interest in her."
+      "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+      "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 14:14:16 GMT",
+      "description": "The BBC's Frank Gardner speaks some of those who have fled the war by crossing the Red Sea to Djibouti"
     },
     {
-      "title": "Watch: Diana's brother says press has 'cancerous influence' on Harry and Meghan's lives",
-      "link": "https://www.bbc.co.uk/news/videos/cv1j4794gn6po?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 05:06:37 GMT",
-      "description": "Earl Spencer says that he can see echoes of Princess Diana's treatment from the press in the way Harry and Meghan are scrutinised."
+      "title": "Young people aren't snowflakes - mental distress is rising, says head of official review",
+      "link": "https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 04:00:05 GMT",
+      "description": "Speaking exclusively to the BBC, Prof Peter Fonagy says being young is much harder now than it was."
     },
     {
-      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-      "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 10:45:39 GMT",
-      "description": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died."
+      "title": "'I see my abusers in the supermarket' - Oxford grooming gang survivors' ongoing torment",
+      "link": "https://www.bbc.co.uk/news/articles/cmpwln09gknzo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 05:00:34 GMT",
+      "description": "Men who sexually abused them as underage girls are still walking around the city, they say."
     },
     {
-      "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
-      "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 04:49:11 GMT",
-      "description": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage."
+      "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
+      "link": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 14:06:12 GMT",
+      "description": "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded in most areas."
     },
     {
-      "title": "The deadly new drugs making Scotland's fight against addiction even harder",
-      "link": "https://www.bbc.co.uk/news/articles/c39w4n07ekeno?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 08:04:55 GMT",
-      "description": "Experts warn potent new substances are making an already deadly crisis more dangerous."
+      "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
+      "link": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 00:05:11 GMT",
+      "description": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg."
     },
     {
-      "title": "Ed Davey calls for immediate 10p cut to fuel duty",
-      "link": "https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 09:32:50 GMT",
-      "description": "Sir Ed blamed Donald Trump's war with Iran for damaging the UK economy and pushing fuel prices up."
+      "title": "Southport killer accused of throwing boiling water mixed with sugar at prison officer",
+      "link": "https://www.bbc.co.uk/news/articles/c6d79pzny7gjo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 12:32:42 GMT",
+      "description": "Axel Rudakubana is accused of grievous bodily harm and two other assaults of prison officers while serving a life sentence."
     },
     {
-      "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
-      "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 23:01:38 GMT",
-      "description": "Students spent years collecting evidence against their Indonesian principal, before falling in love."
+      "title": "British Museum bans visitors from photographing Bayeux Tapestry",
+      "link": "https://www.bbc.co.uk/news/articles/cmd79p4z98lzo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 12:21:40 GMT",
+      "description": "Visitors stopping to take pictures of the 68m medieval embroidery were holding up others, prompting the rule change."
     },
     {
-      "title": "Sex and dating for the sandwich generation - Sharon Horgan on her latest comedy Youth",
-      "link": "https://www.bbc.co.uk/news/articles/czxz0zq9y6do?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 23:18:34 GMT",
-      "description": "\"It's really weird watching yourself age on screen because that's not fun,\" Horgan reveals."
+      "title": "BBC removes 11 Mitchell and Webb comedy sketches from iPlayer",
+      "link": "https://www.bbc.co.uk/news/articles/c6jdvpr30k8jo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 11:05:13 GMT",
+      "description": "The corporation said it had included \"the ones that still work today and not the ones that don't.\""
     },
     {
-      "title": "Cultural treasures are being destroyed worldwide - so why is no-one being punished?",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 23:18:18 GMT",
-      "description": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it."
+      "title": "Watch: Patrick Clancy says he forgives his ex-wife, Lindsay",
+      "link": "https://www.bbc.co.uk/news/videos/c699dlj957mgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 13:53:38 GMT",
+      "description": "The ex-husband of a US mother accused of murdering their three children has said he would have been \"eaten up inside forever\" had he not forgiven her."
     },
     {
-      "title": "'People forget we exist': Why older LGBTQ+ people fear losing identity",
-      "link": "https://www.bbc.co.uk/news/articles/c62e04wkj803o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 23:18:46 GMT",
-      "description": "A report suggests older LGBTQ+ people experience more social isolation than their heterosexual peers."
+      "title": "Presley Gerber, Cindy Crawford's son, dies aged 27",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 07:01:25 GMT",
+      "description": "His family asked for privacy during a \"very difficult and painful time\" following the model's death."
     },
     {
-      "title": "Trump escalates media fight after week of setbacks",
-      "link": "https://www.bbc.co.uk/news/articles/cmn8ed1xpxnyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 17:23:37 GMT",
-      "description": "An embattled Trump has injected his fight with the news media with new acrimony, writes the BBC's Anthony Zurcher."
+      "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
+      "link": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 14:26:29 GMT",
+      "description": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\""
     },
     {
-      "title": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
-      "link": "https://www.bbc.co.uk/news/articles/cx1l6762jeq4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 23:01:45 GMT",
-      "description": "The children of key politicians jailed 25 years ago without a trace in Eritrea want answers."
+      "title": "Katya Adler: Merz's political crisis threatens Germany's obsession with stability",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgyz1n0v1xo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 13:30:45 GMT",
+      "description": "Political shifts in Germany are being watched closely in Europe and beyond, Katya Adler writes."
     },
     {
-      "title": "Man rearrested after missing mum's remains found",
-      "link": "https://www.bbc.co.uk/news/articles/ck8d3lz684zvo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 12:32:08 GMT",
-      "description": "The remains of mother-of-three Joanne Sheen were found almost seven years after she went missing."
+      "title": "What food items should you stock up on in case of an emergency?",
+      "link": "https://www.bbc.co.uk/news/articles/c20veglyjp8o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 23:02:27 GMT",
+      "description": "Extreme weather may be changing the way we need to shop, with the UK government urging people to stock up on canned goods."
     },
     {
-      "title": "Billionaire Man United owner loses moral high ground after tax exile, Labour chair says",
-      "link": "https://www.bbc.co.uk/news/articles/cm0rexrwjj1vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 11:22:21 GMT",
-      "description": "The billionaire businessman told the BBC he has lost confidence in the UK due to a combination of high taxes and high immigration."
+      "title": "'Other generations just buried it' - Youths share their mental health concerns",
+      "link": "https://www.bbc.co.uk/news/videos/ck1wx2z55nwyo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 12:17:42 GMT",
+      "description": "The BBC's Catherine Burns spoke to some young mental health ambassadors who called for an increase in mental health support."
     },
     {
-      "title": "Homes evacuated over fears fire at seaside hotel weakened building's structure",
-      "link": "https://www.bbc.co.uk/news/articles/cwkgxer9jezeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 11:57:02 GMT",
-      "description": "Residents living near Folkestone’s Grand Burstin Hotel relocated after safety inspectors' concerns."
+      "title": "Countryside buses resurging in England after years of decline - check your local figures",
+      "link": "https://www.bbc.co.uk/news/articles/c07yrrpdvzko?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 10:57:17 GMT",
+      "description": "A rise in bus miles with council funding might be starting to reverse the reduction in services."
     },
     {
-      "title": "German elections under way which could decide fate of Chancellor Merz",
-      "link": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 07:57:32 GMT",
-      "description": "The chancellor is facing intense political pressure which will increase if his party struggles in Sunday's polls."
+      "title": "Workers came across human remains – and unearthed a mass grave of 572 people",
+      "link": "https://www.bbc.co.uk/news/articles/cm1j4kl80z56o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 22:28:15 GMT",
+      "description": "Workers in northern Sri Lanka accidentally uncovered the country's largest mass grave – and reopened wounds from its civil war."
     },
     {
-      "title": "Strictly returns with new hosting trio as celebrities find out dance pairings",
-      "link": "https://www.bbc.co.uk/news/articles/c6m2rkx2evxmo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 21:27:06 GMT",
-      "description": "Emma Willis, Josh Widdicombe and Johannes Radebe take over from long-running presenting duo Tess Daly and Claudia Winkleman."
+      "title": "Spygate's final twist - Southampton manager says he's asked for forgiveness before FA misconduct hearing",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmp30p934g4lo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 05:32:44 GMT",
+      "description": "As Southampton manager Tonda Eckert awaits the FA hearing into his 'Spygate' misconduct conduct charge BBC sports editor Dan Roan speaks to him and club chief executive Phil Parsons on what happens next."
     },
     {
-      "title": "Maddy Cusack's family still waiting for answers on third anniversary of her death",
-      "link": "https://www.bbc.co.uk/news/articles/c4gr2rdrk59o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 23:17:57 GMT",
-      "description": "The third anniversary of Maddy Cusack's death falls during a pause in the footballer's inquest."
+      "title": "Will you get £13,000 a year when you stop working? Here's how to check",
+      "link": "https://www.bbc.co.uk/news/articles/crq5x74yv6dxo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 08:49:45 GMT",
+      "description": "How to find out how much state pension you're likely to receive - and what you can do about it now."
     },
     {
-      "title": "Twin's stillbirth inspires grieving father's children's book",
-      "link": "https://www.bbc.co.uk/news/articles/c158n5zjyxqo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 15 Sep 2026 05:31:37 GMT",
-      "description": "Richard Ganjavi says you never get over the loss of a child but hopes his book will be her legacy."
+      "title": "Helen Jenner unveiled by Nigel Farage as new leader of Reform in Wales",
+      "link": "https://www.bbc.co.uk/news/articles/cjly4p95y3zko?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 13:52:03 GMT",
+      "description": "Farage says it was \"untenable\" for former leader Dan Thomas to continue after his arrest last week."
     },
     {
-      "title": "The Meta glasses revolution - is it okay to film people in public?",
-      "link": "https://www.bbc.co.uk/news/articles/cz05jxx08kyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 12 Sep 2026 05:13:53 GMT",
-      "description": "Meta glasses, made by the company behind Facebook, WhatsApp and Instagram, have made it easier for people to film discreetly in public."
+      "title": "Cate Blanchett asks theatre audience to stop filming during show",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgyzpy6g43o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 14:03:20 GMT",
+      "description": "The A-list actress is the latest star to ask fans to put their phones away during performances."
     },
     {
-      "title": "I got paid $5,000 to move to a place I'd never heard of",
-      "link": "https://www.bbc.co.uk/news/articles/c3eq7485kewo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 23:08:28 GMT",
-      "description": "Relocation schemes offer support for people who want to swap big cities for a cheaper, quieter life."
+      "title": "Two arrested over major fire at Kent hotel",
+      "link": "https://www.bbc.co.uk/news/articles/cmg49pg4vq6qo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 14:28:53 GMT",
+      "description": "A 38-year-old man and 21-year-old woman were arrested on suspicion of arson, police say."
     },
     {
-      "title": "Asian hornet hunt leads to nest discovery",
-      "link": "https://www.bbc.co.uk/news/articles/clyk6emn3dlo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 14 Sep 2026 05:13:55 GMT",
-      "description": "Bee keepers and inspectors used GPS trackers to follow the insects and find the nest in Oldham."
+      "title": "US strikes on alleged drug boats could be crimes against humanity, says UN",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ye7v88qy7o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 12:08:56 GMT",
+      "description": "A report says the attacks, of which there have been at least 68, were not self-defence."
+    },
+    {
+      "title": "Google hit with €403m fine by Irish data watchdog over GDPR violations",
+      "link": "https://www.bbc.co.uk/news/articles/ck1e52v16ngxo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 12:30:54 GMT",
+      "description": "The penalty follows an inquiry launched into the tech giant six years ago, following complaints from several European consumer rights organisations."
+    },
+    {
+      "title": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
+      "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 14:30:38 GMT",
+      "description": "Major US networks later announced they would suspend their White House  television coverage of Trump as he heads to New York for the UN summit."
+    },
+    {
+      "title": "Ryan Reynolds and Rob Mac buy historic Wrexham football pub",
+      "link": "https://www.bbc.co.uk/news/articles/cmd68px6eg6vo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 12:06:51 GMT",
+      "description": "The Turf is a regular feature on the Welcome to Wrexham Disney documentary series."
     },
     {
       "title": "BBC News app",
@@ -142,10 +160,46 @@
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests"
     },
     {
-      "title": "Townsend run over by pitch roller in Thailand",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cr93e70xv21ko?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 09:08:43 GMT",
-      "description": "Former England winger Andros Townsend jokes that playing Stoke away \"wasn't so bad after all\" following a bizarre incident before a game in Thailand."
+      "title": "Palmer & Rice among five withdrawals from England squad",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c617j2prweejo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 09:36:36 GMT",
+      "description": "Tino Livramento, Kobbie Mainoo, Cole Palmer, Marcus Rashford and Declan Rice all pull out of England's squad for forthcoming Nations League matches."
+    },
+    {
+      "title": "Celtic can't sack manager O'Neill, says Lambert",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c3j4jpzy08p5o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 13:55:16 GMT",
+      "description": "Martin O'Neill leaving Celtic would not surprise Paul Lambert, but the former club captain would be \"shocked and disappointed\" if the veteran manager was to be sacked."
+    },
+    {
+      "title": "Why Cardiff is set to win race to host Fury-Joshua",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/ck5yw8q81ql2o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 10:51:22 GMT",
+      "description": "Why Cardiff is set to beat competition from London and New York to host the long-awaited fight between Tyson Fury and Anthony Joshua."
+    },
+    {
+      "title": "How will clubs train during three-week international break?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c93v020y7qgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 13:30:11 GMT",
+      "description": "BBC Sport looks at how clubs are planning to deal with the extended three-week international break."
+    },
+    {
+      "title": "Xhaka under investigation over Covid-19 certificate",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 12:21:52 GMT",
+      "description": "Switzerland captain Granit Xhaka is being investigated over an issue with his Covid-19 vaccination certificate."
+    },
+    {
+      "title": "How are Scotland squad shaping up for Pocognoli debut?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck8d38yz4yymo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 13:49:13 GMT",
+      "description": "Sebastien Pocognoli's faces his first test as Scotland head coach against Slovenia on Saturday, but how are his squad shaping up for his debut?"
+    },
+    {
+      "title": "Best not to underestimate us - GB plan BJK Cup upset against all-star Czechs",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c6n453wd3gdyo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 13:34:05 GMT",
+      "description": "Great Britain face the Czech Republic at the Billie Jean King Cup Finals on Tuesday - and know full well the size of the challenge facing them."
     }
   ]
 }
