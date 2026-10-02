@@ -1,157 +1,133 @@
 {
-  "scraped_at": "2026-10-01 14:51:56 UTC",
+  "scraped_at": "2026-10-02 14:13:01 UTC",
   "source": "BBC News RSS",
-  "total": 34,
+  "total": 29,
   "headlines": [
     {
-      "title": "US death row inmate survives execution attempt after two lethal injections",
-      "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 09:59:59 GMT",
-      "description": "Killer Christa Pike's lawyer says she is being given \"life-saving measures\" in hospital after two syringes of pentobarbital."
+      "title": "School protests send shivers down French government's spine",
+      "link": "https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 12:43:02 GMT",
+      "description": "A movement that started nearly two weeks ago has spread, and in France young people on the streets spells trouble, writes Hugh Schofield."
     },
     {
-      "title": "What happened in failed execution of Christa Pike - and what next?",
-      "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 12:51:14 GMT",
-      "description": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions."
+      "title": "Watch: 'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+      "link": "https://www.bbc.co.uk/news/videos/c914d43y7xn4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 08:46:37 GMT",
+      "description": "He has been hailed a hero for opening the cockpit door, allowing passengers to overpower his co-pilot."
     },
     {
-      "title": "Travelodge failed sex assault victim 'at every stage', review finds",
-      "link": "https://www.bbc.co.uk/news/articles/c93429dg425o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 11:44:40 GMT",
-      "description": "Room intrusions were still being reported at one-in-10 Travelodge hotels this summer, a review finds."
+      "title": "Woman who killed abusive partner has murder conviction overturned",
+      "link": "https://www.bbc.co.uk/news/articles/cmz98wwklwz7o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 11:52:00 GMT",
+      "description": "The Court of Appeal ruled that jurors were misdirected on Julie Ann McIlwaine's loss of control defence to the killing of James Joseph Crossley."
     },
     {
-      "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
-      "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 11:26:46 GMT",
-      "description": "A pilot who stabbed another pilot on an Israel-bound plane is being investigated in Saudi Arabia, Benjamin Netanyahu says."
+      "title": "What does Man City guilty verdict mean for their squad?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c68jdjdz32n3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 09:00:51 GMT",
+      "description": "BBC Sport looks at how Manchester City's guilty verdict will affect their existing players' futures and the club's dealings in the transfer market."
     },
     {
-      "title": "Flydubai passenger describes hugging his children as plane nosedived during attack",
-      "link": "https://www.bbc.co.uk/news/articles/c6d949ydnw3po?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 13:57:28 GMT",
-      "description": "Adam Polovincik tells the BBC he told his young children \"everything is going to be all right\" as flight plunged more than 17,000ft (5,200m)."
+      "title": "K-pop giants Stray Kids join BTS in boycotting the Grammys",
+      "link": "https://www.bbc.co.uk/news/articles/c5398kkx27ewo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 12:28:59 GMT",
+      "description": "Stray Kids become the second major act to withdraw from the Grammys over the new best Asian Pop award."
     },
     {
-      "title": "Body of baby girl found in Wales may have been in the water for weeks, police say",
-      "link": "https://www.bbc.co.uk/news/articles/cxq636mpn19yo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 13:01:09 GMT",
-      "description": "The body of the baby found along the north Wales shoreline was a girl, a post-mortem has revealed."
+      "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
+      "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 11:06:10 GMT",
+      "description": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution."
     },
     {
-      "title": "Moment Esther Rantzen surprises Nicholas Winton with children he saved",
-      "link": "https://www.bbc.co.uk/news/videos/cxnvlvm2r85zo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 09:07:36 GMT",
-      "description": "One of her most memorable career moments came during one particular episode in 1988 - the footage of which has gone viral several times over in recent years."
+      "title": "How to move 1,300 plants for Kew's Palm House mega makeover",
+      "link": "https://www.bbc.co.uk/news/videos/c914d43gg2zdo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 08:53:30 GMT",
+      "description": "The world-famous Palm House at the Royal Botanic Gardens Kew in London is about to undergo a massive makeover."
     },
     {
-      "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
-      "link": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 14:05:55 GMT",
-      "description": "\"My family and I will not truly be safe as long as Putin is in power,\" says the former chess world champion."
+      "title": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
+      "link": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 23:00:06 GMT",
+      "description": "A growing number of people are opting out of these schemes due to cost-of-living pressures."
     },
     {
-      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 11:37:46 GMT",
-      "description": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains."
+      "title": "Cornell students gather to voice anger over alleged gang rape investigation",
+      "link": "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 10:00:24 GMT",
+      "description": "Students tell the BBC that the tension on campus has become palpable since allegations from 2024 resurfaced."
     },
     {
-      "title": "Russia targets busy bridge in central Kyiv in broad daylight",
-      "link": "https://www.bbc.co.uk/news/articles/cmn8e8344v5qo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 14:31:03 GMT",
-      "description": "The Pivdennyi bridge came under fire as a metro train was travelling across - the first such attack on Kyiv's bridges."
+      "title": "Chaos, coffins and 'Claudiapatra' steal the show in Celebrity Traitors",
+      "link": "https://www.bbc.co.uk/news/articles/cm89j9024k7po?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 09:28:32 GMT",
+      "description": "There is paranoia, confusion and a battle to survive among the celebrities as they fight for survival."
     },
     {
-      "title": "Naomi Campbell wins appeal over charity ban",
-      "link": "https://www.bbc.co.uk/news/articles/c90klkz8j06vo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 11:54:28 GMT",
-      "description": "A tribunal rules that the model was unaware of misconduct at her charity Fashion for Relief."
+      "title": "Why UK diesel prices have breached the £2 per litre mark",
+      "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 13:38:22 GMT",
+      "description": "The average price of a litre of diesel at the pump stands at an all-time high of 200.01p, according to the RAC motoring body."
     },
     {
-      "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
-      "link": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 08:39:28 GMT",
-      "description": "Capt Smit Machchhar was attacked by another pilot onboard the Flydubai flight bound for Tel Aviv."
+      "title": "My missing Celtic jersey spent 25 years travelling the globe in a long-running prank",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2zkjgvlz7o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 05:52:20 GMT",
+      "description": "Kevin Hill's much-loved Celtic top was lost years ago but that was just the start of an international mystery."
     },
     {
-      "title": "China has cracked down on AI relationships. Is it ahead of the game?",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gjy9lr551o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 23:25:23 GMT",
-      "description": "Beijing has cracked down on AI chatbots that can replicate human relationships. Experts are asking if this is the right thing to do."
+      "title": "How to see the Orionid meteor shower this weekend",
+      "link": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 07:16:45 GMT",
+      "description": "Friday sees the start of the Orionid meteor shower as Earth passes through debris left behind by Halley’s Comet. It peaks later in October."
     },
     {
-      "title": "What role would you play in the Traitors castle? Take our quiz to find out",
-      "link": "https://www.bbc.co.uk/news/articles/cwly7yg13dgpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 11:04:50 GMT",
-      "description": "Navigate the early stages of the series with our interactive"
+      "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
+      "link": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 23:32:59 GMT",
+      "description": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years."
     },
     {
-      "title": "'Overcrowded' and 'set up to fail': Freed prisoners react to early release scheme",
-      "link": "https://www.bbc.co.uk/news/articles/cr1e5ednzwd2o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 14:47:02 GMT",
-      "description": "Offenders speak to the BBC as the first wave of early releases see hundreds of prisoners freed."
+      "title": "No more cereal at the end of the aisle? New rules in Scotland's supermarkets",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyzye21463o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 10:47:07 GMT",
+      "description": "Restrictions are being put on products with high sugar, fat and salt content, but the meal deal lives on."
     },
     {
-      "title": "'I love the sheep and the people' - Knitters flock to Shetland's wool week",
-      "link": "https://www.bbc.co.uk/news/articles/cq62kp9nn487o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 05:23:19 GMT",
-      "description": "The annual event is marking its 17th year and draws visitors from all over the world."
+      "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
+      "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 23:45:06 GMT",
+      "description": "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency."
     },
     {
-      "title": "'I'm very shocked' - College students react to Cornell University rape investigation",
-      "link": "https://www.bbc.co.uk/news/videos/cmdx0x928999o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 30 Sep 2026 23:58:27 GMT",
-      "description": "The BBC asked students in Washington about the allegations from a woman who says she was raped at a fraternity house in 2024."
+      "title": "Olivia Dean accused of copying Bill Withers' Just The Two of Us",
+      "link": "https://www.bbc.co.uk/news/articles/c933k3gk72x6o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 09:51:23 GMT",
+      "description": "The star's record label is sued over similarities between her song I've Seen It and  Withers' classic."
     },
     {
-      "title": "Nine scandals that rocked the sporting world",
-      "link": "https://www.bbc.co.uk/sport/articles/ck62m2n3yezno?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 11:32:37 GMT",
-      "description": "Manchester City are far from the first. The lure of glory and riches on the biggest stages have tempted plenty of other sports stars to break the rules."
+      "title": "British paratrooper killed by explosion in Ukraine, coroner rules",
+      "link": "https://www.bbc.co.uk/news/articles/cj5ydy1yk3yqo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 13:50:15 GMT",
+      "description": "L/Cpl George Hooley is the first UK service member to die in Ukraine since Russia's full-scale invasion in February 2022."
     },
     {
-      "title": "Watch: Why are students protesting at schools in France?",
-      "link": "https://www.bbc.co.uk/news/videos/cwy8z8rney97o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 12:31:18 GMT",
-      "description": "The BBC's Hugh Schofield is in Paris as a wave of school protests over overcrowded classes and teacher shortages spreads across France."
+      "title": "Man arrested over 1993 unsolved Tooze murders faces no further action",
+      "link": "https://www.bbc.co.uk/news/articles/c60qxqqgwxe8o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 11:52:32 GMT",
+      "description": "Harry and Megan Tooze were found dead with shotgun wounds at their farm in south Wales."
     },
     {
-      "title": "UK on track for one of the warmest years on record after warm September",
-      "link": "https://www.bbc.co.uk/weather/articles/cqg7k7j388m4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 13:25:26 GMT",
-      "description": "September was the fourth warmest year on record in the UK according to the Met Office and whilst overall rainfall was average there were large regional variations."
+      "title": "Son of ex-Chelsea player died in 40C desert hike",
+      "link": "https://www.bbc.co.uk/news/articles/ckj06007g600o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 10:17:29 GMT",
+      "description": "Cassius Newton's wife urged him not to go on the hike, a coroner tells an inquest into his death."
     },
     {
-      "title": "Scottish Sikh activist Jagtar Singh Johal freed on bail after nine years in Indian prison",
-      "link": "https://www.bbc.co.uk/news/articles/cxr50yln55rgo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 14:49:01 GMT",
-      "description": "The Sikh activist from Dumbarton was arrested in 2017 in connection with alleged terror offences."
-    },
-    {
-      "title": "Northern Ireland's young drivers first in UK to get restrictions put on new licences",
-      "link": "https://www.bbc.co.uk/news/articles/cqm2rgmn74pro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 06:21:06 GMT",
-      "description": "Northern Ireland becomes the first part of the UK to introduce new rules for new drivers in a bid to reduce fatal road crashes involving young people."
-    },
-    {
-      "title": "Tourette's campaigner Davidson asks to watch Scottish Baftas via video link after racial slur row",
-      "link": "https://www.bbc.co.uk/news/articles/cqkgvgd2jrgmo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 12:06:00 GMT",
-      "description": "John Davidson, whose condition includes involuntary tics,  shouted a racial slur during the Bafta Film Awards in February."
-    },
-    {
-      "title": "Kanye West's Russia shows officially cancelled after weeks of uncertainty",
-      "link": "https://www.bbc.co.uk/news/articles/cm74k417wpjxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 12:13:28 GMT",
-      "description": "Chaos has surrounded the St Petersburg shows since the stadium said it had not agreed to host the rapper."
-    },
-    {
-      "title": "Energy bills are rising by £60 a year - here's how you can bring that down",
-      "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 07:08:22 GMT",
-      "description": "Household energy bills have risen again but there are ways to keep a lid on your expenditure."
+      "title": "'Potential crime' probe into death of Scots wingsuit flyer dropped",
+      "link": "https://www.bbc.co.uk/news/articles/crz6zqgpl86eo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 05:51:50 GMT",
+      "description": "British champion Liam Byrne, 24, was fatally injured on the Gitschen mountain in June last year."
     },
     {
       "title": "BBC News app",
@@ -160,52 +136,46 @@
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests"
     },
     {
-      "title": "Breast Cancer Scandal: Exposing the Harm",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0031nqw?at_mid=WpKygoRCT9&at_campaign=Breast_Cancer_Scandal_Exposing_the_Harm&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0031nqw&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Breast_Cancer_Scandal_Exposing_the_Harm&at_bbc_team=BBC&at_creation=News",
-      "published": "Thu, 17 Sep 2026 23:01:00 GMT",
-      "description": "BBC Health correspondent Sharon Barbour investigates a deepening breast cancer scandal."
+      "title": "Man City confirm appeal against guilty verdict",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqn7470513n0o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 08:50:24 GMT",
+      "description": "The club's statement says the ruling contains \"clear material errors, of law, principle and fact, and is unsafe\"."
     },
     {
-      "title": "Ranking the best British football exports this century",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqx2zejdk5x0o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 09:04:58 GMT",
-      "description": "From David Beckham and Gareth Bale to Jude Bellingham and Harry Kane, who are the best British exports this century?"
+      "title": "What does Man City guilty verdict mean for their squad?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c68jdjdz32n3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 09:00:51 GMT",
+      "description": "BBC Sport looks at how Manchester City's guilty verdict will affect their existing players' futures and the club's dealings in the transfer market."
     },
     {
-      "title": "Nine scandals that rocked the sporting world",
-      "link": "https://www.bbc.co.uk/sport/articles/ck62m2n3yezno?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 11:32:37 GMT",
-      "description": "Manchester City are far from the first. The lure of glory and riches on the biggest stages have tempted plenty of other sports stars to break the rules."
+      "title": "How Gordon became one of England's main men",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm9qrqelnd49o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 13:15:44 GMT",
+      "description": "Anthony Gordon has been England's in-form player since the World Cup knockout stage -  is the Barcelona forward now undroppable?"
     },
     {
-      "title": "Why penalty for Williamson handball was correct call",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cw07l7pk2gp4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 11:29:54 GMT",
-      "description": "Arsenal defender Leah Williamson was at the heart of a bizarre incident in their Women's Champions League draw with Paris FC."
+      "title": "The Unpromotables: Germany's league champions who can't go up",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmj4jr2vgx0ko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 06:37:49 GMT",
+      "description": "German football is grappling with a sum that doesn't add up - four promotion spots for five league champions."
     },
     {
-      "title": "England call up Crane and rest Archer for Pakistan series",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cqj9x9vgv3rro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 12:49:04 GMT",
-      "description": "Leg-spinner Mason Crane has the chance to play for England for the first time in eight years after being recalled for the one-day international tri-series in Pakistan."
+      "title": "Russell says Red Bull strongest after Bahrain practice",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/ckm2q2346zz9o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 11:15:54 GMT",
+      "description": "Red Bull are tipped by George Russell and Charles Leclerc as the team to beat after the first day at the Bahrain Grand Prix in Malaysia."
     },
     {
-      "title": "Injured O'Reilly withdraws from England squad",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6kg0gkjngzmo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 14:36:12 GMT",
-      "description": "Nico O'Reilly withdraws from the England squad for their final two Nations League games of the international break because of injury."
+      "title": "'Hitchy is always with us' - the keeper who died after one-punch attack",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmn8en9wxv1no?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 07:59:22 GMT",
+      "description": "The memory of James Hitchcock lives on at non-league Barton Town, almost two years after he died following being punched on a visit to York."
     },
     {
-      "title": "Russell says his 'confidence is back and growing'",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cv1j4jn5nxxlo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 11:07:36 GMT",
-      "description": "George Russell says he \"doesn't feel lost any more\" as he seeks to end a difficult season on a high and chase down team-mate Kimi Antonelli's championship lead."
-    },
-    {
-      "title": "Space for Gannon-Doak? Does McGinn keep place? Key questions for Pocognoli",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6x2ze5zm93go?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 01 Oct 2026 13:38:59 GMT",
-      "description": "Scotland head coach Sebastien Pocognoli has decisions to make as he searches for his first win in North Macedonia on Saturday."
+      "title": "Wade closes in on record as tries dominate Prem",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c6m2r21pp7vno?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 08:50:30 GMT",
+      "description": "Christian Wade sits four away from Chris Ashton's all-time record of 101 as tries dominate Prem Rugby."
     }
   ]
 }
