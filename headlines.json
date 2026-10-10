@@ -1,151 +1,133 @@
 {
-  "scraped_at": "2026-10-09 14:44:11 UTC",
+  "scraped_at": "2026-10-10 14:01:09 UTC",
   "source": "BBC News RSS",
-  "total": 34,
+  "total": 25,
   "headlines": [
     {
-      "title": "Polanski vows to stay on as Green leader as he faces criticism after by-election defeat",
-      "link": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 13:59:57 GMT",
-      "description": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat."
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 04:38:20 GMT",
+      "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\"."
     },
     {
-      "title": "King pays Andrew's £1.5m repair bill on Royal Lodge",
-      "link": "https://www.bbc.co.uk/news/articles/c8040nl9q24do?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 12:29:02 GMT",
-      "description": "Andrew Mountbatten-Windsor was charged £1.5m in repair and restoration costs after surrendering the lease on the 30-room mansion."
+      "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 12:29:31 GMT",
+      "description": "Tens of thousands of security personnel were deployed and roads barricaded ahead of the demonstration."
     },
     {
-      "title": "Widdecombe suspect had 'particular hostility to Reform', court told",
-      "link": "https://www.bbc.co.uk/news/articles/cmkgknz19z7po?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 14:35:31 GMT",
-      "description": "Kerry is charged with the murder of the 78-year-old former Conservative minister and Reform UK spokeswoman."
+      "title": "Head of Met's volunteer force fired after AI tool found deleted intimate images on work phone",
+      "link": "https://www.bbc.co.uk/news/articles/cjx23yxwe73qo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 09:19:53 GMT",
+      "description": "Special chief officer James Deller copied intimate images on to his work phone, AI monitoring finds."
     },
     {
-      "title": "Firing squad execution of man who killed 13 soldiers to be livestreamed, Pentagon says",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 12:24:58 GMT",
-      "description": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\"."
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people including three children",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 11:17:15 GMT",
+      "description": "Children are among the victims, authorities say, and more victims could still be buried in the rubble of a large apartment block that was destroyed."
     },
     {
-      "title": "Survivor of US Army shooting supports gunman's execution but questions livestream",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 09:43:22 GMT",
-      "description": "Alonzo Lunsford tells the BBC the punishment befits the crime but he has some doubts whether the public should be able to watch it."
+      "title": "Sara Sharif's grandfather granted guardianship of her siblings in Pakistan",
+      "link": "https://www.bbc.co.uk/news/articles/cqdjvdpxmvn3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 13:22:06 GMT",
+      "description": "All five children have been living with him in Pakistan since 2023, when 10-year-old Sara was murdered."
     },
     {
-      "title": "Alison Hammond: 'I thought I was having heart attack on air'",
-      "link": "https://www.bbc.co.uk/news/articles/cq5yn75pgyjjo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 10:52:34 GMT",
-      "description": "The host says a health scare on live TV was one of the \"scariest things I've ever been through\"."
+      "title": "France's school protests are about more than broken classrooms",
+      "link": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 23:24:33 GMT",
+      "description": "Students taking to the streets have become a focal point in the country's increasingly polarised politics."
     },
     {
-      "title": "Anthropic bans users from being 'cruel' to its AI systems",
-      "link": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 12:34:27 GMT",
-      "description": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech."
+      "title": "I couldn't access my family's medical history - not knowing was terrifying",
+      "link": "https://www.bbc.co.uk/news/articles/cq1mvdmd1y7vo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 05:00:22 GMT",
+      "description": "People who have been adopted or are in care sometimes struggle to access family medical history which could be crucial to their own health."
     },
     {
-      "title": "Lib Dem MP quits frontbench job over Ed Davey's leadership",
-      "link": "https://www.bbc.co.uk/news/articles/cw4g13j4mdxjo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 14:42:06 GMT",
-      "description": "Deputy party leader Daisy Cooper says \"the vast majority of our MPs support Ed... and are furious at this distraction.\""
+      "title": "Public executions in the US stopped nearly a century ago, why are they resuming now?",
+      "link": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 09:17:36 GMT",
+      "description": "The Pentagon says the execution of Fort Hood shooter Nidal Hasan will be livestreamed, but experts suggest officials are reading the country wrong."
     },
     {
-      "title": "France promises 3,000 extra teachers in first step to calm student protests",
-      "link": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 11:35:00 GMT",
-      "description": "Education minister Edouard Geffray makes the offer after another day of sometimes violent demonstrations by high-school students."
+      "title": "Ashe was too scared to cancel her wedding, then her story became a hit song",
+      "link": "https://www.bbc.co.uk/news/articles/cx30en32gd39o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 23:01:22 GMT",
+      "description": "US singer-songwriter Ashe reveals the story behind her international smash hit, Stop The Wedding."
     },
     {
-      "title": "Fury-Joshua tickets priced up to £13,000 sell out in one hour",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/cwp9gxzyplk4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 12:51:41 GMT",
-      "description": "Tickets for Tyson Fury and Anthony Joshua's fight at Cardiff's Principality Stadium sells out in just one hour."
+      "title": "Boots has a new owner: Three ways it could affect you",
+      "link": "https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 09 Oct 2026 23:01:14 GMT",
+      "description": "The stalwart of Britain's High Street has been sold to a Canadian billionaire family. What will that mean for you?"
     },
     {
-      "title": "Man City titles 'absolutely not' tainted, says manager Enzo Maresca",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmzxjdvv784xo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 14:08:55 GMT",
-      "description": "Manchester City manager Enzo Maresca says the club's titles are \"absolutely not\" tainted after they were found guilty of the majority of the 115 charges brought against them by the Premier League."
+      "title": "Drumcree parade ban was in interests of peace, says Bryant",
+      "link": "https://www.bbc.co.uk/news/articles/c6z0vlg3xvz3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 11:21:28 GMT",
+      "description": "The decision followed a warning from the chief constable that allowing the procession to go ahead could lead to serious injury, disorder and wider unrest across Northern Ireland."
     },
     {
-      "title": "Watch: Fleeing Kyiv for the countryside ahead of winter",
-      "link": "https://www.bbc.co.uk/news/videos/cqe8rn83088zo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 10:00:49 GMT",
-      "description": "A Kyiv resident told the BBC she has moved away from \"everything that can be a Russian target\" as Ukraine braces for another cold winter under intense attacks."
+      "title": "Green Party MP wants to make sure it is 'not vulnerable to extremists'",
+      "link": "https://www.bbc.co.uk/news/articles/c54g19pgy48yo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 11:09:16 GMT",
+      "description": "The party's Westminster leader Ellie Chowns made the comments after ex-leader Caroline Lucas said some members had joined to vote in the Zionism motion."
     },
     {
-      "title": "Autism, ADHD and mental health review: What you need to know",
-      "link": "https://www.bbc.co.uk/news/articles/crn8wyl4n42yo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 12:16:11 GMT",
-      "description": "It contains big lessons for the NHS, welfare, education and employment policies. What are the key takeaways?"
+      "title": "Rogue Anthropic AI agent gave US police fake tip in unsolved murder case",
+      "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 10:06:23 GMT",
+      "description": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach."
     },
     {
-      "title": "Chris Mason: Polanski faces greatest crisis of his leadership so far",
-      "link": "https://www.bbc.co.uk/news/articles/cm70p821d6w4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 06:35:56 GMT",
-      "description": "The Green leader faces pressure over his response to a party motion declaring Zionism a form of racism, as well as his by-election loss."
+      "title": "Four murder arrests after teenagers attacked",
+      "link": "https://www.bbc.co.uk/news/articles/cm93zlvgvw2po?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 09:20:38 GMT",
+      "description": "A murder investigation is launched in Stoke-on-Trent after a man dies and another is seriously hurt."
     },
     {
-      "title": "Olivia Colman on viral Wicker memes: 'This has never happened to me before'",
-      "link": "https://www.bbc.co.uk/news/articles/cry4xpyzl7qwo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 23:08:49 GMT",
-      "description": "Steamy jokes have flooded social media ahead of the release of the actress's latest film."
+      "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 04:51:57 GMT",
+      "description": "After four years, a Ukrainian man is set to stand trial in Hamburg accused of sabotaging the Nord Stream pipelines."
     },
     {
-      "title": "I've been with my boyfriend for two years and don't know his salary",
-      "link": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 09:37:38 GMT",
-      "description": "Talking about salary, spending habits and debt can be some of dating's trickier conversations."
+      "title": "'Speculation over daughter's death is devastating'",
+      "link": "https://www.bbc.co.uk/news/articles/cr62y9dd33peo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 05:34:43 GMT",
+      "description": "The family of Leah Croucher, whose body was found in 2022, say the evidence pointing to her killer is overwhelming."
     },
     {
-      "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
-      "link": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 23:14:02 GMT",
-      "description": "A new film paints the Meta founder as a villain. But the tech firm seems immune to bad publicity, writes our North America tech correspondent."
+      "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
+      "link": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 12:28:51 GMT",
+      "description": "Former students launched their own investigation, spending years collecting evidence and testimonies from others who say they were abused by the headteacher."
     },
     {
-      "title": "Weekly quiz: How long did it take for Glastonbury tickets to sell out?",
-      "link": "https://www.bbc.co.uk/news/articles/ckpdgn2l04dwo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 19:15:17 GMT",
-      "description": "How much attention did you pay to what happened in the world over the past seven days?"
+      "title": "'My donated Brummie accent gives me confidence'",
+      "link": "https://www.bbc.co.uk/news/articles/cwq6n25vlelqo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 12:32:16 GMT",
+      "description": "Christian Wilson wanted help not to \"sound like a character from Star Wars or a cyborg from Doctor Who\"."
     },
     {
-      "title": "Two men deny Iran-backed surveillance of Jewish and Israeli sites in London",
-      "link": "https://www.bbc.co.uk/news/articles/c6n041dq7qd4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 13:17:49 GMT",
-      "description": "Targets allegedly included the Israeli embassy and consulate, a woman said to be of interest to Iran, a college, and Britain's oldest synagogue."
+      "title": "We're saving £100 a month for our kids but they won't get it until they're 57",
+      "link": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 08:16:11 GMT",
+      "description": "Why a growing number of parents are opening pensions for their children."
     },
     {
-      "title": "Crazy Rich Asians to return as TV show with original film's stars",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yne8k6zw8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 10:54:21 GMT",
-      "description": "It will pick up after the hit 2018 film, starring Constance Wu, Henry Golding, Michelle Yeoh and Ronny Chieng."
+      "title": "Scotland's 'Chernobyl' housing scheme takes starring role in new horror film",
+      "link": "https://www.bbc.co.uk/news/articles/c3y0z0wkgnjwo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 04:57:00 GMT",
+      "description": "Sci-fi horror comedy, Behind, features scenes filmed in Port Glasgow's Clune Park shortly before it was demolished."
     },
     {
-      "title": "Ofsted faces fresh calls to halt graded school inspections in England",
-      "link": "https://www.bbc.co.uk/news/articles/cw1m45l17n7no?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 14:01:41 GMT",
-      "description": "A second head teachers' union says it is \"increasingly concerned\" about members' \"welfare and morale\"."
-    },
-    {
-      "title": "Burnham promises to curb non-compete rules in job contracts",
-      "link": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 13:02:47 GMT",
-      "description": "The prime minister says restrictions on what workers can do after leaving roles have \"gone too far\"."
-    },
-    {
-      "title": "£15m spent cleaning illegal waste supersite in ancient woodland",
-      "link": "https://www.bbc.co.uk/news/articles/cq98zdp612pko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 05:00:23 GMT",
-      "description": "Concerns remain over the ancient Kent woodland's future after 39,500 tonnes of rubbish were cleared."
-    },
-    {
-      "title": "Wimbledon boss jokes military would love to 'sort out' influencers",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/crly0n5j79n5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 11:18:22 GMT",
-      "description": "Royal Marine Commandos providing security at Wimbledon would like \"nothing more than to sort out\" disruptive social media influencers at the prestigious tournament, its chief executive jokes."
+      "title": "How student went from YouTube to Bake Off",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg905xk4zjo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 05:08:54 GMT",
+      "description": "A Birmingham student in the Channel 4 show taught himself after \"stumbling across a YouTube video\"."
     },
     {
       "title": "BBC News app",
@@ -166,46 +148,10 @@
       "description": "Film following a battle-hardened US tank crew taking on the enemy’s brutal rearguard action"
     },
     {
-      "title": "What reception awaits Man City at Anfield?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cjkgey07lq15o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 14:02:46 GMT",
-      "description": "Bus welcomes, banners and flags expected as Man City head to Liverpool on Sunday for their first game since they were found guilty of breaching Premier League rules."
-    },
-    {
-      "title": "Verstappen on sprint pole after another settings issue",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/ck62y7jz1qqro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 14:35:41 GMT",
-      "description": "Red Bull's Max Verstappen beats Mercedes driver George Russell to sprint pole at the Singapore Grand Prix."
-    },
-    {
-      "title": "I've got my own questions on Man City case - Carrick",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ck5ynv45lymdo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 14:30:38 GMT",
-      "description": "Manchester United boss Michael Carrick says he was personally affected by the Manchester City case which has seen the club found guilty of breaching Premier League financial rules and still has questions about the matter."
-    },
-    {
-      "title": "Fury-Joshua tickets priced up to £13,000 sell out in one hour",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/cwp9gxzyplk4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 12:51:41 GMT",
-      "description": "Tickets for Tyson Fury and Anthony Joshua's fight at Cardiff's Principality Stadium sells out in just one hour."
-    },
-    {
-      "title": "'Good value in pub' - ex-NFL star Kelce tries rugby",
-      "link": "https://www.bbc.co.uk/sport/articles/cm79pdw50y7wo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 13:40:57 GMT",
-      "description": "Former Philadelphia Eagles Super Bowl winner Jason Kelce stuns amateur London rugby players by showing up for a practice game."
-    },
-    {
-      "title": "Everton owners consider selling club two years after takeover",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmvg9pgg4keyo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 08:23:50 GMT",
-      "description": "Everton owners the Friedkin Group are exploring the sale of the club less than two years after taking control."
-    },
-    {
-      "title": "Mercedes critics think I'm Satan - Wolff",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cmje5x0enkxqo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 13:24:12 GMT",
-      "description": "Mercedes Formula 1 boss Toto Wolff rejects accusations of team of bias against George Russell, calling critics \"brainless\"."
+      "title": "South Africa lose first wicket after Renshaw's 190 for Australia - scorecard",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 00:00:00 GMT",
+      "description": "Latest scorecard from the first Test between South Africa and Australia in Durban."
     }
   ]
 }
