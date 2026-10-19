@@ -1,133 +1,115 @@
 {
-  "scraped_at": "2026-10-18 12:12:52 UTC",
+  "scraped_at": "2026-10-19 15:03:32 UTC",
   "source": "BBC News RSS",
-  "total": 28,
+  "total": 32,
   "headlines": [
     {
-      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-      "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 12:07:31 GMT",
-      "description": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism."
+      "title": "Are the French riots a warning of an intense election to come?",
+      "link": "https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 13:43:27 GMT",
+      "description": "Rioting, looting and vandalism has gripped France over the weekend after protests spiralled out of control across the country."
     },
     {
-      "title": "Watch: Parisians wake up to protest damage and looted shops",
-      "link": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 10:58:39 GMT",
-      "description": "Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living."
+      "title": "Australian MP critically injured by car in apparent attack",
+      "link": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 14:09:54 GMT",
+      "description": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack."
     },
     {
-      "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
-      "link": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 11:14:33 GMT",
-      "description": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028."
+      "title": "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
+      "link": "https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 13:01:50 GMT",
+      "description": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault."
     },
     {
-      "title": "Ending corridor care in hospitals for children a priority, says health secretary",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 12:09:04 GMT",
-      "description": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter."
+      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+      "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 00:06:25 GMT",
+      "description": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war."
     },
     {
-      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 05:04:31 GMT",
-      "description": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic."
+      "title": "Born in jail to a mum with a heroin addiction - how US teenager Abby has been affected by drugs",
+      "link": "https://www.bbc.co.uk/news/videos/cmlyljlzw487o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 12:12:02 GMT",
+      "description": "The BBC's Quentin Sommerville spoke to the daughter of a former heroin addict about the effect drugs have had on her family."
     },
     {
-      "title": "Watch: Police hunt for synthetic drugs in Chicago jail",
-      "link": "https://www.bbc.co.uk/news/videos/cq8ez4jz1z04o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 05:30:16 GMT",
-      "description": "BBC News hears from users, dealers, prison and recovery workers as America battles with a deadly new drug epidemic."
+      "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
+      "link": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 09:11:42 GMT",
+      "description": "Researchers travelled to a remote Pacific Island to confirm whether an object first spotted on satellite imagery in 2020 solved the mystery of the pilot's disappearance."
     },
     {
-      "title": "Police officer in hospital after being shot in Nottingham",
-      "link": "https://www.bbc.co.uk/news/articles/c63elzvjpgn2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 12:11:03 GMT",
-      "description": "A firearm has been recovered by officers after a man and a woman fled the scene, detectives say."
+      "title": "Four arrested after police officer injured in shooting",
+      "link": "https://www.bbc.co.uk/news/articles/c6073pdxpvjvo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 10:52:25 GMT",
+      "description": "The officer was shot in the foot and remains in hospital in a stable condition, police say."
     },
     {
-      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Oct 2026 22:09:50 GMT",
-      "description": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans."
+      "title": "Trial hears Robinson 'intimidated' Daily Mail reporters",
+      "link": "https://www.bbc.co.uk/news/articles/cry83jz19v26o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 13:42:45 GMT",
+      "description": "The activist is accused of \"bully-boy tactics\" and denies harassment causing fear of violence."
     },
     {
-      "title": "There's a crackdown on sports piracy but is it already out of control?",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 00:11:09 GMT",
-      "description": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett."
+      "title": "Apu returns to The Simpsons with new voice after race row",
+      "link": "https://www.bbc.co.uk/news/articles/cw33x6gzgdm0o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 13:22:24 GMT",
+      "description": "The much-loved shopkeeper has been seen but not heard around Springfield for eight years, until now."
     },
     {
-      "title": "Braam! How the music in The Traitors plays with your emotions",
-      "link": "https://www.bbc.co.uk/news/articles/crwyq75117z4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 00:29:58 GMT",
-      "description": "It's not just treachery and villainy - the soundtrack for Traitors helps set the show's campy tone."
+      "title": "Companies exploiting welfare system by using residents as 'cash cows', BBC finds",
+      "link": "https://www.bbc.co.uk/news/articles/cm62y80yxw9vo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 04:59:47 GMT",
+      "description": "Agents try to attract people on housing benefit by using social media videos that offer free rooms and holidays."
     },
     {
-      "title": "The playground murder - trauma, loss and a love that endured",
-      "link": "https://www.bbc.co.uk/news/articles/cvj64l74e48po?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 08:11:45 GMT",
-      "description": "Diane Watson's best friend Pauline recalls a shocking school murder and its lasting legacy."
+      "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
+      "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 14:20:03 GMT",
+      "description": "The two top tennis pros married in 2021 and have one child together."
     },
     {
-      "title": "How top Turkish pop group went from reality TV to Wembley in one turbulent year",
-      "link": "https://www.bbc.co.uk/news/articles/cqrky2rkd5n1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Oct 2026 23:07:57 GMT",
-      "description": "Turkish girl group manifest on taking their music to a global audience, as they prepare for their first UK concert."
+      "title": "The portraits that helped bring the lost Aberfan children home",
+      "link": "https://www.bbc.co.uk/news/articles/ckr5y832v8ddo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 05:28:02 GMT",
+      "description": "An artist living hundreds of miles away felt compelled to help the village that lost its children."
     },
     {
-      "title": "Watch: Pope thanks well-wishers in first event after cancer surgery",
-      "link": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 11:09:32 GMT",
-      "description": "The Pope's first event since his lung cancer diagnosis and surgery saw him recite the traditional Angelus prayer from the balcony of the Apostolic Palace."
+      "title": "What we know about apparent attack on Australian MP hit by car",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ynk1g88kwo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 11:59:26 GMT",
+      "description": "Helen Haines was hit by a car in what the prime minister has called a \"deliberate act\"."
     },
     {
-      "title": "Man, 80, who died in light aircraft crash near Loch Lomond named",
-      "link": "https://www.bbc.co.uk/news/articles/cmx23p5w7123o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 11:26:35 GMT",
-      "description": "The flying instructor has been described as \"a gentleman and an experienced aviator\" by former students."
+      "title": "Don't fall for this - how to protect yourself from AI scams",
+      "link": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 23:24:59 GMT",
+      "description": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites."
     },
     {
-      "title": "Several dead or injured in major fire at Canada military base",
-      "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 08:52:41 GMT",
-      "description": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright."
+      "title": "How one rule change is altering the face of one-day cricket",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6eweg47wv11o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 05:27:56 GMT",
+      "description": "One rule change has changed the face of ODI cricket. BBC Sport looks at its impact, who is benefiting and what it could mean for the future."
     },
     {
-      "title": "NHS data breaches a disgrace, says health secretary",
-      "link": "https://www.bbc.co.uk/news/articles/cq2e9nw82ljdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 10:52:31 GMT",
-      "description": "A total of 15 NHS staff are sacked for accessing records of the Nottingham attacks victims."
+      "title": "Watch: The father and son on opposite sides of Alberta’s separation vote",
+      "link": "https://www.bbc.co.uk/news/videos/c6g7xj3d88nvo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 07:55:32 GMT",
+      "description": "Albertans are voting on whether to stay in Canada or pursue independence via a referendum, splitting even some close-knit families."
     },
     {
-      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-      "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 11:57:49 GMT",
-      "description": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook."
+      "title": "'It gives me the ick': Can you cheat on someone with a video game?",
+      "link": "https://www.bbc.co.uk/news/articles/ckn9wrr75dyeo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 00:09:25 GMT",
+      "description": "Grand Theft Auto VI lets you build and nurture a romantic relationship but some say dates with a fictional character are a step too far."
     },
     {
-      "title": "I lost my hair to chemo - now my wigs are worn by A-list stars",
-      "link": "https://www.bbc.co.uk/news/articles/cq1kdndp83lmo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 00:14:20 GMT",
-      "description": "Antonia Okonma Shittu's wig business was launched after a shock diagnosis, and she now wants to help other women feel their best."
-    },
-    {
-      "title": "Student who spells by blinking is denied chance to sit exam",
-      "link": "https://www.bbc.co.uk/news/articles/c6zxj8grer7ro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 07:00:39 GMT",
-      "description": "Romi Loffler is battling to take her history exam with reasonable adjustments allowing for her condition."
-    },
-    {
-      "title": "Horse-drawn carriages in New York City expected to be outlawed",
-      "link": "https://www.bbc.co.uk/news/articles/ckz7x9g1v4dvo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 20:45:33 GMT",
-      "description": "Both the speaker of the city council and the mayor have expressed support for ending the practice."
-    },
-    {
-      "title": "Martin Freeman to give Gromit a voice for first time in new audiobook",
-      "link": "https://www.bbc.co.uk/news/articles/c6x23gvgkv99o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 09:58:11 GMT",
-      "description": "Martin Freeman will be the voice of Aardman's Gromit in new audiobook."
+      "title": "Funding shortages force World Food Programme to cut aid to Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 06:00:18 GMT",
+      "description": "The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million."
     },
     {
       "title": "Sign up now",
@@ -136,40 +118,82 @@
       "description": "From news and politics to technology and the royals, get the best BBC journalism to your inbox."
     },
     {
+      "title": "Kylie Jenner's debut at Victoria's Secret Fashion Show in $50m bra sparks mixed reaction",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2wqwxvyxlo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 13:16:22 GMT",
+      "description": "The reality star's surprise appearance on the runway in the diamond encrusted piece has sparked mixed reaction."
+    },
+    {
+      "title": "Man accused of mass train stabbing admits wounding",
+      "link": "https://www.bbc.co.uk/news/articles/cvgdd2yevd3o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 11:22:26 GMT",
+      "description": "Anthony Williams is in court after multiple stabbings on a train that was forced to stop in Huntingdon."
+    },
+    {
+      "title": "Prime minister visits Aberfan ahead of 60th anniversary of 'horrifying tragedy'",
+      "link": "https://www.bbc.co.uk/news/articles/cm70px2d1ynlo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 15:02:05 GMT",
+      "description": "A total of 116 children and 28 adults were killed on 21 October 1966 when a colliery spoil tip collapsed."
+    },
+    {
+      "title": "US airman dies as daredevil descent goes wrong before Texas college football game",
+      "link": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 14:13:18 GMT",
+      "description": "The game continued after the incident. The American Conference said the decision was made before his death was known."
+    },
+    {
+      "title": "Elizabeth Holmes  documentary stuns with huge box office debut",
+      "link": "https://www.bbc.co.uk/news/articles/cm8xz5kxkkkqo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 10:37:13 GMT",
+      "description": "It shows fraudster Elizabeth Holmes invite a sceptical film into her home before she's sent to prison."
+    },
+    {
+      "title": "Exiled critic of Rwandan president found beheaded",
+      "link": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 13:42:41 GMT",
+      "description": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda."
+    },
+    {
       "title": "Download now",
       "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests"
     },
     {
-      "title": "Why Is Trump Criticising Zelensky And Complimenting Putin?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pgb3zl?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Oct 2026 00:00:00 GMT",
-      "description": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm."
+      "title": "Are free-scoring Brighton genuine title contenders?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwn8d48je057o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 14:52:01 GMT",
+      "description": "Brighton's start to the season has surprised many outsiders. But how high could they finish?"
     },
     {
-      "title": "Wildfire: A Warning from the Midlands",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0032x9b?at_mid=5Ey2ExaRnm&at_campaign=Wildfire_A_Warning_from_the_Midlands_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0032x9b&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Wildfire_A_Warning_from_the_Midlands_news_rail&at_bbc_team=BBC&at_creation=News",
-      "published": "Fri, 16 Oct 2026 05:00:00 GMT",
-      "description": "What can we learn from wildfires that destroyed 38 homes in the Midlands in August 2026?"
+      "title": "Haaland a doubt, Semenyo out - what are Man City's options?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5djv21rkekwo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 14:36:36 GMT",
+      "description": "Manchester City coach Enzo Maresca explores his attacking options for Tuesday's Champions League game against AEK Athens."
     },
     {
-      "title": "Rain returns after Australia's Boland dents South Africa - scorecard",
-      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236998?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 00:00:00 GMT",
-      "description": "Latest scorecard from the second Test between South Africa and Australia in Gqeberha."
+      "title": "Svitolina says emotional toll of Ukraine war led to Monfils separation",
+      "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 14:20:03 GMT",
+      "description": "The two top tennis pros married in 2021 and have one child together."
     },
     {
-      "title": "After Dubois' dominant win, what's next for heavyweight boxing?",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/ck3r59ywz99ro?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 09:55:31 GMT",
-      "description": "After world champion Daniel Dubois' emphatic win over Fabio Wardley, what's next for the heavyweight division?"
+      "title": "England manager Wiegman signs contract extension",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c679plpvellgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 10:08:01 GMT",
+      "description": "Sarina Wiegman says she \"cannot think of a better job in football\" as she commits to staying on as manager of the Lionesses until after Euro 2029."
     },
     {
-      "title": "Martinez breaks jaw in Chelsea win at Everton",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cked3vl198eyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 09:42:10 GMT",
-      "description": "Chelsea goalkeeper Emiliano Martinez says he will be back \"in a few weeks\" after breaking his jaw in a collision with Jarrad Branthwaite."
+      "title": "Brook says he has 'learned a lot' from off-field issues",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm3elzgj5glzo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 12:00:54 GMT",
+      "description": "White-ball captain Harry Brook says he has \"learned a lot\" as a captain and a person - and wants to be the player England fans rely on."
+    },
+    {
+      "title": "Best images of F1 in the US through the years",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cqm24nezmy23o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 06:17:28 GMT",
+      "description": "A selection of images from F1 races in the US, from Indianapolis, Watkins Glen and Long Beach to the streets of Dallas and the Caesars Palace car park."
     }
   ]
 }
