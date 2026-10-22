@@ -1,109 +1,115 @@
 {
-  "scraped_at": "2026-10-21 13:16:16 UTC",
+  "scraped_at": "2026-10-22 13:14:30 UTC",
   "source": "BBC News RSS",
-  "total": 32,
+  "total": 33,
   "headlines": [
     {
-      "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
-      "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 12:32:01 GMT",
-      "description": "The 74-year-old former teacher has been released without any \"swap\" required, Trump says."
+      "title": "How did AI discover the internet's massive cyber-security risk?",
+      "link": "https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 12:17:44 GMT",
+      "description": "The BBC's technology correspondent Joe Tidy explains how it happened, and what it means for you."
     },
     {
-      "title": "'My friend was lying next to me... I was only 8 but I realised he was dead'",
-      "link": "https://www.bbc.co.uk/news/videos/c6n4e0vj018qo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 11:21:58 GMT",
-      "description": "Four people who were children at the time of the Aberfan disaster recall the moment when a coal waste tip collapsed 60 years ago."
+      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 12:54:36 GMT",
+      "description": "The bank says it is using more AI leading to a 5% reduction in its workforce."
     },
     {
-      "title": "Australian MP loses both legs after alleged car attack, husband says",
-      "link": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 07:56:30 GMT",
-      "description": "Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday."
+      "title": "Russell Brand accuser said alleged rape 'really hurt', court hears",
+      "link": "https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 12:34:36 GMT",
+      "description": "The friend of a woman claiming to have been raped by Russell Brand says she said he was  \"quite aggressive\"."
     },
     {
-      "title": "Lawyer caught by BBC offering to make illegal-worker fine go away",
-      "link": "https://www.bbc.co.uk/news/articles/c30rln4pz58xo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 05:00:35 GMT",
-      "description": "Because of our investigation, the home secretary has ordered a review of how fines are issued and collected."
+      "title": "Tougher punishments for criminals who refuse to attend sentencing backed by victim's family",
+      "link": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 09:28:04 GMT",
+      "description": "The aunt of Zara Aleena says the new powers for judges will \"rebalance the power\" from offender to victim."
     },
     {
-      "title": "Undercover filming shows lawyer advising how to avoid £45,000 illegal-worker fine",
-      "link": "https://www.bbc.co.uk/news/videos/cm93z1j33dkpo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 05:00:54 GMT",
-      "description": "Mohammad Alias Yousaf made his claim to an undercover reporter posing as a mini-mart owner."
+      "title": "Police investigate Married at First Sight Australia after 'inappropriate' allegations",
+      "link": "https://www.bbc.co.uk/news/articles/cry83vyw3y4lo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 09:47:54 GMT",
+      "description": "New South Wales Police say inquiries took place \"following a report of inappropriate content being shared\"."
     },
     {
-      "title": "Teenage boy guilty of trying to murder girl, 15, in school",
-      "link": "https://www.bbc.co.uk/news/articles/cm0j0q9znzdlo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 12:03:52 GMT",
-      "description": "The school went into lockdown and parents gathered at the gates as they waited for news about their children."
+      "title": "Two storms in two days as Austen and Boelo head for UK",
+      "link": "https://www.bbc.co.uk/weather/articles/ckx2qpy2d13ro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 10:34:17 GMT",
+      "description": "The Met Office has named a new storm, Boelo, which is set to bring another round of stormy weather to the UK over the weekend."
     },
     {
-      "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
-      "link": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 12:17:12 GMT",
-      "description": "Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days."
+      "title": "How Arab parties could hold critical balance of power in Israeli election",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 05:30:22 GMT",
+      "description": "Disaffection has often driven down turnout among Arab Israelis, but there is a strong push to get rid of the right-wing governing coalition."
     },
     {
-      "title": "Woman told Russell Brand he 'treated her like an animal', court hears",
-      "link": "https://www.bbc.co.uk/news/articles/cmje5k3q9ello?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 11:47:01 GMT",
-      "description": "The comedian and actor is on trial for charges including rape and sexual assault, which he denies."
+      "title": "Moment man rescued from sinking car by Australian TV reporter",
+      "link": "https://www.bbc.co.uk/news/videos/cwdr8zm3r5gko?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 11:08:33 GMT",
+      "description": "Journalist Will Murray describes how he and a bystander saved an SUV driver from his vehicle."
     },
     {
-      "title": "Huge crowds watch attempt to rescue shark stranded in South Korean canal",
-      "link": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 08:19:32 GMT",
-      "description": "A third attempt has been made to guide the 9ft 10in (3m) shark back to the open sea."
+      "title": "Harry Brook's double century breaks record for highest-ever England one-day score",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 12:15:29 GMT",
+      "description": "Captain Harry Brook becomes the first England batter to make a double century in a one-day international with a sensational 202 against Sri Lanka in Rawalpindi."
     },
     {
-      "title": "Hackers steal children's data after company used 'Password1' to protect old account",
-      "link": "https://www.bbc.co.uk/news/articles/c6r7y03e9m3ro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 10:56:47 GMT",
-      "description": "The data watchdog reprimanded Ogi Networks Limited and Data Cymru after the 2024 ransomware attack."
+      "title": "Trial hears Tommy Robinson hired private detectives",
+      "link": "https://www.bbc.co.uk/news/articles/c8x23dlqkl01o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 11:49:50 GMT",
+      "description": "The political activist denies wanting to expose two Daily Mail journalists to threats of violence."
     },
     {
-      "title": "The Aberfan disaster through the eyes of those who survived, 60 years on",
-      "link": "https://www.bbc.co.uk/news/articles/cr9dzpx2xl0lo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 05:22:15 GMT",
-      "description": "It was one of Wales' darkest days that changed a mining community forever."
+      "title": "Retired decorator's Pokémon cards sell for £1.5m after years in attic",
+      "link": "https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 10:58:13 GMT",
+      "description": "He says he found treasure in his attic where the collection had been stored for 15 years."
     },
     {
-      "title": "How much gas could Jackdaw provide? And will it cut your energy bills?",
-      "link": "https://www.bbc.co.uk/news/articles/cq4g13pplyzzo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 11:57:49 GMT",
-      "description": "BBC Verify looks at what the Jackdaw decision means for bills, energy security and the environment."
+      "title": "The real reasons there are so few young politicians in the US",
+      "link": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 23:52:12 GMT",
+      "description": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?"
     },
     {
-      "title": "I left state secrets on the train - I'm proof you can recover from the biggest mistake of your life",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyz4g4ln4no?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Oct 2026 23:05:05 GMT",
-      "description": "Top civil servant Richard Jackson recounts that fateful day and how he recovered in the aftermath."
+      "title": "Chronic UTIs affect millions in the UK - these women are out to end the stigma",
+      "link": "https://www.bbc.co.uk/news/articles/cwly3g0g371go?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 23:03:59 GMT",
+      "description": "Women are sharing their experiences with chronic urinary tract infections on social media in an effort to break the stigma surrounding UTIs."
     },
     {
-      "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
-      "link": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 10:20:15 GMT",
-      "description": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget."
+      "title": "Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb",
+      "link": "https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 10:17:26 GMT",
+      "description": "It has been a dramatic, public and global response, but the cyber event hasn't happened yet."
     },
     {
-      "title": "Ali G is back. But is the character past its sell-by date?",
-      "link": "https://www.bbc.co.uk/news/articles/ckge4vn2rnxgo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 06:43:31 GMT",
-      "description": "Borat and Bruno creator Sacha Baron Cohen returns as Ali G, more than two decades after the release of Ali G Indahouse."
+      "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
+      "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 19:58:06 GMT",
+      "description": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes."
     },
     {
-      "title": "Why Elon Musk is considering a mega-merger of SpaceX and Tesla",
-      "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 06:36:39 GMT",
-      "description": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history."
+      "title": "Better weather, pay, more opportunities: Why graduates are ditching the UK to move abroad",
+      "link": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 23:12:06 GMT",
+      "description": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating."
     },
     {
-      "title": "Trump's deportation drive is reshaping the town where he claimed migrants were eating pets",
-      "link": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 02:37:13 GMT",
-      "description": "The president thrust Springfield, Ohio, into the spotlight with a false pet-eating claim - years later, it remains at the heart of the immigration debate."
+      "title": "Is the UK set to green-light a huge untapped oil field in the North Atlantic?",
+      "link": "https://www.bbc.co.uk/news/videos/cxnv0emj06v1o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 06:09:44 GMT",
+      "description": "Scotland editor James Cook visits Rosebank - the UK's largest known untapped oilfield - in the North Atlantic."
+    },
+    {
+      "title": "Some New Yorkers back ban on horse-drawn carriages, but drivers fear for incomes",
+      "link": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 09:06:48 GMT",
+      "description": "As councillors prepare to banish the vehicles, views in Central Park are divided over the 160-year-old tradition."
     },
     {
       "title": "Sign up now",
@@ -112,46 +118,46 @@
       "description": "From news and politics to technology and the royals, get the best BBC journalism to your inbox."
     },
     {
-      "title": "Amber warning issued as Storm Austen threatens UK with strong winds and heavy rain",
-      "link": "https://www.bbc.co.uk/weather/articles/c6m24ln2j43go?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 10:55:32 GMT",
-      "description": "The deep area of low pressure is expected to move close to the south of the UK early on Friday with south-west England set to bear the brunt."
+      "title": "Dame Judi Dench: 'I can't do a play, a film or read anymore'",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly09v09lnjo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 06:41:29 GMT",
+      "description": "The actress tells BBC Radio 4's Today programme about how her eye condition has affected her life."
     },
     {
-      "title": "Student who murdered university housemate jailed for life",
-      "link": "https://www.bbc.co.uk/news/articles/c6pvglvpln91o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 12:00:58 GMT",
-      "description": "Jamie Collins, 21, was ambushed and killed in the garden of the home he shared with his killer."
+      "title": "French weekend protests to be limited to union demos only, says Macron",
+      "link": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 13:02:14 GMT",
+      "description": "Some cities including Lyon and Nice have banned all protests, and the French president said only authorised demos would be allowed."
     },
     {
-      "title": "Crystal Palace urged to retire bald eagle mascot",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmx2302r04r4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 07:24:35 GMT",
-      "description": "Animal rights group Peta is urging Crystal Palace to retire their bald eagle mascot, saying a \"bright stadium filled with boisterous fans is no place for animals\"."
+      "title": "Katie Price's ex not guilty of raping girl, 13",
+      "link": "https://www.bbc.co.uk/news/articles/cw1m4pmvx1xdo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 12:21:24 GMT",
+      "description": "Kieran Hayler had denied rape, sexual assault and sexual activity with a child at his trial."
     },
     {
-      "title": "Woman given cancer diagnosis by hospital employee who accessed her records",
-      "link": "https://www.bbc.co.uk/news/articles/cjn5vq6n7r54o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 05:28:43 GMT",
-      "description": "Pippa Boardman says she lost \"dignity and privacy\" after she was told by an acquaintance she had cancer."
+      "title": "Tour de France UK stages in detail - where can you watch?",
+      "link": "https://www.bbc.co.uk/sport/cycling/articles/cq1kd0z33r8ro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 11:14:49 GMT",
+      "description": "The full route for the 2027 Tour de France is announced in Paris, with street-by-street details of the six stages in the UK revealed."
     },
     {
-      "title": "Actor Noel Clarke pleads not guilty to sexual offence charges",
-      "link": "https://www.bbc.co.uk/news/articles/cm9wzvj0v4q9o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 09:35:31 GMT",
-      "description": "The former Doctor Who and Kidulthood star appeared at Westminster Magistrates Court on Wednesday."
+      "title": "First human case of Shamonda virus detected in France, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 11:04:14 GMT",
+      "description": "The disease, which usually affects cattle, has been identified in a patient who died in early October."
     },
     {
-      "title": "Missing German WW2 U-boat found 82 years on",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg0vjj5e2vo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 05:19:47 GMT",
-      "description": "The U-672 sub was identified 20 miles (32km) off Salcombe after divers discovered it in August."
+      "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+      "link": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 22:54:58 GMT",
+      "description": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November."
     },
     {
-      "title": "Author Helen Fielding launches award to find the next Bridget Jones's Diary",
-      "link": "https://www.bbc.co.uk/news/articles/c6wyd53yg9n1o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 10:45:06 GMT",
-      "description": "The Bridget Jones Prize will go to the author of the funniest 1,000-word diary-style piece of writing."
+      "title": "Legendary video game studio BioWare closes after 31 years",
+      "link": "https://www.bbc.co.uk/news/articles/cq8jzrxlkmwmo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 10:25:33 GMT",
+      "description": "The influential studio that made Mass Effect and Dragon Age announces it is closing its doors."
     },
     {
       "title": "Download now",
@@ -160,40 +166,40 @@
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests"
     },
     {
-      "title": "F1 races to return to standard distance in 2028",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c69wzvr14xlxo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 11:41:56 GMT",
-      "description": "Formula 1 grands prix will return to their standard distance in 2028 after the maximum length was shortened for next season."
+      "title": "Carrick carrying on as normal as Man Utd eye possible replacements",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm1wvl5524rno?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 12:48:12 GMT",
+      "description": "While head coach Michael Carrick is expected to be in charge for Sunday's match against Bournemouth, Manchester United begin the process of identifying possible replacements."
     },
     {
-      "title": "Crystal Palace urged to retire bald eagle mascot",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmx2302r04r4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 07:24:35 GMT",
-      "description": "Animal rights group Peta is urging Crystal Palace to retire their bald eagle mascot, saying a \"bright stadium filled with boisterous fans is no place for animals\"."
+      "title": "Vickery's journey from World Cup winner to bodybuilder at 50",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ckdd8re793zdo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 05:14:22 GMT",
+      "description": "Why England Rugby World Cup winner Phil Vickery has started entering bodybuilding competitions at the age of 50."
     },
     {
-      "title": "Why has Lord's dug up its pitch and what comes next?",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cxvgd73rg97qo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 12:02:29 GMT",
-      "description": "After years of comment, Lord's has dug up one of its pitches for the first time in more than 25 years. Why the drastic action and what next?"
+      "title": "'Not what a captain should be' - the debate around Fernandes' outburst",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq5ynp67grjro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 10:58:19 GMT",
+      "description": "Bruno Fernandes' comments after Manchester United's humbling by Como have got fans and pundits talking - but what now for the captain?"
     },
     {
-      "title": "Kildunne drops to bench as England ring changes",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c3ewe42q4jqzo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 12:47:48 GMT",
-      "description": "Star full-back Ellie Kildunne is dropped to the bench as England shake up selection in response to a first defeat in four years."
+      "title": "England's travel schedule like Steve Martin comedy - McDermott",
+      "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cmq5n0pezgg5o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 12:48:38 GMT",
+      "description": "England were left exhausted before the start of their Rugby League World Cup campaign because of a travel schedule straight out of Planes, Trains and Automobiles, head coach Brian McDermott says."
     },
     {
-      "title": "PSG's Kvaratskhelia to have surgery on ruptured ACL",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cxnv0ed5pz23o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 11:45:03 GMT",
-      "description": "Paris St-Germain winger Khvicha Kvaratskhelia will undergo surgery after suffering a knee injury during his side's 4-2 win over Barcelona on Tuesday."
+      "title": "The numbers behind Brook's record-breaking 202 for England",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 12:15:29 GMT",
+      "description": "Captain Harry Brook becomes the first England batter to make a double century in a one-day international with a sensational 202 against Sri Lanka in Rawalpindi."
     },
     {
-      "title": "Allen reveals mental health clinic stay before return",
-      "link": "https://www.bbc.co.uk/sport/snooker/articles/c3ewe41dd0g5o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 10:56:37 GMT",
-      "description": "Mark Allen says he is working to \"turn things around\" and reveals he spent time in a mental health clinic before returning to snooker."
+      "title": "Boland's resistance broken as South Africa close in - scorecard",
+      "link": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236998?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 00:00:00 GMT",
+      "description": "Latest scorecard from the second Test between South Africa and Australia in Gqeberha."
     }
   ]
 }
