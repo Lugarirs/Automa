@@ -1,115 +1,133 @@
 {
-  "scraped_at": "2026-10-23 12:53:59 UTC",
+  "scraped_at": "2026-10-24 12:17:05 UTC",
   "source": "BBC News RSS",
-  "total": 33,
+  "total": 28,
   "headlines": [
     {
-      "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 12:18:57 GMT",
-      "description": "The Duchess of Sussex issues a statement following reports her father Thomas Markle is being investigated over child sex abuse images in the Philippines."
+      "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
+      "link": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 24 Oct 2026 12:10:04 GMT",
+      "description": "The Met said it passed information to the duchess but did not share it with other law enforcement agencies."
     },
     {
-      "title": "Watch: BBC presenter battles strong winds as storm hits Newquay",
-      "link": "https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 08:26:47 GMT",
-      "description": "BBC lead weather presenter Simon King is in Newquay as the \"full force\" of the storm arrives."
+      "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
+      "link": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 24 Oct 2026 11:00:48 GMT",
+      "description": "The full feasibility study will look in detail at how hosting the Games in northern England could work."
     },
     {
-      "title": "Anti-terror police investigate as one person killed in shooting near Paris",
-      "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 12:47:01 GMT",
-      "description": "Anti-terrorism police have taken up the investigation into the incident in Trappes, to the west of Paris."
+      "title": "Between quick wins and big dreams lies Burnham's biggest test",
+      "link": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 24 Oct 2026 11:03:57 GMT",
+      "description": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg."
     },
     {
-      "title": "Burnham suggests stocking up on tinned food and bottled water",
-      "link": "https://www.bbc.co.uk/news/articles/ckr5yz2pqqppo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 12:41:10 GMT",
-      "description": "The prime ministers says unexpected events seem to be becoming more common and it was wise to prepare."
+      "title": "Mum dies after trying to rescue sons swept away at sea in Bahamas",
+      "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 24 Oct 2026 09:45:47 GMT",
+      "description": "The children were subsequently rescued from the water, police say."
     },
     {
-      "title": "Detective raped by colleague says Met handling of case 'like being raped again'",
-      "link": "https://www.bbc.co.uk/news/articles/ckdd83dz0153o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 05:00:05 GMT",
-      "description": "Linda Williams was attacked by David Carrick, who was jailed in 2023 for sexual offences against 12 women."
+      "title": "Infantino tells BBC Sport he is backed by 'vast majority' of world football",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 24 Oct 2026 10:30:08 GMT",
+      "description": "Fifa president Gianni Infantino laughs off questions about whether he considered resigning over the World Cup sell-off debacle."
     },
     {
-      "title": "Watch: Met chief Rowley not fit for job, says detective raped by colleague",
-      "link": "https://www.bbc.co.uk/news/videos/c3wyv7lr15nvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 05:00:12 GMT",
-      "description": "Det Con Linda Williams, a victim of serial abuser David Carrick, says she has no faith in the system."
+      "title": "Strictly's new presenters - after mixed reviews have they found their feet?",
+      "link": "https://www.bbc.co.uk/news/articles/c5zjxp1rjne8o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 23:15:47 GMT",
+      "description": "Josh Widdicombe, Emma Willis and Johannes Radebe have split opinion but are getting into the groove, critics say."
     },
     {
-      "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
-      "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 12:48:52 GMT",
-      "description": "The two attackers were shot dead after a gun battle outside Hebron, four days before Israel's general election."
+      "title": "Are California voters about to impose 'world's first' tax on billionaires?",
+      "link": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 23:11:31 GMT",
+      "description": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare."
     },
     {
-      "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
-      "link": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 10:14:37 GMT",
-      "description": "Questions about the integrity of some of Abramovich's professional advisers, were raised earlier this month."
+      "title": "Before you crank up the thermostat, try these tips to keep you and your home warmer for longer",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 23:50:45 GMT",
+      "description": "Make draught excluders from socks, leave your oven door open after cooking and opt for lots of thin layers of clothing to stay warm."
     },
     {
-      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 11:01:08 GMT",
-      "description": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown."
+      "title": "The artist dropping her debut album after a billion streams",
+      "link": "https://www.bbc.co.uk/news/articles/cwj0leg7ng67o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 23:08:55 GMT",
+      "description": "Irish DJ Jazzy came up on the Dublin club scene and has worked with industry heavyweights like Calvin Harris."
     },
     {
-      "title": "Final James Bond screen tests to take place this weekend, reports say",
-      "link": "https://www.bbc.co.uk/news/articles/c50mep10dek7o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 09:41:44 GMT",
-      "description": "Callum Turner and Jack Lowden \"appear to be in the mix\" of actors doing screen tests for the role."
+      "title": "Ruins of Limoges city hall a symbol of France divided by national protests",
+      "link": "https://www.bbc.co.uk/news/articles/cxyvrged14d0o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 23:09:16 GMT",
+      "description": "Younger Limoges residents see the destruction of their town hall as unfortunate collateral damage in a wider movement. For others, the fire was an unacceptable tragedy."
     },
     {
-      "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
-      "link": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 11:48:04 GMT",
-      "description": "The Your First Home scheme will offer government-backed loans for those buying new-builds in England."
+      "title": "Ukraine says Starlink connection 'now stable' after network limits",
+      "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 24 Oct 2026 12:12:40 GMT",
+      "description": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week."
     },
     {
-      "title": "Hispanic voters helped bring Trump to power - in Texas, the tide may be turning",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyqn6ejyd4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 09:23:53 GMT",
-      "description": "Recent polls suggest the president is facing challenging headwinds in the state ahead of the midterms."
+      "title": "The convicted £33m tax fraudster evading justice and living it up in Dubai",
+      "link": "https://www.bbc.co.uk/news/articles/cmy83v286571o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 24 Oct 2026 06:32:35 GMT",
+      "description": "Arif Patel \"should not be beyond the reach of the justice system,\" says the PM’s anti-corruption champion."
     },
     {
-      "title": "'It's been relentless': IT workers scramble to fix PHP flaw described as worst crisis in years",
-      "link": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 12:00:25 GMT",
-      "description": "IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems."
+      "title": "Bayern Munich coach Vincent Kompany's recovery will take 'weeks' after collapse",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm2l4vq9k84yo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 24 Oct 2026 10:03:59 GMT",
+      "description": "Vincent Kompany remains stable in hospital as doctors run tests following his collapse on Friday, says Bayern Munich director Max Eberl."
     },
     {
-      "title": "I sat in A&E for 13 hours - here's how to recognise health anxiety",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yez87qwvdo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 11:14:58 GMT",
-      "description": "Hollie Sharman shares her experience of health anxiety and a doctor advises on how to manage symptoms."
+      "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 24 Oct 2026 11:23:59 GMT",
+      "description": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany."
     },
     {
-      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
-      "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 10:23:07 GMT",
-      "description": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes."
+      "title": "Watch: The rise of AI election ads in US midterms campaign",
+      "link": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 24 Oct 2026 05:03:44 GMT",
+      "description": "BBC Verify has tracked dozens of AI ads to assess how they are being used by campaigns in the midterms."
     },
     {
-      "title": "Have Manchester United become the unmanageable club?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6y0ek284pdgo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 05:56:04 GMT",
-      "description": "The cycle of doom that has engulfed every Manchester United manager since Sir Alex Ferguson now has Michael Carrick in its unforgiving grip, writes Phil McNulty."
+      "title": "How Brazil's changing working class is reshaping the presidential race",
+      "link": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 24 Oct 2026 05:05:44 GMT",
+      "description": "Calls for change present a challenge to President Lula in the second round of the election on Sunday."
     },
     {
-      "title": "Weekly quiz: How long did Katie Zacharia last as White House press secretary?",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2qpj72znwo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 18:28:17 GMT",
-      "description": "How much attention did you pay to what happened in the world over the past seven days?"
+      "title": "How does the UK state pension compare with other countries?",
+      "link": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 24 Oct 2026 00:09:12 GMT",
+      "description": "Do British pensioners have it better or worse than those in other countries?"
     },
     {
-      "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
-      "link": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 23:20:38 GMT",
-      "description": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years."
+      "title": "Ali G is back. But is the character past its sell-by date?",
+      "link": "https://www.bbc.co.uk/news/articles/ckge4vn2rnxgo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 06:43:31 GMT",
+      "description": "Borat and Bruno creator Sacha Baron Cohen returns as Ali G, more than two decades after the release of Ali G Indahouse."
+    },
+    {
+      "title": "The grads ditching the UK for a fresh start abroad",
+      "link": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Oct 2026 23:12:06 GMT",
+      "description": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating."
+    },
+    {
+      "title": "When to switch your clocks back as British Summer Time comes to an end",
+      "link": "https://www.bbc.co.uk/weather/articles/c6grvpd4295vo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 12:12:55 GMT",
+      "description": "British Summer Time will soon comes to an end as the clocks go back an hour to Greenwich Mean Time."
+    },
+    {
+      "title": "Watch: Moment fin whale swallows thousands of gallons of water during feeding",
+      "link": "https://www.bbc.co.uk/news/articles/cjr4yeygwdxvo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 20 Oct 2026 12:03:28 GMT",
+      "description": "Videographer Rhys Morgan captured footage of the worlds second largest whale  lunge feeding on his drone."
     },
     {
       "title": "Sign up now",
@@ -118,88 +136,40 @@
       "description": "From news and politics to technology and the royals, get the best BBC journalism to your inbox."
     },
     {
-      "title": "Raye wins the Mercury Prize with This Music May Contain Hope",
-      "link": "https://www.bbc.co.uk/news/articles/cw073mj02v72o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 00:14:08 GMT",
-      "description": "The pop star beat artists like Paul McCartney, Suede and Jade Thirlwall to lift the £25,000 prize."
-    },
-    {
-      "title": "Prince William makes surprise appearance on Graham Norton Show",
-      "link": "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 21:21:22 GMT",
-      "description": "The Prince of Wales was marking his Earthshot Prize, to which all of Norton's guests were linked."
-    },
-    {
-      "title": "Big firms buying up care homes risk to national care plan, regulator says",
-      "link": "https://www.bbc.co.uk/news/articles/cke8r6543gplo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 23:20:05 GMT",
-      "description": "Concerns raised as big private firms buy up care homes and home help fragmenting in England."
-    },
-    {
-      "title": "First personalised cancer vaccine cuts risk of disease returning in major trial",
-      "link": "https://www.bbc.co.uk/news/articles/cq0ld9g9e913o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 07:49:02 GMT",
-      "description": "The scientists involved say the results could mark a turning point in cancer treatment, bringing personalised medicine a step closer."
-    },
-    {
-      "title": "Denmark to ban mink farming in government U-turn",
-      "link": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 12:17:45 GMT",
-      "description": "Once the world's largest producer of mink pelts, the nation's industry has declined in recent years."
-    },
-    {
-      "title": "Monk on Caldey Island gave naked photos of himself to visitors",
-      "link": "https://www.bbc.co.uk/news/articles/cwr7yz12g2vpo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 05:11:25 GMT",
-      "description": "The monk denies sexually assaulting a visitor, who says he also gave her naked photos of himself."
-    },
-    {
-      "title": "Infantino re-election hopes boosted by Asia support after u-turn",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c3x2wpyg18j7o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 06:48:46 GMT",
-      "description": "Gianni Infantino's hopes of being re-elected Fifa president are enhanced by an endorsement from the Asian Football Confederation."
-    },
-    {
       "title": "Download now",
       "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests"
     },
     {
-      "title": "Conte plays down 'unfounded' Man Utd speculation",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmvg6j8jezn7o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 12:15:53 GMT",
-      "description": "Antonio Conte says he is not in advanced talks with any club, in response to speculation he has held talks with Manchester United."
+      "title": "Coming soon: Sir David Attenborough's next great ocean journey",
+      "link": "https://www.bbc.co.uk/iplayer/episodes/m002zl60/watch/p0phnw1z?at_mid=0Q85UjCr2P&at_campaign=BBC_Extended_Trailer_Blue_Planet_III&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002zl60&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=awareness&at_link_title=BBC_Extended_Trailer_Blue_Planet_III&at_bbc_team=BBC",
+      "published": "Fri, 08 May 2026 21:02:30 GMT",
+      "description": "Every wave has a story. Experience the wonder waiting beneath the surface"
     },
     {
-      "title": "What is going on at 'chaotic' Newcastle?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c60qkpe0e54qo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 06:37:20 GMT",
-      "description": "Will the alarm bells be ringing at Newcastle United if they lose to struggling Crystal Palace on Sunday?"
+      "title": "Infantino says he is backed by 'vast majority'",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 24 Oct 2026 10:30:08 GMT",
+      "description": "Fifa president Gianni Infantino laughs off questions about whether he considered resigning over the World Cup sell-off debacle."
     },
     {
-      "title": "World champion Jepchirchir fails drugs test",
-      "link": "https://www.bbc.co.uk/sport/olympics/articles/cwz0vn1yk235o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 12:01:20 GMT",
-      "description": "Reigning world women's marathon champion Peres Jepchirchir is provisionally suspended by the Athletics Integrity Unit after a sample tests positive for EPO."
+      "title": "Poor England suffer another Australia humiliation",
+      "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c5y43x20y0wjo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 24 Oct 2026 11:09:57 GMT",
+      "description": "England are well beaten by defending champions Australia in their second Women's Rugby League World Cup Group A match in Perth."
     },
     {
-      "title": "Cost of football regulator double initial estimate",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6lylk1zyqd7o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 12:19:33 GMT",
-      "description": "The annual cost to clubs of English football's Independent Regulator (IFR) has risen to £20.3m, around double the amount initially estimated."
+      "title": "England thrash France to keep alive World Cup hopes",
+      "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cr93zwx9pzv9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 24 Oct 2026 10:01:42 GMT",
+      "description": "England beat France 82-0 to maintain their hopes of reaching the Men's Rugby League World Cup semi-finals."
     },
     {
-      "title": "The World Treadmill Championship - pitching elite runners against amateurs",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/cmgel5vd5gqno?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 05:58:25 GMT",
-      "description": "Everyday runners are being given the chance to compete alongside elite athletes in the first World Treadmill Championship, a new global 5km competition."
-    },
-    {
-      "title": "Pride, prestige, profile - the great Ballon d'Or campaign",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c65yng4x302jo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 06:06:38 GMT",
-      "description": "The Ballon d'Or is football's greatest individual accolade - and the thirst to win it has grown in recent years."
+      "title": "No panic for England but Mitchell issues PWR warning",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cv0ld9y3g426o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 24 Oct 2026 09:22:07 GMT",
+      "description": "A 2-0 series defeat for the Red Roses, their record 39-match winning streak and 41-match unbeaten run ended, and consecutive losses for the first time since 2016 - England are not invincible."
     }
   ]
 }
