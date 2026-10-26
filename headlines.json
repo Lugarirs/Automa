@@ -1,133 +1,115 @@
 {
-  "scraped_at": "2026-10-25 12:48:24 UTC",
+  "scraped_at": "2026-10-26 14:36:54 UTC",
   "source": "BBC News RSS",
-  "total": 28,
+  "total": 35,
   "headlines": [
     {
-      "title": "Meghan broke contact with father in letter citing abuse claims",
-      "link": "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 25 Oct 2026 08:05:31 GMT",
-      "description": "Sources close to the duchess said she warned her father last year that he would never meet his grandchildren."
+      "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
+      "link": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 14:16:09 GMT",
+      "description": "The R&B star previously pleaded guilty to affray, after attacking a music producer with a glass bottle."
     },
     {
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 25 Oct 2026 09:00:00 GMT",
-      "description": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity."
+      "title": "Storm Boelo leaves 90,000 without power as Met Office issues new wind warning",
+      "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 12:00:20 GMT",
+      "description": "Around 90,000 properties are without power after Scotland and north England is battered by strong winds."
     },
     {
-      "title": "Burnham open to 'honest discussion' on EU free movement",
-      "link": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 25 Oct 2026 12:11:23 GMT",
-      "description": "The PM says he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe."
+      "title": "Healey to shield low-income pensioners from income tax in the Budget",
+      "link": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 10:28:12 GMT",
+      "description": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April."
     },
     {
-      "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
-      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 25 Oct 2026 10:38:15 GMT",
-      "description": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries."
+      "title": "Daughter wins £127k claim for caring for mum at home",
+      "link": "https://www.bbc.co.uk/news/articles/cr93zp78g580o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 06:23:01 GMT",
+      "description": "Bern Rogers says the row with her siblings since her elderly mother died was \"harrowing and deeply sad\"."
     },
     {
-      "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
-      "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 25 Oct 2026 11:54:16 GMT",
-      "description": "Flávio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a fourth term in office."
+      "title": "What is walking down the newly pedestrianised Oxford Street like?",
+      "link": "https://www.bbc.co.uk/news/videos/c5pvg8y8lk2mo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 11:50:34 GMT",
+      "description": "The first phase of the overhaul is expected to be finished by spring 2027."
     },
     {
-      "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 24 Oct 2026 23:03:09 GMT",
-      "description": "The meticulously-planned visit takes in three countries in nine days - but is not without jeopardy."
+      "title": "Kane, Yamal or Kvaratskhelia? BBC Sport pundits on who should win the men's Ballon d'Or",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqjdmn0ndxjxo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 06:19:12 GMT",
+      "description": "The Ballon d'Or winner will be announced in London on Monday - but who is going to claim the showpiece award?"
     },
     {
-      "title": "Rosebank: Life on the oil field at the centre of a political storm",
-      "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 25 Oct 2026 07:15:38 GMT",
-      "description": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate."
+      "title": "Anthropic warns of AI's 'risks to humanity' ahead of blockbuster share listing",
+      "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 14:15:01 GMT",
+      "description": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI."
     },
     {
-      "title": "Four ways Labour could raise money in the Budget without hiking income tax",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 25 Oct 2026 06:00:15 GMT",
-      "description": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table."
+      "title": "Burnham leaves door open to referendum on EU free movement",
+      "link": "https://www.bbc.co.uk/news/articles/cx240dpzv009o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 12:20:41 GMT",
+      "description": "The PM says he wants to start a conversation about potential options for the UK's future relationship with the EU."
     },
     {
-      "title": "Why the charts are full of old songs - and so are your playlists",
-      "link": "https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 24 Oct 2026 23:05:41 GMT",
-      "description": "The chart is full of old music and classic songs are dominating streaming services. But why?"
+      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 14:34:52 GMT",
+      "description": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future."
     },
     {
-      "title": "The bitter row over military service that could shape Israel's future",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 24 Oct 2026 23:03:21 GMT",
-      "description": "The ultra-Orthodox community is resisting being drafted into the Israeli army. But will they now bring down the Netanyahu government?"
+      "title": "Consultant doctors in England to strike next month",
+      "link": "https://www.bbc.co.uk/news/articles/c69wzxw2pvv0o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 11:45:48 GMT",
+      "description": "Senior doctors to stage 48-hour walkout, beginning on 25 November, in dispute over pay and pensions."
     },
     {
-      "title": "A shark went astray and captured Korea's heart - will she finally make it back to sea?",
-      "link": "https://www.bbc.co.uk/news/articles/c9zrdknlmpdlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 24 Oct 2026 22:58:43 GMT",
-      "description": "More than a million people flocked to Busan to catch a glimpse of the female dusky shark they called Bukangi."
+      "title": "Crowds welcome Venezuela's María Machado after months in exile",
+      "link": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 09:31:12 GMT",
+      "description": "The Venezuelan opposition leader spent more than 10 months in exile after escaping the country on a speedboat."
     },
     {
-      "title": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 25 Oct 2026 05:45:31 GMT",
-      "description": "Ukraine needs another satellite internet service, but a decent alternative to Elon Musk's network doesn't exist - yet."
+      "title": "Watch: How Lula turned it around to beat former president's son",
+      "link": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 02:53:00 GMT",
+      "description": "Brazil's left-wing President has been elected for a fourth term after narrowly beating right-wing Flávio Bolsonaro in a knife-edge vote."
     },
     {
-      "title": "Students like new tenancy freedoms - but landlords warn of higher rents",
-      "link": "https://www.bbc.co.uk/news/articles/cqx29lnzr48po?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 25 Oct 2026 01:35:40 GMT",
-      "description": "The Renters' Rights Act gives greater flexibility to leave a tenancy but the changes have posed challenges for student landlords."
+      "title": "Five ways Trump has changed immigration in the US",
+      "link": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 11:29:02 GMT",
+      "description": "This is how his signature policy has played out after returning to power promising a closed border and mass deportations."
     },
     {
-      "title": "The penguins are noisy, the people fantastic - what it takes to be an Antarctic postmaster",
-      "link": "https://www.bbc.co.uk/news/articles/c6dxwklr409eo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 25 Oct 2026 09:59:50 GMT",
-      "description": "George Clarke from Bristol will run the post office at Port Lockroy in Antarctica from October to March."
+      "title": "Faisal Islam: Healey's Budget needs to sustain the stronger economy through gathering clouds",
+      "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 00:26:49 GMT",
+      "description": "The economic is positive now but come January things could become trickier for the Labour government"
     },
     {
-      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-      "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 25 Oct 2026 05:15:52 GMT",
-      "description": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election."
+      "title": "How do Israel's elections work and who are the main contenders?",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 25 Oct 2026 17:13:51 GMT",
+      "description": "Israel heads to the polls on Tuesday for what many view as one of the most pivotal elections in the country's history."
     },
     {
-      "title": "Budget to include £1bn for social and affordable housing",
-      "link": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 25 Oct 2026 10:03:17 GMT",
-      "description": "The move will take funding for the 10-year programme to more than £40bn."
+      "title": "How a movement of students brought down Serbia's Vučić",
+      "link": "https://www.bbc.co.uk/news/articles/c574pvy82k0mo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 14:29:31 GMT",
+      "description": "In just under two years the students have succeeded in tearing up 14 years of political dominance under Aleksandar Vučić."
     },
     {
-      "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
-      "link": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 24 Oct 2026 23:02:51 GMT",
-      "description": "For Bu and Tyapa, the five-year journey from Russia to the Irish countryside was anything but straightforward."
+      "title": "Is 'ferritin face' a real thing - and can you really spot low iron from looks?",
+      "link": "https://www.bbc.co.uk/news/articles/cmlykvpdx4x0o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 01:43:55 GMT",
+      "description": "Videos in which people claim to spot the signs of low iron have attracted millions of views online."
     },
     {
-      "title": "'I entered foster care at 14 and it saved my life'",
-      "link": "https://www.bbc.co.uk/news/articles/c687zjr7r5wvo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 05:14:07 GMT",
-      "description": "A woman says fostering \"saved her life\" as a campaign launches to tackle a shortage of carers."
-    },
-    {
-      "title": "Clayface star says uncomfortable prosthetics helped his performance",
-      "link": "https://www.bbc.co.uk/news/articles/cv1j359360rdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Oct 2026 14:12:51 GMT",
-      "description": "Tom Rhys Harries says he spent half his time on set with the make-up team."
-    },
-    {
-      "title": "How The Beatles found their drummer at Butlin's",
-      "link": "https://www.bbc.co.uk/news/articles/cm78pj867zxqo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 06:35:58 GMT",
-      "description": "Ringo Starr was in a band at Butlin's Skegness in 1962 when Lennon and McCartney paid a visit."
-    },
-    {
-      "title": "'It gives me the ick': Can you cheat on someone with a video game?",
-      "link": "https://www.bbc.co.uk/news/articles/ckn9wrr75dyeo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 00:09:25 GMT",
-      "description": "Grand Theft Auto VI lets you build and nurture a romantic relationship but some say dates with a fictional character are a step too far."
+      "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
+      "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 25 Oct 2026 23:44:34 GMT",
+      "description": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts."
     },
     {
       "title": "Sign up now",
@@ -136,40 +118,100 @@
       "description": "From news and politics to technology and the royals, get the best BBC journalism to your inbox."
     },
     {
+      "title": "Dangerous drivers jailed for mum and girl's deaths",
+      "link": "https://www.bbc.co.uk/news/articles/cqy0r3n17gjyo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 13:46:32 GMT",
+      "description": "Hardeep Bhachu and Jasskamal Riyat are warned of the 'irreversible' consequences of their actions."
+    },
+    {
+      "title": "Knighting Sinfield 'easiest decision anyone's had to make,' says Prince William",
+      "link": "https://www.bbc.co.uk/news/articles/c65ynjkrjq4wo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 06:00:04 GMT",
+      "description": "The rugby league star is \"gold dust\" and \"should have been Sir Kevin years ago,\" says the Prince of Wales."
+    },
+    {
+      "title": "US Marine indicted for murder and robbery of woman in Japan",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 14:13:18 GMT",
+      "description": "Prosecutors have indicted Devin Jacob Ballard for a killing that has caused outrage in Japan, local media reports."
+    },
+    {
+      "title": "Australian murderer loses bid to eat Vegemite in prison",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 04:05:28 GMT",
+      "description": "Andre McKechnie, who murdered a property developer, argued it was his right to enjoy Australian culture."
+    },
+    {
+      "title": "Fans prepare to say goodbye as anime series Bleach officially ends",
+      "link": "https://www.bbc.co.uk/news/articles/c8p3g73ep520o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 12:22:03 GMT",
+      "description": "Twenty-two years after it first aired, one of the biggest animes of all time is coming to an end."
+    },
+    {
+      "title": "Jordan arrests three men suspected of deadly church attack after shootout",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g17qq8wz4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 11:01:16 GMT",
+      "description": "No group has yet said it was behind Friday's shooting attack in the village of Hmoud, which left nine Christians dead."
+    },
+    {
+      "title": "Sharon Osbourne: 'I visit Ozzy's grave every day'",
+      "link": "https://www.bbc.co.uk/news/articles/c6g7xn8p2n0ro?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 01:40:39 GMT",
+      "description": "The TV presenter says she can see Ozzy's burial site from her window, and regularly talks to him."
+    },
+    {
       "title": "Download now",
       "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 30 Apr 2025 14:04:28 GMT",
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests"
     },
     {
-      "title": "The Secrets Of Creating A Budget",
-      "link": "https://www.bbc.co.uk/sounds/play/p0phhxfl?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 24 Oct 2026 00:00:00 GMT",
+      "title": "Could A Major Part Of Brexit Be Reversed?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0phhxp0?at_mid=sulUAQaVXo&at_campaign=Newscast_Could_A_Major_Part_Of_Brexit_Be_Reversed_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_Could_A_Major_Part_Of_Brexit_Be_Reversed_news_rail&at_bbc_team=BBC&at_creation=News",
+      "published": "Sun, 25 Oct 2026 00:00:00 GMT",
       "description": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm."
     },
     {
-      "title": "Coming soon: Sir David Attenborough's next great ocean journey",
-      "link": "https://www.bbc.co.uk/iplayer/episodes/m002zl60/watch/p0phnw1z?at_mid=0Q85UjCr2P&at_campaign=BBC_Extended_Trailer_Blue_Planet_III&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002zl60&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=awareness&at_link_title=BBC_Extended_Trailer_Blue_Planet_III&at_bbc_team=BBC",
-      "published": "Fri, 08 May 2026 21:02:30 GMT",
-      "description": "Every wave has a story. Experience the wonder waiting beneath the surface"
+      "title": "A late goal and a knee slide - how Mourinho returned to haunt Barca",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 00:07:16 GMT",
+      "description": "La Liga's season has switched from predictable to fascinating as Jose Mourinho's El Clasico midas touch continues in the Nou Camp."
     },
     {
-      "title": "Anderson stops short of retiring after Lancashire exit",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c3qjng48exxwo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 25 Oct 2026 12:03:17 GMT",
-      "description": "James Anderson expresses sadness at being released by Lancashire, but stopped short of confirming the end of his legendary playing career."
+      "title": "Racecourse fined after jockey taken to A&E in horsebox",
+      "link": "https://www.bbc.co.uk/sport/horse-racing/articles/c6lykg4l72xlo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 13:50:26 GMT",
+      "description": "Sedgefield Racecourse is fined £6,500 after failing to comply with five 'general instructions' of safety."
     },
     {
-      "title": "'This is the only Clasico' - Mourinho's Real trying to stop Barca's shot at history",
-      "link": "https://www.bbc.co.uk/sport/football/articles/crgqwzqz8zgwo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 25 Oct 2026 07:55:05 GMT",
-      "description": "Barcelona aim to make La Liga history against Real Madrid, with Jose Mourinho looking to end their winning run."
+      "title": "End approaching for Carrick but Man Utd fans make clear who they blame",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 25 Oct 2026 21:24:21 GMT",
+      "description": "Manchester United's fans sang their support for Michael Carrick during the 3-0 home defeat by Bournemouth, but voiced their opposition to virtually everything else."
     },
     {
-      "title": "Antonelli stands on brink of history in Austin",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cvlyd5k776yyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 25 Oct 2026 00:40:56 GMT",
-      "description": "Kimi Antonelli can become the youngest F1 world champion on Sunday, but far from feeling the pressure he says he is enjoying himself more than usual."
+      "title": "Ireland prop Furlong cited over alleged groin grab",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwg5jn7845jdo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 14:22:30 GMT",
+      "description": "Ireland prop Tadhg Furlong is cited over an alleged groin grab in Leinster's United Rugby Championship win over Munster on Saturday."
+    },
+    {
+      "title": "Late Mbappe goal earns Real win at Barca in dramatic Clasico",
+      "link": "https://www.bbc.co.uk/sport/football/videos/crje5zewk52no?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 09:41:25 GMT",
+      "description": "Kylian Mbappe scores twice for Real Madrid as they beat Barcelona 2-1 at the  Camp Nou in the first El Clasico of the season."
+    },
+    {
+      "title": "Borthwick's autumn questions as World Cup looms",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ck20wj7znqy8o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 12:14:29 GMT",
+      "description": "The upcoming Nations Championship matches present a selection dilemma for Steve Borthwick's England with just nine matches to go until the World Cup."
+    },
+    {
+      "title": "Ex-Liverpool winger Pennant has more than 50 stitches after dog attack",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqdr8e81xjy7o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 07:36:20 GMT",
+      "description": "Former Premier League footballer Jermaine Pennant says he needed more than 50 stitches after being mauled by a dog."
     }
   ]
 }
