@@ -1,139 +1,181 @@
 {
-  "scraped_at": "2026-10-28 14:35:18 UTC",
+  "scraped_at": "2026-10-29 14:42:13 UTC",
   "source": "BBC News RSS",
-  "total": 29,
+  "total": 34,
   "headlines": [
     {
-      "title": "Key points at a glance",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 13:48:29 GMT",
-      "description": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans."
+      "title": "Treasury will not commit to reducing welfare bill before next election",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 10:41:50 GMT",
+      "description": "The Treasury is disputing that the chancellor suggested to the BBC the benefits bill will be cut before the next election."
     },
     {
-      "title": "How the Budget affects you",
+      "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+      "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 11:07:35 GMT",
+      "description": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled."
+    },
+    {
+      "title": "Russell Brand's wife tells his rape trial he is 'kind and a wonderful father'",
+      "link": "https://www.bbc.co.uk/news/articles/cky93127nyepo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 12:52:50 GMT",
+      "description": "Laura Brand tells the jury at his trial she feels \"very seen by him\" and \"I love him very much\"."
+    },
+    {
+      "title": "Serious pollution by water industry remains high despite £5bn investment",
+      "link": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 12:08:01 GMT",
+      "description": "All but one of England's water companies were rated as \"poor\" or \"requiring improvement\" for environmental targets."
+    },
+    {
+      "title": "Philippine police obtain warrant to search Thomas Markle's devices",
+      "link": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 13:25:07 GMT",
+      "description": "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines."
+    },
+    {
+      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 14:17:35 GMT",
+      "description": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy."
+    },
+    {
+      "title": "Poundland's future hangs in the balance as chain edges towards collapse",
+      "link": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 14:22:34 GMT",
+      "description": "Poundland's bosses is filing a notice of intention to appoint administrators to the business."
+    },
+    {
+      "title": "Bereaved families appalled by footage of Seoul crush in Call of Duty",
+      "link": "https://www.bbc.co.uk/news/articles/cx5ynj718zymo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 12:01:41 GMT",
+      "description": "Modern Warfare 4 uses video from the Itaewon crush to show the aftermath of an imagined North Korean attack."
+    },
+    {
+      "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
+      "link": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 13:44:39 GMT",
+      "description": "One of the regions famous rock formations, known as \"fairy chimneys\", reportedly collapsed outside an open-air museum."
+    },
+    {
+      "title": "Row over George Michael items up for auction - including Faith guitar",
+      "link": "https://www.bbc.co.uk/news/articles/cmr4y51gd5yro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 00:01:16 GMT",
+      "description": "The brother of the singer's late personal assistant says she would not have wanted the items to be sold."
+    },
+    {
+      "title": "What the Budget means for your money",
       "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 14:29:20 GMT",
+      "published": "Wed, 28 Oct 2026 16:43:35 GMT",
       "description": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how."
     },
     {
-      "title": "Chancellor takes to the despatch box for his first Budget",
-      "link": "https://www.bbc.co.uk/news/videos/cqn49vy2jlx0o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 13:13:17 GMT",
-      "description": "The chancellor begins his speech by calling it a Budget for the \"working people of Britain, for British businesses big and small.\""
+      "title": "Healey provides some breathing space but things still set to get worse for most",
+      "link": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 28 Oct 2026 19:51:01 GMT",
+      "description": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options."
     },
     {
-      "title": "Overturned carriages and makeshift medical tents at crash site",
-      "link": "https://www.bbc.co.uk/news/videos/cv8ezjdkle59o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 11:13:55 GMT",
-      "description": "Dozens of people are feared dead after a high-speed train collided with another train south of Madrid."
+      "title": "Budget key points at a glance",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 28 Oct 2026 16:55:27 GMT",
+      "description": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans."
     },
     {
-      "title": "What we know about the crash so far",
-      "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 12:14:44 GMT",
-      "description": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid."
+      "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+      "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 11:52:55 GMT",
+      "description": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget."
     },
     {
-      "title": "Russell Brand tells court allegations made friends and colleagues turn against him",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 14:26:18 GMT",
-      "description": "The entertainer begins giving evidence at his trial on charges including rape at Southwark Crown Court."
+      "title": "Under 25? Here's what the Budget means for you",
+      "link": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 28 Oct 2026 20:02:38 GMT",
+      "description": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage."
     },
     {
-      "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-      "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 10:31:22 GMT",
-      "description": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\"."
+      "title": "Shock of rail tragedy gives way to sorrow and outrage in politically divided Spain",
+      "link": "https://www.bbc.co.uk/news/articles/ckn9rq8204l0o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 14:08:23 GMT",
+      "description": "The latest train crash will pile pressure on the government of Pedro Sánchez, one month before the general election."
     },
     {
-      "title": "Blindfolded wife 'felt stranger's hand' during sex with husband, court told",
-      "link": "https://www.bbc.co.uk/news/articles/cmzxlr570xgro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 13:40:30 GMT",
-      "description": "Four men are currently on trial accused of sexual offences against Joanne Young, which they deny."
+      "title": "'The internet's a less whimsical place' - YouTuber Jacksepticeye branches out",
+      "link": "https://www.bbc.co.uk/news/articles/cmrly9djrg2ro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 14:07:26 GMT",
+      "description": "He got famous playing video games but now you're more likely to see Seán McLoughlin in one."
     },
     {
-      "title": "Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare",
-      "link": "https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 27 Oct 2026 21:46:43 GMT",
-      "description": "As the US president casts doubt on the security of the midterm elections, BBC Verify examines his claims."
+      "title": "Europe's youth is on the march - but does anything actually unite them?",
+      "link": "https://www.bbc.co.uk/news/articles/cm2ke80nd929o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 00:33:11 GMT",
+      "description": "The last month has seen youth-driven demonstrations across Europe. What connects them?"
     },
     {
-      "title": "'Dissident republicans may be responsible' for hotel explosive device, police say",
-      "link": "https://www.bbc.co.uk/news/articles/c6lykg0nkll0o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 13:22:22 GMT",
-      "description": "The package was discovered at about 15:20 GMT on Tuesday at Ebrington Square in the Waterside."
+      "title": "Israel's election deadlock is a sign of the country's deep divisions",
+      "link": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 28 Oct 2026 20:53:02 GMT",
+      "description": "The election was a celebration of democracy in some ways - but it has left Israel with no clear path to a new government, writes James Landale."
     },
     {
-      "title": "'Biggest night in club's history' as fearless Fleetwood stun Arsenal in EFL Cup",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqgkv2vxeengo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 00:39:30 GMT",
-      "description": "A whopping 83 league places separated Fleetwood from Arsenal, yet the hosts booked their place in the Carabao Cup quarter-final thanks to their penalty shootout win over the Gunners."
+      "title": "We love how we look but AI tried to 'fix' our visible differences",
+      "link": "https://www.bbc.co.uk/news/articles/cmx28e44xxx7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 06:13:33 GMT",
+      "description": "An AI tool edited a photo of Rhiannon Morgan in a work newsletter and she was shocked by the results."
     },
     {
-      "title": "Multiple sclerosis patient living in 'horrific pain' due to UK-wide drugs shortage",
-      "link": "https://www.bbc.co.uk/news/articles/cr20w5vx39peo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 12:39:42 GMT",
-      "description": "Jill Kenning says she has been unable to get a drug she uses to manage her condition."
+      "title": "'I live with a ghost': The people saving money by moving into Japan's haunted houses",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 09:30:03 GMT",
+      "description": "Properties where someone has died in tragic circumstances can have big reductions in price."
     },
     {
-      "title": "A bust-up between mathematicians is fuelling fears that AI could undermine science",
-      "link": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 01:01:02 GMT",
-      "description": "AI has made some awesome scientific discoveries. But now, questions are being raised about its accuracy"
+      "title": "Take our Celebrity Traitors quiz to find out which star you would be in this year's show",
+      "link": "https://www.bbc.co.uk/news/articles/c6d93vxj3g5xo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 00:29:39 GMT",
+      "description": "Are you an observant sleuth or a smooth operator? Find out which star you are by answering these questions."
     },
     {
-      "title": "You may get the right to find out what your colleagues earn - here's why",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8nwvj92jdo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 10:42:39 GMT",
-      "description": "Employees should legally be able to find out what their co-workers are earning, the UK's equality watchdog says"
+      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 11:27:05 GMT",
+      "description": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan."
     },
     {
-      "title": "Losing my legs ended my football dream - now skiing gives me freedom",
-      "link": "https://www.bbc.co.uk/news/articles/ckg5jeee9q83o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 06:16:37 GMT",
-      "description": "Adam Golebiewski was only 17 when he needed a double amputation after a car crash."
+      "title": "Ofcom sets out social media age-checking methods ahead of ban",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 09:31:44 GMT",
+      "description": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over."
     },
     {
-      "title": "Four investigations Democrats could launch if they win control of Congress",
-      "link": "https://www.bbc.co.uk/news/articles/cvglwg033027o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 11:00:12 GMT",
-      "description": "Democrats have promised a wave of probes into the Trump administration if they win back the House."
+      "title": "Michelle O'Neill says DUP has blocked her from PM meeting in Glasgow",
+      "link": "https://www.bbc.co.uk/news/articles/cwly300mxym3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 14:12:43 GMT",
+      "description": "The move follows unionist anger over Sinn Féin's involvement in protests which prevented a contentious Orange Order march in Portadown."
     },
     {
-      "title": "Netanyahu and Eisenkot face difficult paths to power as neither set to win majority",
-      "link": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 10:35:13 GMT",
-      "description": "The two main blocs appear to have too few seats to form the next government without reliance on Arab parties."
+      "title": "Death of US actress Hayden Panettiere ruled accidental",
+      "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 28 Oct 2026 21:16:30 GMT",
+      "description": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs."
     },
     {
-      "title": "Legal bid to overturn Drumcree march ban fails",
-      "link": "https://www.bbc.co.uk/news/articles/c674p7v91wx8o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 14:24:24 GMT",
-      "description": "The High Court in Belfast has rules that Sir Chris Bryant's decision made on 9 October was lawful."
+      "title": "US Health Secretary RFK Jr to expand access to unapproved peptides",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8nwd748v3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 03:09:10 GMT",
+      "description": "Health experts have cautioned against use of the drugs, citing a lack of clinical trials for humans and the unknown long-term effects."
     },
     {
-      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 10:17:54 GMT",
-      "description": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services."
+      "title": "Mum of critically ill baby denied hospital food as she wasn't breastfeeding",
+      "link": "https://www.bbc.co.uk/news/articles/cqzrdkn4v36po?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 06:12:07 GMT",
+      "description": "Sophie Price had given birth in the same hospital five days earlier but was denied a hot meal."
     },
     {
-      "title": "China's families are now supporting more old people than kids",
-      "link": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 27 Oct 2026 23:16:08 GMT",
-      "description": "The latest figures mark a major milestone as Beijing grapples with an ageing population."
-    },
-    {
-      "title": "Bonfire Night policing in Scotland will be 'largest operation since Trump visit'",
-      "link": "https://www.bbc.co.uk/news/articles/cmgqwgpjpjngo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 06:15:15 GMT",
-      "description": "As many as 1,700 officers could be deployed to deal with fireworks-related disorder, a European football match and potential protests in Glasgow."
-    },
-    {
-      "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 04:32:36 GMT",
-      "description": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda."
+      "title": "'Like cutting up a Picasso': AI microdrama edit of Neighbours worries actors and crew",
+      "link": "https://www.bbc.co.uk/news/articles/cj1dw9znd1q1o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 03:15:35 GMT",
+      "description": "A micro-drama will use AI-assisted technology to edit old episodes of the Australian TV soap to focus on Margot Robbie's character."
     },
     {
       "title": "Download now",
@@ -142,40 +184,28 @@
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests"
     },
     {
-      "title": "Carrick and Fernandes hold clear-the-air talks",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cje36dn5nx36o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 11:48:28 GMT",
-      "description": "Manchester United head coach Michael Carrick and captain Bruno Fernandes hold clear-the-air talks at the club's training ground."
+      "title": "'Fully committed' Fernandes to remain Man Utd captain",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckz7x8z1e9y9o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 14:31:52 GMT",
+      "description": "Manchester United head coach Michael Carrick has confirmed Bruno Fernandes will remain as captain ahead of the Premier League trip to Chelsea."
     },
     {
-      "title": "Arsenal to appeal against Dowman red card",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c3dxwdnjqj17o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 11:55:21 GMT",
-      "description": "Arsenal will appeal against Max Dowman's sending-off during Tuesday's Carabao Cup defeat at Fleetwood Town."
+      "title": "Is the double drop from the Premier League becoming more common?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 13:19:52 GMT",
+      "description": "Back-to-back relegations to the third tier of English football are becoming more common and this season Burnley could make it a hat-trick after Luton Town and Leicester."
     },
     {
-      "title": "Goodbye to Wawrinka - an everyman who gatecrashed the greats",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/crlykgp51ej4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 07:14:18 GMT",
-      "description": "Stan Wawrinka's glorious career - which brought him three Grand Slam titles in a golden era - ends after an honourable defeat on an emotional night in Basel."
+      "title": "Mourinho and chaos - is Real Madrid boss misunderstood?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crly062vd0z7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 08:07:22 GMT",
+      "description": "Jose Mourinho has spent the past decade seeing other managers hailed as geniuses, but did Real Madrid's win at Barcelona show he's been misunderstood?"
     },
     {
-      "title": "'Relax, I love Kane and Lamine Yamal' - Henry defends his Ballon d'Or hosting",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm369r0n0zk5o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 12:13:23 GMT",
-      "description": "Former Arsenal forward Thierry Henry responds to criticism of a number of comments he made during Monday's Ballon d'Or ceremony and claims they were \"jokes\"."
-    },
-    {
-      "title": "Liverpool gambled on Jacquet and it is paying off",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqgkv216dx2no?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 08:36:34 GMT",
-      "description": "Liverpool beat Chelsea to the signing of Jeremy Jacquet and the defender is thriving at Anfield. Things could have been very different..."
-    },
-    {
-      "title": "Serrano to end career in Puerto Rico in January",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/cqn8denld133o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 11:11:53 GMT",
-      "description": "Amanda Serrano will face Skye Falzon in Puerto Rico on 9 January in the final fight of her illustrious professional boxing career."
+      "title": "'Hungrier than ever' - Paul to return on 24 December",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/cvkgkx496e0ko?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 11:06:04 GMT",
+      "description": "Jake Paul returns to the ring for the first time since losing to Anthony Joshua against a yet to be confirmed opponent on 24 December."
     }
   ]
 }
