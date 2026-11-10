@@ -1,151 +1,151 @@
 {
-  "scraped_at": "2026-11-09 17:52:36 UTC",
+  "scraped_at": "2026-11-10 15:52:09 UTC",
   "source": "BBC News RSS",
-  "total": 34,
+  "total": 32,
   "headlines": [
     {
-      "title": "Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 17:31:08 GMT",
-      "description": "The disgraced entertainer was sentenced on Monday following a four-week trial at Southwark Crown Court."
+      "title": "US military aircraft leave second UK base",
+      "link": "https://www.bbc.co.uk/news/articles/c32l4lw12z7po?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 15:14:37 GMT",
+      "description": "The departures come weeks after the US withdrew bombers from RAF Fairford airbase over a suspected Iran-linked security incident."
     },
     {
-      "title": "Watch: Moment judge sentences Brand in court",
-      "link": "https://www.bbc.co.uk/news/videos/c6vg7gnjjlj8o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 15:18:04 GMT",
-      "description": "Russell Brand was sentenced for rape and three counts of sexual assault at Southwark Crown Court on Monday."
+      "title": "Met Police investigating more 'potential criminal allegations' about Brand",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy7ydg4264o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 14:09:11 GMT",
+      "description": "Det Supt Andy Furphy says the force had received \"several reports during the trial and since the trial\"."
     },
     {
-      "title": "France accuses Iran of supermarket fridge hacking",
+      "title": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
+      "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 15:10:20 GMT",
+      "description": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies."
+    },
+    {
+      "title": "Carrick's Man Utd future to be decided at Wednesday meeting",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 11:23:43 GMT",
+      "description": "Manchester United head coach Michael Carrick's future will be discussed at a meeting in Monaco on Wednesday."
+    },
+    {
+      "title": "Watch: Meghan's first public appearance since father arrested",
+      "link": "https://www.bbc.co.uk/news/videos/cqj9k9dj7vzlo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 11:57:14 GMT",
+      "description": "Meghan arrived at the European Parliament in Brussels with her husband, Prince Harry, who delivered a speech about online child safety."
+    },
+    {
+      "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 14:29:00 GMT",
+      "description": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police."
+    },
+    {
+      "title": "Israel's new parliament sworn in as leaders compete to form government",
+      "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 15:51:09 GMT",
+      "description": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister."
+    },
+    {
+      "title": "Tories pledge to cut benefits for children with 'milder cases' of ADHD",
+      "link": "https://www.bbc.co.uk/news/articles/c3j474prl2r7o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 13:37:16 GMT",
+      "description": "Conservative shadow minister Helen Whately says the system risks putting children on a \"conveyor belt\" towards a \"lifetime on benefits\"."
+    },
+    {
+      "title": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 14:46:50 GMT",
+      "description": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78."
+    },
+    {
+      "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+      "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 09:57:49 GMT",
+      "description": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media."
+    },
+    {
+      "title": "The superpower battle over energy – and what it means for your bills",
+      "link": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 00:08:28 GMT",
+      "description": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?"
+    },
+    {
+      "title": "David Walliams' career and controversies including Britain's Got Talent and Little Britain",
+      "link": "https://www.bbc.co.uk/news/articles/c6d7q98z1yz3o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 14:53:28 GMT",
+      "description": "The entertainer shot to fame on Little Britain and also has best-selling series of children's books."
+    },
+    {
+      "title": "How did Mildenhall become crucial to the US Air Force?",
+      "link": "https://www.bbc.co.uk/news/articles/cj5ynyr33r0xo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 14:20:00 GMT",
+      "description": "RAF Mildenhall is the main European refuelling tanker base for US forces in Europe."
+    },
+    {
+      "title": "'There is no justice' - Epstein survivor on how model agency sent her to abuser's home",
+      "link": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 00:14:03 GMT",
+      "description": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home."
+    },
+    {
+      "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
+      "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 09:23:55 GMT",
+      "description": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses."
+    },
+    {
+      "title": "I took Vinted to court to get my money back",
+      "link": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 00:27:37 GMT",
+      "description": "The BBC hears from Vinted sellers who describe difficulties accessing money held in their online wallets."
+    },
+    {
+      "title": "Football Manager introduces wheelchair-using boss in boost to video game representation",
+      "link": "https://www.bbc.co.uk/news/articles/cw33xl43xgdpo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 10:55:50 GMT",
+      "description": "The popular series now allows fans to play as a wheelchair user - something that is still rare in games."
+    },
+    {
+      "title": "Phones to be banned from pupils' bags or pockets under stricter rules for schools in England",
+      "link": "https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 09:25:03 GMT",
+      "description": "The government says it is strengthening its guidance for schools in England, which came into force in June."
+    },
+    {
+      "title": "York man, 19, shot and injured in Krakow attack",
+      "link": "https://www.bbc.co.uk/news/articles/cmly0ydz8vgqo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 14:07:33 GMT",
+      "description": "Harry Marchant, 19, is in a stable condition after being shot, his family confirms."
+    },
+    {
+      "title": "Iran rejects French claims it was behind supermarket fridge hacking",
       "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 16:55:07 GMT",
-      "description": "The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up."
+      "published": "Tue, 10 Nov 2026 13:45:13 GMT",
+      "description": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up."
     },
     {
-      "title": "Civil servant who secretly held five jobs found guilty of fraud",
-      "link": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 17:17:16 GMT",
-      "description": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries."
+      "title": "French wartime resistance heroine Solange Alexandre dies aged 104",
+      "link": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 13:23:54 GMT",
+      "description": "With 30 men under her orders, she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces."
     },
     {
-      "title": "Poundland unable to buy new stock as fears over collapse grow",
-      "link": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 16:46:40 GMT",
-      "description": "The discount chain is continuing to edge towards collapse and is said to be \"running on fumes\", according to one insider."
+      "title": "First day of Ukraine peace talks 'very productive', US says",
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 14:36:57 GMT",
+      "description": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February."
     },
     {
-      "title": "Ground Force and Homes Under the Hammer star Tommy Walsh dies aged 69",
-      "link": "https://www.bbc.co.uk/news/articles/ck0e0elq4ndpo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 15:27:00 GMT",
-      "description": "The building and DIY expert also appeared on TV shows like Challenge Tommy Walsh and Clean It, Fix It."
+      "title": "Edinburgh Academy pupils suffered decades of 'dreadful abuse'",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7y7pjpy7do?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 14:28:59 GMT",
+      "description": "A report from the Scottish Child Abuse Inquiry says the school focused on protecting its reputation and ignored complaints."
     },
     {
-      "title": "Krakow shooting suspect has died in hospital, police say",
-      "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 11:56:25 GMT",
-      "description": "Six people were killed in the shooting, and three bodies of the suspect's family members were found at their home."
-    },
-    {
-      "title": "Watch: Rare insight into France's drug gangs recruiting children to commit violence",
-      "link": "https://www.bbc.co.uk/news/videos/cwe9l98l5n2po?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 16:59:46 GMT",
-      "description": "\"It destroys people, but we all make our own choices\" - Marseille drug-gang members spoke to the BBC."
-    },
-    {
-      "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 02:50:13 GMT",
-      "description": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast."
-    },
-    {
-      "title": "Man jailed over racist Badenoch death threats",
-      "link": "https://www.bbc.co.uk/news/articles/c5n494x9kgp0o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 13:06:31 GMT",
-      "description": "Kieran Kyle sent emails to the Tory party leader in which he made racist references, a court hears."
-    },
-    {
-      "title": "Thick fog disrupts travel with further weather warning issued",
-      "link": "https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 12:11:32 GMT",
-      "description": "Fog is causing disruption on Monday morning for many across England, Wales and Northern Ireland."
-    },
-    {
-      "title": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
-      "link": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 14:50:35 GMT",
-      "description": "Alice Huang, a Chinese businesswoman, had a close relationship with Nvidia boss Jensen Huang, reports say."
-    },
-    {
-      "title": "Doing these things now will help you save money at Christmas",
-      "link": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 00:09:14 GMT",
-      "description": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips."
-    },
-    {
-      "title": "What's your love language - and does it actually mean anything?",
-      "link": "https://www.bbc.co.uk/news/articles/c6lykl01nzp9o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 00:55:35 GMT",
-      "description": "The theory of ‘Love Languages’ has no scientific origin but it's often still mentioned in modern dating."
-    },
-    {
-      "title": "What we know so far about the next James Bond film",
-      "link": "https://www.bbc.co.uk/news/articles/ck79p0lev47po?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 06:47:09 GMT",
-      "description": "Josh O'Connor, Jack Lowden and Callum Turner are reportedly in the frame to replace Daniel Craig."
-    },
-    {
-      "title": "Find out who's in the running for this year's Booker Prize",
-      "link": "https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 11:30:13 GMT",
-      "description": "The winner of this year's literary award will be announced in London on Monday."
-    },
-    {
-      "title": "'I've got a band now' - Club anthem star Shygirl on why she's switching up her sound",
-      "link": "https://www.bbc.co.uk/news/articles/cxyvrr5rz282o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 11:09:08 GMT",
-      "description": "Fans know her for big electronic bangers, but the singer and DJ has come back with an indie-tinged sound."
-    },
-    {
-      "title": "Sports Personality of the Year returns - with five awards decided by public",
-      "link": "https://www.bbc.co.uk/sport/articles/cqj9kd00y0wko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 07:30:05 GMT",
-      "description": "BBC Sports Personality of the Year will be held on 13 December - and audiences will have more influence than ever over the awards."
-    },
-    {
-      "title": "A glimmer of good news for Britain's sleepy dormouse",
-      "link": "https://www.bbc.co.uk/news/articles/c85ynn0p5k71o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 00:56:43 GMT",
-      "description": "New figures suggest hazel dormice may be recovering after decades of decline, with warmer summers boosting survival."
-    },
-    {
-      "title": "Woman says Al Fayed's brother drugged and sexually abused her at Highland estate",
-      "link": "https://www.bbc.co.uk/news/articles/cm2d6kk0wzw4o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 10:00:34 GMT",
-      "description": "The woman says she was flown to the Fayed family's Balnagown estate, where she was repeatedly assaulted."
-    },
-    {
-      "title": "'Electrical items caused' fire that killed mum and kids",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1gd275g4o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 15:35:33 GMT",
-      "description": "An inquest is told a fire that killed a mother and her two children was accidental."
-    },
-    {
-      "title": "James Bulger's killer to stay in prison after parole hearing",
-      "link": "https://www.bbc.co.uk/news/articles/cq80z0y85j0go?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 15:19:33 GMT",
-      "description": "Jon Venables told parole staff dealing with his latest review that he was not seeking release."
-    },
-    {
-      "title": "Government's EV targets expected to be reduced this week",
-      "link": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 12:06:22 GMT",
-      "description": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission."
-    },
-    {
-      "title": "Action on energy costs is my overriding aim, says Fahnbulleh",
-      "link": "https://www.bbc.co.uk/news/articles/cmz7x7q7q8vvo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 16:01:19 GMT",
-      "description": "The energy secretary says reducing bills is key to maintaining public support for climate action."
+      "title": "Watch: Man smashes Chinese government building with excavator",
+      "link": "https://www.bbc.co.uk/news/videos/ckp8g8p4myv8o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 09:37:15 GMT",
+      "description": "Police say they have detained a 47-year-old suspect and no one was injured in the incident."
     },
     {
       "title": "Download now",
@@ -154,58 +154,46 @@
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests"
     },
     {
-      "title": "Russell Brand Sentenced to 10.5 Years in Prison",
-      "link": "https://www.bbc.co.uk/iplayer/episode/l00592s3?at_mid=3Y54Qkwi8x&at_campaign=Russell_Brand_Sentenced_to_10_5_Years_in_Prison_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=l00592s3&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Russell_Brand_Sentenced_to_10_5_Years_in_Prison_news_rail&at_bbc_team=BBC&at_creation=News",
-      "published": "Mon, 09 Nov 2026 15:50:28 GMT",
-      "description": "Brand was found guilty of one rape and three sexual assaults last week"
-    },
-    {
       "title": "The Most Expensive Affair In History?",
       "link": "https://www.bbc.co.uk/sounds/play/p0pm3rwk?at_mid=n3UOo1rZFF&at_campaign=Newscast_The_Most_Expensive_Affair_In_History_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_The_Most_Expensive_Affair_In_History_news_rail&at_bbc_team=BBC&at_creation=News",
       "published": "Sun, 25 Oct 2026 00:00:00 GMT",
       "description": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm."
     },
     {
-      "title": "Kane and Bellingham air strong views in England World Cup review",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqr7y7813l04o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 17:30:23 GMT",
-      "description": "England players are understood to have aired strong views about their World Cup semi-final defeat by Argentina in a team meeting."
+      "title": "Carrick's Man Utd future to be decided at Wednesday meeting",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 11:23:43 GMT",
+      "description": "Manchester United head coach Michael Carrick's future will be discussed at a meeting in Monaco on Wednesday."
     },
     {
-      "title": "Man Utd yet to make decision on Carrick's future",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cw4g1g7z2mdgo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 17:49:05 GMT",
-      "description": "Manchester United's board is yet to make a final decision on Michael Carrick's future, despite the club's worst start to a campaign in 40 years."
+      "title": "Australia doomed to live with stench of sandpapergate",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6x2v277z89eo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 14:03:19 GMT",
+      "description": "Usman Khawaja's autobiography has exposed the limbo Australian cricket finds itself stuck in over the sandpaper scandal, writes Stephan Shemilt."
     },
     {
-      "title": "Incident-by-incident: Was it a bad weekend for VAR?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6n9r93dnr9do?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 14:34:19 GMT",
-      "description": "Almost every game had a controversial VAR decision in the Premier League this weekend. But how many might go down as errors?"
+      "title": "Hill gets first England call-up as Konsa cover",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckjrwrggjlryo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 11:41:27 GMT",
+      "description": "Bournemouth defender James Hill is added to the England squad for Thursday's Nations League match against Croatia at Wembley."
     },
     {
-      "title": "Khawaja 100% accurate on ball-tampering - Warner",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c5wyry9gmz4ko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 09:21:09 GMT",
-      "description": "David Warner says he throws his \"full support\" behind former team-mate Usman Khawaja following his claim that all the Australia players knew about ball-tampering."
+      "title": "Formula 1 to finish season in Middle East",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c53989e97lxwo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 15:04:46 GMT",
+      "description": "The 2026 Formula 1 season will conclude with the Qatar and Abu Dhabi grands prix as planned, with Italy's Imola circuit stood down as back-up for the races."
     },
     {
-      "title": "Aberdeen sack Robinson after league slump",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwj34k2z5p00o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 16:46:11 GMT",
-      "description": "Aberdeen sack head coach Stephen Robinson after dropping to second bottom of the Scottish Premiership."
+      "title": "Birthdays and broken lamps - at home with the Charles brothers",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c615je0lgleqo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 14:36:21 GMT",
+      "description": "Before Northern Ireland's Nations League matches, BBC Sport joins Shea and Pierce Charles at their London home to discuss birthdays, steak sandwiches and starring for Michael O'Neill's young team."
     },
     {
-      "title": "Bronze named in World 11 for record ninth time",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmkgeg2z4dlwo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 14:55:32 GMT",
-      "description": "Lucy Bronze is one of five England players named in the Fifpro Women's World 11."
-    },
-    {
-      "title": "How Hawkins overcame illness to star for England",
-      "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cmvgxgdqgdgvo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 09 Nov 2026 15:15:06 GMT",
-      "description": "When Rob Hawkins replied to what he thought was an advert to play wheelchair basketball in 2014 he could not have imagined he would be a key part of an England side defending their Rugby League World Cup title."
+      "title": "Jockey Neale, 22, dies after fall during race",
+      "link": "https://www.bbc.co.uk/sport/horse-racing/articles/c933x3yjk530o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 10 Nov 2026 11:34:41 GMT",
+      "description": "Australian jockey Izzy Neale passes away following a fall during a race in Australia on Sunday."
     }
   ]
 }
