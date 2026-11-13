@@ -1,139 +1,169 @@
 {
-  "scraped_at": "2026-11-12 16:23:08 UTC",
+  "scraped_at": "2026-11-13 15:44:12 UTC",
   "source": "BBC News RSS",
-  "total": 32,
+  "total": 37,
   "headlines": [
     {
-      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-      "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 16:02:10 GMT",
-      "description": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled."
+      "title": "What we know about the global outage",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 14:21:26 GMT",
+      "description": "Microsoft says it is seeing \"improvements\" following a global outage but efforts to fully resume services are ongoing."
     },
     {
-      "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
-      "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 13:27:09 GMT",
-      "description": "The UK is seeing impressive growth, but will it last?"
+      "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
+      "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 11:43:27 GMT",
+      "description": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot."
     },
     {
-      "title": "Teenage girl admits murder in row over boy",
-      "link": "https://www.bbc.co.uk/news/articles/c6x28e243gg9o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 12:49:46 GMT",
-      "description": "Kayla Smith, 18, pleads guilty to the murder of Chloe Watson Dransfield, who she stabbed to death."
+      "title": "Former Hamas bodyguard guilty of UK knife attack",
+      "link": "https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 15:36:54 GMT",
+      "description": "Mohammed Alfatih was granted asylum in the UK in 2015 and British citizenship in 2020."
     },
     {
-      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
-      "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 13:02:46 GMT",
-      "description": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia."
+      "title": "Watch: BBC undercover reporter is offered fake art and awards for talent visa",
+      "link": "https://www.bbc.co.uk/news/videos/cqr7g5j41mezo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 14:45:19 GMT",
+      "description": "Companies are offering to help migrants pose as talented artists to make fraudulent UK visa applications, the BBC has found."
     },
     {
-      "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-      "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 15:16:39 GMT",
-      "description": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky."
+      "title": "More women make allegations against Russell Brand",
+      "link": "https://www.bbc.co.uk/news/articles/cme3dwydp857o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 12:14:17 GMT",
+      "description": "The new claims are in the Times and a Netflix documentary, following Brand's recent conviction for rape."
     },
     {
-      "title": "Two men found guilty of spying for Iran over plan to target UK-based journalists",
-      "link": "https://www.bbc.co.uk/news/articles/ck9q8g8209l2o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 13:06:12 GMT",
-      "description": "The men were convicted of engaging in conduct likely to assist an Iranian intelligence service."
+      "title": "Reform and Tory spokesmen in angry clash over immigration at Piddington",
+      "link": "https://www.bbc.co.uk/news/articles/cr9d7y937n58o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 14:34:21 GMT",
+      "description": "Reform's Zia Yusuf and Tory Chris Philp were speaking against converting a former military site into asylum accommodation."
     },
     {
-      "title": "Some under-25s should get fewer benefits, Milburn review to say",
-      "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 13:16:59 GMT",
-      "description": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits."
+      "title": "Russia hit by second car bomb in as many days as peace talks continue",
+      "link": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 13:11:23 GMT",
+      "description": "A former adviser to Ukraine's pro-Putin ex-prime minister Mykola Azarov was seriously hurt, Russia says."
     },
     {
-      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 14:27:30 GMT",
-      "description": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza."
+      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+      "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 12:22:30 GMT",
+      "description": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself."
     },
     {
-      "title": "Watch: 'Life-changing moment' boy turns on Tourette syndrome device to help stop tics",
-      "link": "https://www.bbc.co.uk/news/videos/c94gnv5e31gno?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 08:27:02 GMT",
-      "description": "The wrist device, which has been developed by researchers in Nottingham, has been described as \"life-changing\"."
+      "title": "Water firm pleads guilty after four killed in blast",
+      "link": "https://www.bbc.co.uk/news/articles/cm8x0l0jp150o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 10:44:00 GMT",
+      "description": "Wessex Water admits failing to ensure employee safety over an explosion at its Bristol site."
     },
     {
-      "title": "What we know as Nvidia CEO Jensen Huang resigns over affair allegations",
-      "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 15:26:39 GMT",
-      "description": "The billionaire tech executive has left the company following reports of a second extramarital affair."
+      "title": "'Hardest challenge of my life' - Owain Wyn Evans completes Children in Need ride",
+      "link": "https://www.bbc.co.uk/news/articles/cr86895201y9o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 14:38:39 GMT",
+      "description": "Owain Wyn Evans cycled almost 400 miles, setting off from Glasgow and finishing in Cardiff."
     },
     {
-      "title": "'You're triggering me': How to understand your therapy-speak teen",
-      "link": "https://www.bbc.co.uk/news/articles/c962y743y458o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 10:16:54 GMT",
-      "description": "Words most often heard in the therapist's chair have made their way into day-to-day conversation - here's a parents' guide to understanding it."
+      "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
+      "link": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 13:19:51 GMT",
+      "description": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world."
     },
     {
-      "title": "Schools, libraries and parents face 'difficult decision' over David Walliams books",
-      "link": "https://www.bbc.co.uk/news/articles/cvkg5jkpl2pno?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 12:42:43 GMT",
-      "description": "Some schools remove the children's author's books from their libraries after allegations against him."
+      "title": "NHS, schools and police forces hit by Microsoft outage",
+      "link": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 13:41:25 GMT",
+      "description": "Major airports and intelligence services are unaffected, while the government is still assessing the impact."
     },
     {
-      "title": "Burnham's push for closer EU ties causes ripples in his party and others",
-      "link": "https://www.bbc.co.uk/news/articles/cr78251892z7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 00:30:48 GMT",
-      "description": "Ahead of a week which will focus minds on the UK's relationship with the bloc, the prime minister's stance on Europe is causing MPs to think about their leaders' individual strategy."
+      "title": "'I feel it's a sign of what's to come': Office workers on Microsoft outage",
+      "link": "https://www.bbc.co.uk/news/videos/cmge3y5rxg5jo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 10:16:29 GMT",
+      "description": "Insurance brokers tell Nicky Campbell how their jobs are completely disrupted by the Microsoft outage."
     },
     {
-      "title": "Drugs running was like 'a paper round' for exploited son, mum says",
-      "link": "https://www.bbc.co.uk/news/articles/cvgl78y523lzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 06:03:10 GMT",
-      "description": "More younger children are targeted by gangs as exploitation jumps by 85% in five years, BBC finds."
+      "title": "The school where white working-class pupils defy the odds",
+      "link": "https://www.bbc.co.uk/news/articles/cm369259g0j2o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 00:53:49 GMT",
+      "description": "Politicians are worried about the outcomes of white, working-class pupils. But one school in Sunderland seems to have defied gravity"
     },
     {
-      "title": "The chaos that took Carrick from two-year deal to sacked within 15 games",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm0rl4kwn8vqo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 10:21:29 GMT",
-      "description": "Michael Carrick becomes the third Manchester United manager to be sacked in three seasons - where did it go wrong?"
+      "title": "Whatever happened to the $300,000 diamond that went missing in F1 crash?",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 06:12:20 GMT",
+      "description": "Whatever happened to the diamond that went missing after the Formula 1 car it was attached to crashed?"
     },
     {
-      "title": "Before Scott Colom, these two men were the last black US senators in Mississippi",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 14:12:55 GMT",
-      "description": "The Democratic candidate won in a southern state that had not seated a black senator since 1874."
+      "title": "The rise of 'housefishing': How AI-enhanced property listings are taking off",
+      "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 00:13:35 GMT",
+      "description": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers."
     },
     {
-      "title": "Poundland gets more time to secure a rescue deal as emergency talks continue",
-      "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 14:29:59 GMT",
-      "description": "A deadline to secure a buyer was set to expire at midnight, but the retailer now has an extra 10 days to find a buyer."
+      "title": "My physical deformity left me feeling invisible - but one surgeon saw me",
+      "link": "https://www.bbc.co.uk/news/articles/c6rmyy4ee1pwo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 06:22:12 GMT",
+      "description": "Charlie Clarke says the physical and emotional effects of pectus excavatum have been \"unimaginable\"."
     },
     {
-      "title": "Burnham says climate consensus 'gone' but pledges 'new era of leadership' in COP31 speech",
-      "link": "https://www.bbc.co.uk/news/articles/cmg46y7wev42o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 11:03:53 GMT",
-      "description": "PM Andy Burnham was addressing delegates at the COP31 UN climate summit in Antalya, Turkey."
+      "title": "Ankle injuries are more common than you think - here's how to protect yours",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgxjevv5v7o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 00:14:12 GMT",
+      "description": "Performance physiotherapist Genevieve Taiwah shares her top tips for looking after your ankles."
     },
     {
-      "title": "Activist Daniel Thomas admits criminal damage after slashing migrant dinghy in Channel",
-      "link": "https://www.bbc.co.uk/news/articles/c6x20x380z12o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 10:48:24 GMT",
-      "description": "Activist Danny Tommo pleads guilty to criminal damage at Portsmouth Crown Court."
+      "title": "Skye Newman gets 'goosebumps' over record-breaking Brixton Academy run",
+      "link": "https://www.bbc.co.uk/news/articles/ckvg25g323ymo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 00:24:11 GMT",
+      "description": "She is the first British female solo singer to play a five-gig residency at the venue."
     },
     {
-      "title": "Russell Brand's social media accounts disabled by Meta",
-      "link": "https://www.bbc.co.uk/news/articles/ckedq1dxwylxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 13:35:26 GMT",
-      "description": "It comes after the 51-year-old disgraced entertainer was sentenced to 10-and-a-half-years in prison."
+      "title": "Weekly quiz: Who's joining Wayne Rooney in the I'm A Celebrity jungle?",
+      "link": "https://www.bbc.co.uk/news/articles/cmkgk0w34lkpo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 20:22:21 GMT",
+      "description": "How much attention did you pay to what happened in the world over the past seven days?"
     },
     {
-      "title": "King Charles appears on Elton John's radio show in secretly recorded birthday episode",
-      "link": "https://www.bbc.co.uk/news/articles/c3qj5lnee5n0o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 11:30:31 GMT",
-      "description": "The latest episode of Rocket Hour will air on the monarch's 78th birthday on Saturday."
+      "title": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 15:28:06 GMT",
+      "description": "An emotional Mauricio Pochettino broke down as he explained why he was leaving the USA to take the Manchester United job."
     },
     {
-      "title": "Resident Evil Requiem sweeps Golden Joystick Awards",
-      "link": "https://www.bbc.co.uk/news/articles/cmg46y76kz5no?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 12:35:14 GMT",
-      "description": "The latest instalment in the franchise, which is marking 30 years, bagged the top prize."
+      "title": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
+      "link": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 12:28:28 GMT",
+      "description": "It says it has never been able to visit a uranium enrichment plant at Isfahan which Iran announced over a year ago."
+    },
+    {
+      "title": "Rosalía scoops historic third best album award at Latin Grammys",
+      "link": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 11:38:54 GMT",
+      "description": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews."
+    },
+    {
+      "title": "Man charged over multiple sex assaults at university",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y1jp7p5yko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 10:14:02 GMT",
+      "description": "Sophan Akbash, 29, from Huddersfield, is due to appear before Leeds Magistrates Court later."
+    },
+    {
+      "title": "MI5 will need proof to be believed in future, says Leveson after BBC investigation",
+      "link": "https://www.bbc.co.uk/news/articles/c98r7dlj6v2go?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 00:54:50 GMT",
+      "description": "The BBC exposed how the security service had lied to three courts concerning Agent X."
+    },
+    {
+      "title": "Boy died from multiple injuries in Cyprus hotel fall",
+      "link": "https://www.bbc.co.uk/news/articles/cme3x30q9z9wo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 10:05:50 GMT",
+      "description": "An Essex coroner describes Jaxon Foster's death as \"particularly tragic\" as he opens an inquest."
+    },
+    {
+      "title": "Doctor burnout putting maternity patients at risk, says regulator",
+      "link": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 00:55:31 GMT",
+      "description": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests."
     },
     {
       "title": "Download now",
@@ -142,58 +172,58 @@
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests"
     },
     {
-      "title": "What Are The Risks In Andy Burnham's EU Strategy?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pm3s7l?at_mid=AAd4kPVjob&at_campaign=Newscast_What_Are_The_Risks_In_Andy_Burnhams_EU_Strategy_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_What_Are_The_Risks_In_Andy_Burnhams_EU_Strategy_news_rail&at_bbc_team=BBC&at_creation=News",
+      "title": "Welfare Plans and EU Deals",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pm3sfz?at_mid=i6Gf40TZKZ&at_campaign=Newscast_The_Week_Welfare_Plans_and_EU_Deals_news_rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=sounds&at_brand=p05299nl&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Newscast_The_Week_Welfare_Plans_and_EU_Deals_news_rail&at_bbc_team=BBC&at_creation=News",
       "published": "Sun, 25 Oct 2026 00:00:00 GMT",
       "description": "The BBC’s daily news podcast with episodes available Monday to Sunday at 5pm."
     },
     {
-      "title": "The mammoth effort to entomb the ruins of the Chernobyl nuclear power plant",
-      "link": "https://www.bbc.co.uk/iplayer/episode/b08650s6?at_mid=gEXl0ndPjx&at_campaign=Inside_Chernobyls_Mega_Tomb&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=b08650s6&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Inside_Chernobyls_Mega_Tomb&at_bbc_team=BBC",
-      "published": "Wed, 07 Jan 2026 22:00:23 GMT",
-      "description": "Film following the team racing to entomb the ruins of the Chernobyl nuclear power plant."
+      "title": "Rumpelstiltskin fools Shrek into being erased from existence",
+      "link": "https://www.bbc.co.uk/iplayer/episode/p01191m5/shrek-forever-after?at_mid=TlzQpz1XYq&at_campaign=Shrek_Forever_After&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=p01191m5&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Shrek_Forever_After&at_bbc_team=BBC",
+      "published": "Sun, 18 Oct 2026 14:25:10 GMT",
+      "description": "The fairy tale is ogre. Fooled by Rumpelstiltskin, Shrek's world is turned upside down"
     },
     {
-      "title": "How Pochettino came on Man Utd's radar - and what Carrick was told when",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqdr1jlr1707o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 16:12:39 GMT",
-      "description": "How Man Utd identified Mauricio Pochettino as their new head coach - and what happened in the week Michael Carrick was left waiting."
+      "title": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 15:28:06 GMT",
+      "description": "An emotional Mauricio Pochettino broke down as he explained why he was leaving the USA to take the Manchester United job."
     },
     {
-      "title": "Palace sack Sage after 16 games with Frank in advanced talks",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 12:23:47 GMT",
-      "description": "Crystal Palace have sacked manager Pierre Sage after 16 games in charge and the club bottom of the table."
+      "title": "How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 12:09:48 GMT",
+      "description": "With Mauricio Pochettino set to become Man Utd manager, we analyse if he can clear the tactical hurdles others haven't."
     },
     {
-      "title": "The chaos that took Carrick from two-year deal to sacked within 15 games",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm0rl4kwn8vqo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 10:21:29 GMT",
-      "description": "Michael Carrick becomes the third Manchester United manager to be sacked in three seasons - where did it go wrong?"
+      "title": "Surfing speedster Beardman gives a glimpse of Ashes future",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6vg2dkyxp00o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 11:39:43 GMT",
+      "description": "Mahli Beardman gives England a glimpse into a possible Ashes future as he decimates their batting in Perth."
     },
     {
-      "title": "McIlroy makes strong start in bid to equal Montgomerie's record",
-      "link": "https://www.bbc.co.uk/sport/golf/articles/cwlymny900ezo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 14:13:27 GMT",
-      "description": "Rory McIlroy makes a strong start to his bid for a record-equalling eighth Race to Dubai title with a three under opening round at the DP World Tour Championship."
+      "title": "Fernandes rejects second Man Utd contract offer",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm782d4pz9jyo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 09:55:01 GMT",
+      "description": "Manchester United captain Bruno Fernandes rejects the club's second contract offer, with his current deal due to expire at the end of the season."
     },
     {
-      "title": "Pollock starts alongside Ojomoh and Joseph in bold England side",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqkg727741xvo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 12:00:28 GMT",
-      "description": "Free-scoring back row Henry Pollock will make only his second start for England in Saturday's Nations Championship meeting with Japan."
+      "title": "Whatever happened to the diamond that went missing in F1 crash?",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 06:12:20 GMT",
+      "description": "Whatever happened to the diamond that went missing after the Formula 1 car it was attached to crashed?"
     },
     {
-      "title": "England legend Anderson, 44, joins Surrey",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c6879g5z0v0wo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 09:32:22 GMT",
-      "description": "Legendary England bowler James Anderson extends his record-breaking career beyond his 45th birthday by signing for Surrey."
+      "title": "Sharks, ladders and a four-year plan - how England won World Cup",
+      "link": "https://www.bbc.co.uk/sport/rugby-league/articles/crly54evvvv4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 15:09:52 GMT",
+      "description": "England's triumph at the Wheelchair Rugby League World Cup was built on an aggressive approach by head coach Tom Coyd - which included encouraging his players to see themselves like sharks."
     },
     {
-      "title": "Robertson set to make history but his hero Dalglish will always be King",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cxe89dq16dp2o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 07:19:57 GMT",
-      "description": "Ties bind Scotland captain Andy Robertson and the man whose caps record he's about to equal, Kenny Dalglish, in more ways than one, writes Tom English."
+      "title": "The driving-maul try machine - why rugby's steamroller gained traction",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmy0egy6zkk0o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 13 Nov 2026 11:09:41 GMT",
+      "description": "A kick to the corner is now a no-brainer for captains, with the driving maul a more potent weapon than ever."
     }
   ]
 }
