@@ -1,175 +1,157 @@
 {
-  "scraped_at": "2026-11-25 18:14:06 UTC",
+  "scraped_at": "2026-11-26 17:55:36 UTC",
   "source": "BBC News RSS",
-  "total": 37,
+  "total": 32,
   "headlines": [
     {
-      "title": "Poundland collapses putting 11,000 jobs at risk",
-      "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 18:04:13 GMT",
-      "description": "The discount chain has fallen into administration after its owners failed to find a buyer."
+      "title": "How the train attack unfolded - carriage by carriage",
+      "link": "https://www.bbc.co.uk/news/articles/ck987119nl10o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 15:25:57 GMT",
+      "description": "In five terrifying minutes, Anthony Williams stabbed passengers on a train between Peterborough and London. This is how it happened."
     },
     {
-      "title": "Why has Poundland collapsed and what happens next?",
-      "link": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 16:24:30 GMT",
-      "description": "The retail chain has collapsed just one year after being bought for £1 by an American firm."
+      "title": "Could the Huntingdon attack have been prevented?",
+      "link": "https://www.bbc.co.uk/news/videos/cmdx10e25r2qo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 15:47:04 GMT",
+      "description": "The Huntingdon train attacker has been found guilty of all 14 counts of attempted murder."
     },
     {
-      "title": "Wife drugged and raped by husband asked police if she was to blame, mass-sexual offence trial hears",
-      "link": "https://www.bbc.co.uk/news/articles/c38x0vd2yyx5o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 15:42:10 GMT",
-      "description": "The woman told a court suggestions she was 'pretending to be asleep' were 'absolute rubbish'."
+      "title": "UK net migration at lowest level since 1997 as asylum claims also fall",
+      "link": "https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 14:55:16 GMT",
+      "description": "Net migration figures of 77,000 in the year to the end of June mark the lowest this century outside of the Covid pandemic."
     },
     {
-      "title": "Gordon Ramsay to host Top Gear as show revived after Flintoff crash",
-      "link": "https://www.bbc.co.uk/news/articles/cjr4gw100d52o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 17:48:28 GMT",
-      "description": "Ramsay will take the driving seat alongside as yet unnamed co-presenters when the show starts filming next year."
+      "title": "Mandelson kept shares as ambassador despite conflict of interest fears, documents show",
+      "link": "https://www.bbc.co.uk/news/articles/c6808dv4e817o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 16:46:51 GMT",
+      "description": "The peer was sacked as ambassador last year over his relationship with the convicted sex offender Jeffrey Epstein."
     },
     {
-      "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 17:30:16 GMT",
-      "description": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago"
+      "title": "Nearly 100 Labour MPs including ministerial aides oppose Rosebank oil field",
+      "link": "https://www.bbc.co.uk/news/articles/cw24ez32d1n4o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 16:29:54 GMT",
+      "description": "Energy Secretary Miatta Fahnbulleh is due to make a decision on whether to give the go-ahead for drilling in the oil field off the north-west coast of Shetland within weeks."
     },
     {
-      "title": "Raheem Sterling given suspended jail sentence for dangerous driving and nitrous oxide possession",
-      "link": "https://www.bbc.co.uk/news/articles/cv8e04ll9dd3o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 13:57:12 GMT",
-      "description": "Raheem Sterling was sentenced to 12 months imprisonment, suspended for 18 months, on Wednesday."
+      "title": "Burnham joined by former PMs at Ann Widdecombe service",
+      "link": "https://www.bbc.co.uk/news/articles/cvglrn4p1np0o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 16:48:40 GMT",
+      "description": "Hundreds of guests attended including Andy Burnham, David Cameron, Liz Truss and Boris Johnson."
     },
     {
-      "title": "Energy bills to rise by 26% from January after gas prices surge",
-      "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 13:42:08 GMT",
-      "description": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year."
+      "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+      "link": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 05:00:24 GMT",
+      "description": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm."
     },
     {
-      "title": "US stocks fall further as fears over AI intensify",
-      "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 17:48:09 GMT",
-      "description": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%."
+      "title": "UK reservists contacted as 'threat environment' rises, Streeting says",
+      "link": "https://www.bbc.co.uk/news/articles/cvrlgznd9z4po?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 13:24:22 GMT",
+      "description": "It comes after reports that reservists have received letters telling them to prepare to be called up for war."
     },
     {
-      "title": "Hundreds complain about I'm A Celebrity after Mariella Frostrup called AJ Odudu 'aggressive'",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly5v11q194o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 11:57:31 GMT",
-      "description": "More than 800 viewers complain to regulator Ofcom after a row between AJ Odudu and Mariella Frostrup."
+      "title": "Tommy Robinson charged with failing to give phone Pin code to police",
+      "link": "https://www.bbc.co.uk/news/articles/cwly4v7nvxl5o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 14:53:37 GMT",
+      "description": "Robinson, whose real name is Stephen Yaxley-Lennon, is due to appear at Westminster Magistrates' Court on 14 December."
     },
     {
-      "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
-      "link": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 16:42:11 GMT",
-      "description": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant."
+      "title": "Huw Edwards gives first interviews since child abuse image conviction",
+      "link": "https://www.bbc.co.uk/news/articles/c38x05jrjnx7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 17:09:21 GMT",
+      "description": "The disgraced ex-BBC News presenter will appear in a TV documentary, newspaper interview and podcast."
     },
     {
-      "title": "Two men charged with trying to steal cufflinks and clock from Royal home",
-      "link": "https://www.bbc.co.uk/news/articles/cx5y1987dyp6o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 15:05:50 GMT",
-      "description": "The court hears the items from the Sandringham estate are of an unknown value."
+      "title": "Princess of Wales drops in on arts project in the Borders",
+      "link": "https://www.bbc.co.uk/news/articles/c8zx9pvg167vo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 16:18:33 GMT",
+      "description": "The Hugo Burge Foundation gives hundreds of thousands of pounds in grants to art and craft projects."
     },
     {
-      "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
-      "link": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 12:12:11 GMT",
-      "description": "The BBC speaks to three people about steps they take to keep their energy bills under control."
+      "title": "When will Poundland shops close? Five key questions answered",
+      "link": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 17:21:21 GMT",
+      "description": "Why is Poundland closing down, and what will happen to staff and suppliers?"
     },
     {
-      "title": "What will the price cap changes mean for my bills?",
-      "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 09:54:32 GMT",
-      "description": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households."
+      "title": "'Laughing gas has ended careers' - so how common is it in football?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6kgdrj9nxgdo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 06:18:30 GMT",
+      "description": "After Raheem Sterling's court case, BBC Sport looks at how common the use of nitrous oxide is among footballers."
     },
     {
-      "title": "How much has the Iran war put up your energy bills?",
-      "link": "https://www.bbc.co.uk/news/articles/cv1j6wk020p8o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 14:58:51 GMT",
-      "description": "How a big drop in liquified natural gas supplies from the Middle East is putting up Briton's fuel bills."
+      "title": "Desperate appeals from women on death row in Iran after protests",
+      "link": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 06:01:58 GMT",
+      "description": "Female protesters and dissidents are being sentenced to death in numbers not seen for decades, a rights group says."
     },
     {
-      "title": "Why are bills going up?",
-      "link": "https://www.bbc.co.uk/news/videos/cm3wg47gnjnno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 13:24:29 GMT",
-      "description": "BBC correspondent Colletta Smith explains the January increase."
+      "title": "The US pastor who wants to see women's right to vote overturned",
+      "link": "https://www.bbc.co.uk/news/articles/cwe89jyz4012o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 00:24:25 GMT",
+      "description": "The movement to repeal women's right to vote has gained traction amongst some very conservative Christians."
     },
     {
-      "title": "Raheem Sterling - from national icon to suspended jail sentence",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cxzd9ydqzylno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 12:42:57 GMT",
-      "description": "Fourteen years after making his Premier League debut at 17, Raheem Sterling has been given a suspended prison sentence."
+      "title": "Has global jihadism failed, or is it simply changing shape?",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 00:22:18 GMT",
+      "description": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?"
     },
     {
-      "title": "My family died in Ukraine and my mum blamed Zelensky's troops - the truth is complicated",
-      "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 00:54:13 GMT",
-      "description": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war."
+      "title": "I regret surviving the e-bike fire that killed my family",
+      "link": "https://www.bbc.co.uk/news/articles/c9n73yp1g057o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 05:47:25 GMT",
+      "description": "Scott Peden says he was powerless to put out the fatal fire that tore through the family's home."
     },
     {
-      "title": "Lies, a disguise and surfboard bags: How a jealous Sydney policeman tried to cover up double murder",
-      "link": "https://www.bbc.co.uk/news/videos/c6z9dk30880zo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 06:58:24 GMT",
-      "description": "More than 14,000 hours of CCTV evidence helped convict former police officer Beau Lamarre of killing his ex-partner and the man's new boyfriend in 2024."
+      "title": "Andy Taylor: Duran Duran's livewire guitarist who was a true Wild Boy",
+      "link": "https://www.bbc.co.uk/news/articles/c0666rn4l5vo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 25 Nov 2026 22:16:14 GMT",
+      "description": "How a wayward child from the north-east of England made it with the world's biggest band."
     },
     {
-      "title": "She spent decades as an FBI agent and this is the case she could not let go",
-      "link": "https://www.bbc.co.uk/news/articles/c539g1pwy3wyo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 02:48:53 GMT",
-      "description": "Jane Collins had all but given up on seeing Michael Donovan and Richard Moore face justice. Then they were charged with stealing from a mass-shooter’s brother."
+      "title": "New UK-EU treaty has 10-year termination clause",
+      "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 15:23:17 GMT",
+      "description": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal."
     },
     {
-      "title": "Why tiny cars are taking off across Europe",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 00:34:05 GMT",
-      "description": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic."
+      "title": "Millions of people to see average monthly mortgage payments rise by £100",
+      "link": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 14:00:20 GMT",
+      "description": "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated."
     },
     {
-      "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
-      "link": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 10:03:12 GMT",
-      "description": "The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire."
+      "title": "Scotland's chief medical officer Gregor Smith resigns on mental health grounds",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y108evd7qo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 16:09:27 GMT",
+      "description": "Sir Gregor Smith said he was unable to continue with the \"exceptional challenges\" his role demands."
     },
     {
-      "title": "Blade Runner 2099 not just about AI, say star Hunter Schafer and series creator",
-      "link": "https://www.bbc.co.uk/news/articles/cqpv9kjgy4jno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 06:28:22 GMT",
-      "description": "Hunter Schafer and co-stars say the sci-fi TV show explores more than the idea of robotic consciousness."
+      "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 14:44:26 GMT",
+      "description": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould."
     },
     {
-      "title": "Why has China sent the first Pakistani astronaut to space?",
-      "link": "https://www.bbc.co.uk/news/videos/cj5y1p067kxno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 10:26:50 GMT",
-      "description": "Pakistan's Muhammad Zeeshan Ali has become the first foreign national to board China's Tiangong space station."
+      "title": "BBC launches partnership with Met Office for weather coverage",
+      "link": "https://www.bbc.co.uk/news/articles/ckjrel5vdj9zo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 00:12:37 GMT",
+      "description": "The corporation says the deal will deliver more regional, digital and 10-day forecasts to audiences."
     },
     {
-      "title": "Badenoch challenges Burnham over university fees for EU students",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gn8lxj5r1o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 16:46:17 GMT",
-      "description": "The PM says EU students paying the same as British students is the European position and \"won't be put on the table\"."
+      "title": "Norse Atlantic suspends all flights as it faces potential collapse",
+      "link": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 14:28:22 GMT",
+      "description": "The carrier is looking for urgent funding, but will file for bankruptcy without a financial lifeline."
     },
     {
-      "title": "Festive market cancels bookings after backlash over misleading AI images",
-      "link": "https://www.bbc.co.uk/news/articles/cm0qjglj3ejlo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 06:02:07 GMT",
-      "description": "Visitors and stallholders say the event did not match the promotional AI pictures."
-    },
-    {
-      "title": "UK sent sex offender refugee to African country in undisclosed deal",
-      "link": "https://www.bbc.co.uk/news/articles/c6z7407zrgwvo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 06:00:45 GMT",
-      "description": "The deal is said to be the first known case of the UK government forcibly resettling a refugee permanently overseas."
-    },
-    {
-      "title": "EU offers UK fresh deal on 'Made in Europe' scheme",
-      "link": "https://www.bbc.co.uk/news/articles/c50md8x9gdgro?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 16:45:09 GMT",
-      "description": "The draft proposal could see the UK join the scheme without having to increase import taxes on Chinese cars."
-    },
-    {
-      "title": "Missed chances to save boy, 2, murdered by grandparents despite dad's concerns, review finds",
-      "link": "https://www.bbc.co.uk/news/articles/c63egnjyy5dno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 10:00:14 GMT",
-      "description": "Safeguarding board apologises \"unreservedly\" after a review into the death of the Flintshire toddler."
+      "title": "Number of young people out of work or training still stubbornly high, data shows",
+      "link": "https://www.bbc.co.uk/news/articles/cq62p64e13rno?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 13:55:02 GMT",
+      "description": "The new data comes a week after the Milburn review called for a \"complete reset\" to address the issue."
     },
     {
       "title": "Download now",
@@ -178,52 +160,40 @@
       "description": "Top stories, breaking news, live reporting, and follow news topics that match your interests"
     },
     {
-      "title": "The making of Band Aid's iconic Christmas hit 42 years on",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0025gmy/the-making-of-do-they-know-its-christmas?at_mid=Ic6fsbnoVI&at_campaign=The_Making_of_Do_They_Know_Its_Christmas&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0025gmy&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Making_of_Do_They_Know_Its_Christmas&at_bbc_team=BBC",
-      "published": "Mon, 25 Nov 2024 06:00:00 GMT",
-      "description": "Rare and unseen moments from the making of the hit single by charity supergroup Band Aid."
+      "title": "GB win decider to reach Davis Cup semis for first time since 2019",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c5m2lvevrk1mo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 17:20:42 GMT",
+      "description": "Great Britain advance to the semi-finals of the Davis Cup for the first time since 2019 as Henry Patten and Neal Skupski win a decisive doubles tie against Germany in Bologna."
     },
     {
-      "title": "Confusion and anger - Yoro red card rescinded, but row goes on",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvze7y6n2redo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 16:28:10 GMT",
-      "description": "Leny Yoro's red card against Liverpool has prompted an unseemly difference of opinion between Man Utd and Pro Ref."
+      "title": "Russell says Verstappen's criticism 'quite amusing'",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c5lykr98yd88o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 16:10:58 GMT",
+      "description": "George Russell says Max Verstappen can \"say what he wants\" and that he found the Red Bull driver's criticisms of him after the Las Vegas Grand Prix \"quite amusing\"."
     },
     {
-      "title": "'Best midfielder in the world' - where does Bellingham rank?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmkgdjkr2y70o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 16:46:36 GMT",
-      "description": "Jose Mourinho called Real Madrid's Jude Bellingham \"the best midfielder in the world\", but where would you rank him?"
+      "title": "Not even making a 12-man bench - what next for Garnacho?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cr3wgd5exl0do?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 13:23:05 GMT",
+      "description": "Alejandro Garnacho's brief Aston Villa career already looks over, so what next for the 22-year-old?"
     },
     {
-      "title": "Fisilau starts as England change five for All Blacks rematch",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cv8e04gj2wwwo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 16:00:50 GMT",
-      "description": "Exeter back row Greg Fisilau will make his first England start in one of five changes to their XV to face New Zealand on Saturday."
+      "title": "India's Pant joins New Zealand club match under false name",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/crx27984p14jo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 16:21:44 GMT",
+      "description": "India wicketkeeper Rishabh Pant unexpectedly joins a club game in Christchurch before the second Test against New Zealand and scores 54 off 21 balls."
     },
     {
-      "title": "Greatest catch ever? Man on motorbike takes incredible grab",
-      "link": "https://www.bbc.co.uk/sport/cricket/videos/cwx2e0g93l3eo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 16:23:03 GMT",
-      "description": "A passenger on a motorbike pulled off a remarkable one-handed catch after the ball was hit out of the ground for six in the Swat Premier League in Pakistan."
+      "title": "Faldo urges LIV stars to 'chip in' for unpaid firms",
+      "link": "https://www.bbc.co.uk/sport/golf/articles/ckq6emzlegjyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 11:45:31 GMT",
+      "description": "The six-time major winner calls on those who benefited financially from LIV Golf to help small businesses still owed money by the tour."
     },
     {
-      "title": "Williams exceeded F1 cost cap by £627,000",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cxj05mv79z0do?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 17:37:34 GMT",
-      "description": "Williams \"unintentially\" broke Formula 1's cost cap during the 2025 season, governing body the FIA finds."
-    },
-    {
-      "title": "Sterling - from England icon to suspended jail sentence",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cxzd9ydqzylno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 12:42:57 GMT",
-      "description": "Fourteen years after making his Premier League debut at 17, Raheem Sterling has been given a suspended prison sentence."
-    },
-    {
-      "title": "Why four-time MVP Rodgers may have played last NFL game",
-      "link": "https://www.bbc.co.uk/sport/american-football/articles/c64gn8ryp7jno?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Nov 2026 14:37:16 GMT",
-      "description": "Veteran quarterback Aaron Rodgers may have played his last game in the NFL after being dropped by the Pittsburgh Steelers."
+      "title": "Lammens - the Man Utd goalkeeper under scrutiny like never before",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmn4k7v93gvzo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 14:56:30 GMT",
+      "description": "Manchester United goalkeeper Senne Lammens made two major mistakes in the 2-2 draw with Sporting - could Mauricio Pochettino drop his goalkeeper?"
     }
   ]
 }
